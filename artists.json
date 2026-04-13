@@ -1,6 +1,6 @@
 [
 { "id": "artist-a1", "name": "AI", "ruby": "あい", "kana": "アイ", "romaji": "AI", "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01V7ja" },
-{ "id": "artist-a2", "name": "IVE", "ruby": "あいぶ", "kana": "アイヴ", "romaji": "IVE", "url": "https://open.spotify.com/playlist/37i9dQZF1DX6pLfLmbGM3d" },
+{ "id": "artist-a2", "name": "IVE", "ruby": "あいゔ", "kana": "アイヴ", "romaji": "IVE", "url": "https://open.spotify.com/playlist/37i9dQZF1DX6pLfLmbGM3d" },
 { "id": "artist-a3", "name": "I WiSH", "ruby": "あいうぃっしゅ", "kana": "アイウィッシュ", "romaji": "I WiSH", "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UniKg" },
 { "id": "artist-a4", "name": "INI", "ruby": "あいえぬあい", "kana": "アイエヌアイ", "romaji": "INI", "url": "●" },
 { "id": "artist-a5", "name": "IMP.", "ruby": "あいえむぴー", "kana": "アイエムピー", "romaji": "IMP.", "url": "●" },
@@ -15,7 +15,7 @@
 { "id": "artist-a14", "name": "アイドリング!!!", "ruby": "あいどりんぐ", "kana": "アイドリング", "romaji": "Idoling", "url": "●" },
 { "id": "artist-a15", "name": "アイドルカレッジ", "ruby": "あいどるかれっじ", "kana": "アイドルカレッジ", "romaji": "Idol College", "url": "●" },
 { "id": "artist-a16", "name": "アイナ・ジ・エンド", "ruby": "あいなじえんど", "kana": "アイナジエンド", "romaji": "AiNA THE END", "url": "●" },
-{ "id": "artist-a17", "name": "IVVY", "ruby": "あいいゔぃー", "kana": "アイヴィー", "romaji": "IVVY", "url": "●" },
+{ "id": "artist-a17", "name": "IVVY", "ruby": "あいびー", "kana": "アイビー", "romaji": "IVVY", "url": "●" },
 { "id": "artist-a18", "name": "あいみょん", "ruby": "あいみょん", "kana": "アイミョン", "romaji": "Aimyon", "url": "●" },
 { "id": "artist-a19", "name": "IU", "ruby": "あいゆー", "kana": "アイユー", "romaji": "IU", "url": "●" },
 { "id": "artist-a20", "name": "iLiFE!", "ruby": "あいらいふ", "kana": "アイライフ", "romaji": "iLiFE!", "url": "●" },
