@@ -144,5 +144,6 @@
 { "id": "artist-a143", "name": "杏里", "ruby": "あんり", "kana": "アンリ", "romaji": "Anri", "url": "●" },
 { "id": "artist-a144", "name": "Anly", "ruby": "あんりぃ", "kana": "アンリー", "romaji": "Anly", "url": "●" },
 { "id": "artist-a145", "name": "アン・ルイス", "ruby": "あんるいす", "kana": "アンルイス", "romaji": "Ann Lewis", "url": "●" },
-{ "id": "artist-a146", "name": "UNLAME", "ruby": "あんれいむ", "kana": "アンレイム", "romaji": "UNLAME", "url": "●" }
+{ "id": "artist-a146", "name": "UNLAME", "ruby": "あんれいむ", "kana": "アンレイム", "romaji": "UNLAME", "url": "●" },
+{ "id": "artist-a147", "name": "test", "ruby": "てすと", "kana": "テスト", "romaji": "test", "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01V7ja" }
 ]
