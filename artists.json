@@ -1,5 +1,5 @@
 [
-{ "id": "artist-a1", "name": "AI", "ruby": "あい", "kana": "アイ", "romaji": "AI", "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01V7ja", "date": "2026-04-17", "hover_color": "#ffc863"},
+{ "id": "artist-a1", "name": "AI", "ruby": "あい", "kana": "アイ", "romaji": "AI", "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01V7ja", "official_site": "https://aimusic.tv", "description": "AIの代表曲をまとめた公式のプレイリスト「This Is AI」", "tags": ["女性ボーカル", "J-Pop"], "added_date": "2026-04-22", "updated_date": "2026-04-22", "hover_color": "#ffc863" },
 { "id": "artist-a2", "name": "IVE", "ruby": "あいゔ", "kana": "アイヴ", "romaji": "IVE", "url": "https://open.spotify.com/playlist/37i9dQZF1DX6pLfLmbGM3d", "date": "2026-04-16" },
 { "id": "artist-a3", "name": "I WiSH", "ruby": "あいうぃっしゅ", "kana": "アイウィッシュ", "romaji": "I WiSH", "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UniKg?si=LUZ3fLoKQde-_VthFkTIbQ&pi=LNdAiUUFSz2qE", "date": "2026-04-18" },
 { "id": "artist-a4", "name": "INI", "ruby": "あいえぬあい", "kana": "アイエヌアイ", "romaji": "INI", "url": "●" },
