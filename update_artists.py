@@ -20,17 +20,17 @@ def get_spotify_token():
     return None
 
 def search_this_is_playlist(artist_info, token):
-    """アーティスト名およびローマ字から「This Is」プレイリストを柔軟に検索"""
-    name = artist_info.get("name", "")
-    romaji = artist_info.get("romaji", "").split('/')[0] # ローマ字があれば先頭を取得
+    name = artist_info.get("name", "").strip()
+    romaji_raw = artist_info.get("romaji", "")
+    # スラッシュで区切られたローマ字候補をすべて分解して取得
+    romaji_list = [r.strip().lower() for r in romaji_raw.split('/') if r.strip()]
     
     search_url = "https://api.spotify.com/v1/search"
     headers = {"Authorization": f"Bearer {token}"}
     
-    # 検索クエリ（日本語名とローマ字名の両方で探す）
     queries = [f"This Is {name}"]
-    if romaji:
-        queries.append(f"This Is {romaji}")
+    for r in romaji_list:
+        queries.append(f"This Is {r}")
 
     for query in queries:
         params = {"q": query, "type": "playlist", "limit": 10}
@@ -41,20 +41,19 @@ def search_this_is_playlist(artist_info, token):
         data = res.json()
         playlists = data.get("playlists", {}).get("items", [])
 
-        # 1. オーナーが spotify かつ プレイリスト名に "this is" が含まれているものを探索
         for pl in playlists:
             if not pl:
                 continue
             owner_id = pl.get("owner", {}).get("id", "")
             pl_name = pl.get("name", "").strip().lower()
 
+            # Spotify公式制作のプレイリストか
             if owner_id == "spotify" and "this is" in pl_name:
-                # アーティスト名（日本語またはローマ字）の主要単語が含まれているか確認
-                clean_name = name.lower()
-                clean_romaji = romaji.lower() if romaji else ""
-                
-                if (clean_name and clean_name in pl_name) or (clean_romaji and clean_romaji in pl_name):
-                    return pl.get("external_urls", {}).get("spotify")
+                # 判定対象のリスト（名前本体 ＋ ローマ字全パターン）
+                check_targets = [name.lower()] + romaji_list
+                for target in check_targets:
+                    if target and target in pl_name:
+                        return pl.get("external_urls", {}).get("spotify")
 
     return None
 
@@ -82,7 +81,6 @@ def main():
 
         new_url = search_this_is_playlist(artist, token)
 
-        # 新しいURLが見つかり、現在のURLと異なる場合のみ更新
         if new_url and new_url != current_url:
             print(f"【更新】 {name}: {current_url} -> {new_url}")
             artist["url"] = new_url
