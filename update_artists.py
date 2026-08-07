@@ -22,18 +22,24 @@ def get_spotify_token():
 def search_this_is_playlist(artist_info, token):
     name = artist_info.get("name", "").strip()
     romaji_raw = artist_info.get("romaji", "")
-    # スラッシュで区切られたローマ字候補をすべて分解して取得
+    
+    # ローマ字候補を取得（例: "Aimyon" や "Ado"）
     romaji_list = [r.strip().lower() for r in romaji_raw.split('/') if r.strip()]
     
     search_url = "https://api.spotify.com/v1/search"
-    headers = {"Authorization": f"Bearer {token}"}
+    # 日本語環境を指定するためのヘッダーを追加
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept-Language": "ja;q=1.0, en;q=0.5"
+    }
     
+    # 検索クエリの作成
     queries = [f"This Is {name}"]
     for r in romaji_list:
         queries.append(f"This Is {r}")
 
     for query in queries:
-        params = {"q": query, "type": "playlist", "limit": 10}
+        params = {"q": query, "type": "playlist", "limit": 10, "market": "JP"}
         res = requests.get(search_url, headers=headers, params=params)
         if res.status_code != 200:
             continue
@@ -44,12 +50,13 @@ def search_this_is_playlist(artist_info, token):
         for pl in playlists:
             if not pl:
                 continue
+            
             owner_id = pl.get("owner", {}).get("id", "")
             pl_name = pl.get("name", "").strip().lower()
 
-            # Spotify公式制作のプレイリストか
+            # Spotify公式（owner_idがspotify）かつ "this is" を含むプレイリスト
             if owner_id == "spotify" and "this is" in pl_name:
-                # 判定対象のリスト（名前本体 ＋ ローマ字全パターン）
+                # 日本語名またはローマ字名が含まれているか判定
                 check_targets = [name.lower()] + romaji_list
                 for target in check_targets:
                     if target and target in pl_name:
@@ -82,11 +89,11 @@ def main():
         new_url = search_this_is_playlist(artist, token)
 
         if new_url and new_url != current_url:
-            print(f"【更新】 {name}: {current_url} -> {new_url}")
+            print(f"【更新成功】 {name}: {current_url} -> {new_url}")
             artist["url"] = new_url
             updated_count += 1
         else:
-            print(f"【変更なし/維持】 {name}")
+            print(f"【維持】 {name}")
 
     if updated_count > 0:
         with open(json_path, "w", encoding="utf-8") as f:
