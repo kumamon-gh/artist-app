@@ -1,6 +1,5 @@
 import json
 import os
-import re
 import requests
 
 CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
@@ -20,55 +19,47 @@ def get_spotify_token():
     print(f"Token取得失敗: {res.status_code} - {res.text}")
     return None
 
-def clean_text(text):
-    if not text:
-        return ""
-    # 記号や空白を除去して小文字化
-    return re.sub(r'[\s\-_/\u3000]', '', text).lower()
-
 def search_this_is_playlist(artist_info, token):
     name = artist_info.get("name", "").strip()
-    romaji_raw = artist_info.get("romaji", "")
-    
-    # ローマ字（/区切り）を配列化
-    romaji_list = [r.strip() for r in romaji_raw.split('/') if r.strip()]
-    
-    # 検索候補リストの構築（日本語名、ローマ字名）
-    search_keywords = [name] + romaji_list
-    
-    search_url = "https://api.spotify.com/v1/search"
+    if not name:
+        return None
+
     headers = {"Authorization": f"Bearer {token}"}
+
+    # 1. まずアーティスト自体を検索して正確な名前（Aimyon等）を取得
+    artist_search_url = "https://api.spotify.com/v1/search"
+    artist_params = {"q": name, "type": "artist", "limit": 1}
+    a_res = requests.get(artist_search_url, headers=headers, params=artist_params)
     
-    for kw in search_keywords:
-        if not kw:
-            continue
-        query = f"This Is {kw}"
-        params = {"q": query, "type": "playlist", "limit": 15}
-        
-        res = requests.get(search_url, headers=headers, params=params)
-        if res.status_code != 200:
+    spotify_artist_name = name
+    if a_res.status_code == 200:
+        artists_items = a_res.json().get("artists", {}).get("items", [])
+        if artists_items:
+            spotify_artist_name = artists_items[0].get("name", name)
+
+    # 2. プレイリスト検索（日本語名・Spotify上の名前の両方で検索）
+    queries = [f"This Is {name}", f"This Is {spotify_artist_name}"]
+    
+    # 重複を除外して検索実行
+    for query in list(dict.fromkeys(queries)):
+        pl_params = {"q": query, "type": "playlist", "limit": 10}
+        pl_res = requests.get("https://api.spotify.com/v1/search", headers=headers, params=pl_params)
+        if pl_res.status_code != 200:
             continue
 
-        data = res.json()
-        playlists = data.get("playlists", {}).get("items", [])
-
-        # 1. Spotify公式 (owner_id == 'spotify') かつ 「this is」が含まれるものを検証
+        playlists = pl_res.json().get("playlists", {}).get("items", [])
         for pl in playlists:
             if not pl:
                 continue
             
             owner_id = pl.get("owner", {}).get("id", "")
-            pl_name = pl.get("name", "").strip()
-            pl_name_clean = clean_text(pl_name)
+            pl_name = pl.get("name", "").strip().lower()
 
-            if owner_id == "spotify" and "thisis" in pl_name_clean:
-                # アーティスト名、またはローマ字表記のいずれかがプレイリスト名に含まれているかチェック
-                for check_kw in search_keywords:
-                    clean_kw = clean_text(check_kw)
-                    if clean_kw and clean_kw in pl_name_clean:
-                        raw_url = pl.get("external_urls", {}).get("spotify", "")
-                        # ?si= 等の不要なパラメータを除去して標準URL化
-                        return raw_url.split('?')[0]
+            # Spotify公式制作（owner_id == 'spotify'）かつ 'this is' が含まれる場合
+            if owner_id == "spotify" and "this is" in pl_name:
+                # アーティスト名（日本語 or Spotify公式名）が含まれるか判定
+                if name.lower() in pl_name or spotify_artist_name.lower() in pl_name:
+                    return pl.get("external_urls", {}).get("spotify")
 
     return None
 
@@ -89,21 +80,21 @@ def main():
     updated_count = 0
     for artist in artists:
         name = artist.get("name")
-        current_url = artist.get("url", "")
-        # パラメータが付いている場合は比較用に標準化
-        clean_current_url = current_url.split('?')[0] if current_url else ""
+        current_url = artist.get("url")
 
         if not name:
             continue
 
         new_url = search_this_is_playlist(artist, token)
 
-        if new_url and new_url != clean_current_url:
+        if new_url and new_url != current_url:
             print(f"【更新】 {name}: {current_url} -> {new_url}")
             artist["url"] = new_url
             updated_count += 1
+        elif new_url:
+            print(f"【維持（最新）】 {name}")
         else:
-            print(f"【維持/変化なし】 {name}")
+            print(f"【未発見】 {name}")
 
     if updated_count > 0:
         with open(json_path, "w", encoding="utf-8") as f:
