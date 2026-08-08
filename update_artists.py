@@ -21,33 +21,32 @@ def get_spotify_token():
 
 def search_this_is_playlist(artist_info, token):
     name = artist_info.get("name", "").strip()
-    if not name:
-        return None
-
-    headers = {"Authorization": f"Bearer {token}"}
-
-    # 1. まずアーティスト自体を検索して正確な名前（Aimyon等）を取得
-    artist_search_url = "https://api.spotify.com/v1/search"
-    artist_params = {"q": name, "type": "artist", "limit": 1}
-    a_res = requests.get(artist_search_url, headers=headers, params=artist_params)
+    romaji_raw = artist_info.get("romaji", "")
     
-    spotify_artist_name = name
-    if a_res.status_code == 200:
-        artists_items = a_res.json().get("artists", {}).get("items", [])
-        if artists_items:
-            spotify_artist_name = artists_items[0].get("name", name)
-
-    # 2. プレイリスト検索（日本語名・Spotify上の名前の両方で検索）
-    queries = [f"This Is {name}", f"This Is {spotify_artist_name}"]
+    # ローマ字候補を取得（例: "Aimyon" や "Ado"）
+    romaji_list = [r.strip().lower() for r in romaji_raw.split('/') if r.strip()]
     
-    # 重複を除外して検索実行
-    for query in list(dict.fromkeys(queries)):
-        pl_params = {"q": query, "type": "playlist", "limit": 10}
-        pl_res = requests.get("https://api.spotify.com/v1/search", headers=headers, params=pl_params)
-        if pl_res.status_code != 200:
+    search_url = "https://api.spotify.com/v1/search"
+    # 日本語環境を指定するためのヘッダーを追加
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept-Language": "ja;q=1.0, en;q=0.5"
+    }
+    
+    # 検索クエリの作成
+    queries = [f"This Is {name}"]
+    for r in romaji_list:
+        queries.append(f"This Is {r}")
+
+    for query in queries:
+        params = {"q": query, "type": "playlist", "limit": 10, "market": "JP"}
+        res = requests.get(search_url, headers=headers, params=params)
+        if res.status_code != 200:
             continue
 
-        playlists = pl_res.json().get("playlists", {}).get("items", [])
+        data = res.json()
+        playlists = data.get("playlists", {}).get("items", [])
+
         for pl in playlists:
             if not pl:
                 continue
@@ -55,11 +54,13 @@ def search_this_is_playlist(artist_info, token):
             owner_id = pl.get("owner", {}).get("id", "")
             pl_name = pl.get("name", "").strip().lower()
 
-            # Spotify公式制作（owner_id == 'spotify'）かつ 'this is' が含まれる場合
+            # Spotify公式（owner_idがspotify）かつ "this is" を含むプレイリスト
             if owner_id == "spotify" and "this is" in pl_name:
-                # アーティスト名（日本語 or Spotify公式名）が含まれるか判定
-                if name.lower() in pl_name or spotify_artist_name.lower() in pl_name:
-                    return pl.get("external_urls", {}).get("spotify")
+                # 日本語名またはローマ字名が含まれているか判定
+                check_targets = [name.lower()] + romaji_list
+                for target in check_targets:
+                    if target and target in pl_name:
+                        return pl.get("external_urls", {}).get("spotify")
 
     return None
 
@@ -88,13 +89,11 @@ def main():
         new_url = search_this_is_playlist(artist, token)
 
         if new_url and new_url != current_url:
-            print(f"【更新】 {name}: {current_url} -> {new_url}")
+            print(f"【更新成功】 {name}: {current_url} -> {new_url}")
             artist["url"] = new_url
             updated_count += 1
-        elif new_url:
-            print(f"【維持（最新）】 {name}")
         else:
-            print(f"【未発見】 {name}")
+            print(f"【維持】 {name}")
 
     if updated_count > 0:
         with open(json_path, "w", encoding="utf-8") as f:
