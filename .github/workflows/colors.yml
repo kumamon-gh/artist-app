@@ -1,8 +1,7 @@
 name: update-colors
 on:
-  schedule: [{ cron: '0 18 * * *' }]
   workflow_dispatch:
-permissions: { contents: write }
+permissions: { contents: read }
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -10,7 +9,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
+      - run: npm install --no-save sharp
       - run: node scripts/update-colors.mjs
-      - run: |
-          git config user.name "bot"; git config user.email "bot@users.noreply.github.com"
-          git diff --quiet || (git commit -am "update colors" && git push)
