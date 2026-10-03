@@ -1,9 +1,11 @@
 import fs from 'node:fs';
 import sharp from 'sharp';
 
-const artists = JSON.parse(fs.readFileSync('artists.json', 'utf8'));
+const FILE = 'artists.json';
+const artists = JSON.parse(fs.readFileSync(FILE, 'utf8'));
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const hex2 = n => n.toString(16).padStart(2, '0');
+const THRESHOLD = 6; // これ以下のずれは書き換えない
 
 function parseHex(h) {
   const m = /^#?([0-9a-f]{6})$/i.exec(h || '');
@@ -12,7 +14,6 @@ function parseHex(h) {
   return [(v >> 16) & 255, (v >> 8) & 255, v & 255];
 }
 
-// 画像の代表色：暗すぎ/明るすぎ/くすみすぎの画素を除き、色相ごとに集計して最大グループの平均を返す
 async function dominantColor(imageUrl) {
   const res = await fetch(imageUrl);
   if (!res.ok) throw new Error('画像HTTP ' + res.status);
@@ -35,33 +36,35 @@ async function dominantColor(imageUrl) {
   return '#' + hex2(Math.round(best.r / best.n)) + hex2(Math.round(best.g / best.n)) + hex2(Math.round(best.b / best.n));
 }
 
-function distance(a, b) {
-  return Math.round(Math.hypot(a[0] - b[0], a[1] - b[1], a[2] - b[2]));
+const dist = (a, b) => Math.hypot(a[0] - b[0], a[1] - b[1], a[2] - b[2]);
+
+async function fetchJson(url, tries = 3) {
+  let last;
+  for (let i = 0; i < tries; i++) {
+    try {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return await res.json();
+    } catch (e) { last = e; await sleep(1000 * (i + 1)); }
+  }
+  throw last;
 }
 
-const rows = [];
-let failed = 0, noUrl = 0;
+let changed = 0, same = 0, failed = 0, skipped = 0;
 for (const a of artists) {
   const url = a.url || a.link || '';
-  if (!url) { noUrl++; continue; }
+  if (!url || a.colorLock) { skipped++; continue; }
   try {
-    const res = await fetch('https://open.spotify.com/oembed?url=' + encodeURIComponent(url));
-    if (!res.ok) throw new Error('oEmbed HTTP ' + res.status);
-    const j = await res.json();
+    const j = await fetchJson('https://open.spotify.com/oembed?url=' + encodeURIComponent(url));
     if (!j.thumbnail_url) throw new Error('画像URLなし');
     const calc = await dominantColor(j.thumbnail_url);
-    const cur = parseHex(a.color), cal = parseHex(calc);
-    if (!calc || !cur || !cal) { rows.push({ name: a.name, cur: a.color, calc: calc || '(算出不可)', d: -1 }); continue; }
-    rows.push({ name: a.name, cur: a.color, calc, d: distance(cur, cal) });
+    if (!calc) { skipped++; continue; }
+    const cur = parseHex(a.color);
+    if (cur && dist(cur, parseHex(calc)) <= THRESHOLD) { same++; }
+    else { console.log(a.name, a.color, '->', calc); a.color = calc; changed++; }
   } catch (e) { failed++; console.warn(a.name, e.message); }
   await sleep(300);
 }
-
-const ok = rows.filter(r => r.d >= 0).sort((x, y) => y.d - x.d);
-console.log('対象', artists.length, '/ 算出成功', ok.length, '/ 算出不可', rows.length - ok.length, '/ 失敗', failed, '/ URLなし', noUrl);
-if (ok.length) {
-  const ds = ok.map(r => r.d).sort((x, y) => x - y);
-  console.log('ずれ(0=完全一致, 441=最大) 中央値', ds[Math.floor(ds.length / 2)], '/ 60以下', ds.filter(d => d <= 60).length + '件', '/ 120超', ds.filter(d => d > 120).length + '件');
-  console.log('--- ずれの大きい順 上位30件（名前 | 今の色 | 算出色 | ずれ）---');
-  ok.slice(0, 30).forEach(r => console.log(r.name, '|', r.cur, '|', r.calc, '|', r.d));
-}
+console.log(`結果: 変更${changed} / ほぼ同じ${same} / 対象外${skipped} / 失敗${failed}`);
+if (failed > artists.length * 0.3) { console.error('失敗が多いため書き込みません'); process.exit(1); }
+if (changed) fs.writeFileSync(FILE, JSON.stringify(artists, null, 2) + '\n');
