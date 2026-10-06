@@ -3260,57 +3260,5 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#fde54f"
-  },
-{
-    "id": "artist-a182",
-    "name": "汐れいら",
-    "ruby": "うしおれいら",
-    "kana": "ウシオレイラ",
-    "romaji": "ushioreira,usioreira",
-    "aliases": [
-      "しおれん",
-      "shioren"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XbCqC",
-    "official_site": null,
-    "description": "汐れいらの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
-    "tags": [
-      "女性ボーカル/ソロ",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#fde54f"
-  },
-  {
-    "id": "artist-37i9dQZF1DZ06evO38htI0",
-    "name": "スピッツ",
-    "ruby": "すぴっつ",
-    "kana": "スピッツ",
-    "romaji": "supittsu",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38htI0",
-    "official_site": null,
-    "description": "スピッツの代表曲をまとめた公式のプレイリスト「This Is スピッツ」",
-    "tags": [],
-    "status": "published",
-    "added_date": "2026-10-04",
-    "updated_date": "2026-10-04",
-    "color": "#95c90d"
-  },
-  {
-    "id": "artist-37i9dQZF1DZ06evO0MGNSK",
-    "name": "Mr.Children",
-    "ruby": "みすたーちるどぅれん",
-    "kana": "ミスターチルドゥレン",
-    "romaji": "mrchildren",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MGNSK",
-    "official_site": null,
-    "description": "Mr.Childrenの代表曲をまとめた公式のプレイリスト「This Is Mr.Children」",
-    "tags": [],
-    "status": "published",
-    "added_date": "2026-10-04",
-    "updated_date": "2026-10-04",
-    "color": "#f89bd2"
   }
 ]
