@@ -3261,7 +3261,7 @@
     "updated_date": "2026-04-27",
     "color": "#fde54f"
   },
-{
+  {
     "id": "artist-37i9dQZF1DZ06evO38htI0",
     "name": "スピッツ",
     "ruby": "すぴっつ",
@@ -3281,7 +3281,7 @@
     "status": "published",
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
-    "color": "#000000"
+    "color": "#95c90d"
   },
   {
     "id": "artist-37i9dQZF1DZ06evO0MGNSK",
@@ -3303,6 +3303,6 @@
     "status": "published",
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
-    "color": "#000000"
+    "color": "#f89bd2"
   }
 ]
