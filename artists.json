@@ -3260,5 +3260,49 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#fde54f"
+  },
+{
+    "id": "artist-37i9dQZF1DZ06evO38htI0",
+    "name": "スピッツ",
+    "ruby": "すぴっつ",
+    "kana": "スピッツ",
+    "romaji": "spitz",
+    "aliases": [
+      "",
+      ""
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38htI0",
+    "official_site": null,
+    "description": "スピッツの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#000000"
+  },
+  {
+    "id": "artist-37i9dQZF1DZ06evO0MGNSK",
+    "name": "Mr.Children",
+    "ruby": "みすたーちるどれん",
+    "kana": "ミスターチルドレン",
+    "romaji": "mr.children",
+    "aliases": [
+      "ミスチル",
+      ""
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MGNSK?si=TayWtm9wRRezI5joX9JjVA&utm_source=copy-link",
+    "official_site": null,
+    "description": "Mr.Childrenの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#000000"
   }
 ]
