@@ -6,6 +6,13 @@ on:
     - cron: '0 18 * * *'
   workflow_dispatch: # 手動実行ボタンも有効化
 
+permissions:
+  contents: write
+
+concurrency:
+  group: artists-json
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
