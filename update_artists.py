@@ -1,6 +1,9 @@
 import json
 import os
+import sys
 import requests
+
+from normalize_artists import normalize, dump_text
 
 CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
 CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
@@ -65,42 +68,54 @@ def search_this_is_playlist(artist_info, token):
     return None
 
 def main():
-    token = get_spotify_token()
-    if not token:
-        print("アクセストークンの取得に失敗したため終了します。")
-        return
-
     json_path = "artists.json"
     if not os.path.exists(json_path):
         print(f"{json_path} が見つかりません。")
         return
 
     with open(json_path, "r", encoding="utf-8") as f:
-        artists = json.load(f)
+        original_text = f.read()
+
+    # 採番・検証・ruby順の並び替え（エラーがあれば中止）
+    artists, errors, warnings, infos = normalize(json.loads(original_text))
+    for line in infos:
+        print("INFO :", line)
+    for line in warnings:
+        print("WARN :", line)
+    if errors:
+        for line in errors:
+            print("ERROR:", line)
+        sys.exit("artists.json にエラーがあるため中止しました")
+
+    token = get_spotify_token()
+    if not token:
+        print("アクセストークンの取得に失敗したため、URL更新はスキップします。")
 
     updated_count = 0
-    for artist in artists:
-        name = artist.get("name")
-        current_url = artist.get("url")
+    if token:
+        for artist in artists:
+            name = artist.get("name")
+            current_url = artist.get("url")
 
-        if not name:
-            continue
+            if not name:
+                continue
 
-        new_url = search_this_is_playlist(artist, token)
+            new_url = search_this_is_playlist(artist, token)
 
-        if new_url and new_url != current_url:
-            print(f"【更新成功】 {name}: {current_url} -> {new_url}")
-            artist["url"] = new_url
-            updated_count += 1
-        else:
-            print(f"【維持】 {name}")
+            if new_url and new_url != current_url:
+                print(f"【更新成功】 {name}: {current_url} -> {new_url}")
+                artist["url"] = new_url
+                updated_count += 1
+            else:
+                print(f"【維持】 {name}")
 
-    if updated_count > 0:
+    new_text = dump_text(artists)
+    if new_text != original_text:
         with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(artists, f, ensure_ascii=False, indent=2)
-        print(f"合計 {updated_count} 件のアーティストURLを更新しました。")
+            f.write(new_text)
+        print(f"保存しました（URL更新 {updated_count} 件／整形を含む）。")
     else:
-        print("更新が必要なURLはありませんでした。")
+        print("更新が必要な内容はありませんでした。")
 
 if __name__ == "__main__":
     main()
