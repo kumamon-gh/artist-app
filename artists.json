@@ -1,6 +1,6 @@
 [
   {
-    "id": "artist-a1",
+    "id": "",
     "name": "AI",
     "ruby": "あい",
     "kana": "アイ",
@@ -18,7 +18,7 @@
     "color": "#ffc863"
   },
   {
-    "id": "artist-a2",
+    "id": "",
     "name": "IVE",
     "ruby": "あいゔ/あいぶ",
     "kana": "アイヴ/アイブ",
@@ -36,7 +36,7 @@
     "color": "#8abaf8"
   },
   {
-    "id": "artist-a3",
+    "id": "",
     "name": "I WiSH",
     "ruby": "あいうぃっしゅ",
     "kana": "アイウィッシュ",
@@ -54,7 +54,7 @@
     "color": "#f37e00"
   },
   {
-    "id": "artist-a4",
+    "id": "",
     "name": "INI",
     "ruby": "あいえぬあい",
     "kana": "アイエヌアイ",
@@ -72,7 +72,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-a5",
+    "id": "",
     "name": "IMP.",
     "ruby": "あいえむぴー",
     "kana": "アイエムピー",
@@ -90,7 +90,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-a6",
+    "id": "",
     "name": "相川七瀬",
     "ruby": "あいかわななせ",
     "kana": "アイカワナナセ",
@@ -108,7 +108,7 @@
     "color": "#95c90d"
   },
   {
-    "id": "artist-a7",
+    "id": "",
     "name": "aiko",
     "ruby": "あいこ",
     "kana": "アイコ",
@@ -126,7 +126,7 @@
     "color": "#95c90d"
   },
   {
-    "id": "artist-a8",
+    "id": "",
     "name": "iKON",
     "ruby": "あいこん",
     "kana": "アイコン",
@@ -144,7 +144,7 @@
     "color": "#95c90d"
   },
   {
-    "id": "artist-a9",
+    "id": "",
     "name": "iScream",
     "ruby": "あいすくりーむ",
     "kana": "アイスクリーム",
@@ -162,7 +162,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-a10",
+    "id": "",
     "name": "IZ*ONE",
     "ruby": "あいずわん",
     "kana": "アイズワン",
@@ -180,7 +180,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-a11",
+    "id": "",
     "name": "IDOLiSH7",
     "ruby": "あいどりっしゅせぶん",
     "kana": "アイドリッシュセブン",
@@ -198,7 +198,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-a12",
+    "id": "",
     "name": "アイドリング!!!",
     "ruby": "あいどりんぐ",
     "kana": "アイドリング",
@@ -216,7 +216,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-a13",
+    "id": "",
     "name": "アイドルカレッジ",
     "ruby": "あいどるかれっじ",
     "kana": "アイドルカレッジ",
@@ -234,7 +234,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-a14",
+    "id": "",
     "name": "アイナ・ジ・エンド",
     "ruby": "あいなじえんど",
     "kana": "アイナジエンド",
@@ -252,7 +252,7 @@
     "color": "#fea42b"
   },
   {
-    "id": "artist-a15",
+    "id": "",
     "name": "IVVY",
     "ruby": "あいびー",
     "kana": "アイビー",
@@ -270,7 +270,7 @@
     "color": "#f036a4"
   },
   {
-    "id": "artist-a16",
+    "id": "",
     "name": "あいみょん",
     "ruby": "あいみょん",
     "kana": "アイミョン",
@@ -288,7 +288,7 @@
     "color": "#f47e00"
   },
   {
-    "id": "artist-a17",
+    "id": "",
     "name": "IU",
     "ruby": "あいゆー",
     "kana": "アイユー",
@@ -306,7 +306,7 @@
     "color": "#8bbbf8"
   },
   {
-    "id": "artist-a18",
+    "id": "",
     "name": "iLiFE!",
     "ruby": "あいらいふ",
     "kana": "アイライフ",
@@ -324,7 +324,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-a19",
+    "id": "",
     "name": "Island",
     "ruby": "あいらんど",
     "kana": "アイランド",
@@ -342,7 +342,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-a20",
+    "id": "",
     "name": "i☆Ris",
     "ruby": "あいりす",
     "kana": "アイリス",
@@ -360,7 +360,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-a21",
+    "id": "",
     "name": "ILLIT",
     "ruby": "あいりっと",
     "kana": "アイリット",
@@ -378,7 +378,7 @@
     "color": "#16d1a6"
   },
   {
-    "id": "artist-a22",
+    "id": "",
     "name": "Aile The Shota",
     "ruby": "あいるざしょうた",
     "kana": "アイルザショウタ",
@@ -396,7 +396,7 @@
     "color": "#f37e00"
   },
   {
-    "id": "artist-a23",
+    "id": "",
     "name": "藍井エイル",
     "ruby": "あおいえいる",
     "kana": "アオイエイル",
@@ -414,7 +414,7 @@
     "color": "#16d1a6"
   },
   {
-    "id": "artist-a24",
+    "id": "",
     "name": "青江三奈",
     "ruby": "あおえみな",
     "kana": "アオエミナ",
@@ -432,7 +432,7 @@
     "color": "#f036a4"
   },
   {
-    "id": "artist-a25",
+    "id": "",
     "name": "aoen",
     "ruby": "あおえん",
     "kana": "アオエン",
@@ -450,7 +450,7 @@
     "color": "#f036a4"
   },
   {
-    "id": "artist-a26",
+    "id": "",
     "name": "青木カレン",
     "ruby": "あおきかれん",
     "kana": "アオキカレン",
@@ -468,7 +468,7 @@
     "color": "#16d1a6"
   },
   {
-    "id": "artist-a27",
+    "id": "",
     "name": "青木慶則",
     "ruby": "あおきよしのり",
     "kana": "アオキヨシノリ",
@@ -486,7 +486,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-a28",
+    "id": "",
     "name": "青葉市子",
     "ruby": "あおばいちこ",
     "kana": "アオバイチコ",
@@ -504,7 +504,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-a29",
+    "id": "",
     "name": "青山新",
     "ruby": "あおやましん",
     "kana": "アオヤマシン",
@@ -522,7 +522,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-a30",
+    "id": "",
     "name": "青山テルマ",
     "ruby": "あおやまてるま",
     "kana": "アオヤマテルマ",
@@ -540,7 +540,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-a31",
+    "id": "",
     "name": "赤い公園",
     "ruby": "あかいこうえん",
     "kana": "アカイコウエン",
@@ -558,7 +558,7 @@
     "color": "#e4ac89"
   },
   {
-    "id": "artist-a32",
+    "id": "",
     "name": "赤い鳥",
     "ruby": "あかいとり",
     "kana": "アカイトリ",
@@ -576,7 +576,7 @@
     "color": "#f37e00"
   },
   {
-    "id": "artist-a33",
+    "id": "",
     "name": "赤えんぴつ",
     "ruby": "あかえんぴつ",
     "kana": "アカエンピツ",
@@ -594,7 +594,7 @@
     "color": "#ffc862"
   },
   {
-    "id": "artist-a34",
+    "id": "",
     "name": "AKASAKI",
     "ruby": "あかさき",
     "kana": "アカサキ",
@@ -612,7 +612,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-a35",
+    "id": "",
     "name": "アカシック",
     "ruby": "あかしっく",
     "kana": "アカシック",
@@ -630,7 +630,7 @@
     "color": "#16d1a6"
   },
   {
-    "id": "artist-a36",
+    "id": "",
     "name": "赤西仁",
     "ruby": "あかにしじん",
     "kana": "アカニシジン",
@@ -648,7 +648,7 @@
     "color": "#f37e00"
   },
   {
-    "id": "artist-a37",
+    "id": "",
     "name": "秋川雅史",
     "ruby": "あきかわまさふみ",
     "kana": "アキカワマサフミ",
@@ -666,7 +666,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-a38",
+    "id": "",
     "name": "AKINO",
     "ruby": "あきの",
     "kana": "アキノ",
@@ -684,7 +684,7 @@
     "color": "#ffc862"
   },
   {
-    "id": "artist-a39",
+    "id": "",
     "name": "秋庭豊",
     "ruby": "あきばゆたか",
     "kana": "アキバユタカ",
@@ -702,7 +702,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-a40",
+    "id": "",
     "name": "秋元順子",
     "ruby": "あきもとじゅんこ",
     "kana": "アキモトジュンコ",
@@ -720,7 +720,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-a41",
+    "id": "",
     "name": "秋山黄色",
     "ruby": "あきやまきいろ",
     "kana": "アキヤマキイロ",
@@ -738,7 +738,7 @@
     "color": "#95c90d"
   },
   {
-    "id": "artist-a42",
+    "id": "",
     "name": "Aqours",
     "ruby": "あくあ",
     "kana": "アクア",
@@ -756,7 +756,7 @@
     "color": "#f37e00"
   },
   {
-    "id": "artist-a43",
+    "id": "",
     "name": "Aqua Timez",
     "ruby": "あくあたいむず",
     "kana": "アクアタイムズ",
@@ -774,7 +774,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-a44",
+    "id": "",
     "name": "access",
     "ruby": "あくせす",
     "kana": "アクセス",
@@ -792,7 +792,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-a45",
+    "id": "",
     "name": "アグネス・チャン",
     "ruby": "あぐねすちゃん",
     "kana": "アグネスチャン",
@@ -810,7 +810,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-a46",
+    "id": "",
     "name": "麻丘めぐみ",
     "ruby": "あさおかめぐみ",
     "kana": "アサオカメグミ",
@@ -828,7 +828,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-a47",
+    "id": "",
     "name": "浅香唯",
     "ruby": "あさかゆい",
     "kana": "アサカユイ",
@@ -846,7 +846,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-a48",
+    "id": "",
     "name": "朝倉さや",
     "ruby": "あさくらさや",
     "kana": "アサクラサヤ",
@@ -864,7 +864,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-a49",
+    "id": "",
     "name": "麻倉未稀",
     "ruby": "あさくらみき",
     "kana": "アサクラミキ",
@@ -882,7 +882,7 @@
     "color": "#16d1a6"
   },
   {
-    "id": "artist-a50",
+    "id": "",
     "name": "杏沙子",
     "ruby": "あさこ",
     "kana": "アサコ",
@@ -900,7 +900,7 @@
     "color": "#e4ac89"
   },
   {
-    "id": "artist-a51",
+    "id": "",
     "name": "浅田美代子",
     "ruby": "あさだみよこ",
     "kana": "アサダミヨコ",
@@ -918,7 +918,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-a52",
+    "id": "",
     "name": "ASIAN KUNG-FU GENERATION",
     "ruby": "あじあんかんふーじぇねれーしょん",
     "kana": "アジアンカンフージェネレーション",
@@ -936,7 +936,7 @@
     "color": "#fde54f"
   },
   {
-    "id": "artist-a53",
+    "id": "",
     "name": "芦田愛菜",
     "ruby": "あしだまな",
     "kana": "アシダマナ",
@@ -954,7 +954,7 @@
     "color": "#95c90d"
   },
   {
-    "id": "artist-a54",
+    "id": "",
     "name": "Acid Black Cherry",
     "ruby": "あしっどぶらっくちぇりー",
     "kana": "アシッドブラックチェリー",
@@ -972,7 +972,7 @@
     "color": "#ffc863"
   },
   {
-    "id": "artist-a55",
+    "id": "",
     "name": "ACIDMAN",
     "ruby": "あしっどまん",
     "kana": "アシッドマン",
@@ -990,7 +990,7 @@
     "color": "#f47e00"
   },
   {
-    "id": "artist-a56",
+    "id": "",
     "name": "AZU",
     "ruby": "あず",
     "kana": "アズ",
@@ -1008,7 +1008,7 @@
     "color": "#f47e00"
   },
   {
-    "id": "artist-a57",
+    "id": "",
     "name": "ASKA",
     "ruby": "あすか",
     "kana": "アスカ",
@@ -1026,7 +1026,7 @@
     "color": "#e4ac89"
   },
   {
-    "id": "artist-a58",
+    "id": "",
     "name": "東野純直",
     "ruby": "あずまのすみただ",
     "kana": "アズマノスミタダ",
@@ -1044,7 +1044,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-a59",
+    "id": "",
     "name": "asmi",
     "ruby": "あすみ",
     "kana": "アスミ",
@@ -1062,7 +1062,7 @@
     "color": "#f036a5"
   },
   {
-    "id": "artist-a60",
+    "id": "",
     "name": "足立佳奈",
     "ruby": "あだちかな",
     "kana": "アダチカナ",
