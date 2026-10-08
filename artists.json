@@ -3240,27 +3240,22 @@
     "color": "#e4ac89"
   },
   {
-    "id": "artist-a181",
-    "name": "汐れいら",
-    "ruby": "うしおれいら",
-    "kana": "ウシオレイラ",
-    "romaji": "ushioreira,usioreira",
-    "aliases": [
-      "しおれん",
-      "shioren"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XbCqC",
-    "official_site": null,
-    "description": "汐れいらの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
-    "tags": [
-      "女性ボーカル/ソロ",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#fde54f"
-  },
+  "id": "",
+  "name": "汐れいら",
+  "ruby": "うしおれいら",
+  "kana": "ウシオレイラ",
+  "romaji": "ushioreira,usioreira",
+  "aliases": ["しおれん", "shioren"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XbCqC",
+  "spotify_artist_id": "6GVsZoMbMt0jmqwcvz1a1F",
+  "official_site": null,
+  "description": "汐れいらの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
+  "tags": ["女性ボーカル/ソロ", "J-POP"],
+  "status": "published",
+  "added_date": "2026-04-27",
+  "updated_date": "2026-04-27",
+  "color": "#fde54f"
+},
   {
     "id": "artist-5kjGRHClVacSyllOUqU1S0",
     "name": "スピッツ",
