@@ -1,6 +1,6 @@
 [
   {
-    "id": "artist-0aD7NQx7yauKlVDnqOxk6q",
+    "id": "artist-a1",
     "name": "AI",
     "ruby": "あい",
     "kana": "アイ",
@@ -18,7 +18,7 @@
     "color": "#ffc863"
   },
   {
-    "id": "artist-6RHTUrRF63xao58xh9FXYJ",
+    "id": "artist-a2",
     "name": "IVE",
     "ruby": "あいゔ/あいぶ",
     "kana": "アイヴ/アイブ",
@@ -36,7 +36,7 @@
     "color": "#8abaf8"
   },
   {
-    "id": "artist-4XdblOIqVvdJSX3e1zKRyZ",
+    "id": "artist-a3",
     "name": "I WiSH",
     "ruby": "あいうぃっしゅ",
     "kana": "アイウィッシュ",
@@ -54,7 +54,7 @@
     "color": "#f37e00"
   },
   {
-    "id": "artist-73kxDUq2Hl7Upy4o0yFxXv",
+    "id": "artist-a4",
     "name": "INI",
     "ruby": "あいえぬあい",
     "kana": "アイエヌアイ",
@@ -72,7 +72,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-2ahbTOVqWJKyj6TUXqFcf1",
+    "id": "artist-a5",
     "name": "IMP.",
     "ruby": "あいえむぴー",
     "kana": "アイエムピー",
@@ -90,7 +90,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-2RNdF99wgP5ikh7fIJ0DIk",
+    "id": "artist-a6",
     "name": "相川七瀬",
     "ruby": "あいかわななせ",
     "kana": "アイカワナナセ",
@@ -108,7 +108,7 @@
     "color": "#95c90d"
   },
   {
-    "id": "artist-6TDMbiQCWeMClsMr9ORLRK",
+    "id": "artist-a7",
     "name": "aiko",
     "ruby": "あいこ",
     "kana": "アイコ",
@@ -126,7 +126,7 @@
     "color": "#95c90d"
   },
   {
-    "id": "artist-5qRSs6mvI17zrkJpOHkCoM",
+    "id": "artist-a8",
     "name": "iKON",
     "ruby": "あいこん",
     "kana": "アイコン",
@@ -144,7 +144,7 @@
     "color": "#95c90d"
   },
   {
-    "id": "artist-0e5pQ7WhkRfa6kEhzjQ9Bx",
+    "id": "artist-a9",
     "name": "iScream",
     "ruby": "あいすくりーむ",
     "kana": "アイスクリーム",
@@ -162,7 +162,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-5r1tUTxVSgvBHnoDuDODPH",
+    "id": "artist-a10",
     "name": "IZ*ONE",
     "ruby": "あいずわん",
     "kana": "アイズワン",
@@ -180,7 +180,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-0IcPjyCeXNduddHImlSKLH",
+    "id": "artist-a11",
     "name": "IDOLiSH7",
     "ruby": "あいどりっしゅせぶん",
     "kana": "アイドリッシュセブン",
@@ -198,7 +198,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-4MMquRKVnKJLWy1FW5vVKO",
+    "id": "artist-a12",
     "name": "アイドリング!!!",
     "ruby": "あいどりんぐ",
     "kana": "アイドリング",
@@ -216,7 +216,7 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-5RfwAwQxbmLcJnNxZzTpV7",
+    "id": "artist-a13",
     "name": "アイドルカレッジ",
     "ruby": "あいどるかれっじ",
     "kana": "アイドルカレッジ",
@@ -234,7 +234,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-5k7KS34gxQbzdQaXWSOVKC",
+    "id": "artist-a14",
     "name": "アイナ・ジ・エンド",
     "ruby": "あいなじえんど",
     "kana": "アイナジエンド",
@@ -252,7 +252,7 @@
     "color": "#fea42b"
   },
   {
-    "id": "artist-2vt1pSDdswpATBUN6lPMre",
+    "id": "artist-a15",
     "name": "IVVY",
     "ruby": "あいびー",
     "kana": "アイビー",
@@ -270,7 +270,7 @@
     "color": "#f036a4"
   },
   {
-    "id": "artist-5kVZa4lFUmAQlBogl1fkd6",
+    "id": "artist-a16",
     "name": "あいみょん",
     "ruby": "あいみょん",
     "kana": "アイミョン",
@@ -288,7 +288,7 @@
     "color": "#f47e00"
   },
   {
-    "id": "artist-3HqSLMAZ3g3d5poNaI7GOU",
+    "id": "artist-a17",
     "name": "IU",
     "ruby": "あいゆー",
     "kana": "アイユー",
@@ -306,7 +306,7 @@
     "color": "#8bbbf8"
   },
   {
-    "id": "artist-539GTPlYhFLCL6eh4jnbYy",
+    "id": "artist-a18",
     "name": "iLiFE!",
     "ruby": "あいらいふ",
     "kana": "アイライフ",
@@ -324,7 +324,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-37i9dQZF1DZ06evO2dRAY0",
+    "id": "artist-a19",
     "name": "Island",
     "ruby": "あいらんど",
     "kana": "アイランド",
@@ -342,7 +342,7 @@
     "color": "#fea42a"
   },
   {
-    "id": "artist-5AT0jKTq4D7IVlXsDscmQ1",
+    "id": "artist-a20",
     "name": "i☆Ris",
     "ruby": "あいりす",
     "kana": "アイリス",
@@ -360,7 +360,7 @@
     "color": "#f89bd2"
   },
   {
-    "id": "artist-36cgvBn0aadzOijnjjwqMN",
+    "id": "artist-a21",
     "name": "ILLIT",
     "ruby": "あいりっと",
     "kana": "アイリット",
