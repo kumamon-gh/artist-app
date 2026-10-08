@@ -1,11 +1,12 @@
 [
   {
-    "id": "",
+    "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
     "kana": "アイ",
     "romaji": "ai",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01V7ja",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "AIの代表曲をまとめた公式のプレイリスト「This Is AI」",
     "tags": [
@@ -18,30 +19,13 @@
     "color": "#ffc863"
   },
   {
-    "id": "",
-    "name": "IVE",
-    "ruby": "あいゔ/あいぶ",
-    "kana": "アイヴ/アイブ",
-    "romaji": "ive",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX6pLfLmbGM3d",
-    "official_site": null,
-    "description": "IVEの代表曲をまとめた公式のプレイリスト「This Is IVE」",
-    "tags": [
-      "女性グループ/ユニット",
-      "K-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#8abaf8"
-  },
-  {
-    "id": "",
+    "id": "artist-3",
     "name": "I WiSH",
     "ruby": "あいうぃっしゅ",
     "kana": "アイウィッシュ",
     "romaji": "iwish",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UniKg",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "I WiSHの代表曲をまとめた公式のプレイリスト「This Is I WiSH」",
     "tags": [
@@ -54,12 +38,13 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-4",
     "name": "INI",
     "ruby": "あいえぬあい",
     "kana": "アイエヌアイ",
     "romaji": "ini",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aFz6E",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "INIの代表曲をまとめた公式のプレイリスト「This Is INI」",
     "tags": [
@@ -72,12 +57,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-5",
     "name": "IMP.",
     "ruby": "あいえむぴー",
     "kana": "アイエムピー",
     "romaji": "imp.",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ejFhq",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "IMP.の代表曲をまとめた公式のプレイリスト「This Is IMP.」",
     "tags": [
@@ -90,12 +76,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-6",
     "name": "相川七瀬",
     "ruby": "あいかわななせ",
     "kana": "アイカワナナセ",
     "romaji": "aikawananase",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Evbph",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "相川七瀬の代表曲をまとめた公式のプレイリスト「This Is 相川七瀬」",
     "tags": [
@@ -108,12 +95,13 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-7",
     "name": "aiko",
     "ruby": "あいこ",
     "kana": "アイコ",
     "romaji": "aiko",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO44PXNe",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "aikoの代表曲をまとめた公式のプレイリスト「This Is aiko」",
     "tags": [
@@ -126,12 +114,13 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-8",
     "name": "iKON",
     "ruby": "あいこん",
     "kana": "アイコン",
     "romaji": "ikon",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cdPy0",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "iKONの代表曲をまとめた公式のプレイリスト「This Is iKON」",
     "tags": [
@@ -144,12 +133,13 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-9",
     "name": "iScream",
     "ruby": "あいすくりーむ",
     "kana": "アイスクリーム",
     "romaji": "iscream",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0404Qq",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "iScreamの代表曲をまとめた公式のプレイリスト「This Is iScream」",
     "tags": [
@@ -162,12 +152,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-10",
     "name": "IZ*ONE",
     "ruby": "あいずわん",
     "kana": "アイズワン",
     "romaji": "iz*one",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cjKuF",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "IZ*ONEの代表曲をまとめた公式のプレイリスト「This Is IZ*ONE」",
     "tags": [
@@ -180,12 +171,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-11",
     "name": "IDOLiSH7",
     "ruby": "あいどりっしゅせぶん",
     "kana": "アイドリッシュセブン",
     "romaji": "idolish7",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0m7EGe",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "IDOLiSH7の代表曲をまとめた公式のプレイリスト「This Is IDOLiSH7」",
     "tags": [
@@ -198,12 +190,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-12",
     "name": "アイドリング!!!",
     "ruby": "あいどりんぐ",
     "kana": "アイドリング",
     "romaji": "idoling!!!",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2O6ex2",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アイドリング!!!の代表曲をまとめた公式のプレイリスト「This Is アイドリング!!!」",
     "tags": [
@@ -216,12 +209,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-13",
     "name": "アイドルカレッジ",
     "ruby": "あいどるかれっじ",
     "kana": "アイドルカレッジ",
     "romaji": "idolcollege",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s5ZAs",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アイドルカレッジの代表曲をまとめた公式のプレイリスト「This Is アイドルカレッジ」",
     "tags": [
@@ -234,12 +228,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-14",
     "name": "アイナ・ジ・エンド",
     "ruby": "あいなじえんど",
     "kana": "アイナジエンド",
     "romaji": "ainatheend",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38adNu",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アイナ・ジ・エンドの代表曲をまとめた公式のプレイリスト「This Is アイナ・ジ・エンド」",
     "tags": [
@@ -252,12 +247,13 @@
     "color": "#fea42b"
   },
   {
-    "id": "",
+    "id": "artist-15",
     "name": "IVVY",
     "ruby": "あいびー",
     "kana": "アイビー",
     "romaji": "ivvy",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1r4eT6",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "IVVYの代表曲をまとめた公式のプレイリスト「This Is IVVY」",
     "tags": [
@@ -270,12 +266,13 @@
     "color": "#f036a4"
   },
   {
-    "id": "",
+    "id": "artist-16",
     "name": "あいみょん",
     "ruby": "あいみょん",
     "kana": "アイミョン",
     "romaji": "aimyon",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38EC64",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "あいみょんの代表曲をまとめた公式のプレイリスト「This Is あいみょん」",
     "tags": [
@@ -288,12 +285,13 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-17",
     "name": "IU",
     "ruby": "あいゆー",
     "kana": "アイユー",
     "romaji": "iu",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DX0y9CwEpdGpz",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "IUの代表曲をまとめた公式のプレイリスト「This Is IU」",
     "tags": [
@@ -306,12 +304,13 @@
     "color": "#8bbbf8"
   },
   {
-    "id": "",
+    "id": "artist-18",
     "name": "iLiFE!",
     "ruby": "あいらいふ",
     "kana": "アイライフ",
     "romaji": "ilife!",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XWWaj",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "iLiFE!の代表曲をまとめた公式のプレイリスト「This Is iLiFE!」",
     "tags": [
@@ -324,12 +323,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-19",
     "name": "Island",
     "ruby": "あいらんど",
     "kana": "アイランド",
     "romaji": "island",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2dRAY0",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Islandの代表曲をまとめた公式のプレイリスト「This Is Island」",
     "tags": [
@@ -342,12 +342,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-20",
     "name": "i☆Ris",
     "ruby": "あいりす",
     "kana": "アイリス",
     "romaji": "i☆ris",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ifx0Q",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "i☆Risの代表曲をまとめた公式のプレイリスト「This Is i☆Ris」",
     "tags": [
@@ -360,12 +361,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-21",
     "name": "ILLIT",
     "ruby": "あいりっと",
     "kana": "アイリット",
     "romaji": "illit",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NatAS",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "ILLITの代表曲をまとめた公式のプレイリスト「This Is ILLIT」",
     "tags": [
@@ -378,12 +380,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-22",
     "name": "Aile The Shota",
     "ruby": "あいるざしょうた",
     "kana": "アイルザショウタ",
     "romaji": "ailetheshota",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1fSbrI",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Aile The Shotaの代表曲をまとめた公式のプレイリスト「This Is Aile The Shota」",
     "tags": [
@@ -396,12 +399,32 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-2",
+    "name": "IVE",
+    "ruby": "あいゔ/あいぶ",
+    "kana": "アイヴ/アイブ",
+    "romaji": "ive",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX6pLfLmbGM3d",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "IVEの代表曲をまとめた公式のプレイリスト「This Is IVE」",
+    "tags": [
+      "女性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#8abaf8"
+  },
+  {
+    "id": "artist-23",
     "name": "藍井エイル",
     "ruby": "あおいえいる",
     "kana": "アオイエイル",
     "romaji": "aoieir",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "藍井エイルの代表曲をまとめた公式のプレイリスト「This Is 藍井エイル」",
     "tags": [
@@ -414,12 +437,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-24",
     "name": "青江三奈",
     "ruby": "あおえみな",
     "kana": "アオエミナ",
     "romaji": "aoemina",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0yWU7v",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "青江三奈の代表曲をまとめた公式のプレイリスト「This Is 青江三奈」",
     "tags": [
@@ -432,12 +456,13 @@
     "color": "#f036a4"
   },
   {
-    "id": "",
+    "id": "artist-25",
     "name": "aoen",
     "ruby": "あおえん",
     "kana": "アオエン",
     "romaji": "aoen",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b5cCT",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "aoenの代表曲をまとめた公式のプレイリスト「This Is aoen」",
     "tags": [
@@ -450,12 +475,13 @@
     "color": "#f036a4"
   },
   {
-    "id": "",
+    "id": "artist-26",
     "name": "青木カレン",
     "ruby": "あおきかれん",
     "kana": "アオキカレン",
     "romaji": "aokikaren",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4l20Km",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "青木カレンの代表曲をまとめた公式のプレイリスト「This Is 青木カレン」",
     "tags": [
@@ -468,12 +494,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-27",
     "name": "青木慶則",
     "ruby": "あおきよしのり",
     "kana": "アオキヨシノリ",
     "romaji": "aokiyoshinori",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bSrHI",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "青木慶則の代表曲をまとめた公式のプレイリスト「This Is 青木慶則」",
     "tags": [
@@ -486,12 +513,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-28",
     "name": "青葉市子",
     "ruby": "あおばいちこ",
     "kana": "アオバイチコ",
     "romaji": "aobaichiko",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3IlwME",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "青葉市子の代表曲をまとめた公式のプレイリスト「This Is 青葉市子」",
     "tags": [
@@ -504,12 +532,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-29",
     "name": "青山新",
     "ruby": "あおやましん",
     "kana": "アオヤマシン",
     "romaji": "aoyamashin",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0FtXa3",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "青山新の代表曲をまとめた公式のプレイリスト「This Is 青山新」",
     "tags": [
@@ -522,12 +551,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-30",
     "name": "青山テルマ",
     "ruby": "あおやまてるま",
     "kana": "アオヤマテルマ",
     "romaji": "aoyamathelma",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0T2kMr",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "青山テルマの代表曲をまとめた公式のプレイリスト「This Is 青山テルマ」",
     "tags": [
@@ -540,12 +570,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-31",
     "name": "赤い公園",
     "ruby": "あかいこうえん",
     "kana": "アカイコウエン",
     "romaji": "akaikoen",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3hpcHD",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "赤い公園の代表曲をまとめた公式のプレイリスト「This Is 赤い公園」",
     "tags": [
@@ -558,12 +589,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-32",
     "name": "赤い鳥",
     "ruby": "あかいとり",
     "kana": "アカイトリ",
     "romaji": "akaitori",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WZDiV",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "赤い鳥の代表曲をまとめた公式のプレイリスト「This Is 赤い鳥」",
     "tags": [
@@ -576,12 +608,13 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-33",
     "name": "赤えんぴつ",
     "ruby": "あかえんぴつ",
     "kana": "アカエンピツ",
     "romaji": "akaenpitsu",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00zeZB",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "赤えんぴつの代表曲をまとめた公式のプレイリスト「This Is 赤えんぴつ」",
     "tags": [
@@ -594,12 +627,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-34",
     "name": "AKASAKI",
     "ruby": "あかさき",
     "kana": "アカサキ",
     "romaji": "akasaki",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GyKIT",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "AKASAKIの代表曲をまとめた公式のプレイリスト「This Is AKASAKI」",
     "tags": [
@@ -612,12 +646,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-35",
     "name": "アカシック",
     "ruby": "あかしっく",
     "kana": "アカシック",
     "romaji": "akashic",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1CQAMN",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アカシックの代表曲をまとめた公式のプレイリスト「This Is アカシック」",
     "tags": [
@@ -630,12 +665,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-36",
     "name": "赤西仁",
     "ruby": "あかにしじん",
     "kana": "アカニシジン",
     "romaji": "akanishijin",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36dsD9",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "赤西仁の代表曲をまとめた公式のプレイリスト「This Is 赤西仁」",
     "tags": [
@@ -648,12 +684,13 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-37",
     "name": "秋川雅史",
     "ruby": "あきかわまさふみ",
     "kana": "アキカワマサフミ",
     "romaji": "akikawamasafumi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VSgBb",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "秋川雅史の代表曲をまとめた公式のプレイリスト「This Is 秋川雅史」",
     "tags": [
@@ -666,12 +703,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-38",
     "name": "AKINO",
     "ruby": "あきの",
     "kana": "アキノ",
     "romaji": "akino",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO18EvPd",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "AKINOの代表曲をまとめた公式のプレイリスト「This Is AKINO」",
     "tags": [
@@ -684,12 +722,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-39",
     "name": "秋庭豊",
     "ruby": "あきばゆたか",
     "kana": "アキバユタカ",
     "romaji": "akibayutaka",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Ob9qc",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "秋庭豊の代表曲をまとめた公式のプレイリスト「This Is 秋庭豊」",
     "tags": [
@@ -702,12 +741,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-40",
     "name": "秋元順子",
     "ruby": "あきもとじゅんこ",
     "kana": "アキモトジュンコ",
     "romaji": "akimotojunko",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZZMFkf",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "秋元順子の代表曲をまとめた公式のプレイリスト「This Is 秋元順子」",
     "tags": [
@@ -720,12 +760,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-41",
     "name": "秋山黄色",
     "ruby": "あきやまきいろ",
     "kana": "アキヤマキイロ",
     "romaji": "akiyamakiiro",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0n7wGs",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "秋山黄色の代表曲をまとめた公式のプレイリスト「This Is 秋山黄色」",
     "tags": [
@@ -738,12 +779,13 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-42",
     "name": "Aqours",
     "ruby": "あくあ",
     "kana": "アクア",
     "romaji": "aqours",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SKmtj",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Aqoursの代表曲をまとめた公式のプレイリスト「This Is Aqours」",
     "tags": [
@@ -756,12 +798,13 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-43",
     "name": "Aqua Timez",
     "ruby": "あくあたいむず",
     "kana": "アクアタイムズ",
     "romaji": "aquatimez",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1HO2aW",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Aqua Timezの代表曲をまとめた公式のプレイリスト「This Is Aqua Timez」",
     "tags": [
@@ -774,12 +817,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-44",
     "name": "access",
     "ruby": "あくせす",
     "kana": "アクセス",
     "romaji": "access",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1WifGQ",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "accessの代表曲をまとめた公式のプレイリスト「This Is access」",
     "tags": [
@@ -792,12 +836,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-45",
     "name": "アグネス・チャン",
     "ruby": "あぐねすちゃん",
     "kana": "アグネスチャン",
     "romaji": "agneschan",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Mebe0",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アグネス・チャンの代表曲をまとめた公式のプレイリスト「This Is アグネス・チャン」",
     "tags": [
@@ -810,12 +855,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-46",
     "name": "麻丘めぐみ",
     "ruby": "あさおかめぐみ",
     "kana": "アサオカメグミ",
     "romaji": "asaokamegumi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO21FUyJ",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "麻丘めぐみの代表曲をまとめた公式のプレイリスト「This Is 麻丘めぐみ」",
     "tags": [
@@ -828,12 +874,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-47",
     "name": "浅香唯",
     "ruby": "あさかゆい",
     "kana": "アサカユイ",
     "romaji": "asakayui",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3N4VY4",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "浅香唯の代表曲をまとめた公式のプレイリスト「This Is 浅香唯」",
     "tags": [
@@ -846,12 +893,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-48",
     "name": "朝倉さや",
     "ruby": "あさくらさや",
     "kana": "アサクラサヤ",
     "romaji": "asakurasaya",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3UVnu8",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "朝倉さやの代表曲をまとめた公式のプレイリスト「This Is 朝倉さや」",
     "tags": [
@@ -864,12 +912,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-49",
     "name": "麻倉未稀",
     "ruby": "あさくらみき",
     "kana": "アサクラミキ",
     "romaji": "asakuramiki",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ig1O2",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "麻倉未稀の代表曲をまとめた公式のプレイリスト「This Is 麻倉未稀」",
     "tags": [
@@ -882,12 +931,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-50",
     "name": "杏沙子",
     "ruby": "あさこ",
     "kana": "アサコ",
     "romaji": "asako",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v0EII",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "杏沙子の代表曲をまとめた公式のプレイリスト「This Is 杏沙子」",
     "tags": [
@@ -900,12 +950,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-51",
     "name": "浅田美代子",
     "ruby": "あさだみよこ",
     "kana": "アサダミヨコ",
     "romaji": "asadamiyoko",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aOXpX",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "浅田美代子の代表曲をまとめた公式のプレイリスト「This Is 浅田美代子」",
     "tags": [
@@ -918,30 +969,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
-    "name": "ASIAN KUNG-FU GENERATION",
-    "ruby": "あじあんかんふーじぇねれーしょん",
-    "kana": "アジアンカンフージェネレーション",
-    "romaji": "asiankung-fugeneration",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oQMfm",
-    "official_site": null,
-    "description": "ASIAN KUNG-FU GENERATIONの代表曲をまとめた公式のプレイリスト「This Is ASIAN KUNG-FU GENERATION」",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#fde54f"
-  },
-  {
-    "id": "",
+    "id": "artist-53",
     "name": "芦田愛菜",
     "ruby": "あしだまな",
     "kana": "アシダマナ",
     "romaji": "ashidamana",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Qrn2E",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "芦田愛菜の代表曲をまとめた公式のプレイリスト「This Is 芦田愛菜」",
     "tags": [
@@ -954,12 +988,13 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-54",
     "name": "Acid Black Cherry",
     "ruby": "あしっどぶらっくちぇりー",
     "kana": "アシッドブラックチェリー",
     "romaji": "acidblackcherry",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49JmPZ",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Acid Black Cherryの代表曲をまとめた公式のプレイリスト「This Is Acid Black Cherry」",
     "tags": [
@@ -972,12 +1007,13 @@
     "color": "#ffc863"
   },
   {
-    "id": "",
+    "id": "artist-55",
     "name": "ACIDMAN",
     "ruby": "あしっどまん",
     "kana": "アシッドマン",
     "romaji": "acidman",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gYqFy",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "ACIDMANの代表曲をまとめた公式のプレイリスト「This Is ACIDMAN」",
     "tags": [
@@ -990,30 +1026,32 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
-    "name": "AZU",
-    "ruby": "あず",
-    "kana": "アズ",
-    "romaji": "azu",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33qiaZ",
+    "id": "artist-52",
+    "name": "ASIAN KUNG-FU GENERATION",
+    "ruby": "あじあんかんふーじぇねれーしょん",
+    "kana": "アジアンカンフージェネレーション",
+    "romaji": "asiankung-fugeneration",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oQMfm",
+    "spotify_artist_id": null,
     "official_site": null,
-    "description": "AZUの代表曲をまとめた公式のプレイリスト「This Is AZU」",
+    "description": "ASIAN KUNG-FU GENERATIONの代表曲をまとめた公式のプレイリスト「This Is ASIAN KUNG-FU GENERATION」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "バンド",
       "J-POP"
     ],
     "status": "published",
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
-    "color": "#f47e00"
+    "color": "#fde54f"
   },
   {
-    "id": "",
+    "id": "artist-57",
     "name": "ASKA",
     "ruby": "あすか",
     "kana": "アスカ",
     "romaji": "aska",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wkSlk",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "ASKAの代表曲をまとめた公式のプレイリスト「This Is ASKA」",
     "tags": [
@@ -1026,30 +1064,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
-    "name": "東野純直",
-    "ruby": "あずまのすみただ",
-    "kana": "アズマノスミタダ",
-    "romaji": "azumanosumitada",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Qt2EO",
-    "official_site": null,
-    "description": "東野純直の代表曲をまとめた公式のプレイリスト「This Is 東野純直」",
-    "tags": [
-      "男性ボーカル/ソロ",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#f89bd2"
-  },
-  {
-    "id": "",
+    "id": "artist-59",
     "name": "asmi",
     "ruby": "あすみ",
     "kana": "アスミ",
     "romaji": "asmi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2hIyt6",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "asmiの代表曲をまとめた公式のプレイリスト「This Is asmi」",
     "tags": [
@@ -1062,14 +1083,15 @@
     "color": "#f036a5"
   },
   {
-    "id": "",
-    "name": "足立佳奈",
-    "ruby": "あだちかな",
-    "kana": "アダチカナ",
-    "romaji": "adachikana",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO44qWlj",
+    "id": "artist-56",
+    "name": "AZU",
+    "ruby": "あず",
+    "kana": "アズ",
+    "romaji": "azu",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33qiaZ",
+    "spotify_artist_id": null,
     "official_site": null,
-    "description": "足立佳奈の代表曲をまとめた公式のプレイリスト「This Is 足立佳奈」",
+    "description": "AZUの代表曲をまとめた公式のプレイリスト「This Is AZU」",
     "tags": [
       "女性ボーカル/ソロ",
       "J-POP"
@@ -1077,15 +1099,35 @@
     "status": "published",
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
-    "color": "#fea42a"
+    "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-58",
+    "name": "東野純直",
+    "ruby": "あずまのすみただ",
+    "kana": "アズマノスミタダ",
+    "romaji": "azumanosumitada",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Qt2EO",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "東野純直の代表曲をまとめた公式のプレイリスト「This Is 東野純直」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#f89bd2"
+  },
+  {
+    "id": "artist-61",
     "name": "新しい学校のリーダーズ",
     "ruby": "あたらしいがっこうのりーだーず",
     "kana": "アタラシイガッコウノリーダーズ",
     "romaji": "atarashiigakko!",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "新しい学校のリーダーズの代表曲をまとめた公式のプレイリスト「This Is 新しい学校のリーダーズ」",
     "tags": [
@@ -1098,12 +1140,13 @@
     "color": "#fde54f"
   },
   {
-    "id": "",
+    "id": "artist-62",
     "name": "あたらよ",
     "ruby": "あたらよ",
     "kana": "アタラヨ",
     "romaji": "atarayo",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1t70qY",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "あたらよの代表曲をまとめた公式のプレイリスト「This Is あたらよ」",
     "tags": [
@@ -1116,12 +1159,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-63",
     "name": "中孝介",
     "ruby": "あたりこうすけ",
     "kana": "アタリコウスケ",
     "romaji": "atarikousuke",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fmUrM",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "中孝介の代表曲をまとめた公式のプレイリスト「This Is 中孝介」",
     "tags": [
@@ -1134,30 +1178,32 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
-    "name": "梓みちよ",
-    "ruby": "あづさみちよ",
-    "kana": "アヅサミチヨ",
-    "romaji": "azusamichiyo",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mHC7g",
+    "id": "artist-60",
+    "name": "足立佳奈",
+    "ruby": "あだちかな",
+    "kana": "アダチカナ",
+    "romaji": "adachikana",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO44qWlj",
+    "spotify_artist_id": null,
     "official_site": null,
-    "description": "梓みちよの代表曲をまとめた公式のプレイリスト「This Is 梓みちよ」",
+    "description": "足立佳奈の代表曲をまとめた公式のプレイリスト「This Is 足立佳奈」",
     "tags": [
       "女性ボーカル/ソロ",
-      "歌謡曲"
+      "J-POP"
     ],
     "status": "published",
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
-    "color": "#f37e00"
+    "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-65",
     "name": "Appare!",
     "ruby": "あっぱれ",
     "kana": "アッパレ",
     "romaji": "appare!",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PLCfK",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Appare!の代表曲をまとめた公式のプレイリスト「This Is Appare!」",
     "tags": [
@@ -1170,12 +1216,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-66",
     "name": "アップアップガールズ(仮)",
     "ruby": "あっぷあっぷがーるずかっこかり",
     "kana": "アップアップガールズカッコカリ",
     "romaji": "upupgirlskakkokari",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Ff6Q5",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アップアップガールズ(仮)の代表曲をまとめた公式のプレイリスト「This Is アップアップガールズ(仮)」",
     "tags": [
@@ -1188,12 +1235,13 @@
     "color": "#f036a4"
   },
   {
-    "id": "",
+    "id": "artist-67",
     "name": "アップアップガールズ(2)",
     "ruby": "あっぷあっぷがーるずかっこにき",
     "kana": "アップアップガールズカッコニキ",
     "romaji": "upupgirlskakkoniki",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RwsYp",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アップアップガールズ(2)の代表曲をまとめた公式のプレイリスト「This Is アップアップガールズ(2)」",
     "tags": [
@@ -1206,12 +1254,13 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-68",
     "name": "渥美二郎",
     "ruby": "あつみじろう",
     "kana": "アツミジロウ",
     "romaji": "atsumijiro",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0TDqdY",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "渥美二郎の代表曲をまとめた公式のプレイリスト「This Is 渥美二郎」",
     "tags": [
@@ -1224,12 +1273,32 @@
     "color": "#fde54f"
   },
   {
-    "id": "",
+    "id": "artist-64",
+    "name": "梓みちよ",
+    "ruby": "あづさみちよ",
+    "kana": "アヅサミチヨ",
+    "romaji": "azusamichiyo",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mHC7g",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "梓みちよの代表曲をまとめた公式のプレイリスト「This Is 梓みちよ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#f37e00"
+  },
+  {
+    "id": "artist-69",
     "name": "adieu",
     "ruby": "あでゅー",
     "kana": "アデュー",
     "romaji": "adieu",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BVY2g",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "adieuの代表曲をまとめた公式のプレイリスト「This Is adieu」",
     "tags": [
@@ -1242,12 +1311,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-70",
     "name": "Ado",
     "ruby": "あど",
     "kana": "アド",
     "romaji": "ado",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KZGYU",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Adoの代表曲をまとめた公式のプレイリスト「This Is Ado」",
     "tags": [
@@ -1260,12 +1330,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-71",
     "name": "A夏目",
     "ruby": "あなつめ",
     "kana": "アナツメ",
     "romaji": "a-natsume",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yyprB",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "A夏目の代表曲をまとめた公式のプレイリスト「This Is A夏目」",
     "tags": [
@@ -1278,12 +1349,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-72",
     "name": "ano",
     "ruby": "あの",
     "kana": "アノ",
     "romaji": "ano",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4zlze9",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "anoの代表曲をまとめた公式のプレイリスト「This Is ano」",
     "tags": [
@@ -1296,12 +1368,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-73",
     "name": "安倍なつみ",
     "ruby": "あべなつみ",
     "kana": "アベナツミ",
     "romaji": "abenatsumi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1xpsPi",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "安倍なつみの代表曲をまとめた公式のプレイリスト「This Is 安倍なつみ」",
     "tags": [
@@ -1314,12 +1387,13 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-74",
     "name": "阿部真央",
     "ruby": "あべまお",
     "kana": "アベマオ",
     "romaji": "abemao",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32fWEw",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "阿部真央の代表曲をまとめた公式のプレイリスト「This Is 阿部真央」",
     "tags": [
@@ -1332,12 +1406,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-75",
     "name": "安部恭弘",
     "ruby": "あべやすひろ",
     "kana": "アベヤスヒロ",
     "romaji": "abeyasuhiro",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32TIiD",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "安部恭弘の代表曲をまとめた公式のプレイリスト「This Is 安部恭弘」",
     "tags": [
@@ -1350,12 +1425,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-76",
     "name": "APOLLO",
     "ruby": "あぽろ",
     "kana": "アポロ",
     "romaji": "apollo",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2inwKV",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "APOLLOの代表曲をまとめた公式のプレイリスト「This Is APOLLO」",
     "tags": [
@@ -1368,12 +1444,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-77",
     "name": "amazarashi",
     "ruby": "あまざらし",
     "kana": "アマザラシ",
     "romaji": "amazarashi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO44v4Aq",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "amazarashiの代表曲をまとめた公式のプレイリスト「This Is amazarashi」",
     "tags": [
@@ -1386,12 +1463,13 @@
     "color": "#f036a5"
   },
   {
-    "id": "",
+    "id": "artist-78",
     "name": "天地真理",
     "ruby": "あまちまり",
     "kana": "アマチマリ",
     "romaji": "amachimari",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mwv4n",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "天地真理の代表曲をまとめた公式のプレイリスト「This Is 天地真理」",
     "tags": [
@@ -1404,12 +1482,13 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-79",
     "name": "天月",
     "ruby": "あまつき",
     "kana": "アマツキ",
     "romaji": "amatsuki",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v4em4",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "天月の代表曲をまとめた公式のプレイリスト「This Is 天月」",
     "tags": [
@@ -1422,12 +1501,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-80",
     "name": "天野月",
     "ruby": "あまのつき",
     "kana": "アマノツキ",
     "romaji": "amanotsuki",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4l3zEh",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "天野月の代表曲をまとめた公式のプレイリスト「This Is 天野月」",
     "tags": [
@@ -1440,12 +1520,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-81",
     "name": "雨良",
     "ruby": "あまら",
     "kana": "アマラ",
     "romaji": "amara",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0nKQG9",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "雨良の代表曲をまとめた公式のプレイリスト「This Is 雨良」",
     "tags": [
@@ -1458,12 +1539,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-82",
     "name": "あみん",
     "ruby": "あみん",
     "kana": "アミン",
     "romaji": "amin",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vPAJT",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "あみんの代表曲をまとめた公式のプレイリスト「This Is あみん」",
     "tags": [
@@ -1476,12 +1558,13 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-83",
     "name": "AMEFURASSHI",
     "ruby": "あめふらっし",
     "kana": "アメフラッシ",
     "romaji": "amefurasshi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22jxC2",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "AMEFURASSHIの代表曲をまとめた公式のプレイリスト「This Is AMEFURASSHI」",
     "tags": [
@@ -1494,12 +1577,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-84",
     "name": "AYA a.k.a. PANDA",
     "ruby": "あやえーけーえーぱんだ",
     "kana": "アヤエーケーエーパンダ",
     "romaji": "ayaa.k.a.panda",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Xgzjc",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "AYA a.k.a. PANDAの代表曲をまとめた公式のプレイリスト「This Is AYA a.k.a. PANDA」",
     "tags": [
@@ -1512,12 +1596,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-85",
     "name": "絢香",
     "ruby": "あやか",
     "kana": "アヤカ",
     "romaji": "ayaka",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19K0u3",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "絢香の代表曲をまとめた公式のプレイリスト「This Is 絢香」",
     "tags": [
@@ -1530,12 +1615,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-86",
     "name": "Ayase",
     "ruby": "あやせ",
     "kana": "アヤセ",
     "romaji": "ayase",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13pcY2",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Ayaseの代表曲をまとめた公式のプレイリスト「This Is Ayase」",
     "tags": [
@@ -1548,12 +1634,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-87",
     "name": "AYANE",
     "ruby": "あやね",
     "kana": "アヤネ",
     "romaji": "ayane",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1T3nuH",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "AYANEの代表曲をまとめた公式のプレイリスト「This Is AYANE」",
     "tags": [
@@ -1566,12 +1653,13 @@
     "color": "#ffc863"
   },
   {
-    "id": "",
+    "id": "artist-88",
     "name": "鮎川麻弥",
     "ruby": "あゆかわまみ",
     "kana": "アユカワマミ",
     "romaji": "ayukawamami",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0yKNY5",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "鮎川麻弥の代表曲をまとめた公式のプレイリスト「This Is 鮎川麻弥」",
     "tags": [
@@ -1584,12 +1672,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-89",
     "name": "荒井由実",
     "ruby": "あらいゆみ",
     "kana": "アライユミ",
     "romaji": "araiyumi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v1KUM",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "荒井由実の代表曲をまとめた公式のプレイリスト「This Is 荒井由実」",
     "tags": [
@@ -1602,12 +1691,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-90",
     "name": "新垣結衣",
     "ruby": "あらがきゆい",
     "kana": "アラガキユイ",
     "romaji": "aragakiyui",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xtOXC",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "新垣結衣の代表曲をまとめた公式のプレイリスト「This Is 新垣結衣」",
     "tags": [
@@ -1620,12 +1710,13 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-91",
     "name": "荒木一郎",
     "ruby": "あらきいちろう",
     "kana": "アラキイチロウ",
     "romaji": "arakiichiro",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vKmSx",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "荒木一郎の代表曲をまとめた公式のプレイリスト「This Is 荒木一郎」",
     "tags": [
@@ -1638,12 +1729,13 @@
     "color": "#fde54f"
   },
   {
-    "id": "",
+    "id": "artist-92",
     "name": "嵐",
     "ruby": "あらし",
     "kana": "アラシ",
     "romaji": "arashi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO16Vg9v",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "嵐の代表曲をまとめた公式のプレイリスト「This Is 嵐」",
     "tags": [
@@ -1656,12 +1748,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-93",
     "name": "RSP",
     "ruby": "あーるえすぴー",
     "kana": "アールエスピー",
     "romaji": "rsp",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qa6go",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "RSPの代表曲をまとめた公式のプレイリスト「This Is RSP」",
     "tags": [
@@ -1674,12 +1767,13 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-94",
     "name": "ARCANA PROJECT",
     "ruby": "あるかなぷろじぇくと",
     "kana": "アルカナプロジェクト",
     "romaji": "arcanaproject",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LtqUA",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "ARCANA PROJECTの代表曲をまとめた公式のプレイリスト「This Is ARCANA PROJECT」",
     "tags": [
@@ -1692,12 +1786,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-95",
     "name": "アルカラ",
     "ruby": "あるから",
     "kana": "アルカラ",
     "romaji": "arukara",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO28B0oW",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アルカラの代表曲をまとめた公式のプレイリスト「This Is アルカラ」",
     "tags": [
@@ -1710,12 +1805,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-96",
     "name": "RCサクセション",
     "ruby": "あーるしーさくせしょん",
     "kana": "アールシーサクセション",
     "romaji": "rcsuccession",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0QkD6O",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "RCサクセションの代表曲をまとめた公式のプレイリスト「This Is RCサクセション」",
     "tags": [
@@ -1728,12 +1824,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-97",
     "name": "[Alexandros]",
     "ruby": "あれきさんどろす",
     "kana": "アレキサンドロス",
     "romaji": "alexandros",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JLqnD",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "[Alexandros]の代表曲をまとめた公式のプレイリスト「This Is [Alexandros]」",
     "tags": [
@@ -1746,12 +1843,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-98",
     "name": "杏",
     "ruby": "あん",
     "kana": "アン",
     "romaji": "anne",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ve4Ow",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "杏の代表曲をまとめた公式のプレイリスト「This Is 杏」",
     "tags": [
@@ -1764,12 +1862,13 @@
     "color": "#ffc863"
   },
   {
-    "id": "",
+    "id": "artist-99",
     "name": "安斉かれん",
     "ruby": "あんざいかれん",
     "kana": "アンザイカレン",
     "romaji": "anzaikalen",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CWBdt",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "安斉かれんの代表曲をまとめた公式のプレイリスト「This Is 安斉かれん」",
     "tags": [
@@ -1782,12 +1881,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-100",
     "name": "angela",
     "ruby": "あんじぇら",
     "kana": "アンジェラ",
     "romaji": "angela",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1B29M1",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "angelaの代表曲をまとめた公式のプレイリスト「This Is angela」",
     "tags": [
@@ -1800,12 +1900,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-101",
     "name": "アンジェラ・アキ",
     "ruby": "あんじぇらあき",
     "kana": "アンジェラアキ",
     "romaji": "angelaaki",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4jDXw1",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アンジェラ・アキの代表曲をまとめた公式のプレイリスト「This Is アンジェラ・アキ」",
     "tags": [
@@ -1818,12 +1919,13 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-102",
     "name": "アンジュルム",
     "ruby": "あんじゅるむ",
     "kana": "アンジュルム",
     "romaji": "angerme",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PPHle",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アンジュルムの代表曲をまとめた公式のプレイリスト「This Is アンジュルム」",
     "tags": [
@@ -1836,12 +1938,13 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-103",
     "name": "安全地帯",
     "ruby": "あんぜんちたい",
     "kana": "アンゼンチタイ",
     "romaji": "anzenchitai",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO27Rz68",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "安全地帯の代表曲をまとめた公式のプレイリスト「This Is 安全地帯」",
     "tags": [
@@ -1854,12 +1957,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-104",
     "name": "アンダーグラフ",
     "ruby": "あんだーぐらふ",
     "kana": "アンダーグラフ",
     "romaji": "undergraph",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1CxPsX",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アンダーグラフの代表曲をまとめた公式のプレイリスト「This Is アンダーグラフ」",
     "tags": [
@@ -1872,12 +1976,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-105",
     "name": "androp",
     "ruby": "あんどろっぷ",
     "kana": "アンドロップ",
     "romaji": "androp",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mxMLk",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "andropの代表曲をまとめた公式のプレイリスト「This Is androp」",
     "tags": [
@@ -1890,30 +1995,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
-    "name": "杏里",
-    "ruby": "あんり",
-    "kana": "アンリ",
-    "romaji": "anri",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fN0QF",
-    "official_site": null,
-    "description": "杏里の代表曲をまとめた公式のプレイリスト「This Is 杏里」",
-    "tags": [
-      "女性ボーカル/ソロ",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#95c90d"
-  },
-  {
-    "id": "",
+    "id": "artist-107",
     "name": "Anly",
     "ruby": "あんり",
     "kana": "アンリ",
     "romaji": "anly",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3gXeJq",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Anlyの代表曲をまとめた公式のプレイリスト「This Is Anly」",
     "tags": [
@@ -1926,12 +2014,32 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-106",
+    "name": "杏里",
+    "ruby": "あんり",
+    "kana": "アンリ",
+    "romaji": "anri",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fN0QF",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "杏里の代表曲をまとめた公式のプレイリスト「This Is 杏里」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#95c90d"
+  },
+  {
+    "id": "artist-108",
     "name": "アン・ルイス",
     "ruby": "あんるいす",
     "kana": "アンルイス",
     "romaji": "annlewis",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kFvOL",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "アン・ルイスの代表曲をまとめた公式のプレイリスト「This Is アン・ルイス」",
     "tags": [
@@ -1944,12 +2052,13 @@
     "color": "#ffc863"
   },
   {
-    "id": "",
+    "id": "artist-109",
     "name": "飯島真理",
     "ruby": "いいじままり",
     "kana": "イイジママリ",
     "romaji": "iijimamari",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03vTjT",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "飯島真理の代表曲をまとめた公式のプレイリスト「This Is 飯島真理」",
     "tags": [
@@ -1962,12 +2071,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-110",
     "name": "家入レオ",
     "ruby": "いえいりれお",
     "kana": "イエイリレオ",
     "romaji": "ieirileo",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO16J7Lu",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "家入レオの代表曲をまとめた公式のプレイリスト「This Is 家入レオ」",
     "tags": [
@@ -1980,12 +2090,13 @@
     "color": "#f036a5"
   },
   {
-    "id": "",
+    "id": "artist-111",
     "name": "YeLLOW Generation",
     "ruby": "いえろーじぇねれーしょん",
     "kana": "イエロージェネレーション",
     "romaji": "yellowgeneration",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ybSKZ",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "YeLLOW Generationの代表曲をまとめた公式のプレイリスト「This Is YeLLOW Generation」",
     "tags": [
@@ -1998,12 +2109,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-112",
     "name": "¥ellow Bucks",
     "ruby": "いえろーばっくす",
     "kana": "イエローバックス",
     "romaji": "¥ellowbucks",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0VDrhv",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "¥ellow Bucksの代表曲をまとめた公式のプレイリスト「This Is ¥ellow Bucks」",
     "tags": [
@@ -2016,12 +2128,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-113",
     "name": "Yellow Magic Orchestra",
     "ruby": "いえろーまじっくおーけすとら",
     "kana": "イエローマジックオーケストラ",
     "romaji": "yellowmagicorchestra",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1zDOLg",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Yellow Magic Orchestraの代表曲をまとめた公式のプレイリスト「This Is Yellow Magic Orchestra」",
     "tags": [
@@ -2034,12 +2147,13 @@
     "color": "#f036a4"
   },
   {
-    "id": "",
+    "id": "artist-114",
     "name": "YEN TOWN BAND",
     "ruby": "いえんたうんばんど",
     "kana": "イエンタウンバンド",
     "romaji": "yentownband",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BfTyi",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "YEN TOWN BANDの代表曲をまとめた公式のプレイリスト「This Is YEN TOWN BAND」",
     "tags": [
@@ -2052,12 +2166,13 @@
     "color": "#fde54f"
   },
   {
-    "id": "",
+    "id": "artist-115",
     "name": "IOSYS",
     "ruby": "いおしす",
     "kana": "イオシス",
     "romaji": "iosys",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lBZPs",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "IOSYSの代表曲をまとめた公式のプレイリスト「This Is IOSYS」",
     "tags": [
@@ -2070,12 +2185,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-116",
     "name": "五十嵐浩晃",
     "ruby": "いがらしひろあき",
     "kana": "イガラシヒロアキ",
     "romaji": "igarashihiroaki",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3IuBoJ",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "五十嵐浩晃の代表曲をまとめた公式のプレイリスト「This Is 五十嵐浩晃」",
     "tags": [
@@ -2088,12 +2204,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-117",
     "name": "E-girls",
     "ruby": "いーがーるず",
     "kana": "イーガールズ",
     "romaji": "e-girls",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3UG6SM",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "E-girlsの代表曲をまとめた公式のプレイリスト「This Is E-girls」",
     "tags": [
@@ -2106,30 +2223,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
-    "name": "いぎなり東北産",
-    "ruby": "いぎなりとうほくさん",
-    "kana": "イギナリトウホクサン",
-    "romaji": "iginaritohokusan",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YfVRu",
-    "official_site": null,
-    "description": "いぎなり東北産の代表曲をまとめた公式のプレイリスト「This Is いぎなり東北産」",
-    "tags": [
-      "女性グループ/ユニット",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#e4ac89"
-  },
-  {
-    "id": "",
+    "id": "artist-119",
     "name": "いきものがかり",
     "ruby": "いきものがかり",
     "kana": "イキモノガカリ",
     "romaji": "ikimonogakari",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wnJH4",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "いきものがかりの代表曲をまとめた公式のプレイリスト「This Is いきものがかり」",
     "tags": [
@@ -2142,12 +2242,32 @@
     "color": "#fde54f"
   },
   {
-    "id": "",
+    "id": "artist-118",
+    "name": "いぎなり東北産",
+    "ruby": "いぎなりとうほくさん",
+    "kana": "イギナリトウホクサン",
+    "romaji": "iginaritohokusan",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YfVRu",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "いぎなり東北産の代表曲をまとめた公式のプレイリスト「This Is いぎなり東北産」",
+    "tags": [
+      "女性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#e4ac89"
+  },
+  {
+    "id": "artist-120",
     "name": "生田絵梨花",
     "ruby": "いくたえりか",
     "kana": "イクタエリカ",
     "romaji": "ikutaerika",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0LFPr4",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "生田絵梨花の代表曲をまとめた公式のプレイリスト「This Is 生田絵梨花」",
     "tags": [
@@ -2160,12 +2280,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-121",
     "name": "幾田りら",
     "ruby": "いくたりら",
     "kana": "イクタリラ",
     "romaji": "ikutalilas",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MWcnf",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "幾田りらの代表曲をまとめた公式のプレイリスト「This Is 幾田りら」",
     "tags": [
@@ -2178,12 +2299,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-122",
     "name": "イクマあきら",
     "ruby": "いくまあきら",
     "kana": "イクマアキラ",
     "romaji": "ikumaakira",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aATh8",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "イクマあきらの代表曲をまとめた公式のプレイリスト「This Is イクマあきら」",
     "tags": [
@@ -2196,12 +2318,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-123",
     "name": "池田聡",
     "ruby": "いけださとし",
     "kana": "イケダサトシ",
     "romaji": "ikedasatoshi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO46sOSU",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "池田聡の代表曲をまとめた公式のプレイリスト「This Is 池田聡」",
     "tags": [
@@ -2214,12 +2337,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-124",
     "name": "=LOVE",
     "ruby": "いこーるらぶ",
     "kana": "イコールラブ",
     "romaji": "=love",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ii17q",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "=LOVEの代表曲をまとめた公式のプレイリスト「This Is =LOVE」",
     "tags": [
@@ -2232,12 +2356,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-125",
     "name": "石井明美",
     "ruby": "いしいあけみ",
     "kana": "イシイアケミ",
     "romaji": "ishiiakemi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0S7VAY",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "石井明美の代表曲をまとめた公式のプレイリスト「This Is 石井明美」",
     "tags": [
@@ -2250,12 +2375,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-126",
     "name": "石川さゆり",
     "ruby": "いしかわさゆり",
     "kana": "イシカワサユリ",
     "romaji": "ishikawasayuri",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ORBYV",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "石川さゆりの代表曲をまとめた公式のプレイリスト「This Is 石川さゆり」",
     "tags": [
@@ -2268,12 +2394,13 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-127",
     "name": "石川智晶",
     "ruby": "いしかわちあき",
     "kana": "イシカワチアキ",
     "romaji": "ishikawachiaki",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RjhWU",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "石川智晶の代表曲をまとめた公式のプレイリスト「This Is 石川智晶」",
     "tags": [
@@ -2286,12 +2413,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-128",
     "name": "石川ひとみ",
     "ruby": "いしかわひとみ",
     "kana": "イシカワヒトミ",
     "romaji": "ishikawahitomi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FoGAk",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "石川ひとみの代表曲をまとめた公式のプレイリスト「This Is 石川ひとみ」",
     "tags": [
@@ -2304,12 +2432,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-129",
     "name": "石崎ひゅーい",
     "ruby": "いしざきひゅーい",
     "kana": "イシザキヒューイ",
     "romaji": "ishizakihuwie",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OPzBS",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "石崎ひゅーいの代表曲をまとめた公式のプレイリスト「This Is 石崎ひゅーい」",
     "tags": [
@@ -2322,12 +2451,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-130",
     "name": "いしだあゆみ",
     "ruby": "いしだあゆみ",
     "kana": "イシダアユミ",
     "romaji": "ishidaayumi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2094He",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "いしだあゆみの代表曲をまとめた公式のプレイリスト「This Is いしだあゆみ」",
     "tags": [
@@ -2340,12 +2470,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-131",
     "name": "石田燿子",
     "ruby": "いしだようこ",
     "kana": "イシダヨウコ",
     "romaji": "ishidayoko",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bseLn",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "石田燿子の代表曲をまとめた公式のプレイリスト「This Is 石田燿子」",
     "tags": [
@@ -2358,12 +2489,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-132",
     "name": "石野真子",
     "ruby": "いしのまこ",
     "kana": "イシノマコ",
     "romaji": "ishinomako",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3sMFXZ",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "石野真子の代表曲をまとめた公式のプレイリスト「This Is 石野真子」",
     "tags": [
@@ -2376,12 +2508,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-133",
     "name": "石原裕次郎",
     "ruby": "いしはらゆうじろう",
     "kana": "イシハラユウジロウ",
     "romaji": "ishiharayujiro",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2E9zb4",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "石原裕次郎の代表曲をまとめた公式のプレイリスト「This Is 石原裕次郎」",
     "tags": [
@@ -2394,12 +2527,13 @@
     "color": "#ffc863"
   },
   {
-    "id": "",
+    "id": "artist-134",
     "name": "石嶺聡子",
     "ruby": "いしみねさとこ",
     "kana": "イシミネサトコ",
     "romaji": "ishiminesatoko",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42dnWz",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "石嶺聡子の代表曲をまとめた公式のプレイリスト「This Is 石嶺聡子」",
     "tags": [
@@ -2412,12 +2546,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-135",
     "name": "izna",
     "ruby": "いずな",
     "kana": "イズナ",
     "romaji": "izna",
     "url": null,
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "iznaの代表曲をまとめた公式のプレイリスト「This Is izna」",
     "tags": [
@@ -2430,12 +2565,13 @@
     "color": "#e935b0"
   },
   {
-    "id": "",
+    "id": "artist-136",
     "name": "泉谷しげる",
     "ruby": "いずみやしげる",
     "kana": "イズミヤシゲル",
     "romaji": "izumiyashigeru",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1fKxZJ",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "泉谷しげるの代表曲をまとめた公式のプレイリスト「This Is 泉谷しげる」",
     "tags": [
@@ -2448,12 +2584,13 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-137",
     "name": "板野友美",
     "ruby": "いたのともみ",
     "kana": "イタノトモミ",
     "romaji": "itanotomomi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KF2ck",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "板野友美の代表曲をまとめた公式のプレイリスト「This Is 板野友美」",
     "tags": [
@@ -2466,12 +2603,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-138",
     "name": "市川由紀乃",
     "ruby": "いちかわゆきの",
     "kana": "イチカワユキノ",
     "romaji": "ichikawayukino",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO005fZ7",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "市川由紀乃の代表曲をまとめた公式のプレイリスト「This Is 市川由紀乃」",
     "tags": [
@@ -2484,12 +2622,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-139",
     "name": "164",
     "ruby": "いちろくよん",
     "kana": "イチロクヨン",
     "romaji": "164",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Ap3vW",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "164の代表曲をまとめた公式のプレイリスト「This Is 164」",
     "tags": [
@@ -2502,30 +2641,13 @@
     "color": "#f036a4"
   },
   {
-    "id": "",
-    "name": "五木ひろし",
-    "ruby": "いつきひろし",
-    "kana": "イツキヒロシ",
-    "romaji": "itsukihiroshi",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0CNwpO",
-    "official_site": null,
-    "description": "五木ひろしの代表曲をまとめた公式のプレイリスト「This Is 五木ひろし」",
-    "tags": [
-      "男性ボーカル/ソロ",
-      "演歌"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#f89bd2"
-  },
-  {
-    "id": "",
+    "id": "artist-141",
     "name": "IS:SUE",
     "ruby": "いっしゅ",
     "kana": "イッシュ",
     "romaji": "is:sue",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xyw7j",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "IS:SUEの代表曲をまとめた公式のプレイリスト「This Is IS:SUE」",
     "tags": [
@@ -2538,12 +2660,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-142",
     "name": "弌誠",
     "ruby": "いっせい",
     "kana": "イッセイ",
     "romaji": "issei",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO41kJ9L",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "弌誠の代表曲をまとめた公式のプレイリスト「This Is 弌誠」",
     "tags": [
@@ -2556,12 +2679,13 @@
     "color": "#fde54f"
   },
   {
-    "id": "",
+    "id": "artist-143",
     "name": "ITZY",
     "ruby": "いっち",
     "kana": "イッチ",
     "romaji": "itzy",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DX7ZHn4SQHDIn",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "ITZYの代表曲をまとめた公式のプレイリスト「This Is ITZY」",
     "tags": [
@@ -2574,12 +2698,13 @@
     "color": "#a9c361"
   },
   {
-    "id": "",
+    "id": "artist-144",
     "name": "一風堂",
     "ruby": "いっぷうどう",
     "kana": "イップウドウ",
     "romaji": "ippu-do",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Osb85",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "一風堂の代表曲をまとめた公式のプレイリスト「This Is 一風堂」",
     "tags": [
@@ -2592,12 +2717,32 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-140",
+    "name": "五木ひろし",
+    "ruby": "いつきひろし",
+    "kana": "イツキヒロシ",
+    "romaji": "itsukihiroshi",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0CNwpO",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "五木ひろしの代表曲をまとめた公式のプレイリスト「This Is 五木ひろし」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#f89bd2"
+  },
+  {
+    "id": "artist-145",
     "name": "五輪真弓",
     "ruby": "いつわまゆみ",
     "kana": "イツワマユミ",
     "romaji": "itsuwamayumi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mxfnO",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "五輪真弓の代表曲をまとめた公式のプレイリスト「This Is 五輪真弓」",
     "tags": [
@@ -2610,12 +2755,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-146",
     "name": "いとうかなこ",
     "ruby": "いとうかなこ",
     "kana": "イトウカナコ",
     "romaji": "itokanako",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1fXXtm",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "いとうかなこの代表曲をまとめた公式のプレイリスト「This Is いとうかなこ」",
     "tags": [
@@ -2628,12 +2774,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-147",
     "name": "伊藤咲子",
     "ruby": "いとうさきこ",
     "kana": "イトウサキコ",
     "romaji": "itosakiko",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3LikLh",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "伊藤咲子の代表曲をまとめた公式のプレイリスト「This Is 伊藤咲子」",
     "tags": [
@@ -2646,12 +2793,13 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-148",
     "name": "伊藤さやか",
     "ruby": "いとうさやか",
     "kana": "イトウサヤカ",
     "romaji": "itosayaka",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3LEodL",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "伊藤さやかの代表曲をまとめた公式のプレイリスト「This Is 伊藤さやか」",
     "tags": [
@@ -2664,12 +2812,13 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-149",
     "name": "伊東ゆかり",
     "ruby": "いとうゆかり",
     "kana": "イトウユカリ",
     "romaji": "itoyukari",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ax4A0",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "伊東ゆかりの代表曲をまとめた公式のプレイリスト「This Is 伊東ゆかり」",
     "tags": [
@@ -2682,12 +2831,13 @@
     "color": "#f036a4"
   },
   {
-    "id": "",
+    "id": "artist-150",
     "name": "伊藤由奈",
     "ruby": "いとうゆな",
     "kana": "イトウユナ",
     "romaji": "itoyuna",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gqzSM",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "伊藤由奈の代表曲をまとめた公式のプレイリスト「This Is 伊藤由奈」",
     "tags": [
@@ -2700,12 +2850,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-151",
     "name": "伊藤蘭",
     "ruby": "いとうらん",
     "kana": "イトウラン",
     "romaji": "itoran",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MWHPh",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "伊藤蘭の代表曲をまとめた公式のプレイリスト「This Is 伊藤蘭」",
     "tags": [
@@ -2718,12 +2869,13 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-152",
     "name": "稲垣潤一",
     "ruby": "いながきじゅんいち",
     "kana": "イナガキジュンイチ",
     "romaji": "inagakijunichi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4qI3hO",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "稲垣潤一の代表曲をまとめた公式のプレイリスト「This Is 稲垣潤一」",
     "tags": [
@@ -2736,12 +2888,13 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-153",
     "name": "175R",
     "ruby": "いなごらいだー",
     "kana": "イナゴライダー",
     "romaji": "175r",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2l4Ius",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "175Rの代表曲をまとめた公式のプレイリスト「This Is 175R」",
     "tags": [
@@ -2754,12 +2907,13 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-154",
     "name": "因幡晃",
     "ruby": "いなばあきら",
     "kana": "イナバアキラ",
     "romaji": "inabaakira",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0O0ta2",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "因幡晃の代表曲をまとめた公式のプレイリスト「This Is 因幡晃」",
     "tags": [
@@ -2772,12 +2926,13 @@
     "color": "#ffc863"
   },
   {
-    "id": "",
+    "id": "artist-155",
     "name": "井上あずみ",
     "ruby": "いのうえあずみ",
     "kana": "イノウエアズミ",
     "romaji": "inoueazumi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1WudlC",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "井上あずみの代表曲をまとめた公式のプレイリスト「This Is 井上あずみ」",
     "tags": [
@@ -2790,12 +2945,13 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-156",
     "name": "井上苑子",
     "ruby": "いのうえそのこ",
     "kana": "イノウエソノコ",
     "romaji": "inouesonoko",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49rDLP",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "井上苑子の代表曲をまとめた公式のプレイリスト「This Is 井上苑子」",
     "tags": [
@@ -2808,12 +2964,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-157",
     "name": "井上大輔",
     "ruby": "いのうえだいすけ",
     "kana": "イノウエダイスケ",
     "romaji": "inouedaisuke",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VOpUM",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "井上大輔の代表曲をまとめた公式のプレイリスト「This Is 井上大輔」",
     "tags": [
@@ -2826,12 +2983,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-158",
     "name": "井上陽水",
     "ruby": "いのうえようすい",
     "kana": "イノウエヨウスイ",
     "romaji": "inoueyosui",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2HwrzW",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "井上陽水の代表曲をまとめた公式のプレイリスト「This Is 井上陽水」",
     "tags": [
@@ -2844,12 +3002,13 @@
     "color": "#f89bd2"
   },
   {
-    "id": "",
+    "id": "artist-159",
     "name": "井上芳雄",
     "ruby": "いのうえよしお",
     "kana": "イノウエヨシオ",
     "romaji": "inoueyoshio",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uAjZL",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "井上芳雄の代表曲をまとめた公式のプレイリスト「This Is 井上芳雄」",
     "tags": [
@@ -2862,12 +3021,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-160",
     "name": "Eve",
     "ruby": "いぶ",
     "kana": "イブ",
     "romaji": "eve",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO316IZa",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Eveの代表曲をまとめた公式のプレイリスト「This Is Eve」",
     "tags": [
@@ -2880,12 +3040,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-161",
     "name": "EPEX",
     "ruby": "いぺっくす",
     "kana": "イペックス",
     "romaji": "epex",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tcd2y",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "EPEXの代表曲をまとめた公式のプレイリスト「This Is EPEX」",
     "tags": [
@@ -2898,12 +3059,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-162",
     "name": "今井美樹",
     "ruby": "いまいみき",
     "kana": "イマイミキ",
     "romaji": "Imai Miki",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3AlKLy",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "今井美樹の代表曲をまとめた公式のプレイリスト「This Is 今井美樹」",
     "tags": [
@@ -2916,12 +3078,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-163",
     "name": "今井優子",
     "ruby": "いまいゆうこ",
     "kana": "イマイユウコ",
     "romaji": "imaiyuko",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VjSa4",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "今井優子の代表曲をまとめた公式のプレイリスト「This Is 今井優子」",
     "tags": [
@@ -2934,12 +3097,13 @@
     "color": "#ffc862"
   },
   {
-    "id": "",
+    "id": "artist-164",
     "name": "imase",
     "ruby": "いませ",
     "kana": "イマセ",
     "romaji": "imase",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RWBWx",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "imaseの代表曲をまとめた公式のプレイリスト「This Is imase」",
     "tags": [
@@ -2952,12 +3116,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-165",
     "name": "いよわ",
     "ruby": "いよわ",
     "kana": "イヨワ",
     "romaji": "iyowa",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Go38A",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "いよわの代表曲をまとめた公式のプレイリスト「This Is いよわ」",
     "tags": [
@@ -2970,12 +3135,13 @@
     "color": "#f036a4"
   },
   {
-    "id": "",
+    "id": "artist-166",
     "name": "iri",
     "ruby": "いり",
     "kana": "イリ",
     "romaji": "iri",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0KxYOR",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "iriの代表曲をまとめた公式のプレイリスト「This Is iri」",
     "tags": [
@@ -2988,12 +3154,13 @@
     "color": "#f37e00"
   },
   {
-    "id": "",
+    "id": "artist-167",
     "name": "illion",
     "ruby": "いりおん",
     "kana": "イリオン",
     "romaji": "illion",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42aqlV",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "illionの代表曲をまとめた公式のプレイリスト「This Is illion」",
     "tags": [
@@ -3006,12 +3173,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-168",
     "name": "イルカ",
     "ruby": "いるか",
     "kana": "イルカ",
     "romaji": "iruka",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pyqyY",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "イルカの代表曲をまとめた公式のプレイリスト「This Is イルカ」",
     "tags": [
@@ -3024,12 +3192,13 @@
     "color": "#16d1a6"
   },
   {
-    "id": "",
+    "id": "artist-169",
     "name": "いれいす",
     "ruby": "いれいす",
     "kana": "イレイス",
     "romaji": "ireisu",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0978eB",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "いれいすの代表曲をまとめた公式のプレイリスト「This Is いれいす」",
     "tags": [
@@ -3042,12 +3211,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-170",
     "name": "岩崎宏美",
     "ruby": "いわさきひろみ",
     "kana": "イワサキヒロミ",
     "romaji": "iwasakihiromi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4hezA8",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "岩崎宏美の代表曲をまとめた公式のプレイリスト「This Is 岩崎宏美」",
     "tags": [
@@ -3060,12 +3230,13 @@
     "color": "#ff7163"
   },
   {
-    "id": "",
+    "id": "artist-171",
     "name": "岩崎良美",
     "ruby": "いわさきよしみ",
     "kana": "イワサキヨシミ",
     "romaji": "iwasakiyoshimi",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mfSWJ",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "岩崎良美の代表曲をまとめた公式のプレイリスト「This Is 岩崎良美」",
     "tags": [
@@ -3078,12 +3249,13 @@
     "color": "#fea42a"
   },
   {
-    "id": "",
+    "id": "artist-172",
     "name": "indigo la End",
     "ruby": "いんでぃごらえんど",
     "kana": "インディゴラエンド",
     "romaji": "indigolaend",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1clwyD",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "indigo la Endの代表曲をまとめた公式のプレイリスト「This Is indigo la End」",
     "tags": [
@@ -3096,12 +3268,13 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-173",
     "name": "INFINITY16",
     "ruby": "いんふぃにてぃしっくすてぃーん",
     "kana": "インフィニティシックスティーン",
     "romaji": "infinity16",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36AtSQ",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "INFINITY16の代表曲をまとめた公式のプレイリスト「This Is INFINITY16」",
     "tags": [
@@ -3114,12 +3287,13 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-174",
     "name": "UA",
     "ruby": "うーあ",
     "kana": "ウーア",
     "romaji": "ua",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2n8l8F",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "UAの代表曲をまとめた公式のプレイリスト「This Is UA」",
     "tags": [
@@ -3132,48 +3306,13 @@
     "color": "#ffc863"
   },
   {
-    "id": "",
-    "name": "VAMPS",
-    "ruby": "ゔぁんぷす/ばんぷす",
-    "kana": "ヴァンプス/バンプス",
-    "romaji": "vamps",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0dRAyu",
-    "official_site": null,
-    "description": "VAMPSの代表曲をまとめた公式のプレイリスト「This Is VAMPS」",
-    "tags": [
-      "デュオ/ペア",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#fde54f"
-  },
-  {
-    "id": "",
-    "name": "vividboooy",
-    "ruby": "ゔぃゔぃっどぼーい/びびっどぼーい",
-    "kana": "ヴィヴィッドボーイ/ビビッドボーイ",
-    "romaji": "vividboooy",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1y8PTC",
-    "official_site": null,
-    "description": "vividboooyの代表曲をまとめた公式のプレイリスト「This Is vividboooy」",
-    "tags": [
-      "男性ボーカル/ソロ",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#fea42a"
-  },
-  {
-    "id": "",
+    "id": "artist-177",
     "name": "WINNER",
     "ruby": "うぃなー",
     "kana": "ウィナー",
     "romaji": "winner",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jOBhe",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "WINNERの代表曲をまとめた公式のプレイリスト「This Is WINNER」",
     "tags": [
@@ -3186,12 +3325,13 @@
     "color": "#f47e00"
   },
   {
-    "id": "",
+    "id": "artist-178",
     "name": "WEAVER",
     "ruby": "うぃーばー",
     "kana": "ウィーバー",
     "romaji": "weaver",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bNodg",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "WEAVERの代表曲をまとめた公式のプレイリスト「This Is WEAVER」",
     "tags": [
@@ -3204,12 +3344,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-179",
     "name": "Wink",
     "ruby": "うぃんく",
     "kana": "ウィンク",
     "romaji": "wink",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mPmHi",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Winkの代表曲をまとめた公式のプレイリスト「This Is Wink」",
     "tags": [
@@ -3222,12 +3363,13 @@
     "color": "#e4ac89"
   },
   {
-    "id": "",
+    "id": "artist-180",
     "name": "w-indssss.",
     "ruby": "うぃんず",
     "kana": "ウィンズ",
     "romaji": "w-inds.",
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GdSVx",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "w-inds.の代表曲をまとめた公式のプレイリスト「This Is w-inds.」",
     "tags": [
@@ -3240,24 +3382,30 @@
     "color": "#e4ac89"
   },
   {
-  "id": "",
-  "name": "汐れいら",
-  "ruby": "うしおれいら",
-  "kana": "ウシオレイラ",
-  "romaji": "ushioreira,usioreira",
-  "aliases": ["しおれん", "shioren"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XbCqC",
-  "spotify_artist_id": "6GVsZoMbMt0jmqwcvz1a1F",
-  "official_site": null,
-  "description": "汐れいらの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
-  "tags": ["女性ボーカル/ソロ", "J-POP"],
-  "status": "published",
-  "added_date": "2026-04-27",
-  "updated_date": "2026-04-27",
-  "color": "#fde54f"
-},
+    "id": "artist-181",
+    "name": "汐れいら",
+    "ruby": "うしおれいら",
+    "kana": "ウシオレイラ",
+    "romaji": "ushioreira,usioreira",
+    "aliases": [
+      "しおれん",
+      "shioren"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XbCqC",
+    "spotify_artist_id": "6GVsZoMbMt0jmqwcvz1a1F",
+    "official_site": null,
+    "description": "汐れいらの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#fde54f"
+  },
   {
-    "id": "",
+    "id": "artist-182",
     "name": "スピッツ",
     "ruby": "すぴっつ",
     "kana": "スピッツ",
@@ -3267,6 +3415,7 @@
       ""
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38htI0",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "スピッツの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
     "tags": [
@@ -3279,7 +3428,7 @@
     "color": "#95c90d"
   },
   {
-    "id": "",
+    "id": "artist-183",
     "name": "Mr.Children",
     "ruby": "みすたーちるどれん",
     "kana": "ミスターチルドレン",
@@ -3289,6 +3438,7 @@
       ""
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MGNSK?si=TayWtm9wRRezI5joX9JjVA&utm_source=copy-link",
+    "spotify_artist_id": null,
     "official_site": null,
     "description": "Mr.Childrenの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
     "tags": [
@@ -3299,5 +3449,43 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-175",
+    "name": "VAMPS",
+    "ruby": "ゔぁんぷす/ばんぷす",
+    "kana": "ヴァンプス/バンプス",
+    "romaji": "vamps",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0dRAyu",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "VAMPSの代表曲をまとめた公式のプレイリスト「This Is VAMPS」",
+    "tags": [
+      "デュオ/ペア",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#fde54f"
+  },
+  {
+    "id": "artist-176",
+    "name": "vividboooy",
+    "ruby": "ゔぃゔぃっどぼーい/びびっどぼーい",
+    "kana": "ヴィヴィッドボーイ/ビビッドボーイ",
+    "romaji": "vividboooy",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1y8PTC",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "vividboooyの代表曲をまとめた公式のプレイリスト「This Is vividboooy」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#fea42a"
   }
 ]
