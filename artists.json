@@ -3464,5 +3464,28 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#fea42a"
+  },
+  {
+    "id": "",
+    "name": "スピッツ",
+    "ruby": "すぴっつ",
+    "kana": "スピッツ",
+    "romaji": "spitz",
+    "aliases": [
+      "",
+      ""
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38htI0",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "スピッツの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#95c90d"
   }
 ]
