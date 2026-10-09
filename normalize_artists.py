@@ -22,6 +22,18 @@ def _is_blank_id(s):
     return s in ("", "artist-new")
 
 
+def sort_ruby(s):
+    """アプリの cleanRubyOf と同じ並び：長音を除き、カタカナ→ひらがな、ゔ→う"""
+    s = str(s or "").replace("ー", "")
+    out = []
+    for ch in s:
+        o = ord(ch)
+        if 0x30A1 <= o <= 0x30F6:   # カタカナ→ひらがな（ヴ→ゔ）
+            ch = chr(o - 0x60)
+        out.append(ch)
+    return "".join(out).replace("ゔ", "う")
+
+
 def normalize(data):
     """戻り値: (整形済みデータ, errors, warnings, infos)"""
     errors, warnings, infos = [], [], []
@@ -92,9 +104,9 @@ def normalize(data):
         tail = {k: v for k, v in a.items() if k not in head}
         return {**head, **tail}
 
-    # 5) ruby順に並び替え（アプリの _cleanRuby と同じく「ー」を除いて比較。同じ読みは name 順）
+    # 5) ruby順に並び替え（アプリの cleanRubyOf と同じ：「ー」を除き、ヴ/ゔ→う。同じ読みは name 順）
     data = [ordered(a) for a in data]
-    data.sort(key=lambda a: (str(a.get("ruby", "")).replace("ー", ""), str(a.get("name", ""))))
+    data.sort(key=lambda a: (sort_ruby(a.get("ruby", "")), str(a.get("name", ""))))
     return data, errors, warnings, infos
 
 
