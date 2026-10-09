@@ -19,6 +19,25 @@
     "color": "#ffc863"
   },
   {
+    "id": "artist-2",
+    "name": "IVE",
+    "ruby": "あいゔ/あいぶ",
+    "kana": "アイヴ/アイブ",
+    "romaji": "ive",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX6pLfLmbGM3d",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "IVEの代表曲をまとめた公式のプレイリスト「This Is IVE」",
+    "tags": [
+      "女性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#8abaf8"
+  },
+  {
     "id": "artist-3",
     "name": "I WiSH",
     "ruby": "あいうぃっしゅ",
@@ -397,25 +416,6 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#f37e00"
-  },
-  {
-    "id": "artist-2",
-    "name": "IVE",
-    "ruby": "あいゔ/あいぶ",
-    "kana": "アイヴ/アイブ",
-    "romaji": "ive",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX6pLfLmbGM3d",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "IVEの代表曲をまとめた公式のプレイリスト「This Is IVE」",
-    "tags": [
-      "女性グループ/ユニット",
-      "K-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#8abaf8"
   },
   {
     "id": "artist-23",
@@ -3287,6 +3287,25 @@
     "color": "#95c90d"
   },
   {
+    "id": "artist-175",
+    "name": "VAMPS",
+    "ruby": "ゔぁんぷす/ばんぷす",
+    "kana": "ヴァンプス/バンプス",
+    "romaji": "vamps",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0dRAyu",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "VAMPSの代表曲をまとめた公式のプレイリスト「This Is VAMPS」",
+    "tags": [
+      "デュオ/ペア",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#fde54f"
+  },
+  {
     "id": "artist-174",
     "name": "UA",
     "ruby": "うーあ",
@@ -3304,6 +3323,25 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#ffc863"
+  },
+  {
+    "id": "artist-176",
+    "name": "vividboooy",
+    "ruby": "ゔぃゔぃっどぼーい/びびっどぼーい",
+    "kana": "ヴィヴィッドボーイ/ビビッドボーイ",
+    "romaji": "vividboooy",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1y8PTC",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "vividboooyの代表曲をまとめた公式のプレイリスト「This Is vividboooy」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#fea42a"
   },
   {
     "id": "artist-177",
@@ -3449,43 +3487,5 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#f89bd2"
-  },
-  {
-    "id": "artist-175",
-    "name": "VAMPS",
-    "ruby": "ゔぁんぷす/ばんぷす",
-    "kana": "ヴァンプス/バンプス",
-    "romaji": "vamps",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0dRAyu",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "VAMPSの代表曲をまとめた公式のプレイリスト「This Is VAMPS」",
-    "tags": [
-      "デュオ/ペア",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#fde54f"
-  },
-  {
-    "id": "artist-176",
-    "name": "vividboooy",
-    "ruby": "ゔぃゔぃっどぼーい/びびっどぼーい",
-    "kana": "ヴィヴィッドボーイ/ビビッドボーイ",
-    "romaji": "vividboooy",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1y8PTC",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "vividboooyの代表曲をまとめた公式のプレイリスト「This Is vividboooy」",
-    "tags": [
-      "男性ボーカル/ソロ",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#fea42a"
   }
 ]
