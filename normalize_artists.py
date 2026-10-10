@@ -23,16 +23,39 @@ def _is_blank_id(s):
     return s in ("", "artist-new")
 
 
+SMALL_KANA = {"ぁ": "あ", "ぃ": "い", "ぅ": "う", "ぇ": "え", "ぉ": "お", "っ": "つ",
+              "ゃ": "や", "ゅ": "ゆ", "ょ": "よ", "ゎ": "わ", "ゕ": "か", "ゖ": "け"}
+
+
 def sort_ruby(s):
-    """アプリの cleanRubyOf と同じ並び：長音を除き、カタカナ→ひらがな、ゔ→う"""
-    s = str(s or "").replace("ー", "")
+    """アプリの cleanRubyOf と同じ：空白と長音を除き、カタカナ→ひらがな、ゔ→う"""
+    s = re.sub(r"\s+", "", str(s or "")).replace("ー", "")
     out = []
     for ch in s:
         o = ord(ch)
-        if 0x30A1 <= o <= 0x30F6:   # カタカナ→ひらがな（ヴ→ゔ）
+        if 0x30A1 <= o <= 0x30F6:
             ch = chr(o - 0x60)
         out.append(ch)
     return "".join(out).replace("ゔ", "う")
+
+
+def ruby_sort_key(s):
+    """アプリの rubySortKey と同じ：読み → 濁点/半濁点 → 小書き文字 の順に比較"""
+    p, v, sm = [], [], []
+    for ch in unicodedata.normalize("NFD", sort_ruby(s)):
+        if ch == "\u3099":
+            if v: v[-1] = "1"
+            else: v.append("1")
+            continue
+        if ch == "\u309A":
+            if v: v[-1] = "2"
+            else: v.append("2")
+            continue
+        small = SMALL_KANA.get(ch)
+        p.append(small or ch)
+        v.append("0")
+        sm.append("1" if small else "0")
+    return "".join(p), "".join(v), "".join(sm)
 
 
 def normalize(data):
@@ -105,9 +128,9 @@ def normalize(data):
         tail = {k: v for k, v in a.items() if k not in head}
         return {**head, **tail}
 
-    # 5) ruby順に並び替え（アプリの cleanRubyOf と同じ：「ー」を除き、ヴ/ゔ→う。同じ読みは name 順）
+    # 5) ruby順に並び替え（アプリの rubySortKey と同じ規則。同じ読みは name 順）
     data = [ordered(a) for a in data]
-    data.sort(key=lambda a: (sort_ruby(a.get("ruby", "")), str(a.get("name", ""))))
+    data.sort(key=lambda a: (*ruby_sort_key(a.get("ruby", "")), str(a.get("name", ""))))
     return data, errors, warnings, infos
 
 
