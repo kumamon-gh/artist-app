@@ -969,6 +969,25 @@
     "color": "#ff7163"
   },
   {
+    "id": "artist-52",
+    "name": "ASIAN KUNG-FU GENERATION",
+    "ruby": "あじあんかんふーじぇねれーしょん",
+    "kana": "アジアンカンフージェネレーション",
+    "romaji": "asiankung-fugeneration",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oQMfm",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "ASIAN KUNG-FU GENERATIONの代表曲をまとめた公式のプレイリスト「This Is ASIAN KUNG-FU GENERATION」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#fde54f"
+  },
+  {
     "id": "artist-53",
     "name": "芦田愛菜",
     "ruby": "あしだまな",
@@ -1026,23 +1045,23 @@
     "color": "#f47e00"
   },
   {
-    "id": "artist-52",
-    "name": "ASIAN KUNG-FU GENERATION",
-    "ruby": "あじあんかんふーじぇねれーしょん",
-    "kana": "アジアンカンフージェネレーション",
-    "romaji": "asiankung-fugeneration",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oQMfm",
+    "id": "artist-56",
+    "name": "AZU",
+    "ruby": "あず",
+    "kana": "アズ",
+    "romaji": "azu",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33qiaZ",
     "spotify_artist_id": null,
     "official_site": null,
-    "description": "ASIAN KUNG-FU GENERATIONの代表曲をまとめた公式のプレイリスト「This Is ASIAN KUNG-FU GENERATION」",
+    "description": "AZUの代表曲をまとめた公式のプレイリスト「This Is AZU」",
     "tags": [
-      "バンド",
+      "女性ボーカル/ソロ",
       "J-POP"
     ],
     "status": "published",
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
-    "color": "#fde54f"
+    "color": "#f47e00"
   },
   {
     "id": "artist-57",
@@ -1064,6 +1083,25 @@
     "color": "#e4ac89"
   },
   {
+    "id": "artist-58",
+    "name": "東野純直",
+    "ruby": "あずまのすみただ",
+    "kana": "アズマノスミタダ",
+    "romaji": "azumanosumitada",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Qt2EO",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "東野純直の代表曲をまとめた公式のプレイリスト「This Is 東野純直」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#f89bd2"
+  },
+  {
     "id": "artist-59",
     "name": "asmi",
     "ruby": "あすみ",
@@ -1083,15 +1121,15 @@
     "color": "#f036a5"
   },
   {
-    "id": "artist-56",
-    "name": "AZU",
-    "ruby": "あず",
-    "kana": "アズ",
-    "romaji": "azu",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33qiaZ",
+    "id": "artist-60",
+    "name": "足立佳奈",
+    "ruby": "あだちかな",
+    "kana": "アダチカナ",
+    "romaji": "adachikana",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO44qWlj",
     "spotify_artist_id": null,
     "official_site": null,
-    "description": "AZUの代表曲をまとめた公式のプレイリスト「This Is AZU」",
+    "description": "足立佳奈の代表曲をまとめた公式のプレイリスト「This Is 足立佳奈」",
     "tags": [
       "女性ボーカル/ソロ",
       "J-POP"
@@ -1099,26 +1137,7 @@
     "status": "published",
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
-    "color": "#f47e00"
-  },
-  {
-    "id": "artist-58",
-    "name": "東野純直",
-    "ruby": "あずまのすみただ",
-    "kana": "アズマノスミタダ",
-    "romaji": "azumanosumitada",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Qt2EO",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "東野純直の代表曲をまとめた公式のプレイリスト「This Is 東野純直」",
-    "tags": [
-      "男性ボーカル/ソロ",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#f89bd2"
+    "color": "#fea42a"
   },
   {
     "id": "artist-61",
@@ -1178,23 +1197,23 @@
     "color": "#ffc862"
   },
   {
-    "id": "artist-60",
-    "name": "足立佳奈",
-    "ruby": "あだちかな",
-    "kana": "アダチカナ",
-    "romaji": "adachikana",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO44qWlj",
+    "id": "artist-64",
+    "name": "梓みちよ",
+    "ruby": "あづさみちよ",
+    "kana": "アヅサミチヨ",
+    "romaji": "azusamichiyo",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mHC7g",
     "spotify_artist_id": null,
     "official_site": null,
-    "description": "足立佳奈の代表曲をまとめた公式のプレイリスト「This Is 足立佳奈」",
+    "description": "梓みちよの代表曲をまとめた公式のプレイリスト「This Is 梓みちよ」",
     "tags": [
       "女性ボーカル/ソロ",
-      "J-POP"
+      "歌謡曲"
     ],
     "status": "published",
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
-    "color": "#fea42a"
+    "color": "#f37e00"
   },
   {
     "id": "artist-65",
@@ -1271,25 +1290,6 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#fde54f"
-  },
-  {
-    "id": "artist-64",
-    "name": "梓みちよ",
-    "ruby": "あづさみちよ",
-    "kana": "アヅサミチヨ",
-    "romaji": "azusamichiyo",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mHC7g",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "梓みちよの代表曲をまとめた公式のプレイリスト「This Is 梓みちよ」",
-    "tags": [
-      "女性ボーカル/ソロ",
-      "歌謡曲"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#f37e00"
   },
   {
     "id": "artist-69",
@@ -2223,25 +2223,6 @@
     "color": "#ff7163"
   },
   {
-    "id": "artist-119",
-    "name": "いきものがかり",
-    "ruby": "いきものがかり",
-    "kana": "イキモノガカリ",
-    "romaji": "ikimonogakari",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wnJH4",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "いきものがかりの代表曲をまとめた公式のプレイリスト「This Is いきものがかり」",
-    "tags": [
-      "デュオ/ペア",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#fde54f"
-  },
-  {
     "id": "artist-118",
     "name": "いぎなり東北産",
     "ruby": "いぎなりとうほくさん",
@@ -2259,6 +2240,25 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#e4ac89"
+  },
+  {
+    "id": "artist-119",
+    "name": "いきものがかり",
+    "ruby": "いきものがかり",
+    "kana": "イキモノガカリ",
+    "romaji": "ikimonogakari",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wnJH4",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "いきものがかりの代表曲をまとめた公式のプレイリスト「This Is いきものがかり」",
+    "tags": [
+      "デュオ/ペア",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#fde54f"
   },
   {
     "id": "artist-120",
@@ -2641,6 +2641,25 @@
     "color": "#f036a4"
   },
   {
+    "id": "artist-140",
+    "name": "五木ひろし",
+    "ruby": "いつきひろし",
+    "kana": "イツキヒロシ",
+    "romaji": "itsukihiroshi",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0CNwpO",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "五木ひろしの代表曲をまとめた公式のプレイリスト「This Is 五木ひろし」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#f89bd2"
+  },
+  {
     "id": "artist-141",
     "name": "IS:SUE",
     "ruby": "いっしゅ",
@@ -2715,25 +2734,6 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#fea42a"
-  },
-  {
-    "id": "artist-140",
-    "name": "五木ひろし",
-    "ruby": "いつきひろし",
-    "kana": "イツキヒロシ",
-    "romaji": "itsukihiroshi",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0CNwpO",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "五木ひろしの代表曲をまとめた公式のプレイリスト「This Is 五木ひろし」",
-    "tags": [
-      "男性ボーカル/ソロ",
-      "演歌"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#f89bd2"
   },
   {
     "id": "artist-145",
@@ -3287,25 +3287,6 @@
     "color": "#95c90d"
   },
   {
-    "id": "artist-175",
-    "name": "VAMPS",
-    "ruby": "ゔぁんぷす/ばんぷす",
-    "kana": "ヴァンプス/バンプス",
-    "romaji": "vamps",
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0dRAyu",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "VAMPSの代表曲をまとめた公式のプレイリスト「This Is VAMPS」",
-    "tags": [
-      "デュオ/ペア",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#fde54f"
-  },
-  {
     "id": "artist-174",
     "name": "UA",
     "ruby": "うーあ",
@@ -3323,6 +3304,25 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#ffc863"
+  },
+  {
+    "id": "artist-175",
+    "name": "VAMPS",
+    "ruby": "ゔぁんぷす/ばんぷす",
+    "kana": "ヴァンプス/バンプス",
+    "romaji": "vamps",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0dRAyu",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "VAMPSの代表曲をまとめた公式のプレイリスト「This Is VAMPS」",
+    "tags": [
+      "デュオ/ペア",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#fde54f"
   },
   {
     "id": "artist-176",
