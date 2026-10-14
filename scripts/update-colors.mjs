@@ -1,3 +1,6 @@
+// 各アーティストの「THIS IS」プレイリストのジャケット画像から代表色を取り出し、
+// artists.json の color を更新する。colors.yml（scripts/update-colors.mjs）から毎日実行される。
+// color に colorLock を付けたアーティストは、手動で決めた色を守るため対象外。
 import fs from 'node:fs';
 import sharp from 'sharp';
 
@@ -5,7 +8,7 @@ const FILE = 'artists.json';
 const artists = JSON.parse(fs.readFileSync(FILE, 'utf8'));
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const hex2 = n => n.toString(16).padStart(2, '0');
-const THRESHOLD = 6; // これ以下のずれは書き換えない
+const THRESHOLD = 6; // 色の距離がこれ以下なら「ほぼ同じ」として書き換えない（毎日の微小な差分コミットを防ぐ）
 
 function parseHex(h) {
   const m = /^#?([0-9a-f]{6})$/i.exec(h || '');
@@ -18,18 +21,22 @@ async function dominantColor(imageUrl) {
   const res = await fetch(imageUrl);
   if (!res.ok) throw new Error('画像HTTP ' + res.status);
   const buf = Buffer.from(await res.arrayBuffer());
+  // 64x64 に縮小して画素数を減らす（計算を軽くし、細かいノイズも均す）
   const { data, info } = await sharp(buf).resize(64, 64, { fit: 'cover' }).removeAlpha().raw().toBuffer({ resolveWithObject: true });
   const bins = new Map();
   for (let i = 0; i < data.length; i += info.channels) {
     const r = data[i], g = data[i + 1], b = data[i + 2];
     const max = Math.max(r, g, b), min = Math.min(r, g, b);
     const sat = max === 0 ? 0 : (max - min) / max;
+    // 黒っぽい・白っぽい・彩度の低い画素は、アクセントカラーに向かないため数えない
     if (max < 40 || min > 235 || sat < 0.2) continue;
+    // 各チャンネル上位3bit（8段階）に丸めて集計し、似た色を同じ箱にまとめる
     const key = (r >> 5) + ',' + (g >> 5) + ',' + (b >> 5);
     const e = bins.get(key) || { n: 0, r: 0, g: 0, b: 0 };
     e.n++; e.r += r; e.g += g; e.b += b;
     bins.set(key, e);
   }
+  // 画素数が最も多い箱を選び、その箱の平均色を返す
   let best = null;
   for (const e of bins.values()) if (!best || e.n > best.n) best = e;
   if (!best) return null;
@@ -38,6 +45,7 @@ async function dominantColor(imageUrl) {
 
 const dist = (a, b) => Math.hypot(a[0] - b[0], a[1] - b[1], a[2] - b[2]);
 
+// 一時的な通信エラーに備え、待ち時間を延ばしながら最大 tries 回まで取得し直す
 async function fetchJson(url, tries = 3) {
   let last;
   for (let i = 0; i < tries; i++) {
@@ -55,6 +63,7 @@ for (const a of artists) {
   const url = a.url || a.link || '';
   if (!url || a.colorLock) { skipped++; continue; }
   try {
+    // oEmbed でプレイリストのジャケット画像のURLを得る（認証不要）
     const j = await fetchJson('https://open.spotify.com/oembed?url=' + encodeURIComponent(url));
     if (!j.thumbnail_url) throw new Error('画像URLなし');
     const calc = await dominantColor(j.thumbnail_url);
@@ -63,8 +72,9 @@ for (const a of artists) {
     if (cur && dist(cur, parseHex(calc)) <= THRESHOLD) { same++; }
     else { console.log(a.name, a.color, '->', calc); a.color = calc; changed++; }
   } catch (e) { failed++; console.warn(a.name, e.message); }
-  await sleep(300);
+  await sleep(300); // 連続アクセスで制限されないよう間隔を空ける
 }
 console.log(`結果: 変更${changed} / ほぼ同じ${same} / 対象外${skipped} / 失敗${failed}`);
+// 失敗が多い時は、Spotify側の障害などで色が部分的にしか更新されていない可能性があるため書き込まない
 if (failed > artists.length * 0.3) { console.error('失敗が多いため書き込みません'); process.exit(1); }
 if (changed) fs.writeFileSync(FILE, JSON.stringify(artists, null, 2) + '\n');
