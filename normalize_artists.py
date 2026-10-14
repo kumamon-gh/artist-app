@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """artists.json を 採番 → 検証 → ruby順に並び替え → キー順統一 する。
-単体実行: python normalize_artists.py [artists.json]"""
+単体実行: python normalize_artists.py [artists.json]
+update_artists.py（毎日の自動更新）と normalize.yml（artists.json の push 時）から使われる。"""
 import json
 import re
 import sys
 import unicodedata
 from pathlib import Path
 
+# 保存時のキーの並び。ここに無いキーは、この並びの後ろに元の順で付く
 KEY_ORDER = [
     "id", "name", "ruby", "kana", "romaji", "aliases", "url",
     "spotify_artist_id", "official_site", "description", "tags",
@@ -20,6 +22,7 @@ COLOR_RE = re.compile(r"^#[0-9a-fA-F]{6}$")
 
 
 def _is_blank_id(s):
+    # 新しく追加する行は、id を空欄か "artist-new" にしておけば自動で採番される
     return s in ("", "artist-new")
 
 
@@ -40,14 +43,16 @@ def sort_ruby(s):
 
 
 def ruby_sort_key(s):
-    """アプリの rubySortKey と同じ：読み → 濁点/半濁点 → 小書き文字 の順に比較"""
+    """アプリの rubySortKey と同じ：読み → 濁点/半濁点 → 小書き文字 の順に比較。
+    端末の照合順序(ICU)に依存せず、画面と同じ並びにするための規則。
+    どちらかを変える時は、アプリ側(index.html のスクリプト)も必ず同じに変える"""
     p, v, sm = [], [], []
     for ch in unicodedata.normalize("NFD", sort_ruby(s)):
-        if ch == "\u3099":
+        if ch == "\u3099":  # 濁点 → 直前の文字の「濁点あり」印を 1 にする
             if v: v[-1] = "1"
             else: v.append("1")
             continue
-        if ch == "\u309A":
+        if ch == "\u309A":  # 半濁点 → 同じく 2
             if v: v[-1] = "2"
             else: v.append("2")
             continue
@@ -59,7 +64,9 @@ def ruby_sort_key(s):
 
 
 def normalize(data):
-    """戻り値: (整形済みデータ, errors, warnings, infos)"""
+    """戻り値: (整形済みデータ, errors, warnings, infos)
+    errors が1件でもあれば、呼び出し側は保存せずに中止する。
+    warnings は表示するだけで保存は止めない"""
     errors, warnings, infos = [], [], []
     if not isinstance(data, list):
         return data, ["artists.json は配列(リスト)である必要があります"], warnings, infos
@@ -85,6 +92,7 @@ def normalize(data):
         return data, errors, warnings, infos
 
     # 2) 新規(idが空 / 未設定 / artist-new)に 最大番号+1 を採番。既存IDは変更しない
+    #    （IDはお気に入り等の保存データから参照され得るため、一度付けたら変えない）
     nums = [int(ID_RE.match(i).group(1)) for i in ids if ID_RE.match(i)]
     nxt = (max(nums) if nums else 0) + 1
     for a, new_id in zip(data, ids):
@@ -96,7 +104,8 @@ def normalize(data):
             infos.append(f"ID形式を変更: {a.get('id')} -> {new_id}")
         a["id"] = new_id
 
-    # 3) 検証
+    # 3) 検証。壊れたデータをアプリに配信しないよう、致命的なもの(ID形式・name・Spotify ID)は
+    #    errors、表示には影響しないもの(ruby・color の書式)は warnings にする
     seen_sp = {}
     for a in data:
         label = f"{a['id']} ({a.get('name')})"
@@ -122,7 +131,7 @@ def normalize(data):
     if errors:
         return data, errors, warnings, infos
 
-    # 4) キー順を統一
+    # 4) キー順を統一（差分が読みやすくなり、不要な更新も減る）
     def ordered(a):
         head = {k: a[k] for k in KEY_ORDER if k in a}
         tail = {k: v for k, v in a.items() if k not in head}
@@ -155,6 +164,7 @@ def main():
             print("ERROR:", line)
         sys.exit("エラーがあるため保存しませんでした")
     out = dump_text(data)
+    # 内容が同じなら書き込まない（余計なコミットを作らない）
     if out != original:
         path.write_text(out, encoding="utf-8")
         print(f"保存しました: {len(data)}件")
