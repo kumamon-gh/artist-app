@@ -3496,7 +3496,9 @@
     "color": "#f89bd2"
   },
   {
-  "name": "ゆず",
-  "ruby": "ゆず"
-}
+    "id": "artist-186",
+    "name": "ゆず",
+    "ruby": "ゆず",
+    "spotify_artist_id": null
+  }
 ]
