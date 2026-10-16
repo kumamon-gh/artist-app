@@ -3466,6 +3466,12 @@
     "color": "#95c90d"
   },
   {
+    "id": "artist-186",
+    "name": "浜崎あゆみ",
+    "ruby": "はまさきあゆみ",
+    "spotify_artist_id": null
+  },
+  {
     "id": "artist-183",
     "name": "Mr.Children",
     "ruby": "みすたーちるどれん",
@@ -3487,9 +3493,5 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#f89bd2"
-  },
-  {
-    "name": "浜崎あゆみ",
-    "ruby": "はまさきあゆみ"
   }
 ]
