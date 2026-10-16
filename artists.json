@@ -3468,5 +3468,24 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#f89bd2"
+  },
+  {
+    "id": "",
+    "name": "イルカ",
+    "ruby": "いるか",
+    "kana": "イルカ",
+    "romaji": "iruka",
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pyqyY",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "イルカの代表曲をまとめた公式のプレイリスト「This Is イルカ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-04-27",
+    "updated_date": "2026-04-27",
+    "color": "#16d1a6"
   }
 ]
