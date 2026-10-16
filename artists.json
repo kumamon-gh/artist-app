@@ -3443,6 +3443,12 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-186",
+    "name": "コブクロ",
+    "ruby": "こぶくろ",
+    "spotify_artist_id": null
+  },
+  {
     "id": "artist-184",
     "name": "スピッツ",
     "ruby": "すぴっつ",
@@ -3487,9 +3493,5 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#f89bd2"
-  },
-  {
-    "name": "コブクロ",
-    "ruby": "こぶくろ"
-}
+  }
 ]
