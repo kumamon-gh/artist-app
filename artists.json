@@ -3489,35 +3489,51 @@
     "color": "#f89bd2"
   },
   {
+    "id": "artist-186",
     "name": "むテスト",
-    "ruby": "むテスト"
-   },
-{
+    "ruby": "むテスト",
+    "spotify_artist_id": null
+  },
+  {
+    "id": "artist-187",
     "name": "めテスト",
-    "ruby": "めテスト"
-   },
- {
+    "ruby": "めテスト",
+    "spotify_artist_id": null
+  },
+  {
+    "id": "artist-188",
     "name": "もテスト",
-    "ruby": "もテスト"
-   },
+    "ruby": "もテスト",
+    "spotify_artist_id": null
+  },
   {
+    "id": "artist-189",
     "name": "やテスト",
-    "ruby": "やテスト"
-   },
+    "ruby": "やテスト",
+    "spotify_artist_id": null
+  },
   {
+    "id": "artist-190",
     "name": "ゆテスト",
-    "ruby": "ゆテスト"
-   },
+    "ruby": "ゆテスト",
+    "spotify_artist_id": null
+  },
   {
+    "id": "artist-191",
     "name": "よテスト",
-    "ruby": "よテスト"
-   },
+    "ruby": "よテスト",
+    "spotify_artist_id": null
+  },
   {
+    "id": "artist-192",
     "name": "らテスト",
-    "ruby": "らテスト"
-   },
-{
+    "ruby": "らテスト",
+    "spotify_artist_id": null
+  },
+  {
+    "id": "artist-193",
     "name": "りテスト",
-    "ruby": "りテスト"
-   } 
+    "ruby": "りテスト",
+    "spotify_artist_id": null
+  }
 ]
