@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """artists.json を 採番 → 項目の補完 → 検証 → ruby順に並び替え → キー順統一 する。
 単体実行: python normalize_artists.py [artists.json]
-update_artists.py（自動更新）から使われる。"""
+update_artists.py（push時・毎日の自動実行）から使われる。"""
 import json
 import re
 import sys
@@ -193,7 +193,7 @@ def fill_defaults(a, today):
         if k:
             put("kana", k)
 
-# romaji：空の時に作る。英数字だけの名前は、以前の自動生成値（rubyの読み）なら作り直す
+    # romaji：空の時に作る。英数字だけの名前は、以前の自動生成値（rubyの読み）なら作り直す
     cur = a.get("romaji")
     cur_list = cur if isinstance(cur, list) else (
         [x.strip() for x in re.split(r"[,/、]", cur) if x.strip()] if isinstance(cur, str) else [])
@@ -214,7 +214,7 @@ def fill_defaults(a, today):
     if a.get("aliases") is None:
         put("aliases", [])
     if "url" not in a and "link" not in a:
-        put("url", "")          # 空のまま。自動更新で公式プレイリストが見つかれば入る
+        put("url", "")          # 空のまま。This Is のプレイリストのURLは手入力する
     if "official_site" not in a:
         put("official_site", None)
     if name and not a.get("description"):
