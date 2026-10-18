@@ -3771,6 +3771,26 @@
     "color": ""
   },
   {
+    "id": "artist-195",
+    "name": "L'Arc～en～Ciel",
+    "ruby": "らるくあんしぇる",
+    "kana": "ラルクアンシェル",
+    "romaji": [
+      "rarukuansheru",
+      "rarukuanseru"
+    ],
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "L'Arc～en～Cielの代表曲をまとめた公式のプレイリスト「This Is L'Arc～en～Ciel」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-18",
+    "updated_date": "2026-10-18",
+    "color": ""
+  },
+  {
     "id": "artist-193",
     "name": "りテスト",
     "ruby": "りテスト",
@@ -3784,9 +3804,5 @@
     "added_date": "2026-10-18",
     "updated_date": "2026-10-18",
     "color": ""
-  },
-  {
-    "name": "L'Arc～en～Ciel",
-    "ruby": "らるくあんしぇる"
-    }
+  }
 ]
