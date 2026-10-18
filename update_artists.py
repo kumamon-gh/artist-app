@@ -26,10 +26,11 @@ def get_spotify_token():
 
 def search_this_is_playlist(artist_info, token):
     name = artist_info.get("name", "").strip()
-    romaji_raw = artist_info.get("romaji", "")
-    
-    # ローマ字候補を取得（例: "Aimyon" や "Ado"）。"/" 区切りで複数書ける
-    romaji_list = [r.strip().lower() for r in romaji_raw.split('/') if r.strip()]
+
+    # ローマ字候補。配列、または "," "/" "、" 区切りの文字列に対応する
+    romaji_raw = artist_info.get("romaji") or ""
+    items = romaji_raw if isinstance(romaji_raw, list) else re.split(r"[,/、]", str(romaji_raw))
+    romaji_list = [str(r).strip().lower() for r in items if str(r).strip()]
     
     search_url = "https://api.spotify.com/v1/search"
     # 日本語のプレイリスト名で検索結果が返るよう、言語を日本語優先にする
@@ -72,6 +73,25 @@ def search_this_is_playlist(artist_info, token):
 
     return None
 
+def search_artist_id(artist_info, token, used_ids):
+    """名前が完全一致するSpotifyアーティストが1件だけの時に、そのIDを返す。
+    同名の別人を取り違えないよう、複数該当・未該当の時は None（手動で入れる）"""
+    name = artist_info.get("name", "").strip()
+    if not name:
+        return None
+    headers = {"Authorization": f"Bearer {token}", "Accept-Language": "ja;q=1.0, en;q=0.5"}
+    params = {"q": name, "type": "artist", "limit": 5, "market": "JP"}
+    res = requests.get("https://api.spotify.com/v1/search", headers=headers, params=params)
+    if res.status_code != 200:
+        return None
+    key = name.lower().replace(" ", "")
+    items = res.json().get("artists", {}).get("items", [])
+    # 他のアーティストが既に使っているID（used_ids）は除く（重複エラー防止）
+    hits = [it for it in items
+            if it and it.get("name", "").lower().replace(" ", "") == key
+            and it.get("id") not in used_ids]
+    return hits[0]["id"] if len(hits) == 1 else None
+
 def main():
     json_path = "artists.json"
     if not os.path.exists(json_path):
@@ -81,7 +101,7 @@ def main():
     with open(json_path, "r", encoding="utf-8") as f:
         original_text = f.read()
 
-    # 採番・検証・ruby順の並び替え。エラーがあれば、壊れたデータを保存・配信しないよう中止する
+    # 採番・補完・検証・ruby順の並び替え。エラーがあれば、壊れたデータを保存・配信しないよう中止する
     artists, errors, warnings, infos = normalize(json.loads(original_text))
     for line in infos:
         print("INFO :", line)
@@ -99,6 +119,7 @@ def main():
 
     updated_count = 0
     if token:
+        used_ids = {a["spotify_artist_id"] for a in artists if a.get("spotify_artist_id")}
         for artist in artists:
             name = artist.get("name")
             current_url = artist.get("url")
@@ -115,6 +136,14 @@ def main():
                 updated_count += 1
             else:
                 print(f"【維持】 {name}")
+
+            # spotify_artist_id が空の時だけ補完する（手動で入れた値は上書きしない）
+            if not artist.get("spotify_artist_id"):
+                sid = search_artist_id(artist, token, used_ids)
+                if sid:
+                    artist["spotify_artist_id"] = sid
+                    used_ids.add(sid)
+                    print(f"【ID補完】 {name}: {sid}")
 
     new_text = dump_text(artists)
     # 内容が同じなら書き込まない（update.yml 側も、差分が無ければコミットしない）
