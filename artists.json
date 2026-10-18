@@ -3646,6 +3646,26 @@
     "color": "#95c90d"
   },
   {
+    "id": "artist-194",
+    "name": "Mr.Children",
+    "ruby": "みすたーちるどれん",
+    "kana": "ミスターチルドレン",
+    "romaji": [
+      "misutaachirudoren",
+      "misutaatirudoren"
+    ],
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "Mr.Childrenの代表曲をまとめた公式のプレイリスト「This Is Mr.Children」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-18",
+    "updated_date": "2026-10-18",
+    "color": ""
+  },
+  {
     "id": "artist-186",
     "name": "むテスト",
     "ruby": "むテスト",
@@ -3764,9 +3784,5 @@
     "added_date": "2026-10-18",
     "updated_date": "2026-10-18",
     "color": ""
-  },
-  {
-    "name": "Mr.Children",
-    "ruby": "みすたーちるどれん"
-   } 
+  }
 ]
