@@ -3647,6 +3647,21 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-199",
+    "name": "かテスト",
+    "ruby": "かテスト",
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "かテストの代表曲をまとめた公式のプレイリスト「This Is かテスト」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-19",
+    "updated_date": "2026-10-19",
+    "color": ""
+  },
+  {
     "id": "artist-184",
     "name": "スピッツ",
     "ruby": "すぴっつ",
@@ -3668,6 +3683,51 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#95c90d"
+  },
+  {
+    "id": "artist-200",
+    "name": "たテスト",
+    "ruby": "たテスト",
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "たテストの代表曲をまとめた公式のプレイリスト「This Is たテスト」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-19",
+    "updated_date": "2026-10-19",
+    "color": ""
+  },
+  {
+    "id": "artist-201",
+    "name": "なテスト",
+    "ruby": "なテスト",
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "なテストの代表曲をまとめた公式のプレイリスト「This Is なテスト」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-19",
+    "updated_date": "2026-10-19",
+    "color": ""
+  },
+  {
+    "id": "artist-202",
+    "name": "はテスト",
+    "ruby": "はテスト",
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "はテストの代表曲をまとめた公式のプレイリスト「This Is はテスト」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-19",
+    "updated_date": "2026-10-19",
+    "color": ""
   },
   {
     "id": "artist-194",
@@ -3866,23 +3926,18 @@
     "color": ""
   },
   {
+    "id": "artist-198",
     "name": "わテスト",
-    "ruby": "わテスト"
-    },
-  {
-    "name": "かテスト",
-    "ruby": "かテスト"
-    },
-{
-    "name": "たテスト",
-    "ruby": "たテスト"
-    },
-  {
-    "name": "なテスト",
-    "ruby": "なテスト"
-    },
-{
-    "name": "はテスト",
-    "ruby": "はテスト"
-    }
+    "ruby": "わテスト",
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "わテストの代表曲をまとめた公式のプレイリスト「This Is わテスト」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-19",
+    "updated_date": "2026-10-19",
+    "color": ""
+  }
 ]
