@@ -3466,29 +3466,6 @@
     "color": "#95c90d"
   },
   {
-    "id": "artist-183",
-    "name": "Mr.Children",
-    "ruby": "みすたーちるどれん",
-    "kana": "ミスターチルドレン",
-    "romaji": "mr.children",
-    "aliases": [
-      "ミスチル",
-      ""
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MGNSK?si=TayWtm9wRRezI5joX9JjVA&utm_source=copy-link",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "Mr.Childrenの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
-    "tags": [
-      "女性ボーカル/ソロ",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-04-27",
-    "updated_date": "2026-04-27",
-    "color": "#f89bd2"
-  },
-  {
     "id": "artist-186",
     "name": "むテスト",
     "ruby": "むテスト",
