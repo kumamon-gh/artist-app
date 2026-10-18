@@ -3753,6 +3753,25 @@
     "color": ""
   },
   {
+    "id": "artist-197",
+    "name": "森山直太朗",
+    "ruby": "もりやまなおたろう",
+    "kana": "モリヤマナオタロウ",
+    "romaji": [
+      "moriyamanaotarou"
+    ],
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "森山直太朗の代表曲をまとめた公式のプレイリスト「This Is 森山直太朗」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-18",
+    "updated_date": "2026-10-18",
+    "color": ""
+  },
+  {
     "id": "artist-189",
     "name": "やテスト",
     "ruby": "やテスト",
@@ -3845,9 +3864,5 @@
     "added_date": "2026-10-18",
     "updated_date": "2026-10-18",
     "color": ""
-  },
-  {
-    "name": "森山直太朗",
-    "ruby": "もりやまなおたろう"
-   } 
+  }
 ]
