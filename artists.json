@@ -4,7 +4,9 @@
     "name": "AI",
     "ruby": "あい",
     "kana": "アイ",
-    "romaji": "ai",
+    "romaji": [
+      "ai"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01V7ja",
     "spotify_artist_id": null,
@@ -124,7 +126,9 @@
     "name": "aiko",
     "ruby": "あいこ",
     "kana": "アイコ",
-    "romaji": "aiko",
+    "romaji": [
+      "aiko"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO44PXNe",
     "spotify_artist_id": null,
@@ -484,7 +488,9 @@
     "name": "aoen",
     "ruby": "あおえん",
     "kana": "アオエン",
-    "romaji": "aoen",
+    "romaji": [
+      "aoen"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b5cCT",
     "spotify_artist_id": null,
@@ -664,7 +670,9 @@
     "name": "AKASAKI",
     "ruby": "あかさき",
     "kana": "アカサキ",
-    "romaji": "akasaki",
+    "romaji": [
+      "akasaki"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GyKIT",
     "spotify_artist_id": null,
@@ -744,7 +752,9 @@
     "name": "AKINO",
     "ruby": "あきの",
     "kana": "アキノ",
-    "romaji": "akino",
+    "romaji": [
+      "akino"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO18EvPd",
     "spotify_artist_id": null,
@@ -1104,7 +1114,9 @@
     "name": "AZU",
     "ruby": "あず",
     "kana": "アズ",
-    "romaji": "azu",
+    "romaji": [
+      "azu"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33qiaZ",
     "spotify_artist_id": null,
@@ -1384,7 +1396,9 @@
     "name": "Ado",
     "ruby": "あど",
     "kana": "アド",
-    "romaji": "ado",
+    "romaji": [
+      "ado"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KZGYU",
     "spotify_artist_id": null,
@@ -1424,7 +1438,9 @@
     "name": "ano",
     "ruby": "あの",
     "kana": "アノ",
-    "romaji": "ano",
+    "romaji": [
+      "ano"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4zlze9",
     "spotify_artist_id": null,
@@ -1704,7 +1720,9 @@
     "name": "Ayase",
     "ruby": "あやせ",
     "kana": "アヤセ",
-    "romaji": "ayase",
+    "romaji": [
+      "ayase"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13pcY2",
     "spotify_artist_id": null,
@@ -1724,7 +1742,9 @@
     "name": "AYANE",
     "ruby": "あやね",
     "kana": "アヤネ",
-    "romaji": "ayane",
+    "romaji": [
+      "ayane"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1T3nuH",
     "spotify_artist_id": null,
@@ -3264,7 +3284,9 @@
     "name": "imase",
     "ruby": "いませ",
     "kana": "イマセ",
-    "romaji": "imase",
+    "romaji": [
+      "imase"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RWBWx",
     "spotify_artist_id": null,
@@ -3304,7 +3326,9 @@
     "name": "iri",
     "ruby": "いり",
     "kana": "イリ",
-    "romaji": "iri",
+    "romaji": [
+      "iri"
+    ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0KxYOR",
     "spotify_artist_id": null,
@@ -3651,8 +3675,7 @@
     "ruby": "みすたーちるどれん",
     "kana": "ミスターチルドレン",
     "romaji": [
-      "misutaachirudoren",
-      "misutaatirudoren"
+      "mrchildren"
     ],
     "aliases": [],
     "url": "",
@@ -3770,7 +3793,25 @@
     "updated_date": "2026-10-18",
     "color": ""
   },
-  
+  {
+    "id": "artist-195",
+    "name": "L'Arc～en～Ciel",
+    "ruby": "らるくあんしぇる",
+    "kana": "ラルクアンシェル",
+    "romaji": [
+      "larcenciel"
+    ],
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "L'Arc～en～Cielの代表曲をまとめた公式のプレイリスト「This Is L'Arc～en～Ciel」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-18",
+    "updated_date": "2026-10-18",
+    "color": ""
+  },
   {
     "id": "artist-193",
     "name": "りテスト",
@@ -3785,9 +3826,5 @@
     "added_date": "2026-10-18",
     "updated_date": "2026-10-18",
     "color": ""
-  },
-  {
-    "name": "L'Arc～en～Ciel",
-    "ruby": "らるくあんしぇる"
-    }
+  }
 ]
