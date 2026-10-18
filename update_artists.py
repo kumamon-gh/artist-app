@@ -49,6 +49,7 @@ def search_this_is_playlist(artist_info, token):
         params = {"q": query, "type": "playlist", "limit": 10, "market": "JP"}
         res = requests.get(search_url, headers=headers, params=params)
         if res.status_code != 200:
+            print(f"  検索失敗 {res.status_code}: {query}")
             continue
 
         data = res.json()
@@ -83,6 +84,7 @@ def search_artist_id(artist_info, token, used_ids):
     params = {"q": name, "type": "artist", "limit": 5, "market": "JP"}
     res = requests.get("https://api.spotify.com/v1/search", headers=headers, params=params)
     if res.status_code != 200:
+        print(f"  ID検索失敗 {res.status_code}: {name}")
         return None
     key = name.lower().replace(" ", "")
     items = res.json().get("artists", {}).get("items", [])
@@ -90,6 +92,8 @@ def search_artist_id(artist_info, token, used_ids):
     hits = [it for it in items
             if it and it.get("name", "").lower().replace(" ", "") == key
             and it.get("id") not in used_ids]
+    if len(hits) != 1:
+        print(f"  ID補完なし（一致{len(hits)}件）: {name}")
     return hits[0]["id"] if len(hits) == 1 else None
 
 def main():
