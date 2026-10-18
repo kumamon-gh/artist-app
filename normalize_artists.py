@@ -21,6 +21,27 @@ SPOTIFY_RE = re.compile(r"^[A-Za-z0-9]{22}$")
 RUBY_RE = re.compile(r"^[ぁ-ゖー]+$")
 COLOR_RE = re.compile(r"^#[0-9a-fA-F]{6}$")
 
+JP_RE = re.compile(r"[ぁ-ゖァ-ヺー々〆一-龠]")
+# 記号 → (英単語, rubyにこの読みがある時だけ採用)
+SYMBOL_WORDS = {
+    "=": ("equal", ("いこーる", "いこおる")),
+    "&": ("and", ("あんど", "えんど")),
+    "+": ("plus", ("ぷらす",)),
+}
+
+
+def latin_romaji(name, ruby):
+    """英数字の名前用：小文字・記号なし。読みがある記号(=,&,+)だけ単語にする"""
+    r = sort_ruby(ruby)  # 空白・長音を除いたひらがな
+    out = []
+    for ch in unicodedata.normalize("NFKC", name).lower():
+        if ch.isascii() and ch.isalnum():
+            out.append(ch)
+        elif ch in SYMBOL_WORDS:
+            word, reads = SYMBOL_WORDS[ch]
+            if any(x.replace("ー", "") in r for x in reads):
+                out.append(word)
+    return "".join(out)
 
 def _is_blank_id(s):
     # 新しく追加する行は、id を空欄か "artist-new" にしておけば自動で採番される
@@ -171,10 +192,25 @@ def fill_defaults(a, today):
         k = kana_of(ruby)
         if k:
             put("kana", k)
-    if ruby_ok and not a.get("romaji"):
-        r = romaji_variants(ruby)
+
+# romaji：空の時に作る。英数字だけの名前は、以前の自動生成値（rubyの読み）なら作り直す
+    cur = a.get("romaji")
+    cur_list = cur if isinstance(cur, list) else (
+        [x.strip() for x in re.split(r"[,/、]", cur) if x.strip()] if isinstance(cur, str) else [])
+    pure_latin = bool(name) and not JP_RE.search(name)
+    old_auto = bool(cur_list) and ruby_ok and cur_list == romaji_variants(ruby)
+    if name and (not cur_list or (pure_latin and old_auto)):
+        r = []
+        lat = latin_romaji(name, ruby)
+        if pure_latin and lat:
+            r = [lat]
+        elif ruby_ok:
+            r = romaji_variants(ruby)
+            if lat and len(lat) >= 2 and lat not in r:  # 英字混じりの名前：英字部分だけの綴りも足す
+                r.append(lat)
         if r:
             put("romaji", r)
+
     if a.get("aliases") is None:
         put("aliases", [])
     if "url" not in a and "link" not in a:
