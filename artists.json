@@ -3689,6 +3689,25 @@
     "color": ""
   },
   {
+    "id": "artist-196",
+    "name": "Mrs.GREEN APPLE",
+    "ruby": "みせすぐりーんあっぷる",
+    "kana": "ミセスグリーンアップル",
+    "romaji": [
+      "mrsgreenapple"
+    ],
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "Mrs.GREEN APPLEの代表曲をまとめた公式のプレイリスト「This Is Mrs.GREEN APPLE」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-18",
+    "updated_date": "2026-10-18",
+    "color": ""
+  },
+  {
     "id": "artist-186",
     "name": "むテスト",
     "ruby": "むテスト",
@@ -3826,9 +3845,5 @@
     "added_date": "2026-10-18",
     "updated_date": "2026-10-18",
     "color": ""
-  },
-  {
-    "name": "Mrs.GREEN APPLE",
-    "ruby": "みせすぐりーんあっぷる"
-   } 
+  }
 ]
