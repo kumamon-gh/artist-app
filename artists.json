@@ -3964,6 +3964,30 @@
     "color": ""
   },
   {
+    "id": "artist-217",
+    "name": "大原櫻子",
+    "ruby": "おおはらさくらこ",
+    "kana": "オオハラサクラコ",
+    "romaji": [
+      "ooharasakurako"
+    ],
+    "aliases": [
+      "大原桜子"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tFPik",
+    "spotify_artist_id": "5TS11vZTUaDP4maTjFCcBU",
+    "official_site": null,
+    "description": "大原櫻子の代表曲をまとめた公式のプレイリスト「This Is 大原櫻子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4275,13 +4299,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "大原櫻子",
-  "ruby": "おおはらさくらこ",
-  "aliases": ["大原桜子"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tFPik",
-  "spotify_artist_id": "5TS11vZTUaDP4maTjFCcBU",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
