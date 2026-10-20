@@ -105,18 +105,8 @@ def main():
     with open(json_path, "r", encoding="utf-8") as f:
         original_text = f.read()
 
-    try:
-        parsed = json.loads(original_text)
-    except json.JSONDecodeError as e:
-        # 見えない文字（NBSP等）が原因のことがあるため、前後の行を repr で表示する
-        lines = original_text.split("\n")
-        print(f"JSONの書式エラー: {e}")
-        for n in range(max(1, e.lineno - 3), min(len(lines), e.lineno + 1) + 1):
-            print(f"{n:>5}: {lines[n - 1]!r}")
-        sys.exit("artists.json の書式を直してください")
-
     # 採番・補完・検証・ruby順の並び替え。エラーがあれば、壊れたデータを保存・配信しないよう中止する
-    artists, errors, warnings, infos = normalize(parsed)
+    artists, errors, warnings, infos = normalize(json.loads(original_text))
     for line in infos:
         print("INFO :", line)
     for line in warnings:
