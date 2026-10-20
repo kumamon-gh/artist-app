@@ -3764,6 +3764,31 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-209",
+    "name": "HKT48",
+    "ruby": "えいちけーてぃーふぉーてぃーえいと",
+    "kana": "エイチケーティーフォーティーエイト",
+    "romaji": [
+      "hkt48"
+    ],
+    "aliases": [
+      "HKT",
+      "博多48"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uM50q",
+    "spotify_artist_id": "4gEIINdqeWnlTnmdsCUVBf",
+    "official_site": null,
+    "description": "HKT48の代表曲をまとめた公式のプレイリスト「This Is HKT48」",
+    "tags": [
+      "女性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4075,13 +4100,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "HKT48",
-  "ruby": "えいちけーてぃーふぉーてぃーえいと",
-  "aliases": ["HKT", "博多48"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uM50q",
-  "spotify_artist_id": "4gEIINdqeWnlTnmdsCUVBf",
-  "tags": ["女性グループ/ユニット", "J-POP"]
-}
+  }
 ]
