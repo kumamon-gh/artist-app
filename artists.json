@@ -3988,6 +3988,28 @@
     "color": ""
   },
   {
+    "id": "artist-218",
+    "name": "岡本真夜",
+    "ruby": "おかもとまよ",
+    "kana": "オカモトマヨ",
+    "romaji": [
+      "okamotomayo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14jR2E",
+    "spotify_artist_id": "1TEO8St42CVkM7eIimLSlh",
+    "official_site": null,
+    "description": "岡本真夜の代表曲をまとめた公式のプレイリスト「This Is 岡本真夜」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4299,13 +4321,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "岡本真夜",
-  "ruby": "おかもとまよ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14jR2E",
-  "spotify_artist_id": "1TEO8St42CVkM7eIimLSlh",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
