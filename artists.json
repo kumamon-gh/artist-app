@@ -4010,6 +4010,31 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-219",
+    "name": "奥田民生",
+    "ruby": "おくだたみお",
+    "kana": "オクダタミオ",
+    "romaji": [
+      "okudatamio"
+    ],
+    "aliases": [
+      "民生",
+      "OT"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kIsVe",
+    "spotify_artist_id": "3ZWE1TnryM03rfzVin17K0",
+    "official_site": null,
+    "description": "奥田民生の代表曲をまとめた公式のプレイリスト「This Is 奥田民生」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4321,13 +4346,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "奥田民生",
-  "ruby": "おくだたみお",
-  "aliases": ["民生", "OT"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kIsVe",
-  "spotify_artist_id": "3ZWE1TnryM03rfzVin17K0",
-  "tags": ["男性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
