@@ -3673,6 +3673,28 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-206",
+    "name": "上田正樹",
+    "ruby": "うえだまさき",
+    "kana": "ウエダマサキ",
+    "romaji": [
+      "uedamasaki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2y36OK",
+    "spotify_artist_id": "4m6Bv2kcCpGVcJKbBVj3OB",
+    "official_site": null,
+    "description": "上田正樹の代表曲をまとめた公式のプレイリスト「This Is 上田正樹」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-181",
     "name": "汐れいら",
     "ruby": "うしおれいら",
@@ -4007,13 +4029,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "上田正樹",
-  "ruby": "うえだまさき",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2y36OK",
-  "spotify_artist_id": "4m6Bv2kcCpGVcJKbBVj3OB",
-  "tags": ["男性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
