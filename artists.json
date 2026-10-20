@@ -3958,5 +3958,149 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "WayV",
+  "ruby": "うぇいぶい",
+  "aliases": ["威神V"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MPSfu",
+    "spotify_artist_id": "1qBsABYUrxg9afpMtyoFKz",
+  "tags": ["男性グループ/ユニット", "K-POP"]
+},
+{
+  "name": "WEST.",
+  "ruby": "うぇすと",
+  "aliases": ["ジャニーズWEST", "ウエスト"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZztURIXzPkK",
+    "spotify_artist_id": "0VbpS8goXhAQ8vnwiJUNf3",
+  "tags": ["男性グループ/ユニット", "J-POP"]
+},
+{
+  "name": "上田正樹",
+  "ruby": "うえだまさき",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2y36OK",
+    "spotify_artist_id": "4m6Bv2kcCpGVcJKbBVj3OB",
+  "tags": ["男性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "上戸彩",
+  "ruby": "うえとあや",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TA0J7",
+    "spotify_artist_id": "3gQe1ekWxXzJCI1ryAvxxP",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "上野大樹",
+  "ruby": "うえのたいき",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wEFRE",
+    "spotify_artist_id": "5YPkOSqagMwjOWf7PLjHNF",
+  "tags": ["男性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "上原多香子",
+  "ruby": "うえはらたかこ",
+  "aliases": ["TAKAKO"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ieLPZ",
+    "spotify_artist_id": "0BKGjW5PfSW1QpwMimgrtj",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "上間綾乃",
+  "ruby": "うえまあやの",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2zEAfx",
+    "spotify_artist_id": "4oM1G6qrNMRNFbX5r1FBot",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "植村花菜",
+  "ruby": "うえむらかな",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1emx9A",
+    "spotify_artist_id": "2alEVA0XivZV9EazBtP6of",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "牛島隆太",
+  "ruby": "うしじまりゅうた",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mIKXD",
+    "spotify_artist_id": "2oeWVVmMy0UVm6pfetqCCJ",
+  "tags": ["男性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "うじたまい",
+  "ruby": "うじたまい",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1oZy06",
+    "spotify_artist_id": "2s0Rvk917lDZ1INwR0QLvW",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "うしろゆびさされ組",
+  "ruby": "うしろゆびさされぐみ",
+  "aliases": ["うしろゆび"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lSulo",
+    "spotify_artist_id": "41Sy2SaLzGisGM4k2SOH1l",
+  "tags": ["女性グループ/ユニット", "歌謡曲"]
+},
+{
+  "name": "宇多田ヒカル",
+  "ruby": "うただひかる",
+  "aliases": ["ヒッキー", "宇多田", "Utada"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6CW8azhr2xT",
+    "spotify_artist_id": "7lbSsjYACZHn1MSDXPxNF2",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "打首獄門同好会",
+  "ruby": "うちくびごくもんどうこうかい",
+  "aliases": ["打首", "獄門"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO27X2M0",
+    "spotify_artist_id": "3EJLTLWBKED6IQdsGgOscG",
+  "tags": ["バンド", "J-POP"]
+},
+{
+  "name": "内山田洋とクール・ファイブ",
+  "ruby": "うちやまだひろしとくーるふぁいぶ",
+  "aliases": ["クールファイブ", "内山田洋", "クールファイヴ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XhWyl",
+    "spotify_artist_id": "6H5ZrhduVi2a2W5OrJnegM",
+  "tags": ["男性グループ/ユニット", "歌謡曲"]
+},
+{
+  "name": "宇野実彩子",
+  "ruby": "うのみさこ",
+  "aliases": ["みっちー"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ywYee",
+    "spotify_artist_id": "7GZ4sfSqYerIzoy01IiBBI",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "UVERworld",
+  "ruby": "うーばーわーるど",
+  "aliases": ["ウーバー", "UVER"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KBMI1",
+    "spotify_artist_id": "6m14xgA0m3w92UM7ujJgky",
+  "tags": ["バンド", "J-POP"]
+},
+{
+  "name": "ウマ娘 プリティーダービー",
+  "ruby": "うまむすめぷりてぃーだーびー",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bDx5R",
+    "spotify_artist_id": "5pTLke5Yq8nN4yaPxLPzGd",
+  "tags": ["女性グループ/ユニット", "J-POP"]
+},
+{
+  "name": "梅沢富美男",
+  "ruby": "うめざわとみお",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nld9U",
+    "spotify_artist_id": "5JlC66Cy8ozai9xAtbehGz",
+  "tags": ["男性ボーカル/ソロ", "歌謡曲"]
+}
 ]
