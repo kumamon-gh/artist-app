@@ -3815,6 +3815,30 @@
     "color": ""
   },
   {
+    "id": "artist-211",
+    "name": "X JAPAN",
+    "ruby": "えっくすじゃぱん",
+    "kana": "エックスジャパン",
+    "romaji": [
+      "xjapan"
+    ],
+    "aliases": [
+      "X"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TjjHl",
+    "spotify_artist_id": "4VrqQQy6X0hlMtqY5gp6Wx",
+    "official_site": null,
+    "description": "X JAPANの代表曲をまとめた公式のプレイリスト「This Is X JAPAN」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4126,13 +4150,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "X JAPAN",
-  "ruby": "えっくすじゃぱん",
-  "aliases": ["X"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TjjHl",
-  "spotify_artist_id": "4VrqQQy6X0hlMtqY5gp6Wx",
-  "tags": ["バンド", "J-POP"]
-}
+  }
 ]
