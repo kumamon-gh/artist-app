@@ -3789,6 +3789,32 @@
     "color": ""
   },
   {
+    "id": "artist-210",
+    "name": "AKB48",
+    "ruby": "えーけーびーふぉーてぃーえいと",
+    "kana": "エーケービーフォーティーエイト",
+    "romaji": [
+      "akb48"
+    ],
+    "aliases": [
+      "AKB",
+      "エーケービー",
+      "秋葉原48"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWreOe",
+    "spotify_artist_id": "01wau5CL3Z1vfJJWkzBkqg",
+    "official_site": null,
+    "description": "AKB48の代表曲をまとめた公式のプレイリスト「This Is AKB48」",
+    "tags": [
+      "女性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4100,13 +4126,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "AKB48",
-  "ruby": "えーけーびーふぉーてぃーえいと",
-  "aliases": ["AKB", "エーケービー", "秋葉原48"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWreOe",
-  "spotify_artist_id": "01wau5CL3Z1vfJJWkzBkqg",
-  "tags": ["女性グループ/ユニット", "J-POP"]
-}
+  }
 ]
