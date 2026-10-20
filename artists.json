@@ -3891,6 +3891,31 @@
     "color": "#95c90d"
   },
   {
+    "id": "artist-214",
+    "name": "Aimer",
+    "ruby": "えめ",
+    "kana": "エメ",
+    "romaji": [
+      "aimer"
+    ],
+    "aliases": [
+      "エイマー",
+      "アイマー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96",
+    "spotify_artist_id": "0bAsR2unSRpn6BQPEnNlZm",
+    "official_site": null,
+    "description": "Aimerの代表曲をまとめた公式のプレイリスト「This Is Aimer」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4202,13 +4227,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "Aimer",
-  "ruby": "えめ",
-  "aliases": ["エイマー", "アイマー"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96",
-  "spotify_artist_id": "0bAsR2unSRpn6BQPEnNlZm",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
