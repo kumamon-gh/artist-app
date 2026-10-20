@@ -3941,6 +3941,29 @@
     "color": ""
   },
   {
+    "id": "artist-216",
+    "name": "大塚愛",
+    "ruby": "おおつかあい",
+    "kana": "オオツカアイ",
+    "romaji": [
+      "ootsukaai",
+      "ootukaai"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bf8su",
+    "spotify_artist_id": "0q7KOr99MYmwKxivChxpSd",
+    "official_site": null,
+    "description": "大塚愛の代表曲をまとめた公式のプレイリスト「This Is 大塚愛」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4252,13 +4275,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "大塚愛",
-  "ruby": "おおつかあい",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bf8su",
-  "spotify_artist_id": "0q7KOr99MYmwKxivChxpSd",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
