@@ -3789,6 +3789,33 @@
     "color": ""
   },
   {
+    "id": "artist-213",
+    "name": "Every Little Thing",
+    "ruby": "えゔりりとるしんぐ",
+    "kana": "エヴリリトルシング",
+    "romaji": [
+      "everylittlething"
+    ],
+    "aliases": [
+      "ELT",
+      "エブリリトルシング",
+      "エブリ",
+      "エブリシング"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4h5tHv",
+    "spotify_artist_id": "7dZHl3ZmH21XpCwvcMlnml",
+    "official_site": null,
+    "description": "Every Little Thingの代表曲をまとめた公式のプレイリスト「This Is Every Little Thing」",
+    "tags": [
+      "女性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-210",
     "name": "AKB48",
     "ruby": "えーけーびーふぉーてぃーえいと",
@@ -4175,13 +4202,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "Every Little Thing",
-  "ruby": "えゔりりとるしんぐ",
-  "aliases": ["ELT", "エブリリトルシング", "エブリ", "エブリシング"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4h5tHv",
-  "spotify_artist_id": "7dZHl3ZmH21XpCwvcMlnml",
-  "tags": ["女性グループ/ユニット", "J-POP"]
-}
+  }
 ]
