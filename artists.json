@@ -4321,5 +4321,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "奥田民生",
+  "ruby": "おくだたみお",
+  "aliases": ["民生", "OT"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kIsVe",
+  "spotify_artist_id": "3ZWE1TnryM03rfzVin17K0",
+  "tags": ["男性ボーカル/ソロ", "J-POP"]
+}
 ]
