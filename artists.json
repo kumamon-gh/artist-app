@@ -3624,25 +3624,6 @@
     "color": "#e4ac89"
   },
   {
-    "id": "artist-204",
-    "name": "WayV",
-    "ruby": "うぇいぶい",
-    "kana": "ウェイブイ",
-    "romaji": [
-      "wayv"
-    ],
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MPSfu",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "WayVの代表曲をまとめた公式のプレイリスト「This Is WayV」",
-    "tags": [],
-    "status": "published",
-    "added_date": "2026-10-20",
-    "updated_date": "2026-10-20",
-    "color": ""
-  },
-  {
     "id": "artist-181",
     "name": "汐れいら",
     "ruby": "うしおれいら",
@@ -3977,5 +3958,12 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "WayV",
+  "ruby": "うぇいぶい",
+  "aliases": ["威神V"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MPSfu",
+    "spotify_artist_id": "1qBsABYUrxg9afpMtyoFKz"
+}
 ]
