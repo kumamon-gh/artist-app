@@ -3695,6 +3695,28 @@
     "color": ""
   },
   {
+    "id": "artist-207",
+    "name": "上戸彩",
+    "ruby": "うえとあや",
+    "kana": "ウエトアヤ",
+    "romaji": [
+      "uetoaya"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TA0J7",
+    "spotify_artist_id": "3gQe1ekWxXzJCI1ryAvxxP",
+    "official_site": null,
+    "description": "上戸彩の代表曲をまとめた公式のプレイリスト「This Is 上戸彩」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-181",
     "name": "汐れいら",
     "ruby": "うしおれいら",
@@ -4029,13 +4051,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "上戸彩",
-  "ruby": "うえとあや",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TA0J7",
-  "spotify_artist_id": "3gQe1ekWxXzJCI1ryAvxxP",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
