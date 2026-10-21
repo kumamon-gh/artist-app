@@ -3764,6 +3764,30 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-222",
+    "name": "宇野実彩子",
+    "ruby": "うのみさこ",
+    "kana": "ウノミサコ",
+    "romaji": [
+      "unomisako"
+    ],
+    "aliases": [
+      "みっちー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ywYee",
+    "spotify_artist_id": "7GZ4sfSqYerIzoy01IiBBI",
+    "official_site": null,
+    "description": "宇野実彩子の代表曲をまとめた公式のプレイリスト「This Is 宇野実彩子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-221",
     "name": "Uru",
     "ruby": "うる",
@@ -4393,13 +4417,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "宇野実彩子",
-  "ruby": "うのみさこ",
-  "aliases": ["みっちー"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ywYee",
-  "spotify_artist_id": "7GZ4sfSqYerIzoy01IiBBI",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
