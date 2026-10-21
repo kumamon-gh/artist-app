@@ -4323,6 +4323,28 @@
     "color": ""
   },
   {
+    "id": "artist-232",
+    "name": "小田和正",
+    "ruby": "おだかずまさ",
+    "kana": "オダカズマサ",
+    "romaji": [
+      "odakazumasa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Gb0cX",
+    "spotify_artist_id": "2UzjSnmjccLgd1DkvAH5OR",
+    "official_site": null,
+    "description": "小田和正の代表曲をまとめた公式のプレイリスト「This Is 小田和正」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4634,13 +4656,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "小田和正",
-  "ruby": "おだかずまさ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Gb0cX",
-  "spotify_artist_id": "2UzjSnmjccLgd1DkvAH5OR",
-  "tags": ["男性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
