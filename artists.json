@@ -4391,6 +4391,32 @@
     "color": ""
   },
   {
+    "id": "artist-235",
+    "name": "おニャン子クラブ",
+    "ruby": "おにゃんこくらぶ",
+    "kana": "オニャンコクラブ",
+    "romaji": [
+      "onyankokurabu"
+    ],
+    "aliases": [
+      "おにゃんこ",
+      "おにゃん子クラブ",
+      "おニャン子"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bNqQU",
+    "spotify_artist_id": "5qahyxUWCUPR8C1vuGozmH",
+    "official_site": null,
+    "description": "おニャン子クラブの代表曲をまとめた公式のプレイリスト「This Is おニャン子クラブ」",
+    "tags": [
+      "女性グループ/ユニット",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4702,13 +4728,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "おニャン子クラブ",
-  "ruby": "おにゃんこくらぶ",
-  "aliases": ["おにゃんこ", "おにゃん子クラブ", "おニャン子"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bNqQU",
-  "spotify_artist_id": "5qahyxUWCUPR8C1vuGozmH",
-  "tags": ["女性グループ/ユニット", "歌謡曲"]
-}
+  }
 ]
