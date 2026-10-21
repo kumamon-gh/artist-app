@@ -4516,6 +4516,31 @@
     "color": ""
   },
   {
+    "id": "artist-240",
+    "name": "Omoinotake",
+    "ruby": "おもいのたけ",
+    "kana": "オモイノタケ",
+    "romaji": [
+      "omoinotake"
+    ],
+    "aliases": [
+      "思いのたけ",
+      "想いのたけ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zuWdj",
+    "spotify_artist_id": "63ylN6WBUUxxMsySiDmr0B",
+    "official_site": null,
+    "description": "Omoinotakeの代表曲をまとめた公式のプレイリスト「This Is Omoinotake」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4827,13 +4852,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "Omoinotake",
-  "ruby": "おもいのたけ",
-  "aliases": ["思いのたけ", "想いのたけ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zuWdj",
-  "spotify_artist_id": "63ylN6WBUUxxMsySiDmr0B",
-  "tags": ["バンド", "J-POP"]
-}
+  }
 ]
