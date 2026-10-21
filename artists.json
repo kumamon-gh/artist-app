@@ -4346,5 +4346,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "ウルフルズ",
+  "ruby": "うるふるず",
+  "aliases": ["ウルフルス"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3FSFXz",
+  "spotify_artist_id": "6e9Wgn2800cCQcM0b4cNwt",
+  "tags": ["バンド", "J-POP"]
+}
 ]
