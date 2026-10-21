@@ -4368,6 +4368,29 @@
     "color": ""
   },
   {
+    "id": "artist-234",
+    "name": "織田裕二",
+    "ruby": "おだゆうじ",
+    "kana": "オダユウジ",
+    "romaji": [
+      "odayuuji",
+      "odayuuzi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO46lVP5",
+    "spotify_artist_id": "6W9gf3YMU58hAlbcnGPKbJ",
+    "official_site": null,
+    "description": "織田裕二の代表曲をまとめた公式のプレイリスト「This Is 織田裕二」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4679,13 +4702,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "織田裕二",
-  "ruby": "おだゆうじ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO46lVP5",
-  "spotify_artist_id": "6W9gf3YMU58hAlbcnGPKbJ",
-  "tags": ["男性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
