@@ -3837,6 +3837,33 @@
     "color": "#e5ad89"
   },
   {
+    "id": "artist-244",
+    "name": "内山田洋とクール・ファイブ",
+    "ruby": "うちやまだひろしとくーるふぁいぶ",
+    "kana": "ウチヤマダヒロシトクールファイブ",
+    "romaji": [
+      "uchiyamadahiroshitokuurufaibu",
+      "utiyamadahirositokuuruhaibu"
+    ],
+    "aliases": [
+      "クールファイブ",
+      "内山田洋",
+      "クールファイヴ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XhWyl",
+    "spotify_artist_id": "6H5ZrhduVi2a2W5OrJnegM",
+    "official_site": null,
+    "description": "内山田洋とクール・ファイブの代表曲をまとめた公式のプレイリスト「This Is 内山田洋とクール・ファイブ」",
+    "tags": [
+      "男性グループ/ユニット",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-222",
     "name": "宇野実彩子",
     "ruby": "うのみさこ",
@@ -4925,13 +4952,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "内山田洋とクール・ファイブ",
-  "ruby": "うちやまだひろしとくーるふぁいぶ",
-  "aliases": ["クールファイブ", "内山田洋", "クールファイヴ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XhWyl",
-  "spotify_artist_id": "6H5ZrhduVi2a2W5OrJnegM",
-  "tags": ["男性グループ/ユニット", "歌謡曲"]
-}
+  }
 ]
