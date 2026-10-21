@@ -4491,6 +4491,31 @@
     "color": ""
   },
   {
+    "id": "artist-239",
+    "name": "オフコース",
+    "ruby": "おふこーす",
+    "kana": "オフコース",
+    "romaji": [
+      "ofukoosu",
+      "ohukoosu"
+    ],
+    "aliases": [
+      "Off Course"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wFxl7",
+    "spotify_artist_id": "5YQX51PLEtKQAKnMFt5jnG",
+    "official_site": null,
+    "description": "オフコースの代表曲をまとめた公式のプレイリスト「This Is オフコース」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4802,13 +4827,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "オフコース",
-  "ruby": "おふこーす",
-  "aliases": ["Off Course"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wFxl7",
-  "spotify_artist_id": "5YQX51PLEtKQAKnMFt5jnG",
-  "tags": ["バンド", "J-POP"]
-}
+  }
 ]
