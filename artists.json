@@ -3764,6 +3764,31 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-225",
+    "name": "うしろゆびさされ組",
+    "ruby": "うしろゆびさされぐみ",
+    "kana": "ウシロユビササレグミ",
+    "romaji": [
+      "ushiroyubisasaregumi",
+      "usiroyubisasaregumi"
+    ],
+    "aliases": [
+      "うしろゆび"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lSulo",
+    "spotify_artist_id": "41Sy2SaLzGisGM4k2SOH1l",
+    "official_site": null,
+    "description": "うしろゆびさされ組の代表曲をまとめた公式のプレイリスト「This Is うしろゆびさされ組」",
+    "tags": [
+      "女性グループ/ユニット",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-223",
     "name": "宇多田ヒカル",
     "ruby": "うただひかる",
@@ -4467,13 +4492,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "うしろゆびさされ組",
-  "ruby": "うしろゆびさされぐみ",
-  "aliases": ["うしろゆび"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lSulo",
-  "spotify_artist_id": "41Sy2SaLzGisGM4k2SOH1l",
-  "tags": ["女性グループ/ユニット", "歌謡曲"]
-}
+  }
 ]
