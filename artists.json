@@ -4032,6 +4032,31 @@
     "color": "#f89bd2"
   },
   {
+    "id": "artist-248",
+    "name": "Awich",
+    "ruby": "えいうぃっち",
+    "kana": "エイウィッチ",
+    "romaji": [
+      "awich"
+    ],
+    "aliases": [
+      "アウィッチ",
+      "エーウィッチ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kqkWQ",
+    "spotify_artist_id": "0FnDCrmcQT8qz5TEsZIYw5",
+    "official_site": null,
+    "description": "Awichの代表曲をまとめた公式のプレイリスト「This Is Awich」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-209",
     "name": "HKT48",
     "ruby": "えいちけーてぃーふぉーてぃーえいと",
@@ -5025,13 +5050,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "Awich",
-  "ruby": "えいうぃっち",
-  "aliases": ["アウィッチ", "エーウィッチ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kqkWQ",
-  "spotify_artist_id": "0FnDCrmcQT8qz5TEsZIYw5",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
