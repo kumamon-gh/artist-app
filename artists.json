@@ -3741,6 +3741,28 @@
     "color": "#fea42a"
   },
   {
+    "id": "artist-226",
+    "name": "植村花菜",
+    "ruby": "うえむらかな",
+    "kana": "ウエムラカナ",
+    "romaji": [
+      "uemurakana"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1emx9A",
+    "spotify_artist_id": "2alEVA0XivZV9EazBtP6of",
+    "official_site": null,
+    "description": "植村花菜の代表曲をまとめた公式のプレイリスト「This Is 植村花菜」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-181",
     "name": "汐れいら",
     "ruby": "うしおれいら",
@@ -4492,13 +4514,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "植村花菜",
-  "ruby": "うえむらかな",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1emx9A",
-  "spotify_artist_id": "2alEVA0XivZV9EazBtP6of",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
