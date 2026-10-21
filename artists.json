@@ -3888,6 +3888,31 @@
     "color": "#ffc863"
   },
   {
+    "id": "artist-245",
+    "name": "UVERworld",
+    "ruby": "うーばーわーるど",
+    "kana": "ウーバーワールド",
+    "romaji": [
+      "uverworld"
+    ],
+    "aliases": [
+      "ウーバー",
+      "UVER"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KBMI1",
+    "spotify_artist_id": "6m14xgA0m3w92UM7ujJgky",
+    "official_site": null,
+    "description": "UVERworldの代表曲をまとめた公式のプレイリスト「This Is UVERworld」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-224",
     "name": "ウマ娘 プリティーダービー",
     "ruby": "うまむすめぷりてぃーだーびー",
@@ -4952,13 +4977,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "UVERworld",
-  "ruby": "うーばーわーるど",
-  "aliases": ["ウーバー", "UVER"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KBMI1",
-  "spotify_artist_id": "6m14xgA0m3w92UM7ujJgky",
-  "tags": ["バンド", "J-POP"]
-}
+  }
 ]
