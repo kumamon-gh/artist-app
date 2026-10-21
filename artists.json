@@ -4702,5 +4702,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "おニャン子クラブ",
+  "ruby": "おにゃんこくらぶ",
+  "aliases": ["おにゃんこ", "おにゃん子クラブ", "おニャン子"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bNqQU",
+  "spotify_artist_id": "5qahyxUWCUPR8C1vuGozmH",
+  "tags": ["女性グループ/ユニット", "歌謡曲"]
+}
 ]
