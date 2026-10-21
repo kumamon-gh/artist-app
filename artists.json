@@ -4565,6 +4565,31 @@
     "color": ""
   },
   {
+    "id": "artist-242",
+    "name": "オレンジスパイニクラブ",
+    "ruby": "おれんじすぱいにくらぶ",
+    "kana": "オレンジスパイニクラブ",
+    "romaji": [
+      "orenjisupainikurabu",
+      "orenzisupainikurabu"
+    ],
+    "aliases": [
+      "オレスパ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0QwEWk",
+    "spotify_artist_id": "1wJL6nbdvPwqPYuoqiw5aN",
+    "official_site": null,
+    "description": "オレンジスパイニクラブの代表曲をまとめた公式のプレイリスト「This Is オレンジスパイニクラブ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4876,13 +4901,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "オレンジスパイニクラブ",
-  "ruby": "おれんじすぱいにくらぶ",
-  "aliases": ["オレスパ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0QwEWk",
-  "spotify_artist_id": "1wJL6nbdvPwqPYuoqiw5aN",
-  "tags": ["バンド", "J-POP"]
-}
+  }
 ]
