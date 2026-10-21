@@ -4802,5 +4802,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "オフコース",
+  "ruby": "おふこーす",
+  "aliases": ["Off Course"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wFxl7",
+  "spotify_artist_id": "5YQX51PLEtKQAKnMFt5jnG",
+  "tags": ["バンド", "J-POP"]
+}
 ]
