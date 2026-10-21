@@ -4082,6 +4082,30 @@
     "color": "#16d1a6"
   },
   {
+    "id": "artist-249",
+    "name": "H2O",
+    "ruby": "えいちつーおー",
+    "kana": "エイチツーオー",
+    "romaji": [
+      "h2o"
+    ],
+    "aliases": [
+      "H2O"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YHo6E",
+    "spotify_artist_id": "6JqWyoMR9XuS0M0tm1xwX9",
+    "official_site": null,
+    "description": "H2Oの代表曲をまとめた公式のプレイリスト「This Is H2O」",
+    "tags": [
+      "デュオ/ペア",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-213",
     "name": "Every Little Thing",
     "ruby": "えゔりりとるしんぐ",
@@ -5050,13 +5074,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "H2O",
-  "ruby": "えいちつーおー",
-  "aliases": ["H2O"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YHo6E",
-  "spotify_artist_id": "6JqWyoMR9XuS0M0tm1xwX9",
-  "tags": ["デュオ/ペア", "J-POP"]
-}
+  }
 ]
