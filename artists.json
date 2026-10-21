@@ -4417,5 +4417,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "宇多田ヒカル",
+  "ruby": "うただひかる",
+  "aliases": ["ヒッキー", "宇多田", "Utada"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6CW8azhr2xT",
+  "spotify_artist_id": "7lbSsjYACZHn1MSDXPxNF2",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+}
 ]
