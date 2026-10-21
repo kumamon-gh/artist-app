@@ -4440,6 +4440,29 @@
     "color": "#ff7163"
   },
   {
+    "id": "artist-237",
+    "name": "小野正利",
+    "ruby": "おのまさとし",
+    "kana": "オノマサトシ",
+    "romaji": [
+      "onomasatoshi",
+      "onomasatosi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1E2yWu",
+    "spotify_artist_id": "2R1ubdXY4sUiDqsCtoAVUE",
+    "official_site": null,
+    "description": "小野正利の代表曲をまとめた公式のプレイリスト「This Is 小野正利」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4751,13 +4774,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "小野正利",
-  "ruby": "おのまさとし",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1E2yWu",
-  "spotify_artist_id": "2R1ubdXY4sUiDqsCtoAVUE",
-  "tags": ["男性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
