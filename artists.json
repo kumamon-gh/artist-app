@@ -3764,6 +3764,28 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-221",
+    "name": "Uru",
+    "ruby": "うる",
+    "kana": "ウル",
+    "romaji": [
+      "uru"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K8luF",
+    "spotify_artist_id": "6le80R1opKnTlP4o3KvA2k",
+    "official_site": null,
+    "description": "Uruの代表曲をまとめた公式のプレイリスト「This Is Uru」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-220",
     "name": "ウルフルズ",
     "ruby": "うるふるず",
@@ -4371,13 +4393,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "Uru",
-  "ruby": "うる",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K8luF",
-  "spotify_artist_id": "6le80R1opKnTlP4o3KvA2k",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
