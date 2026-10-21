@@ -4106,6 +4106,28 @@
     "color": ""
   },
   {
+    "id": "artist-250",
+    "name": "HY",
+    "ruby": "えいちわい",
+    "kana": "エイチワイ",
+    "romaji": [
+      "hy"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO23mb4o",
+    "spotify_artist_id": "3x621ItlHMtX7mrJ8QnEjM",
+    "official_site": null,
+    "description": "HYの代表曲をまとめた公式のプレイリスト「This Is HY」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-213",
     "name": "Every Little Thing",
     "ruby": "えゔりりとるしんぐ",
@@ -5074,13 +5096,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "HY",
-  "ruby": "えいちわい",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO23mb4o",
-  "spotify_artist_id": "3x621ItlHMtX7mrJ8QnEjM",
-  "tags": ["バンド", "J-POP"]
-}
+  }
 ]
