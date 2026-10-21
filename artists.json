@@ -4443,5 +4443,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "ウマ娘 プリティーダービー",
+  "ruby": "うまむすめぷりてぃーだーびー",
+  "aliases": ["ウマ娘"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bDx5R",
+  "spotify_artist_id": "5pTLke5Yq8nN4yaPxLPzGd",
+  "tags": ["女性グループ/ユニット", "J-POP"]
+}
 ]
