@@ -3963,6 +3963,28 @@
     "color": "#f37e01"
   },
   {
+    "id": "artist-247",
+    "name": "梅沢富美男",
+    "ruby": "うめざわとみお",
+    "kana": "ウメザワトミオ",
+    "romaji": [
+      "umezawatomio"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nld9U",
+    "spotify_artist_id": "5JlC66Cy8ozai9xAtbehGz",
+    "official_site": null,
+    "description": "梅沢富美男の代表曲をまとめた公式のプレイリスト「This Is 梅沢富美男」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-221",
     "name": "Uru",
     "ruby": "うる",
@@ -5003,13 +5025,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "梅沢富美男",
-  "ruby": "うめざわとみお",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nld9U",
-  "spotify_artist_id": "5JlC66Cy8ozai9xAtbehGz",
-  "tags": ["男性ボーカル/ソロ", "歌謡曲"]
-}
+  }
 ]
