@@ -3764,6 +3764,31 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-220",
+    "name": "ウルフルズ",
+    "ruby": "うるふるず",
+    "kana": "ウルフルズ",
+    "romaji": [
+      "urufuruzu",
+      "uruhuruzu"
+    ],
+    "aliases": [
+      "ウルフルス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3FSFXz",
+    "spotify_artist_id": "6e9Wgn2800cCQcM0b4cNwt",
+    "official_site": null,
+    "description": "ウルフルズの代表曲をまとめた公式のプレイリスト「This Is ウルフルズ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-209",
     "name": "HKT48",
     "ruby": "えいちけーてぃーふぉーてぃーえいと",
@@ -4346,13 +4371,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "ウルフルズ",
-  "ruby": "うるふるず",
-  "aliases": ["ウルフルス"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3FSFXz",
-  "spotify_artist_id": "6e9Wgn2800cCQcM0b4cNwt",
-  "tags": ["バンド", "J-POP"]
-}
+  }
 ]
