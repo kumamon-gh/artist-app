@@ -4590,6 +4590,30 @@
     "color": ""
   },
   {
+    "id": "artist-243",
+    "name": "ORANGE RANGE",
+    "ruby": "おれんじれんじ",
+    "kana": "オレンジレンジ",
+    "romaji": [
+      "orangerange"
+    ],
+    "aliases": [
+      "オレレン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2D2Geh",
+    "spotify_artist_id": "4upiYMjsFfLRieGo8RVRzD",
+    "official_site": null,
+    "description": "ORANGE RANGEの代表曲をまとめた公式のプレイリスト「This Is ORANGE RANGE」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-199",
     "name": "かテスト",
     "ruby": "かテスト",
@@ -4901,13 +4925,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "ORANGE RANGE",
-  "ruby": "おれんじれんじ",
-  "aliases": ["オレレン"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2D2Geh",
-  "spotify_artist_id": "4upiYMjsFfLRieGo8RVRzD",
-  "tags": ["バンド", "J-POP"]
-}
+  }
 ]
