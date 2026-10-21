@@ -3837,6 +3837,32 @@
     "color": "#e5ad89"
   },
   {
+    "id": "artist-246",
+    "name": "打首獄門同好会",
+    "ruby": "うちくびごくもんどうこうかい",
+    "kana": "ウチクビゴクモンドウコウカイ",
+    "romaji": [
+      "uchikubigokumondoukoukai",
+      "utikubigokumondoukoukai"
+    ],
+    "aliases": [
+      "打首",
+      "獄門"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO27X2M0",
+    "spotify_artist_id": "3EJLTLWBKED6IQdsGgOscG",
+    "official_site": null,
+    "description": "打首獄門同好会の代表曲をまとめた公式のプレイリスト「This Is 打首獄門同好会」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-244",
     "name": "内山田洋とクール・ファイブ",
     "ruby": "うちやまだひろしとくーるふぁいぶ",
@@ -4977,13 +5003,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "打首獄門同好会",
-  "ruby": "うちくびごくもんどうこうかい",
-  "aliases": ["打首", "獄門"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO27X2M0",
-  "spotify_artist_id": "3EJLTLWBKED6IQdsGgOscG",
-  "tags": ["バンド", "J-POP"]
-}
+  }
 ]
