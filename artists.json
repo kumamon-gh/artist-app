@@ -4391,6 +4391,29 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-236",
+    "name": "鬼束ちひろ",
+    "ruby": "おにつかちひろ",
+    "kana": "オニツカチヒロ",
+    "romaji": [
+      "onitsukachihiro",
+      "onitukatihiro"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ONWRm",
+    "spotify_artist_id": "4NXiJRheKGsTycUmPwtwSP",
+    "official_site": null,
+    "description": "鬼束ちひろの代表曲をまとめた公式のプレイリスト「This Is 鬼束ちひろ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-235",
     "name": "おニャン子クラブ",
     "ruby": "おにゃんこくらぶ",
@@ -4728,13 +4751,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "鬼束ちひろ",
-  "ruby": "おにつかちひろ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ONWRm",
-  "spotify_artist_id": "4NXiJRheKGsTycUmPwtwSP",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
