@@ -3764,6 +3764,32 @@
     "color": "#fde54f"
   },
   {
+    "id": "artist-223",
+    "name": "宇多田ヒカル",
+    "ruby": "うただひかる",
+    "kana": "ウタダヒカル",
+    "romaji": [
+      "utadahikaru"
+    ],
+    "aliases": [
+      "ヒッキー",
+      "宇多田",
+      "Utada"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX6CW8azhr2xT",
+    "spotify_artist_id": "7lbSsjYACZHn1MSDXPxNF2",
+    "official_site": null,
+    "description": "宇多田ヒカルの代表曲をまとめた公式のプレイリスト「This Is 宇多田ヒカル」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-21",
+    "updated_date": "2026-10-21",
+    "color": ""
+  },
+  {
     "id": "artist-222",
     "name": "宇野実彩子",
     "ruby": "うのみさこ",
@@ -4417,13 +4443,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "宇多田ヒカル",
-  "ruby": "うただひかる",
-  "aliases": ["ヒッキー", "宇多田", "Utada"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6CW8azhr2xT",
-  "spotify_artist_id": "7lbSsjYACZHn1MSDXPxNF2",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
