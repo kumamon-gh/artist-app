@@ -4827,5 +4827,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "Omoinotake",
+  "ruby": "おもいのたけ",
+  "aliases": ["思いのたけ", "想いのたけ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zuWdj",
+  "spotify_artist_id": "63ylN6WBUUxxMsySiDmr0B",
+  "tags": ["バンド", "J-POP"]
+}
 ]
