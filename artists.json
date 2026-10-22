@@ -4250,6 +4250,28 @@
     "color": ""
   },
   {
+    "id": "artist-255",
+    "name": "AOA",
+    "ruby": "えーおーえー",
+    "kana": "エーオーエー",
+    "romaji": [
+      "aoa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YCJB6",
+    "spotify_artist_id": "54gWVQFHf8IIqbjxAoOarN",
+    "official_site": null,
+    "description": "AOAの代表曲をまとめた公式のプレイリスト「This Is AOA」",
+    "tags": [
+      "女性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-210",
     "name": "AKB48",
     "ruby": "えーけーびーふぉーてぃーえいと",
@@ -5191,13 +5213,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "AOA",
-  "ruby": "えーおーえー",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YCJB6",
-  "spotify_artist_id": "54gWVQFHf8IIqbjxAoOarN",
-  "tags": ["女性グループ/ユニット", "K-POP"]
-}
+  }
 ]
