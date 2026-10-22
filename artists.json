@@ -5096,5 +5096,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+{
+  "name": "ATEEZ",
+  "ruby": "えいてぃーず",
+  "aliases": ["エイティーズ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdlpBrO6fF3s",
+  "spotify_artist_id": "68KmkJeZGfwe1OUaivBa2L",
+  "tags": ["男性グループ/ユニット", "K-POP"]
+}
 ]
