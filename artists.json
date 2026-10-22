@@ -4492,6 +4492,28 @@
     "color": ""
   },
   {
+    "id": "artist-264",
+    "name": "aespa",
+    "ruby": "えすぱ",
+    "kana": "エスパ",
+    "romaji": [
+      "aespa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX5CHJY6ZqPPz",
+    "spotify_artist_id": "6YVMFz59CuY7ngCxTxjpxE",
+    "official_site": null,
+    "description": "aespaの代表曲をまとめた公式のプレイリスト「This Is aespa」",
+    "tags": [
+      "女性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-211",
     "name": "X JAPAN",
     "ruby": "えっくすじゃぱん",
@@ -5407,13 +5429,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-{
-  "name": "aespa",
-  "ruby": "えすぱ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5CHJY6ZqPPz",
-  "spotify_artist_id": "6YVMFz59CuY7ngCxTxjpxE",
-  "tags": ["女性グループ/ユニット", "K-POP"]
-}
+  }
 ]
