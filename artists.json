@@ -5142,5 +5142,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "eill",
+  "ruby": "えいる",
+  "aliases": ["アイル"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25hvkB",
+  "spotify_artist_id": "3AiES4wyTOfJvNgqz9baDn",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+}
 ]
