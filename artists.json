@@ -4585,6 +4585,31 @@
     "color": "#95c90d"
   },
   {
+    "id": "artist-266",
+    "name": "NCT 127",
+    "ruby": "えぬしーてぃーいちになな",
+    "kana": "エヌシーティーイチニナナ",
+    "romaji": [
+      "nct127"
+    ],
+    "aliases": [
+      "エヌシーティーヒャクニジュウナナ",
+      "エヌシーティーイチニーナナ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX78tHDcKCzXN",
+    "spotify_artist_id": "7f4ignuCJhLXfZ9giKT7rH",
+    "official_site": null,
+    "description": "NCT 127の代表曲をまとめた公式のプレイリスト「This Is NCT 127」",
+    "tags": [
+      "男性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-214",
     "name": "Aimer",
     "ruby": "えめ",
@@ -5451,13 +5476,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "NCT 127",
-  "ruby": "えぬしーてぃーいちになな",
-  "aliases": ["エヌシーティーヒャクニジュウナナ", "エヌシーティーイチニーナナ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX78tHDcKCzXN",
-  "spotify_artist_id": "7f4ignuCJhLXfZ9giKT7rH",
-  "tags": ["男性グループ/ユニット", "K-POP"]
-}
+  }
 ]
