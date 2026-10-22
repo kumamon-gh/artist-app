@@ -5213,5 +5213,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "EXILE",
+  "ruby": "えぐざいる",
+  "aliases": ["エクザイル", "エグサイル"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SPAU9",
+  "spotify_artist_id": "6zGmypGQUBXD4ZC9EbfMme",
+  "tags": ["男性グループ/ユニット", "J-POP"]
+}
 ]
