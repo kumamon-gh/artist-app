@@ -4443,6 +4443,30 @@
     "color": ""
   },
   {
+    "id": "artist-262",
+    "name": "SNH48",
+    "ruby": "えすえぬえいちふぉーてぃーえいと",
+    "kana": "エスエヌエイチフォーティーエイト",
+    "romaji": [
+      "snh48"
+    ],
+    "aliases": [
+      "上海48"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SAJLb",
+    "spotify_artist_id": "6zhHLETk07jF7nAGIPWE6E",
+    "official_site": null,
+    "description": "SNH48の代表曲をまとめた公式のプレイリスト「This Is SNH48」",
+    "tags": [
+      "女性グループ/ユニット",
+      "C-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-211",
     "name": "X JAPAN",
     "ruby": "えっくすじゃぱん",
@@ -5358,13 +5382,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "SNH48",
-  "ruby": "えすえぬえいちふぉーてぃーえいと",
-  "aliases": ["上海48"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SAJLb",
-  "spotify_artist_id": "6zhHLETk07jF7nAGIPWE6E",
-  "tags": ["女性グループ/ユニット", "C-POP"]
-}
+  }
 ]
