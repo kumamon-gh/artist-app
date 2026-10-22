@@ -4514,6 +4514,28 @@
     "color": ""
   },
   {
+    "id": "artist-265",
+    "name": "XG",
+    "ruby": "えっくすじー",
+    "kana": "エックスジー",
+    "romaji": [
+      "xg"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oioE0",
+    "spotify_artist_id": "0LOK81e9H5lr61HlGGHqwA",
+    "official_site": null,
+    "description": "XGの代表曲をまとめた公式のプレイリスト「This Is XG」",
+    "tags": [
+      "女性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-211",
     "name": "X JAPAN",
     "ruby": "えっくすじゃぱん",
@@ -5429,13 +5451,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "XG",
-  "ruby": "えっくすじー",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oioE0",
-  "spotify_artist_id": "0LOK81e9H5lr61HlGGHqwA",
-  "tags": ["女性グループ/ユニット", "K-POP"]
-}
+  }
 ]
