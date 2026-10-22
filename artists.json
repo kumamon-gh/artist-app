@@ -4152,6 +4152,28 @@
     "color": ""
   },
   {
+    "id": "artist-252",
+    "name": "瑛人",
+    "ruby": "えいと",
+    "kana": "エイト",
+    "romaji": [
+      "eito"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L9mla",
+    "spotify_artist_id": "32QmJ5obSke8YKDbQvVPUx",
+    "official_site": null,
+    "description": "瑛人の代表曲をまとめた公式のプレイリスト「This Is 瑛人」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-213",
     "name": "Every Little Thing",
     "ruby": "えゔりりとるしんぐ",
@@ -5120,13 +5142,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "瑛人",
-  "ruby": "えいと",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L9mla",
-  "spotify_artist_id": "32QmJ5obSke8YKDbQvVPUx",
-  "tags": ["男性ボーカル/ソロ", "J-POP"]
-}
+  }
 ]
