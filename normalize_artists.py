@@ -11,7 +11,7 @@ from pathlib import Path
 
 # 保存時のキーの並び。ここに無いキーは、この並びの後ろに元の順で付く
 KEY_ORDER = [
-    "id", "name", "ruby", "kana", "romaji", "aliases", "url",
+    "id", "name", "ruby", "kana", "romaji", "aliases", "url", "extra_urls",
     "spotify_artist_id", "official_site", "description", "tags",
     "status", "added_date", "updated_date", "color",
 ]
@@ -305,6 +305,21 @@ def normalize(data):
             else:
                 seen_sp[sp] = a.get("name")
         a["spotify_artist_id"] = sp
+        # 2つ目以降の「THIS IS」プレイリスト。? 以降を省き、メインの url と同じものは除く
+        ex = a.get("extra_urls")
+        if ex is not None:
+            if isinstance(ex, list) and all(isinstance(u, str) for u in ex):
+                cleaned = [u.split("?", 1)[0].strip() for u in ex if u.strip()]
+                cleaned = [u for u in cleaned if u != a.get("url")]
+                for u in cleaned:
+                    if not u.startswith("https://open.spotify.com/"):
+                        warnings.append(f"{label}: extra_urls は https://open.spotify.com/ のURLにしてください: {u!r}")
+                if cleaned:
+                    a["extra_urls"] = cleaned
+                else:
+                    a.pop("extra_urls", None)
+            else:
+                errors.append(f"{label}: extra_urls は文字列の配列にしてください")
         if a.get("color") and not COLOR_RE.match(str(a["color"])):
             warnings.append(f"{label}: color は #RRGGBB 形式にしてください: {a['color']!r}")
     if errors:
