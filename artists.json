@@ -4322,6 +4322,31 @@
     "color": ""
   },
   {
+    "id": "artist-258",
+    "name": "EXO",
+    "ruby": "えくそ",
+    "kana": "エクソ",
+    "romaji": [
+      "exo"
+    ],
+    "aliases": [
+      "エクソ",
+      "エグゾ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX5JcPJgYjGcf",
+    "spotify_artist_id": "3cjEqqelV9zb4BYE3qDQ4O",
+    "official_site": null,
+    "description": "EXOの代表曲をまとめた公式のプレイリスト「This Is EXO」",
+    "tags": [
+      "男性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-210",
     "name": "AKB48",
     "ruby": "えーけーびーふぉーてぃーえいと",
@@ -5263,13 +5288,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "EXO",
-  "ruby": "えくそ",
-  "aliases": ["エクソ", "エグゾ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5JcPJgYjGcf",
-  "spotify_artist_id": "3cjEqqelV9zb4BYE3qDQ4O",
-  "tags": ["男性グループ/ユニット", "K-POP"]
-}
+  }
 ]
