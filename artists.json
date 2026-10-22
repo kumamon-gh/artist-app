@@ -5382,5 +5382,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "SKE48",
+  "ruby": "えすけーいーふぉーてぃーえいと",
+  "aliases": ["SKE", "栄48"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lpJTE",
+  "spotify_artist_id": "5G8OLQcvoCxiMQzwEcuWeN",
+  "tags": ["女性グループ/ユニット", "J-POP"]
+}
 ]
