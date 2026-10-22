@@ -4272,6 +4272,31 @@
     "color": "#e4ac89"
   },
   {
+    "id": "artist-256",
+    "name": "EXILE",
+    "ruby": "えぐざいる",
+    "kana": "エグザイル",
+    "romaji": [
+      "exile"
+    ],
+    "aliases": [
+      "エクザイル",
+      "エグサイル"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SPAU9",
+    "spotify_artist_id": "6zGmypGQUBXD4ZC9EbfMme",
+    "official_site": null,
+    "description": "EXILEの代表曲をまとめた公式のプレイリスト「This Is EXILE」",
+    "tags": [
+      "男性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-210",
     "name": "AKB48",
     "ruby": "えーけーびーふぉーてぃーえいと",
@@ -5213,13 +5238,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "EXILE",
-  "ruby": "えぐざいる",
-  "aliases": ["エクザイル", "エグサイル"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SPAU9",
-  "spotify_artist_id": "6zGmypGQUBXD4ZC9EbfMme",
-  "tags": ["男性グループ/ユニット", "J-POP"]
-}
+  }
 ]
