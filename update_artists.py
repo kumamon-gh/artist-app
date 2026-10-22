@@ -126,6 +126,10 @@ def main():
             print("ERROR:", line)
         sys.exit("artists.json にエラーがあるため中止しました")
 
+    # push（編集直後）の時は、URLが未設定のアーティストだけをSpotifyで検索する。
+    # 毎朝の定期実行・手動実行の時は、従来どおり全員のURLを確認する（API呼び出しを節約するため）
+    FULL_CHECK = os.environ.get("GITHUB_EVENT_NAME", "") != "push"
+
     token = get_spotify_token()
     if not token:
         # トークンが取れなくても、整形（採番・並び替え）の結果だけは下で保存する
@@ -141,7 +145,7 @@ def main():
             if not name:
                 continue
 
-            new_url = search_this_is_playlist(artist, token)
+            new_url = search_this_is_playlist(artist, token) if (FULL_CHECK or not current_url) else None
 
             # 見つからなかった場合は、既存のURLをそのまま維持する（空に上書きしない）
             if new_url and new_url != current_url:
