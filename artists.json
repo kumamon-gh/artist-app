@@ -5358,5 +5358,13 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  }
+  },
+  {
+  "name": "SNH48",
+  "ruby": "えすえぬえいちふぉーてぃーえいと",
+  "aliases": ["上海48"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SAJLb",
+  "spotify_artist_id": "6zhHLETk07jF7nAGIPWE6E",
+  "tags": ["女性グループ/ユニット", "C-POP"]
+}
 ]
