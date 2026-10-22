@@ -4128,6 +4128,30 @@
     "color": "#ff7163"
   },
   {
+    "id": "artist-251",
+    "name": "ATEEZ",
+    "ruby": "えいてぃーず",
+    "kana": "エイティーズ",
+    "romaji": [
+      "ateez"
+    ],
+    "aliases": [
+      "エイティーズ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DXdlpBrO6fF3s",
+    "spotify_artist_id": "68KmkJeZGfwe1OUaivBa2L",
+    "official_site": null,
+    "description": "ATEEZの代表曲をまとめた公式のプレイリスト「This Is ATEEZ」",
+    "tags": [
+      "男性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-213",
     "name": "Every Little Thing",
     "ruby": "えゔりりとるしんぐ",
@@ -5096,13 +5120,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-{
-  "name": "ATEEZ",
-  "ruby": "えいてぃーず",
-  "aliases": ["エイティーズ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdlpBrO6fF3s",
-  "spotify_artist_id": "68KmkJeZGfwe1OUaivBa2L",
-  "tags": ["男性グループ/ユニット", "K-POP"]
-}
+  }
 ]
