@@ -4225,6 +4225,31 @@
     "color": "#f37e01"
   },
   {
+    "id": "artist-254",
+    "name": "A応P",
+    "ruby": "えーおうぴー",
+    "kana": "エーオウピー",
+    "romaji": [
+      "eeoupii",
+      "ap"
+    ],
+    "aliases": [
+      "エーオーピー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1llqOq",
+    "spotify_artist_id": "2lX4klkpALsA3vts9032jP",
+    "official_site": null,
+    "description": "A応Pの代表曲をまとめた公式のプレイリスト「This Is A応P」",
+    "tags": [
+      "女性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-210",
     "name": "AKB48",
     "ruby": "えーけーびーふぉーてぃーえいと",
@@ -5166,13 +5191,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "A応P",
-  "ruby": "えーおうぴー",
-  "aliases": ["エーオーピー"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1llqOq",
-  "spotify_artist_id": "2lX4klkpALsA3vts9032jP",
-  "tags": ["女性グループ/ユニット", "J-POP"]
-}
+  }
 ]
