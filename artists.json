@@ -4421,6 +4421,28 @@
     "color": "#f47e00"
   },
   {
+    "id": "artist-261",
+    "name": "ECHOES",
+    "ruby": "えこーず",
+    "kana": "エコーズ",
+    "romaji": [
+      "echoes"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Z0vOy",
+    "spotify_artist_id": "3pRSTdaTMdC8MCvgL2S9WX",
+    "official_site": null,
+    "description": "ECHOESの代表曲をまとめた公式のプレイリスト「This Is ECHOES」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-22",
+    "updated_date": "2026-10-22",
+    "color": ""
+  },
+  {
     "id": "artist-211",
     "name": "X JAPAN",
     "ruby": "えっくすじゃぱん",
@@ -5336,13 +5358,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-  "name": "ECHOES",
-  "ruby": "えこーず",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Z0vOy",
-  "spotify_artist_id": "3pRSTdaTMdC8MCvgL2S9WX",
-  "tags": ["バンド", "J-POP"]
-}
+  }
 ]
