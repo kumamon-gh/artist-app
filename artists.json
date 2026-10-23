@@ -1,5 +1,13 @@
 [
   {
+  "name": "ELLEGARDEN",
+  "ruby": "えるれがーでん",
+  "aliases": ["エルレ", "エルレガ", "エルレガーテン"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QM05u",
+  "spotify_artist_id": "3cbd5GWGOknxmFAe77MDbk",
+  "tags": ["バンド", "J-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
