@@ -1,5 +1,13 @@
 [
   {
+  "name": "EPO",
+  "ruby": "えぽ",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0nnCQe",
+  "spotify_artist_id": "0KigzYQAy5EpdIc9g7szPv",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
