@@ -1,5 +1,13 @@
 [
   {
+  "name": "NCT DREAM",
+  "ruby": "えぬしーてぃーどりーむ",
+  "aliases": ["NCTドリーム", "ドリム"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVZj12Ektr6v",
+  "spotify_artist_id": "1gBUSTR3TyDdTVFIaQnc02",
+  "tags": ["男性グループ/ユニット", "K-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
