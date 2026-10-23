@@ -1,5 +1,13 @@
 [
   {
+  "name": "NCT WISH",
+  "ruby": "えぬしーてぃーうぃっしゅ",
+  "aliases": ["NCTウィッシュ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JFLJr",
+  "spotify_artist_id": "4FqmqIspLaUGtxAFFLsZxc",
+  "tags": ["男性グループ/ユニット", "K-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
