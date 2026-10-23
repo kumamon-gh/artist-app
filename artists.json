@@ -1,13 +1,5 @@
 [
   {
-  "name": "A.B.C-Z",
-  "ruby": "えーびーしーずぃー",
-  "aliases": ["エービーシーゼット", "ABC Z"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YAyJN",
-  "spotify_artist_id": "4HXPfWNUCAFpjMoWyTWz5i",
-  "tags": ["男性グループ/ユニット", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4707,6 +4699,31 @@
     "tags": [
       "男性グループ/ユニット",
       "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
+  },
+  {
+    "id": "artist-271",
+    "name": "A.B.C-Z",
+    "ruby": "えーびーしーずぃー",
+    "kana": "エービーシーズィー",
+    "romaji": [
+      "abcz"
+    ],
+    "aliases": [
+      "エービーシーゼット",
+      "ABC Z"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YAyJN",
+    "spotify_artist_id": "4HXPfWNUCAFpjMoWyTWz5i",
+    "official_site": null,
+    "description": "A.B.C-Zの代表曲をまとめた公式のプレイリスト「This Is A.B.C-Z」",
+    "tags": [
+      "男性グループ/ユニット",
+      "J-POP"
     ],
     "status": "published",
     "added_date": "2026-10-23",
