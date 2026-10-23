@@ -1,13 +1,5 @@
 [
   {
-  "name": "ELLEGARDEN",
-  "ruby": "えるれがーでん",
-  "aliases": ["エルレ", "エルレガ", "エルレガーテン"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QM05u",
-  "spotify_artist_id": "3cbd5GWGOknxmFAe77MDbk",
-  "tags": ["バンド", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4904,6 +4896,32 @@
     "added_date": "2026-10-21",
     "updated_date": "2026-10-21",
     "color": "#e4ac89"
+  },
+  {
+    "id": "artist-277",
+    "name": "ELLEGARDEN",
+    "ruby": "えるれがーでん",
+    "kana": "エルレガーデン",
+    "romaji": [
+      "ellegarden"
+    ],
+    "aliases": [
+      "エルレ",
+      "エルレガ",
+      "エルレガーテン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QM05u",
+    "spotify_artist_id": "3cbd5GWGOknxmFAe77MDbk",
+    "official_site": null,
+    "description": "ELLEGARDENの代表曲をまとめた公式のプレイリスト「This Is ELLEGARDEN」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
   },
   {
     "id": "artist-227",
