@@ -1,5 +1,13 @@
 [
   {
+  "name": "NMIXX",
+  "ruby": "えんみっくす",
+  "aliases": ["エヌミックス"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9olwNXZEPVC",
+  "spotify_artist_id": "28ot3wh4oNmoFOdVajibBl",
+  "tags": ["女性グループ/ユニット", "K-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
