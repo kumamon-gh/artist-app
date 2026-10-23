@@ -1,13 +1,5 @@
 [
   {
-  "name": "NCT DREAM",
-  "ruby": "えぬしーてぃーどりーむ",
-  "aliases": ["NCTドリーム", "ドリム"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVZj12Ektr6v",
-  "spotify_artist_id": "1gBUSTR3TyDdTVFIaQnc02",
-  "tags": ["男性グループ/ユニット", "K-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4640,6 +4632,31 @@
     "added_date": "2026-10-23",
     "updated_date": "2026-10-23",
     "color": "#fea42a"
+  },
+  {
+    "id": "artist-268",
+    "name": "NCT DREAM",
+    "ruby": "えぬしーてぃーどりーむ",
+    "kana": "エヌシーティードリーム",
+    "romaji": [
+      "nctdream"
+    ],
+    "aliases": [
+      "NCTドリーム",
+      "ドリム"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWVZj12Ektr6v",
+    "spotify_artist_id": "1gBUSTR3TyDdTVFIaQnc02",
+    "official_site": null,
+    "description": "NCT DREAMの代表曲をまとめた公式のプレイリスト「This Is NCT DREAM」",
+    "tags": [
+      "男性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
   },
   {
     "id": "artist-214",
