@@ -1,13 +1,5 @@
 [
   {
-  "name": "OWV",
-  "ruby": "おうぶ",
-  "aliases": ["オーダブリューブイ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2I5SjU",
-  "spotify_artist_id": "4CNu1NZPWMvgb46cmKepUG",
-  "tags": ["男性グループ/ユニット", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -5026,6 +5018,30 @@
     "tags": [
       "女性グループ/ユニット",
       "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
+  },
+  {
+    "id": "artist-282",
+    "name": "OWV",
+    "ruby": "おうぶ",
+    "kana": "オウブ",
+    "romaji": [
+      "owv"
+    ],
+    "aliases": [
+      "オーダブリューブイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2I5SjU",
+    "spotify_artist_id": "4CNu1NZPWMvgb46cmKepUG",
+    "official_site": null,
+    "description": "OWVの代表曲をまとめた公式のプレイリスト「This Is OWV」",
+    "tags": [
+      "男性グループ/ユニット",
+      "J-POP"
     ],
     "status": "published",
     "added_date": "2026-10-23",
