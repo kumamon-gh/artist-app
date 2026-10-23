@@ -1,5 +1,13 @@
 [
   {
+  "name": "OWV",
+  "ruby": "おうぶ",
+  "aliases": ["オーダブリューブイ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2I5SjU",
+  "spotify_artist_id": "4CNu1NZPWMvgb46cmKepUG",
+  "tags": ["男性グループ/ユニット", "J-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
