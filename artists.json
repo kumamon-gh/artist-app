@@ -1,13 +1,5 @@
 [
   {
-  "name": "EPO",
-  "ruby": "えぽ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0nnCQe",
-  "spotify_artist_id": "0KigzYQAy5EpdIc9g7szPv",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4755,6 +4747,28 @@
     "description": "EBiDANの代表曲をまとめた公式のプレイリスト「This Is EBiDAN」",
     "tags": [
       "男性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
+  },
+  {
+    "id": "artist-273",
+    "name": "EPO",
+    "ruby": "えぽ",
+    "kana": "エポ",
+    "romaji": [
+      "epo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0nnCQe",
+    "spotify_artist_id": "0KigzYQAy5EpdIc9g7szPv",
+    "official_site": null,
+    "description": "EPOの代表曲をまとめた公式のプレイリスト「This Is EPO」",
+    "tags": [
+      "女性ボーカル/ソロ",
       "J-POP"
     ],
     "status": "published",
