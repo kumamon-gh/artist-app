@@ -1,13 +1,5 @@
 [
   {
-  "name": "ENHYPEN",
-  "ruby": "えんはいぷん",
-  "aliases": ["エンハイフン", "エンハ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0q3zClOVaZA",
-  "spotify_artist_id": "5t5FqBwTcgKTaWmfEbwQY9",
-  "tags": ["男性グループ/ユニット", "K-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4982,6 +4974,31 @@
     "added_date": "2026-10-23",
     "updated_date": "2026-10-23",
     "color": "#fea42a"
+  },
+  {
+    "id": "artist-280",
+    "name": "ENHYPEN",
+    "ruby": "えんはいぷん",
+    "kana": "エンハイプン",
+    "romaji": [
+      "enhypen"
+    ],
+    "aliases": [
+      "エンハイフン",
+      "エンハ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX0q3zClOVaZA",
+    "spotify_artist_id": "5t5FqBwTcgKTaWmfEbwQY9",
+    "official_site": null,
+    "description": "ENHYPENの代表曲をまとめた公式のプレイリスト「This Is ENHYPEN」",
+    "tags": [
+      "男性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
   },
   {
     "id": "artist-227",
