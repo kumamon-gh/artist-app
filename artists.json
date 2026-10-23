@@ -1,13 +1,5 @@
 [
   {
-  "name": "EBiDAN",
-  "ruby": "えびだん",
-  "aliases": ["恵比寿学園男子部"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wsS5q",
-  "spotify_artist_id": "4jtwvvkDVrBZosFsvbSLXm",
-  "tags": ["男性グループ/ユニット", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4729,6 +4721,30 @@
     "spotify_artist_id": "4HXPfWNUCAFpjMoWyTWz5i",
     "official_site": null,
     "description": "A.B.C-Zの代表曲をまとめた公式のプレイリスト「This Is A.B.C-Z」",
+    "tags": [
+      "男性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
+  },
+  {
+    "id": "artist-272",
+    "name": "EBiDAN",
+    "ruby": "えびだん",
+    "kana": "エビダン",
+    "romaji": [
+      "ebidan"
+    ],
+    "aliases": [
+      "恵比寿学園男子部"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wsS5q",
+    "spotify_artist_id": "4jtwvvkDVrBZosFsvbSLXm",
+    "official_site": null,
+    "description": "EBiDANの代表曲をまとめた公式のプレイリスト「This Is EBiDAN」",
     "tags": [
       "男性グループ/ユニット",
       "J-POP"
