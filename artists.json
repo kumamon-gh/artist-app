@@ -1,5 +1,13 @@
 [
   {
+  "name": "A.B.C-Z",
+  "ruby": "えーびーしーずぃー",
+  "aliases": ["エービーシーゼット", "ABC Z"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YAyJN",
+  "spotify_artist_id": "4HXPfWNUCAFpjMoWyTWz5i",
+  "tags": ["男性グループ/ユニット", "J-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
