@@ -1,13 +1,5 @@
 [
   {
-  "name": "ELAIZA",
-  "ruby": "えらいざ",
-  "aliases": ["イライザ", "エレイザ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nT3uW",
-  "spotify_artist_id": "45dMXQSIdhCQd5RUqDSpka",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4854,6 +4846,31 @@
     "added_date": "2026-10-21",
     "updated_date": "2026-10-21",
     "color": "#95c90d"
+  },
+  {
+    "id": "artist-276",
+    "name": "ELAIZA",
+    "ruby": "えらいざ",
+    "kana": "エライザ",
+    "romaji": [
+      "elaiza"
+    ],
+    "aliases": [
+      "イライザ",
+      "エレイザ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nT3uW",
+    "spotify_artist_id": "45dMXQSIdhCQd5RUqDSpka",
+    "official_site": null,
+    "description": "ELAIZAの代表曲をまとめた公式のプレイリスト「This Is ELAIZA」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
   },
   {
     "id": "artist-215",
