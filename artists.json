@@ -1,13 +1,5 @@
 [
   {
-  "name": "NCT WISH",
-  "ruby": "えぬしーてぃーうぃっしゅ",
-  "aliases": ["NCTウィッシュ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JFLJr",
-  "spotify_artist_id": "4FqmqIspLaUGtxAFFLsZxc",
-  "tags": ["男性グループ/ユニット", "K-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4616,6 +4608,30 @@
     "added_date": "2026-10-22",
     "updated_date": "2026-10-22",
     "color": "#fde54f"
+  },
+  {
+    "id": "artist-267",
+    "name": "NCT WISH",
+    "ruby": "えぬしーてぃーうぃっしゅ",
+    "kana": "エヌシーティーウィッシュ",
+    "romaji": [
+      "nctwish"
+    ],
+    "aliases": [
+      "NCTウィッシュ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JFLJr",
+    "spotify_artist_id": "4FqmqIspLaUGtxAFFLsZxc",
+    "official_site": null,
+    "description": "NCT WISHの代表曲をまとめた公式のプレイリスト「This Is NCT WISH」",
+    "tags": [
+      "男性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
   },
   {
     "id": "artist-214",
