@@ -1,13 +1,5 @@
 [
   {
-  "name": "エレファントカシマシ",
-  "ruby": "えれふぁんとかしまし",
-  "aliases": ["エレカシ", "エレファント"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aKAlr",
-  "spotify_artist_id": "24ljrnVUlUZ2apxF6GZsrm",
-  "tags": ["バンド", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4922,6 +4914,32 @@
     "spotify_artist_id": "3cbd5GWGOknxmFAe77MDbk",
     "official_site": null,
     "description": "ELLEGARDENの代表曲をまとめた公式のプレイリスト「This Is ELLEGARDEN」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
+  },
+  {
+    "id": "artist-278",
+    "name": "エレファントカシマシ",
+    "ruby": "えれふぁんとかしまし",
+    "kana": "エレファントカシマシ",
+    "romaji": [
+      "erefantokashimashi",
+      "erehantokasimasi"
+    ],
+    "aliases": [
+      "エレカシ",
+      "エレファント"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aKAlr",
+    "spotify_artist_id": "24ljrnVUlUZ2apxF6GZsrm",
+    "official_site": null,
+    "description": "エレファントカシマシの代表曲をまとめた公式のプレイリスト「This Is エレファントカシマシ」",
     "tags": [
       "バンド",
       "J-POP"
