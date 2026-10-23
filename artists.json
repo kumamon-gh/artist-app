@@ -1,13 +1,5 @@
 [
   {
-  "name": "NGT48",
-  "ruby": "えぬじーてぃーふぉーてぃーえいと",
-  "aliases": ["NGT", "新潟48"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EAUJr",
-  "spotify_artist_id": "4wZjP2p0Sm5EHM32uuAgGf",
-  "tags": ["女性グループ/ユニット", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4660,6 +4652,31 @@
     "tags": [
       "男性グループ/ユニット",
       "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
+  },
+  {
+    "id": "artist-269",
+    "name": "NGT48",
+    "ruby": "えぬじーてぃーふぉーてぃーえいと",
+    "kana": "エヌジーティーフォーティーエイト",
+    "romaji": [
+      "ngt48"
+    ],
+    "aliases": [
+      "NGT",
+      "新潟48"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EAUJr",
+    "spotify_artist_id": "4wZjP2p0Sm5EHM32uuAgGf",
+    "official_site": null,
+    "description": "NGT48の代表曲をまとめた公式のプレイリスト「This Is NGT48」",
+    "tags": [
+      "女性グループ/ユニット",
+      "J-POP"
     ],
     "status": "published",
     "added_date": "2026-10-23",
