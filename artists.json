@@ -1,5 +1,13 @@
 [
   {
+  "name": "ELAIZA",
+  "ruby": "えらいざ",
+  "aliases": ["イライザ", "エレイザ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nT3uW",
+  "spotify_artist_id": "45dMXQSIdhCQd5RUqDSpka",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
