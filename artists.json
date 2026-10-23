@@ -1,13 +1,5 @@
 [
   {
-  "name": "NCT U",
-  "ruby": "えぬしーてぃーゆー",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YAyJN",
-  "spotify_artist_id": "3paGCCtX1Xr4Gx53mSeZuQ",
-  "tags": ["男性グループ/ユニット", "K-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4685,6 +4677,28 @@
     "tags": [
       "女性グループ/ユニット",
       "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
+  },
+  {
+    "id": "artist-270",
+    "name": "NCT U",
+    "ruby": "えぬしーてぃーゆー",
+    "kana": "エヌシーティーユー",
+    "romaji": [
+      "nctu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YAyJN",
+    "spotify_artist_id": "3paGCCtX1Xr4Gx53mSeZuQ",
+    "official_site": null,
+    "description": "NCT Uの代表曲をまとめた公式のプレイリスト「This Is NCT U」",
+    "tags": [
+      "男性グループ/ユニット",
+      "K-POP"
     ],
     "status": "published",
     "added_date": "2026-10-23",
