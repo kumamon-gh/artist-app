@@ -1,5 +1,13 @@
 [
   {
+  "name": "&TEAM",
+  "ruby": "えんてぃーむ",
+  "aliases": ["あんどちーむ", "andteam", "エンドチーム"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1s8MIW",
+  "spotify_artist_id": "2xfxRiKxoHl5tI0MKyvqV7",
+  "tags": ["男性グループ/ユニット", "K-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
