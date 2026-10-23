@@ -1,5 +1,13 @@
 [
   {
+  "name": "ENHYPEN",
+  "ruby": "えんはいぷん",
+  "aliases": ["エンハイフン", "エンハ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0q3zClOVaZA",
+  "spotify_artist_id": "5t5FqBwTcgKTaWmfEbwQY9",
+  "tags": ["男性グループ/ユニット", "K-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
