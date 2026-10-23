@@ -1,13 +1,5 @@
 [
   {
-  "name": "NMIXX",
-  "ruby": "えんみっくす",
-  "aliases": ["エヌミックス"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9olwNXZEPVC",
-  "spotify_artist_id": "28ot3wh4oNmoFOdVajibBl",
-  "tags": ["女性グループ/ユニット", "K-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -5001,6 +4993,30 @@
     "description": "ENHYPENの代表曲をまとめた公式のプレイリスト「This Is ENHYPEN」",
     "tags": [
       "男性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
+  },
+  {
+    "id": "artist-281",
+    "name": "NMIXX",
+    "ruby": "えんみっくす",
+    "kana": "エンミックス",
+    "romaji": [
+      "nmixx"
+    ],
+    "aliases": [
+      "エヌミックス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX9olwNXZEPVC",
+    "spotify_artist_id": "28ot3wh4oNmoFOdVajibBl",
+    "official_site": null,
+    "description": "NMIXXの代表曲をまとめた公式のプレイリスト「This Is NMIXX」",
+    "tags": [
+      "女性グループ/ユニット",
       "K-POP"
     ],
     "status": "published",
