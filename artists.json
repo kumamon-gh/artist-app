@@ -1,5 +1,13 @@
 [
   {
+  "name": "エレファントカシマシ",
+  "ruby": "えれふぁんとかしまし",
+  "aliases": ["エレカシ", "エレファント"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aKAlr",
+  "spotify_artist_id": "24ljrnVUlUZ2apxF6GZsrm",
+  "tags": ["バンド", "J-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
