@@ -1,5 +1,13 @@
 [
   {
+  "name": "NGT48",
+  "ruby": "えぬじーてぃーふぉーてぃーえいと",
+  "aliases": ["NGT", "新潟48"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EAUJr",
+  "spotify_artist_id": "4wZjP2p0Sm5EHM32uuAgGf",
+  "tags": ["女性グループ/ユニット", "J-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
