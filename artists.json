@@ -1,5 +1,13 @@
 [
   {
+  "name": "EBiDAN",
+  "ruby": "えびだん",
+  "aliases": ["恵比寿学園男子部"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wsS5q",
+  "spotify_artist_id": "4jtwvvkDVrBZosFsvbSLXm",
+  "tags": ["男性グループ/ユニット", "J-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
