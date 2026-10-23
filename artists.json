@@ -1,13 +1,5 @@
 [
   {
-  "name": "m-flo",
-  "ruby": "えむふろう",
-  "aliases": ["エムフロー"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2SBS2O",
-  "spotify_artist_id": "4UhiMIdxKqQxmzdE9nYe6O",
-  "tags": ["男女混成グループ/ユニット", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4799,6 +4791,30 @@
     "description": "m.c.A・Tの代表曲をまとめた公式のプレイリスト「This Is m.c.A・T」",
     "tags": [
       "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-23",
+    "updated_date": "2026-10-23",
+    "color": ""
+  },
+  {
+    "id": "artist-275",
+    "name": "m-flo",
+    "ruby": "えむふろう",
+    "kana": "エムフロウ",
+    "romaji": [
+      "mflo"
+    ],
+    "aliases": [
+      "エムフロー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2SBS2O",
+    "spotify_artist_id": "4UhiMIdxKqQxmzdE9nYe6O",
+    "official_site": null,
+    "description": "m-floの代表曲をまとめた公式のプレイリスト「This Is m-flo」",
+    "tags": [
+      "男女混成グループ/ユニット",
       "J-POP"
     ],
     "status": "published",
