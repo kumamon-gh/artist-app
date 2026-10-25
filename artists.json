@@ -1,5 +1,37 @@
 [
   {
+  "name": "大竹しのぶ",
+  "ruby": "おおたけしのぶ",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hFzzO",
+  "spotify_artist_id": "0AOamQDGDaVTzKnAQJIswT",
+  "tags": ["女性ボーカル/ソロ", "邦楽"]
+},
+{
+  "name": "太田貴子",
+  "ruby": "おおたたかこ",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NxzHF",
+  "spotify_artist_id": "36OGxNSKeYNF8epyYkiF4T",
+  "tags": ["女性ボーカル/ソロ", "歌謡曲"]
+},
+{
+  "name": "太田裕美",
+  "ruby": "おおたひろみ",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lhA7K",
+  "spotify_artist_id": "0GNTARZTnzrhp9l0c1QJTq",
+  "tags": ["女性ボーカル/ソロ", "歌謡曲"]
+},
+  {
+  "name": "大槻マキ",
+  "ruby": "おおつきまき",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1fX8kj",
+  "spotify_artist_id": "2cZngrpi14BX8viqaPl5m5",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
