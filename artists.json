@@ -1,37 +1,5 @@
 [
   {
-  "name": "大竹しのぶ",
-  "ruby": "おおたけしのぶ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hFzzO",
-  "spotify_artist_id": "0AOamQDGDaVTzKnAQJIswT",
-  "tags": ["女性ボーカル/ソロ", "邦楽"]
-},
-{
-  "name": "太田貴子",
-  "ruby": "おおたたかこ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NxzHF",
-  "spotify_artist_id": "36OGxNSKeYNF8epyYkiF4T",
-  "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-},
-{
-  "name": "太田裕美",
-  "ruby": "おおたひろみ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lhA7K",
-  "spotify_artist_id": "0GNTARZTnzrhp9l0c1QJTq",
-  "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-},
-  {
-  "name": "大槻マキ",
-  "ruby": "おおつきまき",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1fX8kj",
-  "spotify_artist_id": "2cZngrpi14BX8viqaPl5m5",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -5267,6 +5235,73 @@
     "color": "#fe7163"
   },
   {
+    "id": "artist-290",
+    "name": "大竹しのぶ",
+    "ruby": "おおたけしのぶ",
+    "kana": "オオタケシノブ",
+    "romaji": [
+      "ootakeshinobu",
+      "ootakesinobu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hFzzO",
+    "spotify_artist_id": "0AOamQDGDaVTzKnAQJIswT",
+    "official_site": null,
+    "description": "大竹しのぶの代表曲をまとめた公式のプレイリスト「This Is 大竹しのぶ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
+  },
+  {
+    "id": "artist-291",
+    "name": "太田貴子",
+    "ruby": "おおたたかこ",
+    "kana": "オオタタカコ",
+    "romaji": [
+      "ootatakako"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NxzHF",
+    "spotify_artist_id": "36OGxNSKeYNF8epyYkiF4T",
+    "official_site": null,
+    "description": "太田貴子の代表曲をまとめた公式のプレイリスト「This Is 太田貴子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
+  },
+  {
+    "id": "artist-292",
+    "name": "太田裕美",
+    "ruby": "おおたひろみ",
+    "kana": "オオタヒロミ",
+    "romaji": [
+      "ootahiromi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lhA7K",
+    "spotify_artist_id": "0GNTARZTnzrhp9l0c1QJTq",
+    "official_site": null,
+    "description": "太田裕美の代表曲をまとめた公式のプレイリスト「This Is 太田裕美」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
+  },
+  {
     "id": "artist-216",
     "name": "大塚愛",
     "ruby": "おおつかあい",
@@ -5288,6 +5323,29 @@
     "added_date": "2026-10-21",
     "updated_date": "2026-10-21",
     "color": "#f47e00"
+  },
+  {
+    "id": "artist-293",
+    "name": "大槻マキ",
+    "ruby": "おおつきまき",
+    "kana": "オオツキマキ",
+    "romaji": [
+      "ootsukimaki",
+      "ootukimaki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1fX8kj",
+    "spotify_artist_id": "2cZngrpi14BX8viqaPl5m5",
+    "official_site": null,
+    "description": "大槻マキの代表曲をまとめた公式のプレイリスト「This Is 大槻マキ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
   },
   {
     "id": "artist-217",
