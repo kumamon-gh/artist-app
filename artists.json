@@ -1,5 +1,61 @@
 [
   {
+  "name": "大泉洋",
+  "ruby": "おおいずみよう",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VQjVV",
+  "spotify_artist_id": "4ZEqaiBgNsLXZTGTBuoIxe",
+  "tags": ["男性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "大江千里",
+  "ruby": "おおえせんり",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lJJ3y",
+  "spotify_artist_id": "41DTvjqwAz1jgZCAZ6KTJG",
+  "tags": ["男性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "大江裕",
+  "ruby": "おおえゆたか",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2btVHL",
+  "spotify_artist_id": "3KBqYlpp84j24ETKR93VJB",
+  "tags": ["男性ボーカル/ソロ", "演歌"]
+},
+{
+  "name": "大川栄策",
+  "ruby": "おおかわえいさく",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO068CpX",
+  "spotify_artist_id": "0hE2eI9SXnwkPEgPIwO5kA",
+  "tags": ["男性ボーカル/ソロ", "演歌"]
+},
+{
+  "name": "大黒摩季",
+  "ruby": "おおぐろまき",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1jvi2S",
+  "spotify_artist_id": "2iTndWRSbuvR1tQkXzT59b",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "大沢誉志幸",
+  "ruby": "おおさわよしゆき",
+  "aliases": ["大澤誉志幸"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3N25dI",
+  "spotify_artist_id": "6q2ER3oBZtM5EvmDoUz8ek",
+  "tags": ["男性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "大杉久美子",
+  "ruby": "おおすぎくみこ",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2y5ef4",
+  "spotify_artist_id": "4m9E6QuKZkgXk6TTeuB4gd",
+  "tags": ["女性ボーカル/ソロ", "邦楽"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
