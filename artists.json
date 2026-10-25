@@ -5836,6 +5836,21 @@
     "color": ""
   },
   {
+    "id": "artist-283",
+    "name": "ろテスト",
+    "ruby": "ろテスト",
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "ろテストの代表曲をまとめた公式のプレイリスト「This Is ろテスト」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-25",
+    "updated_date": "2026-10-25",
+    "color": ""
+  },
+  {
     "id": "artist-198",
     "name": "わテスト",
     "ruby": "わテスト",
@@ -5868,9 +5883,5 @@
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
     "color": ""
-  },
-  {
-    "name": "ろテスト",
-    "ruby": "ろテスト"
-    }
+  }
 ]
