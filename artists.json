@@ -1,4 +1,68 @@
 [
+{
+  "name": "大月みやこ",
+  "ruby": "おおつきみやこ",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3glhYZ",
+  "spotify_artist_id": "5xIHTS0b6tpuF7895dG3A7",
+  "tags": ["女性ボーカル/ソロ", "演歌"]
+},
+  {
+  "name": "大橋純子",
+  "ruby": "おおはしじゅんこ",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pjRPW",
+  "spotify_artist_id": "7rGbODPTIVjzn3CTR6RCzE",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+{
+  "name": "大橋卓弥",
+  "ruby": "おおはしたくや",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EJcQD",
+  "spotify_artist_id": "1d87rwOSoluuumxvhm4POb",
+  "tags": ["男性ボーカル/ソロ", "J-POP"]
+},
+  {
+  "name": "大森靖子",
+  "ruby": "おおもりせいこ",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b8nQC",
+  "spotify_artist_id": "24YRwiUM8Lj1bamuYNbeEr",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+  {
+  "name": "岡崎体育",
+  "ruby": "おかざきたいいく",
+  "aliases": ["体育"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3gXMPu",
+  "spotify_artist_id": "5yKQkcO2MWUp3Z5jUs70pW",
+  "tags": ["男性ボーカル/ソロ", "J-POP"]
+},
+  {
+  "name": "岡村孝子",
+  "ruby": "おかむらたかこ",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO47HWww",
+  "spotify_artist_id": "6Ypo8CjIQm2QasVKUVXuHg",
+  "tags": ["女性ボーカル/ソロ", "J-POP"]
+},
+  {
+  "name": "OKAMOTO'S",
+  "ruby": "おかもとず",
+  "aliases": ["オカモトス"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iX1ld",
+  "spotify_artist_id": "3X1afU2VL6MV0AJacARH7T",
+  "tags": ["バンド", "J-POP"]
+},
+  {
+  "name": "岡本知高",
+  "ruby": "おかもとともたか",
+  "aliases": ["ソプラニスタ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aNTfW",
+  "spotify_artist_id": "0pom4I5U3ftPXWEQFRERKV",
+  "tags": ["男性ボーカル/ソロ", "邦楽"]
+},
   {
     "id": "artist-1",
     "name": "AI",
