@@ -1,68 +1,4 @@
 [
-{
-  "name": "大月みやこ",
-  "ruby": "おおつきみやこ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3glhYZ",
-  "spotify_artist_id": "5xIHTS0b6tpuF7895dG3A7",
-  "tags": ["女性ボーカル/ソロ", "演歌"]
-},
-  {
-  "name": "大橋純子",
-  "ruby": "おおはしじゅんこ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pjRPW",
-  "spotify_artist_id": "7rGbODPTIVjzn3CTR6RCzE",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-},
-{
-  "name": "大橋卓弥",
-  "ruby": "おおはしたくや",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EJcQD",
-  "spotify_artist_id": "1d87rwOSoluuumxvhm4POb",
-  "tags": ["男性ボーカル/ソロ", "J-POP"]
-},
-  {
-  "name": "大森靖子",
-  "ruby": "おおもりせいこ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b8nQC",
-  "spotify_artist_id": "24YRwiUM8Lj1bamuYNbeEr",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-},
-  {
-  "name": "岡崎体育",
-  "ruby": "おかざきたいいく",
-  "aliases": ["体育"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3gXMPu",
-  "spotify_artist_id": "5yKQkcO2MWUp3Z5jUs70pW",
-  "tags": ["男性ボーカル/ソロ", "J-POP"]
-},
-  {
-  "name": "岡村孝子",
-  "ruby": "おかむらたかこ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO47HWww",
-  "spotify_artist_id": "6Ypo8CjIQm2QasVKUVXuHg",
-  "tags": ["女性ボーカル/ソロ", "J-POP"]
-},
-  {
-  "name": "OKAMOTO'S",
-  "ruby": "おかもとず",
-  "aliases": ["オカモトス"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iX1ld",
-  "spotify_artist_id": "3X1afU2VL6MV0AJacARH7T",
-  "tags": ["バンド", "J-POP"]
-},
-  {
-  "name": "岡本知高",
-  "ruby": "おかもとともたか",
-  "aliases": ["ソプラニスタ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aNTfW",
-  "spotify_artist_id": "0pom4I5U3ftPXWEQFRERKV",
-  "tags": ["男性ボーカル/ソロ", "邦楽"]
-},
   {
     "id": "artist-1",
     "name": "AI",
@@ -5412,6 +5348,75 @@
     "color": "#fea42a"
   },
   {
+    "id": "artist-294",
+    "name": "大月みやこ",
+    "ruby": "おおつきみやこ",
+    "kana": "オオツキミヤコ",
+    "romaji": [
+      "ootsukimiyako",
+      "ootukimiyako"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3glhYZ",
+    "spotify_artist_id": "5xIHTS0b6tpuF7895dG3A7",
+    "official_site": null,
+    "description": "大月みやこの代表曲をまとめた公式のプレイリスト「This Is 大月みやこ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
+  },
+  {
+    "id": "artist-295",
+    "name": "大橋純子",
+    "ruby": "おおはしじゅんこ",
+    "kana": "オオハシジュンコ",
+    "romaji": [
+      "oohashijunko",
+      "oohasizyunko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pjRPW",
+    "spotify_artist_id": "7rGbODPTIVjzn3CTR6RCzE",
+    "official_site": null,
+    "description": "大橋純子の代表曲をまとめた公式のプレイリスト「This Is 大橋純子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
+  },
+  {
+    "id": "artist-296",
+    "name": "大橋卓弥",
+    "ruby": "おおはしたくや",
+    "kana": "オオハシタクヤ",
+    "romaji": [
+      "oohashitakuya",
+      "oohasitakuya"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EJcQD",
+    "spotify_artist_id": "1d87rwOSoluuumxvhm4POb",
+    "official_site": null,
+    "description": "大橋卓弥の代表曲をまとめた公式のプレイリスト「This Is 大橋卓弥」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
+  },
+  {
     "id": "artist-217",
     "name": "大原櫻子",
     "ruby": "おおはらさくらこ",
@@ -5434,6 +5439,122 @@
     "added_date": "2026-10-21",
     "updated_date": "2026-10-21",
     "color": "#fea42a"
+  },
+  {
+    "id": "artist-297",
+    "name": "大森靖子",
+    "ruby": "おおもりせいこ",
+    "kana": "オオモリセイコ",
+    "romaji": [
+      "oomoriseiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b8nQC",
+    "spotify_artist_id": "24YRwiUM8Lj1bamuYNbeEr",
+    "official_site": null,
+    "description": "大森靖子の代表曲をまとめた公式のプレイリスト「This Is 大森靖子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
+  },
+  {
+    "id": "artist-298",
+    "name": "岡崎体育",
+    "ruby": "おかざきたいいく",
+    "kana": "オカザキタイイク",
+    "romaji": [
+      "okazakitaiiku"
+    ],
+    "aliases": [
+      "体育"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3gXMPu",
+    "spotify_artist_id": "5yKQkcO2MWUp3Z5jUs70pW",
+    "official_site": null,
+    "description": "岡崎体育の代表曲をまとめた公式のプレイリスト「This Is 岡崎体育」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
+  },
+  {
+    "id": "artist-299",
+    "name": "岡村孝子",
+    "ruby": "おかむらたかこ",
+    "kana": "オカムラタカコ",
+    "romaji": [
+      "okamuratakako"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO47HWww",
+    "spotify_artist_id": "6Ypo8CjIQm2QasVKUVXuHg",
+    "official_site": null,
+    "description": "岡村孝子の代表曲をまとめた公式のプレイリスト「This Is 岡村孝子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
+  },
+  {
+    "id": "artist-300",
+    "name": "OKAMOTO'S",
+    "ruby": "おかもとず",
+    "kana": "オカモトズ",
+    "romaji": [
+      "okamotos"
+    ],
+    "aliases": [
+      "オカモトス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iX1ld",
+    "spotify_artist_id": "3X1afU2VL6MV0AJacARH7T",
+    "official_site": null,
+    "description": "OKAMOTO'Sの代表曲をまとめた公式のプレイリスト「This Is OKAMOTO'S」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
+  },
+  {
+    "id": "artist-301",
+    "name": "岡本知高",
+    "ruby": "おかもとともたか",
+    "kana": "オカモトトモタカ",
+    "romaji": [
+      "okamototomotaka"
+    ],
+    "aliases": [
+      "ソプラニスタ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aNTfW",
+    "spotify_artist_id": "0pom4I5U3ftPXWEQFRERKV",
+    "official_site": null,
+    "description": "岡本知高の代表曲をまとめた公式のプレイリスト「This Is 岡本知高」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-10-26",
+    "updated_date": "2026-10-26",
+    "color": ""
   },
   {
     "id": "artist-218",
