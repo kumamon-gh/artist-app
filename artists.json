@@ -1,5 +1,13 @@
 [
   {
+  "name": "荻野目洋子",
+  "ruby": "おぎのめようこ",
+  "aliases": ["荻野目ようこ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3S4RQG",
+  "spotify_artist_id": "6yqXW1ZKNeDm04DguLHoJk",
+  "tags": ["女性ボーカル/ソロ", "歌謡曲"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
