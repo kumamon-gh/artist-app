@@ -1,13 +1,5 @@
 [
   {
-  "name": "奥村チヨ",
-  "ruby": "おくむらちよ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FbdbI",
-  "spotify_artist_id": "4xXfeLzND4psByxYXOLhOq",
-  "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -5656,6 +5648,29 @@
     "added_date": "2026-10-21",
     "updated_date": "2026-10-21",
     "color": "#16d1a6"
+  },
+  {
+    "id": "artist-303",
+    "name": "奥村チヨ",
+    "ruby": "おくむらちよ",
+    "kana": "オクムラチヨ",
+    "romaji": [
+      "okumurachiyo",
+      "okumuratiyo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FbdbI",
+    "spotify_artist_id": "4xXfeLzND4psByxYXOLhOq",
+    "official_site": null,
+    "description": "奥村チヨの代表曲をまとめた公式のプレイリスト「This Is 奥村チヨ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-28",
+    "updated_date": "2026-10-28",
+    "color": ""
   },
   {
     "id": "artist-229",
