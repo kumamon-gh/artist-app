@@ -1,5 +1,29 @@
 [
   {
+  "name": "尾崎紀世彦",
+  "ruby": "おざききよひこ",
+  "aliases": [],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aoR5V",
+  "spotify_artist_id": "23LumipwySmLFZ9aFGe3rH",
+  "tags": ["男性ボーカル/ソロ", "歌謡曲"]
+},
+  {
+  "name": "Awesome City Club",
+  "ruby": "おーさむしてぃくらぶ",
+  "aliases": ["ACC", "オーサム"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kvtAc",
+  "spotify_artist_id": "7jGn8qhLb48n7yMMNfAoHv",
+  "tags": ["バンド", "J-POP"]
+},
+  {
+  "name": "OCHA NORMA",
+  "ruby": "おちゃのーま",
+  "aliases": ["お茶ノーマ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0M89tx",
+  "spotify_artist_id": "1pqDbTP8r3H5fRzznlmB9m",
+  "tags": ["女性グループ/ユニット", "J-POP"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
