@@ -1,13 +1,5 @@
 [
   {
-  "name": "荻野目洋子",
-  "ruby": "おぎのめようこ",
-  "aliases": ["荻野目ようこ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3S4RQG",
-  "spotify_artist_id": "6yqXW1ZKNeDm04DguLHoJk",
-  "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -5585,6 +5577,30 @@
     "added_date": "2026-10-21",
     "updated_date": "2026-10-21",
     "color": "#fde54f"
+  },
+  {
+    "id": "artist-302",
+    "name": "荻野目洋子",
+    "ruby": "おぎのめようこ",
+    "kana": "オギノメヨウコ",
+    "romaji": [
+      "oginomeyouko"
+    ],
+    "aliases": [
+      "荻野目ようこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3S4RQG",
+    "spotify_artist_id": "6yqXW1ZKNeDm04DguLHoJk",
+    "official_site": null,
+    "description": "荻野目洋子の代表曲をまとめた公式のプレイリスト「This Is 荻野目洋子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-28",
+    "updated_date": "2026-10-28",
+    "color": ""
   },
   {
     "id": "artist-219",
