@@ -11,7 +11,8 @@ from pathlib import Path
 
 # 保存時のキーの並び。ここに無いキーは、この並びの後ろに元の順で付く
 KEY_ORDER = [
-    "id", "name", "ruby", "kana", "romaji", "aliases", "url", "extra_urls",
+    "id", "name", "ruby", "kana", "romaji", "aliases", "url",
+    "extra_urls", "extra_colors", "extra_labels",
     "spotify_artist_id", "official_site", "description", "tags",
     "status", "added_date", "updated_date", "color",
 ]
@@ -177,7 +178,8 @@ def kana_of(ruby):
 
 def fill_defaults(a, today):
     """name と ruby から、空の項目だけを補う（既にある値は上書きしない）。
-    補った項目名のリストを返す"""
+    補った項目名のリストを返す。
+    extra_urls / extra_colors / extra_labels は必要なアーティストにだけ手で足す項目なので、ここでは補わない"""
     filled = []
 
     def put(key, val):
@@ -320,6 +322,36 @@ def normalize(data):
                     a.pop("extra_urls", None)
             else:
                 errors.append(f"{label}: extra_urls は文字列の配列にしてください")
+        # extra_colors（● の色・自動入力）/ extra_labels（シートの行の名前）：
+        # キーは extra_urls のURL。extra_urls から無くなったURL分は取り除く
+        ex_now = a.get("extra_urls")
+        keep = set(u for u in ex_now if isinstance(u, str)) if isinstance(ex_now, list) else set()
+        for fld in ("extra_colors", "extra_labels"):
+            m = a.get(fld)
+            if m is None:
+                continue
+            if not isinstance(m, dict):
+                errors.append(f"{label}: {fld} は {{URL: 値}} の形にしてください")
+                continue
+            cleaned_map = {}
+            for k, v in m.items():
+                kk = str(k).split("?", 1)[0].strip()
+                if kk not in keep:
+                    continue
+                if fld == "extra_colors":
+                    if isinstance(v, str) and COLOR_RE.match(v):
+                        cleaned_map[kk] = v
+                    else:
+                        warnings.append(f"{label}: extra_colors の値は #RRGGBB 形式にしてください: {v!r}")
+                else:
+                    if isinstance(v, str) and v.strip():
+                        cleaned_map[kk] = v.strip()[:40]
+                    else:
+                        warnings.append(f"{label}: extra_labels の値は文字列にしてください: {v!r}")
+            if cleaned_map:
+                a[fld] = cleaned_map
+            else:
+                a.pop(fld, None)
         if a.get("color") and not COLOR_RE.match(str(a["color"])):
             warnings.append(f"{label}: color は #RRGGBB 形式にしてください: {a['color']!r}")
     if errors:
