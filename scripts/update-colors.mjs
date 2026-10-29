@@ -1,6 +1,7 @@
 // 各アーティストの「THIS IS」プレイリストのジャケット画像から代表色を取り出し、
-// artists.json の color を更新する。colors.yml（scripts/update-colors.mjs）から毎日実行される。
-// color に colorLock を付けたアーティストは、手動で決めた色を守るため対象外。
+// artists.json の color（1つ目のプレイリスト）と extra_colors（2つ目以降・URLごと）を更新する。
+// colors.yml（scripts/update-colors.mjs）から毎日実行される。
+// colorLock を付けたアーティストは、手動で決めた色を守るため（color・extra_colors とも）対象外。
 import fs from 'node:fs';
 import sharp from 'sharp';
 
@@ -58,23 +59,76 @@ async function fetchJson(url, tries = 3) {
   throw last;
 }
 
-let changed = 0, same = 0, failed = 0, skipped = 0;
-for (const a of artists) {
-  const url = a.url || a.link || '';
-  if (!url || a.colorLock) { skipped++; continue; }
-  try {
-    // oEmbed でプレイリストのジャケット画像のURLを得る（認証不要）
-    const j = await fetchJson('https://open.spotify.com/oembed?url=' + encodeURIComponent(url));
-    if (!j.thumbnail_url) throw new Error('画像URLなし');
-    const calc = await dominantColor(j.thumbnail_url);
-    if (!calc) { skipped++; continue; }
-    const cur = parseHex(a.color);
-    if (cur && dist(cur, parseHex(calc)) <= THRESHOLD) { same++; }
-    else { console.log(a.name, a.color, '->', calc); a.color = calc; changed++; }
-  } catch (e) { failed++; console.warn(a.name, e.message); }
-  await sleep(300); // 連続アクセスで制限されないよう間隔を空ける
+const isSpotifyPlaylist = u => typeof u === 'string' && /^https:\/\/open\.spotify\.com\/playlist\/[A-Za-z0-9]+/.test(u);
+
+// プレイリストURLから代表色を求める（oEmbed でジャケット画像のURLを得る。認証不要）
+async function colorOf(url) {
+  const j = await fetchJson('https://open.spotify.com/oembed?url=' + encodeURIComponent(url));
+  if (!j.thumbnail_url) throw new Error('画像URLなし');
+  return await dominantColor(j.thumbnail_url);
 }
-console.log(`結果: 変更${changed} / ほぼ同じ${same} / 対象外${skipped} / 失敗${failed}`);
+
+// afterKey の直後に key を置く（無ければ末尾）。artists.json のキー順を normalize_artists.py と揃えて、無駄な差分を出さない
+function setAfter(obj, afterKey, key, value) {
+  if (key in obj) { obj[key] = value; return; }
+  const entries = Object.entries(obj);
+  for (const k of Object.keys(obj)) delete obj[k];
+  let placed = false;
+  for (const [k, v] of entries) {
+    obj[k] = v;
+    if (k === afterKey) { obj[key] = value; placed = true; }
+  }
+  if (!placed) obj[key] = value;
+}
+
+let changed = 0, extraChanged = 0, same = 0, failed = 0, skipped = 0;
+for (const a of artists) {
+  if (a.colorLock) { skipped++; continue; }
+
+  // 1つ目のプレイリスト → color
+  const url = a.url || a.link || '';
+  if (url) {
+    try {
+      const calc = await colorOf(url);
+      if (!calc) {
+        skipped++;
+      } else {
+        const cur = parseHex(a.color);
+        if (cur && dist(cur, parseHex(calc)) <= THRESHOLD) { same++; }
+        else { console.log(a.name, a.color, '->', calc); a.color = calc; changed++; }
+      }
+    } catch (e) { failed++; console.warn(a.name, e.message); }
+    await sleep(300); // 連続アクセスで制限されないよう間隔を空ける
+  } else {
+    skipped++;
+  }
+
+  // 2つ目以降のプレイリスト → extra_colors（URLごと）
+  const extras = Array.isArray(a.extra_urls) ? a.extra_urls.filter(isSpotifyPlaylist) : [];
+  if (extras.length === 0) {
+    if (a.extra_colors !== undefined) { delete a.extra_colors; extraChanged++; }
+    continue;
+  }
+  const map = (a.extra_colors && typeof a.extra_colors === 'object' && !Array.isArray(a.extra_colors)) ? { ...a.extra_colors } : {};
+  let mapChanged = false;
+  for (const u of extras) {
+    try {
+      const calc = await colorOf(u);
+      if (calc) {
+        const cur = parseHex(map[u]);
+        if (cur && dist(cur, parseHex(calc)) <= THRESHOLD) { same++; }
+        else { console.log(a.name, u, map[u], '->', calc); map[u] = calc; mapChanged = true; }
+      }
+    } catch (e) { failed++; console.warn(a.name, u, e.message); }
+    await sleep(300);
+  }
+  // extra_urls から無くなったURLの色は取り除く
+  for (const k of Object.keys(map)) {
+    if (!extras.includes(k)) { delete map[k]; mapChanged = true; }
+  }
+  if (mapChanged) { setAfter(a, 'extra_urls', 'extra_colors', map); extraChanged++; }
+}
+console.log(`結果: 変更${changed} / 2つ目以降の変更${extraChanged} / ほぼ同じ${same} / 対象外${skipped} / 失敗${failed}`);
 // 失敗が多い時は、Spotify側の障害などで色が部分的にしか更新されていない可能性があるため書き込まない
 if (failed > artists.length * 0.3) { console.error('失敗が多いため書き込みません'); process.exit(1); }
-if (changed) fs.writeFileSync(FILE, JSON.stringify(artists, null, 2) + '\n');
+if (changed || extraChanged) fs.writeFileSync(FILE, JSON.stringify(artists, null, 2) + '\n');
