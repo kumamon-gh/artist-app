@@ -1,13 +1,5 @@
 [
   {
-  "name": "江利チエミ",
-  "ruby": "えりちえみ",
-  "aliases": [],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0KTHSo",
-  "spotify_artist_id": "1nnACYa4vyzvnKIvmcJnoU",
-  "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -4929,6 +4921,29 @@
     "added_date": "2026-10-23",
     "updated_date": "2026-10-23",
     "color": "#ffc863"
+  },
+  {
+    "id": "artist-310",
+    "name": "江利チエミ",
+    "ruby": "えりちえみ",
+    "kana": "エリチエミ",
+    "romaji": [
+      "erichiemi",
+      "eritiemi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0KTHSo",
+    "spotify_artist_id": "1nnACYa4vyzvnKIvmcJnoU",
+    "official_site": null,
+    "description": "江利チエミの代表曲をまとめた公式のプレイリスト「This Is 江利チエミ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-30",
+    "updated_date": "2026-10-30",
+    "color": ""
   },
   {
     "id": "artist-215",
