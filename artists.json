@@ -1,13 +1,5 @@
 [
   {
-  "name": "梅田サイファー",
-  "ruby": "うめださいふぁー",
-  "aliases": ["梅サイ"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JcSgW",
-  "spotify_artist_id": "6jGXROxZ2l5mTSyfVqjLn2",
-  "tags": ["男性グループ/ユニット", "邦楽"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -3991,6 +3983,31 @@
     "added_date": "2026-10-22",
     "updated_date": "2026-10-22",
     "color": "#e4ac89"
+  },
+  {
+    "id": "artist-308",
+    "name": "梅田サイファー",
+    "ruby": "うめださいふぁー",
+    "kana": "ウメダサイファー",
+    "romaji": [
+      "umedasaifaa",
+      "umedasaihaa"
+    ],
+    "aliases": [
+      "梅サイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JcSgW",
+    "spotify_artist_id": "6jGXROxZ2l5mTSyfVqjLn2",
+    "official_site": null,
+    "description": "梅田サイファーの代表曲をまとめた公式のプレイリスト「This Is 梅田サイファー」",
+    "tags": [
+      "男性グループ/ユニット",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-10-29",
+    "updated_date": "2026-10-29",
+    "color": ""
   },
   {
     "id": "artist-221",
