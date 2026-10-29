@@ -1,4 +1,12 @@
 [
+{
+  "name": "STU48",
+  "ruby": "えすてぃーゆーふぉーてぃーえいと",
+  "aliases": ["STU", "瀬戸内48"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wgxx1",
+  "spotify_artist_id": "0Z45lR91V2XYj0YxdiFxnF",
+  "tags": ["女性グループ/ユニット", "J-POP"]
+},
   {
     "id": "artist-1",
     "name": "AI",
