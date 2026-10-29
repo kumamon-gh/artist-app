@@ -4007,7 +4007,7 @@
     "status": "published",
     "added_date": "2026-10-29",
     "updated_date": "2026-10-29",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-221",
@@ -4539,7 +4539,7 @@
     "status": "published",
     "added_date": "2026-10-29",
     "updated_date": "2026-10-29",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-264",
@@ -4943,7 +4943,7 @@
     "status": "published",
     "added_date": "2026-10-30",
     "updated_date": "2026-10-30",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-215",
@@ -5295,6 +5295,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4sbcc6"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4sbcc6": "#95c90d"
+    },
     "spotify_artist_id": "0cFJWqLH2LZPzuTGS1ljV0",
     "official_site": null,
     "description": "大瀧詠一の代表曲をまとめた公式のプレイリスト「This Is 大瀧詠一」",
@@ -5603,7 +5606,7 @@
     "status": "published",
     "added_date": "2026-10-29",
     "updated_date": "2026-10-29",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-300",
