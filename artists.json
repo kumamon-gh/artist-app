@@ -1,13 +1,5 @@
 [
   {
-  "name": "岡村靖幸",
-  "ruby": "おかむらやすゆき",
-  "aliases": ["岡村ちゃん"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO48aD97",
-  "spotify_artist_id": "6ZaIdsp9xfWC1QJlxR1TBL",
-  "tags": ["男性ボーカル/ソロ", "J-POP"]
-},
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -5515,6 +5507,30 @@
     "added_date": "2026-10-26",
     "updated_date": "2026-10-26",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-307",
+    "name": "岡村靖幸",
+    "ruby": "おかむらやすゆき",
+    "kana": "オカムラヤスユキ",
+    "romaji": [
+      "okamurayasuyuki"
+    ],
+    "aliases": [
+      "岡村ちゃん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO48aD97",
+    "spotify_artist_id": "6ZaIdsp9xfWC1QJlxR1TBL",
+    "official_site": null,
+    "description": "岡村靖幸の代表曲をまとめた公式のプレイリスト「This Is 岡村靖幸」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-29",
+    "updated_date": "2026-10-29",
+    "color": ""
   },
   {
     "id": "artist-300",
