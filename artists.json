@@ -1,5 +1,13 @@
 [
   {
+  "name": "梅田サイファー",
+  "ruby": "うめださいふぁー",
+  "aliases": ["梅サイ"],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JcSgW",
+  "spotify_artist_id": "6jGXROxZ2l5mTSyfVqjLn2",
+  "tags": ["男性グループ/ユニット", "邦楽"]
+},
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
