@@ -1,9 +1,5 @@
 [
   {
-    "name": "いテスト",
-    "ruby": "いてすと"
-    },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -2922,6 +2918,25 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#fea42a"
+  },
+  {
+    "id": "artist-307",
+    "name": "いテスト",
+    "ruby": "いてすと",
+    "kana": "イテスト",
+    "romaji": [
+      "itesuto"
+    ],
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "いテストの代表曲をまとめた公式のプレイリスト「This Is いテスト」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-29",
+    "updated_date": "2026-10-29",
+    "color": ""
   },
   {
     "id": "artist-146",
