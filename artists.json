@@ -1,9 +1,5 @@
 [
   {
-    "name": "Kiroro",
-    "ruby": "きろろ"
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -6142,6 +6138,25 @@
     "status": "published",
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
+    "color": ""
+  },
+  {
+    "id": "artist-308",
+    "name": "Kiroro",
+    "ruby": "きろろ",
+    "kana": "キロロ",
+    "romaji": [
+      "kiroro"
+    ],
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "Kiroroの代表曲をまとめた公式のプレイリスト「This Is Kiroro」",
+    "tags": [],
+    "status": "published",
+    "added_date": "2026-10-29",
+    "updated_date": "2026-10-29",
     "color": ""
   },
   {
