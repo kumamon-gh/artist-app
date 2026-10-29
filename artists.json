@@ -1,12 +1,4 @@
 [
-{
-  "name": "STU48",
-  "ruby": "えすてぃーゆーふぉーてぃーえいと",
-  "aliases": ["STU", "瀬戸内48"],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wgxx1",
-  "spotify_artist_id": "0Z45lR91V2XYj0YxdiFxnF",
-  "tags": ["女性グループ/ユニット", "J-POP"]
-},
   {
     "id": "artist-1",
     "name": "AI",
@@ -4523,6 +4515,31 @@
     "added_date": "2026-10-22",
     "updated_date": "2026-10-22",
     "color": "#f47e00"
+  },
+  {
+    "id": "artist-309",
+    "name": "STU48",
+    "ruby": "えすてぃーゆーふぉーてぃーえいと",
+    "kana": "エスティーユーフォーティーエイト",
+    "romaji": [
+      "stu48"
+    ],
+    "aliases": [
+      "STU",
+      "瀬戸内48"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wgxx1",
+    "spotify_artist_id": "0Z45lR91V2XYj0YxdiFxnF",
+    "official_site": null,
+    "description": "STU48の代表曲をまとめた公式のプレイリスト「This Is STU48」",
+    "tags": [
+      "女性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-29",
+    "updated_date": "2026-10-29",
+    "color": ""
   },
   {
     "id": "artist-264",
