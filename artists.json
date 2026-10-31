@@ -1,5 +1,85 @@
 [
   {
+    "name": "きただにひろし",
+    "ruby": "きただにひろし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GQSCT",
+    "spotify_artist_id": "4AJU1RjcIcPXJ29eoV5Jop",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "キタニタツヤ",
+    "ruby": "きたにたつや",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mcNjy",
+    "spotify_artist_id": "7mvhRvEAHiCTQHUnH7fgnv",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+  {
+    "name": "北原ミレイ",
+    "ruby": "きたはらみれい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Sa6Fc",
+    "spotify_artist_id": "3euJDEbZneJ34X4ppSQUkH",
+    "tags": ["女性ボーカル/ソロ", "演歌", "歌謡曲"]
+  },
+{
+    "name": "北山たけし",
+    "ruby": "きたやまたけし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36vVBv",
+    "spotify_artist_id": "5ho5Ak1b5Of5PShTWpsp5G",
+    "tags": ["男性ボーカル/ソロ", "演歌"]
+  },
+{
+    "name": "吉川晃司",
+    "ruby": "きっかわこうじ",
+    "aliases": ["よしかわこうじ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13o6EU",
+    "spotify_artist_id": "1S6yZL1OIb51tEtbKg3iZ1",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "KICK THE CAN CREW",
+    "ruby": "きっくざきゃんくるー",
+    "aliases": ["キックザカンクルー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3psB3m",
+    "spotify_artist_id": "5MRAExqyhUPkktT9yWNvIe",
+    "tags": ["男性グループ/ユニット", "J-POP"]
+  },
+  {
+    "name": "KID PHENOMENON",
+    "ruby": "きっどふぇのめのん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04VP7l",
+    "spotify_artist_id": "0fDuN5RNp3ysq68Zdz17MV",
+    "tags": ["男性グループ/ユニット", "J-POP"]
+  },
+{
+    "name": "鬼頭明里",
+    "ruby": "きとうあかり",
+    "aliases": ["きどうあかり"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y",
+    "spotify_artist_id": "5PFOljHpjdOGpyP34FGr8S",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "喜納昌吉",
+    "ruby": "きなしょうきち",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO35SBBX",
+    "spotify_artist_id": "5gkrprwugXcmHhT36ZmU46",
+    "tags": ["男性ボーカル/ソロ", "邦楽"]
+  },
+  {
+    "name": "キマグレン",
+    "ruby": "きまぐれん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0L7AeA",
+    "spotify_artist_id": "1nKjkJr2uAFwvGAsHkJ8ss",
+    "tags": ["男性グループ/ユニット", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
