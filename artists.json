@@ -1,5 +1,85 @@
 [
   {
+    "name": "木村カエラ",
+    "ruby": "きむらかえら",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO303jr5",
+    "spotify_artist_id": "56Eer6ASRcE4aJHJwejTuN",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "木村由姫",
+    "ruby": "きむらゆき",
+    "aliases": ["木村ゆき"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0qLySZ",
+    "spotify_artist_id": "0PVyag8UsPhGiuDMgk2fIB",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "木村弓",
+    "ruby": "きむらゆみ",
+    "aliases": ["木村ゆみ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WWLMU",
+    "spotify_artist_id": "6GwGjApO5BIdafJUMazVN3",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "KATSEYE",
+    "ruby": "きゃっつあい",
+    "aliases": ["Catseye"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX9FgX1w7S7rW",
+    "spotify_artist_id": "3c0gDdb9lhnHGFtP4prQpn",
+    "tags": ["女性グループ/ユニット", "K-POP"]
+  },
+{
+    "name": "きゃない",
+    "ruby": "きゃない",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mbsIy",
+    "spotify_artist_id": "42ogLtXLVjZryRz9j1zvOm",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "木山裕策",
+    "ruby": "きやまゆうさく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ndOa4",
+    "spotify_artist_id": "446Yhkph2tb0L3VxZt3AAF",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "キャラメルペッパーズ",
+    "ruby": "きゃらめるぺっぱーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0emZbQ",
+    "spotify_artist_id": "0vjZRkIYUXHHMntWT7HIcL",
+    "tags": ["男性グループ/ユニット", "J-POP"]
+  },
+{
+    "name": "きゃりーぱみゅぱみゅ",
+    "ruby": "きゃりーぱみゅぱみゅ",
+    "aliases": ["KPP"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4y6qfT",
+    "spotify_artist_id": "7Gh6fW49xfXLP8DTWaLVJP",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "キャンディーズ",
+    "ruby": "きゃんでぃーず",
+    "aliases": ["Candies"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1goUgw",
+    "spotify_artist_id": "2dJPN3xnNKO4SlNjmiyBLi",
+    "tags": ["女性グループ/ユニット", "歌謡曲"]
+  },
+{
+    "name": "CANDY TUNE",
+    "ruby": "きゃんでぃーちゅーん",
+    "aliases": ["キャンチュー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2V6oLz",
+    "spotify_artist_id": "4Yq4M6kdQTjkPBOp7aPJrA",
+    "tags": ["女性グループ/ユニット", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
