@@ -1,5 +1,85 @@
 [
   {
+    "name": "KARA",
+    "ruby": "から",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fh0mO",
+    "spotify_artist_id": "7aZ221EQfonNG2lO9Hh192",
+    "tags": ["女性グループ/ユニット", "K-POP"]
+  },
+{
+    "name": "唐沢美帆",
+    "ruby": "からさわみほ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iFX24",
+    "spotify_artist_id": "3Wyq7BrdyuJog5zOkr4HF5",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "辛島美登里",
+    "ruby": "からしまみどり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g7pWH",
+    "spotify_artist_id": "2dgx69T4LT2D3PAC5ejgbe",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "狩人",
+    "ruby": "かりゅうど",
+    "aliases": ["かりうど"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1R2xi0",
+    "spotify_artist_id": "3cDdVJMJ6hOID74ItXqCpX",
+    "tags": ["デュオ/ペア", "歌謡曲"]
+  },
+{
+    "name": "かりゆし58",
+    "ruby": "かりゆしごじゅうはち",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0n9d3t",
+    "spotify_artist_id": "0JUEsKG18QuDt6SmyHDrnL",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "Girls²",
+    "ruby": "がーるずがーるず",
+    "aliases": ["girls2", "ガールズツー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ruQF2",
+    "spotify_artist_id": "7vilEuvwalwkL7OxM9UuHR",
+    "tags": ["女性グループ/ユニット", "J-POP"]
+  },
+{
+    "name": "girl next door",
+    "ruby": "がーるねくすとどあ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO26T896",
+    "spotify_artist_id": "3CXJYGGP3L89RccxzdG8yz",
+    "tags": ["男女混成グループ/ユニット", "J-POP"]
+  },
+{
+    "name": "ガロ",
+    "ruby": "がろ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO387GSQ",
+    "spotify_artist_id": "5k3gNqmbBTlOhyquDNqB3j",
+    "tags": ["男性グループ/ユニット", "歌謡曲"]
+  },
+{
+    "name": "河合奈保子",
+    "ruby": "かわいなおこ",
+    "aliases": ["かあいなおこ", "かわいなほこ", "かあいなほこ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Tz67H",
+    "spotify_artist_id": "1BMCwAT2geYkKBKjRAJ8Qu",
+    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
+  },
+{
+    "name": "河口恭吾",
+    "ruby": "かわぐちきょうご",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eovYI",
+    "spotify_artist_id": "2aoKOZCueumx57nqqOsjd2",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
