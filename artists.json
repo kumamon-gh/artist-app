@@ -1,44 +1,4 @@
 [
-{
-    "name": "川崎鷹也",
-    "ruby": "かわさきたかや",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25Ts52",
-    "spotify_artist_id": "3BjFX1nExMNHvSaoLd1I1k",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "川嶋あい",
-    "ruby": "かわしまあい",
-    "aliases": ["川島あい"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO30e4eE",
-    "spotify_artist_id": "56VTXSeHb276rD1lVKcfiw",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "河島英五",
-    "ruby": "かわしまえいご",
-    "aliases": ["川島英五"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO37mADc",
-    "spotify_artist_id": "5iN3x2s5s7JxtC8czZ8yKf",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "川田正子",
-    "ruby": "かわだまさこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32XonE",
-    "spotify_artist_id": "5btfhGbUCNJwhoZVcHq3ju",
-    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-  },
-{
-    "name": "川中美幸",
-    "ruby": "かわなかみゆき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2SQYY9",
-    "spotify_artist_id": "4UGkcwrZcZ7OXnudB78ve9",
-    "tags": ["女性ボーカル/ソロ", "演歌"]
-  },
   {
     "id": "artist-1",
     "name": "AI",
@@ -7187,6 +7147,122 @@
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
     "color": "#f37e01"
+  },
+  {
+    "id": "artist-351",
+    "name": "川崎鷹也",
+    "ruby": "かわさきたかや",
+    "kana": "カワサキタカヤ",
+    "romaji": [
+      "kawasakitakaya"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25Ts52",
+    "spotify_artist_id": "3BjFX1nExMNHvSaoLd1I1k",
+    "official_site": null,
+    "description": "川崎鷹也の代表曲をまとめた公式のプレイリスト「This Is 川崎鷹也」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-352",
+    "name": "川嶋あい",
+    "ruby": "かわしまあい",
+    "kana": "カワシマアイ",
+    "romaji": [
+      "kawashimaai",
+      "kawasimaai"
+    ],
+    "aliases": [
+      "川島あい"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO30e4eE",
+    "spotify_artist_id": "56VTXSeHb276rD1lVKcfiw",
+    "official_site": null,
+    "description": "川嶋あいの代表曲をまとめた公式のプレイリスト「This Is 川嶋あい」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-353",
+    "name": "河島英五",
+    "ruby": "かわしまえいご",
+    "kana": "カワシマエイゴ",
+    "romaji": [
+      "kawashimaeigo",
+      "kawasimaeigo"
+    ],
+    "aliases": [
+      "川島英五"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO37mADc",
+    "spotify_artist_id": "5iN3x2s5s7JxtC8czZ8yKf",
+    "official_site": null,
+    "description": "河島英五の代表曲をまとめた公式のプレイリスト「This Is 河島英五」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-354",
+    "name": "川田正子",
+    "ruby": "かわだまさこ",
+    "kana": "カワダマサコ",
+    "romaji": [
+      "kawadamasako"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32XonE",
+    "spotify_artist_id": "5btfhGbUCNJwhoZVcHq3ju",
+    "official_site": null,
+    "description": "川田正子の代表曲をまとめた公式のプレイリスト「This Is 川田正子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-355",
+    "name": "川中美幸",
+    "ruby": "かわなかみゆき",
+    "kana": "カワナカミユキ",
+    "romaji": [
+      "kawanakamiyuki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2SQYY9",
+    "spotify_artist_id": "4UGkcwrZcZ7OXnudB78ve9",
+    "official_site": null,
+    "description": "川中美幸の代表曲をまとめた公式のプレイリスト「This Is 川中美幸」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
   },
   {
     "id": "artist-184",
