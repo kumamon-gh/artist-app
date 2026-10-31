@@ -1,5 +1,69 @@
 [
   {
+    "name": "KiiiKiii",
+    "ruby": "きき",
+    "aliases": ["KIKI", "キイキイ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX4ChjijhjpzX",
+    "spotify_artist_id": "63sat2XSMKdwKfqspmYQKP",
+    "tags": ["女性グループ/ユニット", "K-POP"]
+  },
+{
+    "name": "菊池桃子",
+    "ruby": "きくちももこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05GzqF",
+    "spotify_artist_id": "0gT302jqzDIhNWY8YpzDCs",
+    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
+  },
+  {
+    "name": "氣志團",
+    "ruby": "きしだん",
+    "aliases": ["気志團", "気志団", "氣志団"],
+    "url": "37i9dQZF1DZ06evO31qPZ2",
+    "spotify_artist_id": "58WqD0AmJH03qw4AUN00Yx",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
+    "name": "来生たかお",
+    "ruby": "きすぎたかお",
+    "aliases": ["来生孝夫"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04TFta",
+    "spotify_artist_id": "0fzFpiDDFQspynZvGDlGC6",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "城南海",
+    "ruby": "きずきみなみ",
+    "aliases": ["ぐすくみなみ", "じょうなんかい", "きづきみなみ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UtdiB",
+    "spotify_artist_id": "3iklqyLETq25WsazEFbL29",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+  {
+    "name": "Kis-My-Ft2",
+    "ruby": "きすまいふっとつー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWV9uQ09fjQE2",
+    "spotify_artist_id": "4kxoWjOpCVYKgPv9nea95k",
+    "tags": ["男性グループ/ユニット", "J-POP"]
+  },
+{
+    "name": "北川理恵",
+    "ruby": "きたがわりえ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36e3qp",
+    "spotify_artist_id": "5gUgmKBGwuJUJfdkdvtWTm",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "北島三郎",
+    "ruby": "きたじまさぶろう",
+    "aliases": ["サブちゃん"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qoHba",
+    "spotify_artist_id": "49otXyVmHftNIlP6pr6ANy",
+    "tags": ["男性ボーカル/ソロ", "演歌"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
