@@ -1,5 +1,45 @@
 [
   {
+    "name": "河村隆一",
+    "ruby": "かわむらりゅういち",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PN1bo",
+    "spotify_artist_id": "4PANiFl0oG6creVyv9fsU9",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "川本真琴",
+    "ruby": "かわもとまこと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BpLZm",
+    "spotify_artist_id": "2MF3aPE7iQsg8CtlBmHfjx",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "KAN",
+    "ruby": "かん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fl8bl",
+    "spotify_artist_id": "0wVJakYe8YCkSjdmiHaVHY",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "神田沙也加",
+    "ruby": "かんださやか",
+    "aliases": ["SAYAKA"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kMkRq",
+    "spotify_artist_id": "0FYmss7VDzi6m3UATQMyab",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "カントリー娘。",
+    "ruby": "かんとりーむすめ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KiffT",
+    "spotify_artist_id": "6luHRYqMmCxjxHABgJDL4Y",
+    "tags": ["女性グループ/ユニット", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
