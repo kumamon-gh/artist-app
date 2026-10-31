@@ -1,45 +1,5 @@
 [
   {
-    "name": "河村隆一",
-    "ruby": "かわむらりゅういち",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PN1bo",
-    "spotify_artist_id": "4PANiFl0oG6creVyv9fsU9",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "川本真琴",
-    "ruby": "かわもとまこと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BpLZm",
-    "spotify_artist_id": "2MF3aPE7iQsg8CtlBmHfjx",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "KAN",
-    "ruby": "かん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fl8bl",
-    "spotify_artist_id": "0wVJakYe8YCkSjdmiHaVHY",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "神田沙也加",
-    "ruby": "かんださやか",
-    "aliases": ["SAYAKA"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kMkRq",
-    "spotify_artist_id": "0FYmss7VDzi6m3UATQMyab",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "カントリー娘。",
-    "ruby": "かんとりーむすめ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KiffT",
-    "spotify_artist_id": "6luHRYqMmCxjxHABgJDL4Y",
-    "tags": ["女性グループ/ユニット", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -7298,6 +7258,119 @@
     "tags": [
       "女性ボーカル/ソロ",
       "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-356",
+    "name": "河村隆一",
+    "ruby": "かわむらりゅういち",
+    "kana": "カワムラリュウイチ",
+    "romaji": [
+      "kawamuraryuuichi",
+      "kawamuraryuuiti"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PN1bo",
+    "spotify_artist_id": "4PANiFl0oG6creVyv9fsU9",
+    "official_site": null,
+    "description": "河村隆一の代表曲をまとめた公式のプレイリスト「This Is 河村隆一」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-357",
+    "name": "川本真琴",
+    "ruby": "かわもとまこと",
+    "kana": "カワモトマコト",
+    "romaji": [
+      "kawamotomakoto"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BpLZm",
+    "spotify_artist_id": "2MF3aPE7iQsg8CtlBmHfjx",
+    "official_site": null,
+    "description": "川本真琴の代表曲をまとめた公式のプレイリスト「This Is 川本真琴」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-358",
+    "name": "KAN",
+    "ruby": "かん",
+    "kana": "カン",
+    "romaji": [
+      "kan"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fl8bl",
+    "spotify_artist_id": "0wVJakYe8YCkSjdmiHaVHY",
+    "official_site": null,
+    "description": "KANの代表曲をまとめた公式のプレイリスト「This Is KAN」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-359",
+    "name": "神田沙也加",
+    "ruby": "かんださやか",
+    "kana": "カンダサヤカ",
+    "romaji": [
+      "kandasayaka"
+    ],
+    "aliases": [
+      "SAYAKA"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kMkRq",
+    "spotify_artist_id": "0FYmss7VDzi6m3UATQMyab",
+    "official_site": null,
+    "description": "神田沙也加の代表曲をまとめた公式のプレイリスト「This Is 神田沙也加」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-360",
+    "name": "カントリー娘。",
+    "ruby": "かんとりーむすめ",
+    "kana": "カントリームスメ",
+    "romaji": [
+      "kantoriimusume"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KiffT",
+    "spotify_artist_id": "6luHRYqMmCxjxHABgJDL4Y",
+    "official_site": null,
+    "description": "カントリー娘。の代表曲をまとめた公式のプレイリスト「This Is カントリー娘。」",
+    "tags": [
+      "女性グループ/ユニット",
+      "J-POP"
     ],
     "status": "published",
     "added_date": "2026-11-01",
