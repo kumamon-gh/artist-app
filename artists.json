@@ -1,69 +1,5 @@
 [
   {
-    "name": "KiiiKiii",
-    "ruby": "きき",
-    "aliases": ["KIKI", "キイキイ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX4ChjijhjpzX",
-    "spotify_artist_id": "63sat2XSMKdwKfqspmYQKP",
-    "tags": ["女性グループ/ユニット", "K-POP"]
-  },
-{
-    "name": "菊池桃子",
-    "ruby": "きくちももこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05GzqF",
-    "spotify_artist_id": "0gT302jqzDIhNWY8YpzDCs",
-    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-  },
-  {
-    "name": "氣志團",
-    "ruby": "きしだん",
-    "aliases": ["気志團", "気志団", "氣志団"],
-    "url": "37i9dQZF1DZ06evO31qPZ2",
-    "spotify_artist_id": "58WqD0AmJH03qw4AUN00Yx",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
-    "name": "来生たかお",
-    "ruby": "きすぎたかお",
-    "aliases": ["来生孝夫"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04TFta",
-    "spotify_artist_id": "0fzFpiDDFQspynZvGDlGC6",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "城南海",
-    "ruby": "きずきみなみ",
-    "aliases": ["ぐすくみなみ", "じょうなんかい", "きづきみなみ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UtdiB",
-    "spotify_artist_id": "3iklqyLETq25WsazEFbL29",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-  {
-    "name": "Kis-My-Ft2",
-    "ruby": "きすまいふっとつー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWV9uQ09fjQE2",
-    "spotify_artist_id": "4kxoWjOpCVYKgPv9nea95k",
-    "tags": ["男性グループ/ユニット", "J-POP"]
-  },
-{
-    "name": "北川理恵",
-    "ruby": "きたがわりえ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36e3qp",
-    "spotify_artist_id": "5gUgmKBGwuJUJfdkdvtWTm",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "北島三郎",
-    "ruby": "きたじまさぶろう",
-    "aliases": ["サブちゃん"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qoHba",
-    "spotify_artist_id": "49otXyVmHftNIlP6pr6ANy",
-    "tags": ["男性ボーカル/ソロ", "演歌"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -7435,6 +7371,200 @@
     "tags": [
       "女性グループ/ユニット",
       "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-361",
+    "name": "KiiiKiii",
+    "ruby": "きき",
+    "kana": "キキ",
+    "romaji": [
+      "kiiikiii"
+    ],
+    "aliases": [
+      "KIKI",
+      "キイキイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX4ChjijhjpzX",
+    "spotify_artist_id": "63sat2XSMKdwKfqspmYQKP",
+    "official_site": null,
+    "description": "KiiiKiiiの代表曲をまとめた公式のプレイリスト「This Is KiiiKiii」",
+    "tags": [
+      "女性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-362",
+    "name": "菊池桃子",
+    "ruby": "きくちももこ",
+    "kana": "キクチモモコ",
+    "romaji": [
+      "kikuchimomoko",
+      "kikutimomoko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05GzqF",
+    "spotify_artist_id": "0gT302jqzDIhNWY8YpzDCs",
+    "official_site": null,
+    "description": "菊池桃子の代表曲をまとめた公式のプレイリスト「This Is 菊池桃子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-363",
+    "name": "氣志團",
+    "ruby": "きしだん",
+    "kana": "キシダン",
+    "romaji": [
+      "kishidan",
+      "kisidan"
+    ],
+    "aliases": [
+      "気志團",
+      "気志団",
+      "氣志団"
+    ],
+    "url": "37i9dQZF1DZ06evO31qPZ2",
+    "spotify_artist_id": "58WqD0AmJH03qw4AUN00Yx",
+    "official_site": null,
+    "description": "氣志團の代表曲をまとめた公式のプレイリスト「This Is 氣志團」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-364",
+    "name": "来生たかお",
+    "ruby": "きすぎたかお",
+    "kana": "キスギタカオ",
+    "romaji": [
+      "kisugitakao"
+    ],
+    "aliases": [
+      "来生孝夫"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04TFta",
+    "spotify_artist_id": "0fzFpiDDFQspynZvGDlGC6",
+    "official_site": null,
+    "description": "来生たかおの代表曲をまとめた公式のプレイリスト「This Is 来生たかお」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-365",
+    "name": "城南海",
+    "ruby": "きずきみなみ",
+    "kana": "キズキミナミ",
+    "romaji": [
+      "kizukiminami"
+    ],
+    "aliases": [
+      "ぐすくみなみ",
+      "じょうなんかい",
+      "きづきみなみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UtdiB",
+    "spotify_artist_id": "3iklqyLETq25WsazEFbL29",
+    "official_site": null,
+    "description": "城南海の代表曲をまとめた公式のプレイリスト「This Is 城南海」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-366",
+    "name": "Kis-My-Ft2",
+    "ruby": "きすまいふっとつー",
+    "kana": "キスマイフットツー",
+    "romaji": [
+      "kismyft2"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWV9uQ09fjQE2",
+    "spotify_artist_id": "4kxoWjOpCVYKgPv9nea95k",
+    "official_site": null,
+    "description": "Kis-My-Ft2の代表曲をまとめた公式のプレイリスト「This Is Kis-My-Ft2」",
+    "tags": [
+      "男性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-367",
+    "name": "北川理恵",
+    "ruby": "きたがわりえ",
+    "kana": "キタガワリエ",
+    "romaji": [
+      "kitagawarie"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36e3qp",
+    "spotify_artist_id": "5gUgmKBGwuJUJfdkdvtWTm",
+    "official_site": null,
+    "description": "北川理恵の代表曲をまとめた公式のプレイリスト「This Is 北川理恵」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-368",
+    "name": "北島三郎",
+    "ruby": "きたじまさぶろう",
+    "kana": "キタジマサブロウ",
+    "romaji": [
+      "kitajimasaburou",
+      "kitazimasaburou"
+    ],
+    "aliases": [
+      "サブちゃん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qoHba",
+    "spotify_artist_id": "49otXyVmHftNIlP6pr6ANy",
+    "official_site": null,
+    "description": "北島三郎の代表曲をまとめた公式のプレイリスト「This Is 北島三郎」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "演歌"
     ],
     "status": "published",
     "added_date": "2026-11-01",
