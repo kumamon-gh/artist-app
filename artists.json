@@ -1,85 +1,5 @@
 [
   {
-    "name": "柏原芳恵",
-    "ruby": "かしわばらよしえ",
-    "aliases": ["柏原よしえ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mBE7E",
-    "spotify_artist_id": "5I7LbMahs1epS5u3a0CwHF",
-    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-  },
-{
-    "name": "春日八郎",
-    "ruby": "かすがはちろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ljhqo",
-    "spotify_artist_id": "1o4ehAqVVdHlMB7aGG7soo",
-    "tags": ["男性ボーカル/ソロ", "演歌"]
-  },
-{
-    "name": "CASCADE",
-    "ruby": "かすけーど",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xgTF7",
-    "spotify_artist_id": "5ZRank3VJP8HCKZNiYsMSJ",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "カズン",
-    "ruby": "かずん",
-    "aliases": ["Cousin"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nCxeU",
-    "spotify_artist_id": "5JOAZKg6DBbDulvpP9Otg8",
-    "tags": ["デュオ/ペア", "J-POP"]
-  },
-{
-    "name": "the GazettE",
-    "ruby": "がぜっと",
-    "aliases": ["ざがぜっと"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uTy5Y",
-    "spotify_artist_id": "4gRFSxjAcJkb54BDjqo7Bc",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "片平里菜",
-    "ruby": "かたひらりな",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gDKUg",
-    "spotify_artist_id": "2e8owTBZutgOq6uUnVTURB",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-  {
-    "name": "KATSUMI",
-    "ruby": "かつみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXmCK0",
-    "spotify_artist_id": "033ePowgXf6WaPaBpfFg14",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "葛城ユキ",
-    "ruby": "かつらぎゆき",
-    "aliases": ["葛城ゆき"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1x1xzt",
-    "spotify_artist_id": "2Fmowii6RqsTdVEvvF3EBh",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "加藤和彦",
-    "ruby": "かとうかずひこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lfME5",
-    "spotify_artist_id": "2lNBXVmLH56C2x0Nj4NSzC",
-    "tags": ["男性ボーカル/ソロ", "歌謡曲"]
-  },
-  {
-    "name": "加藤登紀子",
-    "ruby": "かとうときこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mqCyg",
-    "spotify_artist_id": "7mRR1ujyKMatcj5CjqGYAW",
-    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -6509,6 +6429,237 @@
     "spotify_artist_id": "54rT6KPZ4l6QUCm4p5GipJ",
     "official_site": null,
     "description": "笠置シヅ子の代表曲をまとめた公式のプレイリスト「This Is 笠置シヅ子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-321",
+    "name": "柏原芳恵",
+    "ruby": "かしわばらよしえ",
+    "kana": "カシワバラヨシエ",
+    "romaji": [
+      "kashiwabarayoshie",
+      "kasiwabarayosie"
+    ],
+    "aliases": [
+      "柏原よしえ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mBE7E",
+    "spotify_artist_id": "5I7LbMahs1epS5u3a0CwHF",
+    "official_site": null,
+    "description": "柏原芳恵の代表曲をまとめた公式のプレイリスト「This Is 柏原芳恵」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-322",
+    "name": "春日八郎",
+    "ruby": "かすがはちろう",
+    "kana": "カスガハチロウ",
+    "romaji": [
+      "kasugahachirou",
+      "kasugahatirou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ljhqo",
+    "spotify_artist_id": "1o4ehAqVVdHlMB7aGG7soo",
+    "official_site": null,
+    "description": "春日八郎の代表曲をまとめた公式のプレイリスト「This Is 春日八郎」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-323",
+    "name": "CASCADE",
+    "ruby": "かすけーど",
+    "kana": "カスケード",
+    "romaji": [
+      "cascade"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xgTF7",
+    "spotify_artist_id": "5ZRank3VJP8HCKZNiYsMSJ",
+    "official_site": null,
+    "description": "CASCADEの代表曲をまとめた公式のプレイリスト「This Is CASCADE」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-324",
+    "name": "カズン",
+    "ruby": "かずん",
+    "kana": "カズン",
+    "romaji": [
+      "kazun"
+    ],
+    "aliases": [
+      "Cousin"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nCxeU",
+    "spotify_artist_id": "5JOAZKg6DBbDulvpP9Otg8",
+    "official_site": null,
+    "description": "カズンの代表曲をまとめた公式のプレイリスト「This Is カズン」",
+    "tags": [
+      "デュオ/ペア",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-325",
+    "name": "the GazettE",
+    "ruby": "がぜっと",
+    "kana": "ガゼット",
+    "romaji": [
+      "thegazette"
+    ],
+    "aliases": [
+      "ざがぜっと"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uTy5Y",
+    "spotify_artist_id": "4gRFSxjAcJkb54BDjqo7Bc",
+    "official_site": null,
+    "description": "the GazettEの代表曲をまとめた公式のプレイリスト「This Is the GazettE」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-326",
+    "name": "片平里菜",
+    "ruby": "かたひらりな",
+    "kana": "カタヒラリナ",
+    "romaji": [
+      "katahirarina"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gDKUg",
+    "spotify_artist_id": "2e8owTBZutgOq6uUnVTURB",
+    "official_site": null,
+    "description": "片平里菜の代表曲をまとめた公式のプレイリスト「This Is 片平里菜」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-327",
+    "name": "KATSUMI",
+    "ruby": "かつみ",
+    "kana": "カツミ",
+    "romaji": [
+      "katsumi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXmCK0",
+    "spotify_artist_id": "033ePowgXf6WaPaBpfFg14",
+    "official_site": null,
+    "description": "KATSUMIの代表曲をまとめた公式のプレイリスト「This Is KATSUMI」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-328",
+    "name": "葛城ユキ",
+    "ruby": "かつらぎゆき",
+    "kana": "カツラギユキ",
+    "romaji": [
+      "katsuragiyuki",
+      "katuragiyuki"
+    ],
+    "aliases": [
+      "葛城ゆき"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1x1xzt",
+    "spotify_artist_id": "2Fmowii6RqsTdVEvvF3EBh",
+    "official_site": null,
+    "description": "葛城ユキの代表曲をまとめた公式のプレイリスト「This Is 葛城ユキ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-329",
+    "name": "加藤和彦",
+    "ruby": "かとうかずひこ",
+    "kana": "カトウカズヒコ",
+    "romaji": [
+      "katoukazuhiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lfME5",
+    "spotify_artist_id": "2lNBXVmLH56C2x0Nj4NSzC",
+    "official_site": null,
+    "description": "加藤和彦の代表曲をまとめた公式のプレイリスト「This Is 加藤和彦」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-330",
+    "name": "加藤登紀子",
+    "ruby": "かとうときこ",
+    "kana": "カトウトキコ",
+    "romaji": [
+      "katoutokiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mqCyg",
+    "spotify_artist_id": "7mRR1ujyKMatcj5CjqGYAW",
+    "official_site": null,
+    "description": "加藤登紀子の代表曲をまとめた公式のプレイリスト「This Is 加藤登紀子」",
     "tags": [
       "女性ボーカル/ソロ",
       "歌謡曲"
