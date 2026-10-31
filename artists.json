@@ -6697,7 +6697,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-332",
@@ -6720,7 +6720,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-333",
@@ -6742,7 +6742,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#e5ac89"
   },
   {
     "id": "artist-334",
@@ -6764,7 +6764,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#e5ac89"
   },
   {
     "id": "artist-335",
@@ -6789,7 +6789,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-336",
@@ -6807,6 +6807,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vbX3b"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vbX3b": "#16d1a6"
+    },
     "spotify_artist_id": "6Dzf0hRDXsjgxvmeh0dXO7",
     "official_site": null,
     "description": "かまやつひろしの代表曲をまとめた公式のプレイリスト「This Is かまやつひろし」",
@@ -6817,7 +6820,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-337",
@@ -6840,7 +6843,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-338",
@@ -6862,7 +6865,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-339",
@@ -6885,7 +6888,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-340",
@@ -6910,7 +6913,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-341",
@@ -6932,7 +6935,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-342",
@@ -6954,7 +6957,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-343",
@@ -6977,7 +6980,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-344",
@@ -7001,7 +7004,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-345",
@@ -7025,7 +7028,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-346",
@@ -7050,7 +7053,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-347",
@@ -7072,7 +7075,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-348",
@@ -7094,7 +7097,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-349",
@@ -7120,7 +7123,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-350",
@@ -7143,7 +7146,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f37e01"
   },
   {
     "id": "artist-184",
