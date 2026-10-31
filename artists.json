@@ -1,85 +1,5 @@
 [
   {
-    "name": "木村カエラ",
-    "ruby": "きむらかえら",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO303jr5",
-    "spotify_artist_id": "56Eer6ASRcE4aJHJwejTuN",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "木村由姫",
-    "ruby": "きむらゆき",
-    "aliases": ["木村ゆき"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0qLySZ",
-    "spotify_artist_id": "0PVyag8UsPhGiuDMgk2fIB",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "木村弓",
-    "ruby": "きむらゆみ",
-    "aliases": ["木村ゆみ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WWLMU",
-    "spotify_artist_id": "6GwGjApO5BIdafJUMazVN3",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "KATSEYE",
-    "ruby": "きゃっつあい",
-    "aliases": ["Catseye"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX9FgX1w7S7rW",
-    "spotify_artist_id": "3c0gDdb9lhnHGFtP4prQpn",
-    "tags": ["女性グループ/ユニット", "K-POP"]
-  },
-{
-    "name": "きゃない",
-    "ruby": "きゃない",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mbsIy",
-    "spotify_artist_id": "42ogLtXLVjZryRz9j1zvOm",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "木山裕策",
-    "ruby": "きやまゆうさく",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ndOa4",
-    "spotify_artist_id": "446Yhkph2tb0L3VxZt3AAF",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "キャラメルペッパーズ",
-    "ruby": "きゃらめるぺっぱーず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0emZbQ",
-    "spotify_artist_id": "0vjZRkIYUXHHMntWT7HIcL",
-    "tags": ["男性グループ/ユニット", "J-POP"]
-  },
-{
-    "name": "きゃりーぱみゅぱみゅ",
-    "ruby": "きゃりーぱみゅぱみゅ",
-    "aliases": ["KPP"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4y6qfT",
-    "spotify_artist_id": "7Gh6fW49xfXLP8DTWaLVJP",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "キャンディーズ",
-    "ruby": "きゃんでぃーず",
-    "aliases": ["Candies"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1goUgw",
-    "spotify_artist_id": "2dJPN3xnNKO4SlNjmiyBLi",
-    "tags": ["女性グループ/ユニット", "歌謡曲"]
-  },
-{
-    "name": "CANDY TUNE",
-    "ruby": "きゃんでぃーちゅーん",
-    "aliases": ["キャンチュー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2V6oLz",
-    "spotify_artist_id": "4Yq4M6kdQTjkPBOp7aPJrA",
-    "tags": ["女性グループ/ユニット", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -7876,6 +7796,238 @@
     "description": "キマグレンの代表曲をまとめた公式のプレイリスト「This Is キマグレン」",
     "tags": [
       "男性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-379",
+    "name": "木村カエラ",
+    "ruby": "きむらかえら",
+    "kana": "キムラカエラ",
+    "romaji": [
+      "kimurakaera"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO303jr5",
+    "spotify_artist_id": "56Eer6ASRcE4aJHJwejTuN",
+    "official_site": null,
+    "description": "木村カエラの代表曲をまとめた公式のプレイリスト「This Is 木村カエラ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-380",
+    "name": "木村由姫",
+    "ruby": "きむらゆき",
+    "kana": "キムラユキ",
+    "romaji": [
+      "kimurayuki"
+    ],
+    "aliases": [
+      "木村ゆき"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0qLySZ",
+    "spotify_artist_id": "0PVyag8UsPhGiuDMgk2fIB",
+    "official_site": null,
+    "description": "木村由姫の代表曲をまとめた公式のプレイリスト「This Is 木村由姫」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-381",
+    "name": "木村弓",
+    "ruby": "きむらゆみ",
+    "kana": "キムラユミ",
+    "romaji": [
+      "kimurayumi"
+    ],
+    "aliases": [
+      "木村ゆみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WWLMU",
+    "spotify_artist_id": "6GwGjApO5BIdafJUMazVN3",
+    "official_site": null,
+    "description": "木村弓の代表曲をまとめた公式のプレイリスト「This Is 木村弓」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-382",
+    "name": "KATSEYE",
+    "ruby": "きゃっつあい",
+    "kana": "キャッツアイ",
+    "romaji": [
+      "katseye"
+    ],
+    "aliases": [
+      "Catseye"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX9FgX1w7S7rW",
+    "spotify_artist_id": "3c0gDdb9lhnHGFtP4prQpn",
+    "official_site": null,
+    "description": "KATSEYEの代表曲をまとめた公式のプレイリスト「This Is KATSEYE」",
+    "tags": [
+      "女性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-383",
+    "name": "きゃない",
+    "ruby": "きゃない",
+    "kana": "キャナイ",
+    "romaji": [
+      "kyanai"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mbsIy",
+    "spotify_artist_id": "42ogLtXLVjZryRz9j1zvOm",
+    "official_site": null,
+    "description": "きゃないの代表曲をまとめた公式のプレイリスト「This Is きゃない」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-384",
+    "name": "木山裕策",
+    "ruby": "きやまゆうさく",
+    "kana": "キヤマユウサク",
+    "romaji": [
+      "kiyamayuusaku"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ndOa4",
+    "spotify_artist_id": "446Yhkph2tb0L3VxZt3AAF",
+    "official_site": null,
+    "description": "木山裕策の代表曲をまとめた公式のプレイリスト「This Is 木山裕策」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-385",
+    "name": "キャラメルペッパーズ",
+    "ruby": "きゃらめるぺっぱーず",
+    "kana": "キャラメルペッパーズ",
+    "romaji": [
+      "kyaramerupeppaazu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0emZbQ",
+    "spotify_artist_id": "0vjZRkIYUXHHMntWT7HIcL",
+    "official_site": null,
+    "description": "キャラメルペッパーズの代表曲をまとめた公式のプレイリスト「This Is キャラメルペッパーズ」",
+    "tags": [
+      "男性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-386",
+    "name": "きゃりーぱみゅぱみゅ",
+    "ruby": "きゃりーぱみゅぱみゅ",
+    "kana": "キャリーパミュパミュ",
+    "romaji": [
+      "kyariipamyupamyu"
+    ],
+    "aliases": [
+      "KPP"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4y6qfT",
+    "spotify_artist_id": "7Gh6fW49xfXLP8DTWaLVJP",
+    "official_site": null,
+    "description": "きゃりーぱみゅぱみゅの代表曲をまとめた公式のプレイリスト「This Is きゃりーぱみゅぱみゅ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-387",
+    "name": "キャンディーズ",
+    "ruby": "きゃんでぃーず",
+    "kana": "キャンディーズ",
+    "romaji": [
+      "kyandiizu"
+    ],
+    "aliases": [
+      "Candies"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1goUgw",
+    "spotify_artist_id": "2dJPN3xnNKO4SlNjmiyBLi",
+    "official_site": null,
+    "description": "キャンディーズの代表曲をまとめた公式のプレイリスト「This Is キャンディーズ」",
+    "tags": [
+      "女性グループ/ユニット",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-01",
+    "updated_date": "2026-11-01",
+    "color": ""
+  },
+  {
+    "id": "artist-388",
+    "name": "CANDY TUNE",
+    "ruby": "きゃんでぃーちゅーん",
+    "kana": "キャンディーチューン",
+    "romaji": [
+      "candytune"
+    ],
+    "aliases": [
+      "キャンチュー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2V6oLz",
+    "spotify_artist_id": "4Yq4M6kdQTjkPBOp7aPJrA",
+    "official_site": null,
+    "description": "CANDY TUNEの代表曲をまとめた公式のプレイリスト「This Is CANDY TUNE」",
+    "tags": [
+      "女性グループ/ユニット",
       "J-POP"
     ],
     "status": "published",
