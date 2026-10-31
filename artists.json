@@ -1,5 +1,85 @@
 [
   {
+    "name": "海援隊",
+    "ruby": "かいえんたい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UzLA7",
+    "spotify_artist_id": "1DsKJnZ0VeVD4ZEpDIegQF",
+    "tags": ["バンド", "歌謡曲"]
+  },
+{
+    "name": "海蔵亮太",
+    "ruby": "かいぞうりょうた",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qdFTR",
+    "spotify_artist_id": "5O8nmDU07MLRIQCjBzPCMP",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "甲斐バンド",
+    "ruby": "かいばんど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ydOKL",
+    "spotify_artist_id": "4monxaihAuYJfK2CxJdtoY",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "KAI FIVE",
+    "ruby": "かいふぁいぶ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Kz2yT",
+    "spotify_artist_id": "4GUq5L0HuuxHIU79vQdOmE",
+    "tags": ["男性グループ/ユニット", "J-POP"]
+  },
+{
+    "name": "GAO",
+    "ruby": "がお",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1A70jV",
+    "spotify_artist_id": "2KuEmm5pswUfpg1BiduKVi",
+    "tags": ["女性ボーカル/ソロ", "J-POP"]
+  },
+  {
+    "name": "ガガガSP",
+    "ruby": "がががえすぴー",
+    "aliases": ["がががえすぴー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HGo6E",
+    "spotify_artist_id": "1i2ol7SBMNLazfzSZKRGwM",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "GACKT",
+    "ruby": "がくと",
+    "aliases": ["神威楽斗", "かむいがくと"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oxP37",
+    "spotify_artist_id": "0MebO9MFNvedjUBsPGo0YN",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "かぐや姫",
+    "ruby": "かぐやひめ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pdyaB",
+    "spotify_artist_id": "47qUQ1YSIuAvBgmBqSX5gR",
+    "tags": ["バンド", "歌謡曲"]
+  },
+{
+    "name": "影山ヒロノブ",
+    "ruby": "かげやまひろのぶ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ny57x",
+    "spotify_artist_id": "6qTKdHuHW9MFnjfV3JYmz8",
+    "tags": ["男性ボーカル/ソロ", "J-POP"]
+  },
+{
+    "name": "笠置シヅ子",
+    "ruby": "かさぎしづこ",
+    "aliases": ["笠置静子", "かさぎしずこ", "笠置シズ子"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YJkLT",
+    "spotify_artist_id": "54rT6KPZ4l6QUCm4p5GipJ",
+    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
