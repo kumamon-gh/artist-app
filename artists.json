@@ -1,85 +1,5 @@
 [
   {
-    "name": "KARA",
-    "ruby": "から",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fh0mO",
-    "spotify_artist_id": "7aZ221EQfonNG2lO9Hh192",
-    "tags": ["女性グループ/ユニット", "K-POP"]
-  },
-{
-    "name": "唐沢美帆",
-    "ruby": "からさわみほ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iFX24",
-    "spotify_artist_id": "3Wyq7BrdyuJog5zOkr4HF5",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "辛島美登里",
-    "ruby": "からしまみどり",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g7pWH",
-    "spotify_artist_id": "2dgx69T4LT2D3PAC5ejgbe",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "狩人",
-    "ruby": "かりゅうど",
-    "aliases": ["かりうど"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1R2xi0",
-    "spotify_artist_id": "3cDdVJMJ6hOID74ItXqCpX",
-    "tags": ["デュオ/ペア", "歌謡曲"]
-  },
-{
-    "name": "かりゆし58",
-    "ruby": "かりゆしごじゅうはち",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0n9d3t",
-    "spotify_artist_id": "0JUEsKG18QuDt6SmyHDrnL",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "Girls²",
-    "ruby": "がーるずがーるず",
-    "aliases": ["girls2", "ガールズツー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ruQF2",
-    "spotify_artist_id": "7vilEuvwalwkL7OxM9UuHR",
-    "tags": ["女性グループ/ユニット", "J-POP"]
-  },
-{
-    "name": "girl next door",
-    "ruby": "がーるねくすとどあ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO26T896",
-    "spotify_artist_id": "3CXJYGGP3L89RccxzdG8yz",
-    "tags": ["男女混成グループ/ユニット", "J-POP"]
-  },
-{
-    "name": "ガロ",
-    "ruby": "がろ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO387GSQ",
-    "spotify_artist_id": "5k3gNqmbBTlOhyquDNqB3j",
-    "tags": ["男性グループ/ユニット", "歌謡曲"]
-  },
-{
-    "name": "河合奈保子",
-    "ruby": "かわいなおこ",
-    "aliases": ["かあいなおこ", "かわいなほこ", "かあいなほこ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Tz67H",
-    "spotify_artist_id": "1BMCwAT2geYkKBKjRAJ8Qu",
-    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-  },
-{
-    "name": "河口恭吾",
-    "ruby": "かわぐちきょうご",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eovYI",
-    "spotify_artist_id": "2aoKOZCueumx57nqqOsjd2",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -6986,6 +6906,239 @@
     "tags": [
       "男性ボーカル/ソロ",
       "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-341",
+    "name": "KARA",
+    "ruby": "から",
+    "kana": "カラ",
+    "romaji": [
+      "kara"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fh0mO",
+    "spotify_artist_id": "7aZ221EQfonNG2lO9Hh192",
+    "official_site": null,
+    "description": "KARAの代表曲をまとめた公式のプレイリスト「This Is KARA」",
+    "tags": [
+      "女性グループ/ユニット",
+      "K-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-342",
+    "name": "唐沢美帆",
+    "ruby": "からさわみほ",
+    "kana": "カラサワミホ",
+    "romaji": [
+      "karasawamiho"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iFX24",
+    "spotify_artist_id": "3Wyq7BrdyuJog5zOkr4HF5",
+    "official_site": null,
+    "description": "唐沢美帆の代表曲をまとめた公式のプレイリスト「This Is 唐沢美帆」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-343",
+    "name": "辛島美登里",
+    "ruby": "からしまみどり",
+    "kana": "カラシマミドリ",
+    "romaji": [
+      "karashimamidori",
+      "karasimamidori"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g7pWH",
+    "spotify_artist_id": "2dgx69T4LT2D3PAC5ejgbe",
+    "official_site": null,
+    "description": "辛島美登里の代表曲をまとめた公式のプレイリスト「This Is 辛島美登里」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-344",
+    "name": "狩人",
+    "ruby": "かりゅうど",
+    "kana": "カリュウド",
+    "romaji": [
+      "karyuudo"
+    ],
+    "aliases": [
+      "かりうど"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1R2xi0",
+    "spotify_artist_id": "3cDdVJMJ6hOID74ItXqCpX",
+    "official_site": null,
+    "description": "狩人の代表曲をまとめた公式のプレイリスト「This Is 狩人」",
+    "tags": [
+      "デュオ/ペア",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-345",
+    "name": "かりゆし58",
+    "ruby": "かりゆしごじゅうはち",
+    "kana": "カリユシゴジュウハチ",
+    "romaji": [
+      "kariyushigojuuhachi",
+      "kariyusigozyuuhati",
+      "58"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0n9d3t",
+    "spotify_artist_id": "0JUEsKG18QuDt6SmyHDrnL",
+    "official_site": null,
+    "description": "かりゆし58の代表曲をまとめた公式のプレイリスト「This Is かりゆし58」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-346",
+    "name": "Girls²",
+    "ruby": "がーるずがーるず",
+    "kana": "ガールズガールズ",
+    "romaji": [
+      "girls2"
+    ],
+    "aliases": [
+      "girls2",
+      "ガールズツー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ruQF2",
+    "spotify_artist_id": "7vilEuvwalwkL7OxM9UuHR",
+    "official_site": null,
+    "description": "Girls²の代表曲をまとめた公式のプレイリスト「This Is Girls²」",
+    "tags": [
+      "女性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-347",
+    "name": "girl next door",
+    "ruby": "がーるねくすとどあ",
+    "kana": "ガールネクストドア",
+    "romaji": [
+      "girlnextdoor"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO26T896",
+    "spotify_artist_id": "3CXJYGGP3L89RccxzdG8yz",
+    "official_site": null,
+    "description": "girl next doorの代表曲をまとめた公式のプレイリスト「This Is girl next door」",
+    "tags": [
+      "男女混成グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-348",
+    "name": "ガロ",
+    "ruby": "がろ",
+    "kana": "ガロ",
+    "romaji": [
+      "garo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO387GSQ",
+    "spotify_artist_id": "5k3gNqmbBTlOhyquDNqB3j",
+    "official_site": null,
+    "description": "ガロの代表曲をまとめた公式のプレイリスト「This Is ガロ」",
+    "tags": [
+      "男性グループ/ユニット",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-349",
+    "name": "河合奈保子",
+    "ruby": "かわいなおこ",
+    "kana": "カワイナオコ",
+    "romaji": [
+      "kawainaoko"
+    ],
+    "aliases": [
+      "かあいなおこ",
+      "かわいなほこ",
+      "かあいなほこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Tz67H",
+    "spotify_artist_id": "1BMCwAT2geYkKBKjRAJ8Qu",
+    "official_site": null,
+    "description": "河合奈保子の代表曲をまとめた公式のプレイリスト「This Is 河合奈保子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-350",
+    "name": "河口恭吾",
+    "ruby": "かわぐちきょうご",
+    "kana": "カワグチキョウゴ",
+    "romaji": [
+      "kawaguchikyougo",
+      "kawagutikyougo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eovYI",
+    "spotify_artist_id": "2aoKOZCueumx57nqqOsjd2",
+    "official_site": null,
+    "description": "河口恭吾の代表曲をまとめた公式のプレイリスト「This Is 河口恭吾」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
     ],
     "status": "published",
     "added_date": "2026-10-31",
