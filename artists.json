@@ -1,85 +1,5 @@
 [
   {
-    "name": "加藤ミリヤ",
-    "ruby": "かとうみりや",
-    "aliases": ["MILIYAH"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dVKpT",
-    "spotify_artist_id": "29D4iRqjepAsZt6o5hccND",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "香取慎吾",
-    "ruby": "かとりしんご",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1a2Rbl",
-    "spotify_artist_id": "23aPUZaR8bESXN4UD3T2Sx",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-  {
-    "name": "KANA-BOON",
-    "ruby": "かなぶーん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2eHcgr",
-    "spotify_artist_id": "3PWp9R5HvbQgxI5KBx5kVd",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "GARNET CROW",
-    "ruby": "がーねっとくろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QscbC",
-    "spotify_artist_id": "6vJEQqtEx2VB8clDzhyhvC",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "華原朋美",
-    "ruby": "かはらともみ",
-    "aliases": ["華原友美", "花原朋美"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nvMcd",
-    "spotify_artist_id": "44ABnS2hBJ3womOeTqx5jp",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "かまやつひろし",
-    "ruby": "かまやつひろし",
-    "aliases": ["ムッシュかまやつ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VavaV",
-    "spotify_artist_id": "6Dzf0hRDXsjgxvmeh0dXO7",
-    "tags": ["男性ボーカル/ソロ", "歌謡曲"]
-  },
-  {
-    "name": "上白石萌音",
-    "ruby": "かみしらいしもね",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CIiFG",
-    "spotify_artist_id": "68TWc4rraWK3C522KFdt0b",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-  {
-    "name": "雅夢",
-    "ruby": "がむ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bCKAM",
-    "spotify_artist_id": "25NyFUUaq7U96lTO2NnTXL",
-    "tags": ["デュオ/ペア", "歌謡曲"]
-  },
-{
-    "name": "亀梨和也",
-    "ruby": "かめなしかずや",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1l7uj1",
-    "spotify_artist_id": "2lA7rBmNU4iplBf2cJHKae",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "加山雄三",
-    "ruby": "かやまゆうぞう",
-    "aliases": ["若大将", "わかだいしょう"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rKxLW",
-    "spotify_artist_id": "5QG2zK8LE5XSQBvEVNz7OV",
-    "tags": ["男性ボーカル/ソロ", "歌謡曲"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -6754,6 +6674,240 @@
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
     "color": "#fe7163"
+  },
+  {
+    "id": "artist-331",
+    "name": "加藤ミリヤ",
+    "ruby": "かとうみりや",
+    "kana": "カトウミリヤ",
+    "romaji": [
+      "katoumiriya"
+    ],
+    "aliases": [
+      "MILIYAH"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dVKpT",
+    "spotify_artist_id": "29D4iRqjepAsZt6o5hccND",
+    "official_site": null,
+    "description": "加藤ミリヤの代表曲をまとめた公式のプレイリスト「This Is 加藤ミリヤ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-332",
+    "name": "香取慎吾",
+    "ruby": "かとりしんご",
+    "kana": "カトリシンゴ",
+    "romaji": [
+      "katorishingo",
+      "katorisingo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1a2Rbl",
+    "spotify_artist_id": "23aPUZaR8bESXN4UD3T2Sx",
+    "official_site": null,
+    "description": "香取慎吾の代表曲をまとめた公式のプレイリスト「This Is 香取慎吾」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-333",
+    "name": "KANA-BOON",
+    "ruby": "かなぶーん",
+    "kana": "カナブーン",
+    "romaji": [
+      "kanaboon"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2eHcgr",
+    "spotify_artist_id": "3PWp9R5HvbQgxI5KBx5kVd",
+    "official_site": null,
+    "description": "KANA-BOONの代表曲をまとめた公式のプレイリスト「This Is KANA-BOON」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-334",
+    "name": "GARNET CROW",
+    "ruby": "がーねっとくろう",
+    "kana": "ガーネットクロウ",
+    "romaji": [
+      "garnetcrow"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QscbC",
+    "spotify_artist_id": "6vJEQqtEx2VB8clDzhyhvC",
+    "official_site": null,
+    "description": "GARNET CROWの代表曲をまとめた公式のプレイリスト「This Is GARNET CROW」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-335",
+    "name": "華原朋美",
+    "ruby": "かはらともみ",
+    "kana": "カハラトモミ",
+    "romaji": [
+      "kaharatomomi"
+    ],
+    "aliases": [
+      "華原友美",
+      "花原朋美"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nvMcd",
+    "spotify_artist_id": "44ABnS2hBJ3womOeTqx5jp",
+    "official_site": null,
+    "description": "華原朋美の代表曲をまとめた公式のプレイリスト「This Is 華原朋美」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-336",
+    "name": "かまやつひろし",
+    "ruby": "かまやつひろし",
+    "kana": "カマヤツヒロシ",
+    "romaji": [
+      "kamayatsuhiroshi",
+      "kamayatuhirosi"
+    ],
+    "aliases": [
+      "ムッシュかまやつ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VavaV",
+    "spotify_artist_id": "6Dzf0hRDXsjgxvmeh0dXO7",
+    "official_site": null,
+    "description": "かまやつひろしの代表曲をまとめた公式のプレイリスト「This Is かまやつひろし」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-337",
+    "name": "上白石萌音",
+    "ruby": "かみしらいしもね",
+    "kana": "カミシライシモネ",
+    "romaji": [
+      "kamishiraishimone",
+      "kamisiraisimone"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CIiFG",
+    "spotify_artist_id": "68TWc4rraWK3C522KFdt0b",
+    "official_site": null,
+    "description": "上白石萌音の代表曲をまとめた公式のプレイリスト「This Is 上白石萌音」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-338",
+    "name": "雅夢",
+    "ruby": "がむ",
+    "kana": "ガム",
+    "romaji": [
+      "gamu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bCKAM",
+    "spotify_artist_id": "25NyFUUaq7U96lTO2NnTXL",
+    "official_site": null,
+    "description": "雅夢の代表曲をまとめた公式のプレイリスト「This Is 雅夢」",
+    "tags": [
+      "デュオ/ペア",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-339",
+    "name": "亀梨和也",
+    "ruby": "かめなしかずや",
+    "kana": "カメナシカズヤ",
+    "romaji": [
+      "kamenashikazuya",
+      "kamenasikazuya"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1l7uj1",
+    "spotify_artist_id": "2lA7rBmNU4iplBf2cJHKae",
+    "official_site": null,
+    "description": "亀梨和也の代表曲をまとめた公式のプレイリスト「This Is 亀梨和也」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-340",
+    "name": "加山雄三",
+    "ruby": "かやまゆうぞう",
+    "kana": "カヤマユウゾウ",
+    "romaji": [
+      "kayamayuuzou"
+    ],
+    "aliases": [
+      "若大将",
+      "わかだいしょう"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rKxLW",
+    "spotify_artist_id": "5QG2zK8LE5XSQBvEVNz7OV",
+    "official_site": null,
+    "description": "加山雄三の代表曲をまとめた公式のプレイリスト「This Is 加山雄三」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
   },
   {
     "id": "artist-184",
