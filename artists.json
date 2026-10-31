@@ -6227,7 +6227,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-312",
@@ -6249,7 +6249,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-313",
@@ -6271,7 +6271,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-314",
@@ -6293,7 +6293,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-315",
@@ -6315,7 +6315,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-316",
@@ -6340,7 +6340,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-317",
@@ -6365,7 +6365,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-318",
@@ -6387,7 +6387,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-319",
@@ -6409,7 +6409,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f79bd2"
   },
   {
     "id": "artist-320",
@@ -6436,7 +6436,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-321",
@@ -6461,7 +6461,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-322",
@@ -6484,7 +6484,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-323",
@@ -6506,7 +6506,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-324",
@@ -6530,7 +6530,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-325",
@@ -6554,7 +6554,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-326",
@@ -6576,7 +6576,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-327",
@@ -6591,6 +6591,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rUIAf"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rUIAf": "#f89bd2"
+    },
     "spotify_artist_id": "033ePowgXf6WaPaBpfFg14",
     "official_site": null,
     "description": "KATSUMIの代表曲をまとめた公式のプレイリスト「This Is KATSUMI」",
@@ -6601,7 +6604,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-328",
@@ -6626,7 +6629,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-329",
@@ -6648,7 +6651,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-330",
@@ -6670,7 +6673,7 @@
     "status": "published",
     "added_date": "2026-10-31",
     "updated_date": "2026-10-31",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-184",
