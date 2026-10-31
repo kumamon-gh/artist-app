@@ -1,85 +1,5 @@
 [
   {
-    "name": "海援隊",
-    "ruby": "かいえんたい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UzLA7",
-    "spotify_artist_id": "1DsKJnZ0VeVD4ZEpDIegQF",
-    "tags": ["バンド", "歌謡曲"]
-  },
-{
-    "name": "海蔵亮太",
-    "ruby": "かいぞうりょうた",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qdFTR",
-    "spotify_artist_id": "5O8nmDU07MLRIQCjBzPCMP",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "甲斐バンド",
-    "ruby": "かいばんど",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ydOKL",
-    "spotify_artist_id": "4monxaihAuYJfK2CxJdtoY",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "KAI FIVE",
-    "ruby": "かいふぁいぶ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Kz2yT",
-    "spotify_artist_id": "4GUq5L0HuuxHIU79vQdOmE",
-    "tags": ["男性グループ/ユニット", "J-POP"]
-  },
-{
-    "name": "GAO",
-    "ruby": "がお",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1A70jV",
-    "spotify_artist_id": "2KuEmm5pswUfpg1BiduKVi",
-    "tags": ["女性ボーカル/ソロ", "J-POP"]
-  },
-  {
-    "name": "ガガガSP",
-    "ruby": "がががえすぴー",
-    "aliases": ["がががえすぴー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HGo6E",
-    "spotify_artist_id": "1i2ol7SBMNLazfzSZKRGwM",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "GACKT",
-    "ruby": "がくと",
-    "aliases": ["神威楽斗", "かむいがくと"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oxP37",
-    "spotify_artist_id": "0MebO9MFNvedjUBsPGo0YN",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "かぐや姫",
-    "ruby": "かぐやひめ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pdyaB",
-    "spotify_artist_id": "47qUQ1YSIuAvBgmBqSX5gR",
-    "tags": ["バンド", "歌謡曲"]
-  },
-{
-    "name": "影山ヒロノブ",
-    "ruby": "かげやまひろのぶ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ny57x",
-    "spotify_artist_id": "6qTKdHuHW9MFnjfV3JYmz8",
-    "tags": ["男性ボーカル/ソロ", "J-POP"]
-  },
-{
-    "name": "笠置シヅ子",
-    "ruby": "かさぎしづこ",
-    "aliases": ["笠置静子", "かさぎしずこ", "笠置シズ子"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YJkLT",
-    "spotify_artist_id": "54rT6KPZ4l6QUCm4p5GipJ",
-    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -6286,6 +6206,237 @@
     "added_date": "2026-10-22",
     "updated_date": "2026-10-22",
     "color": "#f37e00"
+  },
+  {
+    "id": "artist-311",
+    "name": "海援隊",
+    "ruby": "かいえんたい",
+    "kana": "カイエンタイ",
+    "romaji": [
+      "kaientai"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UzLA7",
+    "spotify_artist_id": "1DsKJnZ0VeVD4ZEpDIegQF",
+    "official_site": null,
+    "description": "海援隊の代表曲をまとめた公式のプレイリスト「This Is 海援隊」",
+    "tags": [
+      "バンド",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-312",
+    "name": "海蔵亮太",
+    "ruby": "かいぞうりょうた",
+    "kana": "カイゾウリョウタ",
+    "romaji": [
+      "kaizouryouta"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qdFTR",
+    "spotify_artist_id": "5O8nmDU07MLRIQCjBzPCMP",
+    "official_site": null,
+    "description": "海蔵亮太の代表曲をまとめた公式のプレイリスト「This Is 海蔵亮太」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-313",
+    "name": "甲斐バンド",
+    "ruby": "かいばんど",
+    "kana": "カイバンド",
+    "romaji": [
+      "kaibando"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ydOKL",
+    "spotify_artist_id": "4monxaihAuYJfK2CxJdtoY",
+    "official_site": null,
+    "description": "甲斐バンドの代表曲をまとめた公式のプレイリスト「This Is 甲斐バンド」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-314",
+    "name": "KAI FIVE",
+    "ruby": "かいふぁいぶ",
+    "kana": "カイファイブ",
+    "romaji": [
+      "kaifive"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Kz2yT",
+    "spotify_artist_id": "4GUq5L0HuuxHIU79vQdOmE",
+    "official_site": null,
+    "description": "KAI FIVEの代表曲をまとめた公式のプレイリスト「This Is KAI FIVE」",
+    "tags": [
+      "男性グループ/ユニット",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-315",
+    "name": "GAO",
+    "ruby": "がお",
+    "kana": "ガオ",
+    "romaji": [
+      "gao"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1A70jV",
+    "spotify_artist_id": "2KuEmm5pswUfpg1BiduKVi",
+    "official_site": null,
+    "description": "GAOの代表曲をまとめた公式のプレイリスト「This Is GAO」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-316",
+    "name": "ガガガSP",
+    "ruby": "がががえすぴー",
+    "kana": "ガガガエスピー",
+    "romaji": [
+      "gagagaesupii",
+      "sp"
+    ],
+    "aliases": [
+      "がががえすぴー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HGo6E",
+    "spotify_artist_id": "1i2ol7SBMNLazfzSZKRGwM",
+    "official_site": null,
+    "description": "ガガガSPの代表曲をまとめた公式のプレイリスト「This Is ガガガSP」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-317",
+    "name": "GACKT",
+    "ruby": "がくと",
+    "kana": "ガクト",
+    "romaji": [
+      "gackt"
+    ],
+    "aliases": [
+      "神威楽斗",
+      "かむいがくと"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oxP37",
+    "spotify_artist_id": "0MebO9MFNvedjUBsPGo0YN",
+    "official_site": null,
+    "description": "GACKTの代表曲をまとめた公式のプレイリスト「This Is GACKT」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-318",
+    "name": "かぐや姫",
+    "ruby": "かぐやひめ",
+    "kana": "カグヤヒメ",
+    "romaji": [
+      "kaguyahime"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pdyaB",
+    "spotify_artist_id": "47qUQ1YSIuAvBgmBqSX5gR",
+    "official_site": null,
+    "description": "かぐや姫の代表曲をまとめた公式のプレイリスト「This Is かぐや姫」",
+    "tags": [
+      "バンド",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-319",
+    "name": "影山ヒロノブ",
+    "ruby": "かげやまひろのぶ",
+    "kana": "カゲヤマヒロノブ",
+    "romaji": [
+      "kageyamahironobu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ny57x",
+    "spotify_artist_id": "6qTKdHuHW9MFnjfV3JYmz8",
+    "official_site": null,
+    "description": "影山ヒロノブの代表曲をまとめた公式のプレイリスト「This Is 影山ヒロノブ」",
+    "tags": [
+      "男性ボーカル/ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
+  },
+  {
+    "id": "artist-320",
+    "name": "笠置シヅ子",
+    "ruby": "かさぎしづこ",
+    "kana": "カサギシヅコ",
+    "romaji": [
+      "kasagishizuko",
+      "kasagisizuko"
+    ],
+    "aliases": [
+      "笠置静子",
+      "かさぎしずこ",
+      "笠置シズ子"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YJkLT",
+    "spotify_artist_id": "54rT6KPZ4l6QUCm4p5GipJ",
+    "official_site": null,
+    "description": "笠置シヅ子の代表曲をまとめた公式のプレイリスト「This Is 笠置シヅ子」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-10-31",
+    "updated_date": "2026-10-31",
+    "color": ""
   },
   {
     "id": "artist-199",
