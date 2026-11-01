@@ -4077,7 +4077,6 @@
       "hkt48"
     ],
     "aliases": [
-      "HKT",
       "博多48",
       "はかたふぉーてぃーえいと"
     ],
@@ -4086,7 +4085,7 @@
     "official_site": null,
     "description": "HKT48の代表曲をまとめた公式のプレイリスト「This Is HKT48」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -4103,14 +4102,14 @@
       "h2o"
     ],
     "aliases": [
-      "H2O"
+      "H²O"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YHo6E",
     "spotify_artist_id": "6JqWyoMR9XuS0M0tm1xwX9",
     "official_site": null,
     "description": "H2Oの代表曲をまとめた公式のプレイリスト「This Is H2O」",
     "tags": [
-      "デュオ/ペア",
+      "男性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -4149,15 +4148,16 @@
       "ateez"
     ],
     "aliases": [
-      "エイティーズ"
+      "エイチーズ"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DXdlpBrO6fF3s",
     "spotify_artist_id": "68KmkJeZGfwe1OUaivBa2L",
     "official_site": null,
     "description": "ATEEZの代表曲をまとめた公式のプレイリスト「This Is ATEEZ」",
     "tags": [
-      "男性グループ/ユニット",
-      "K-POP"
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-22",
@@ -4178,7 +4178,7 @@
     "official_site": null,
     "description": "瑛人の代表曲をまとめた公式のプレイリスト「This Is 瑛人」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -4202,7 +4202,7 @@
     "official_site": null,
     "description": "eillの代表曲をまとめた公式のプレイリスト「This Is eill」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -4220,8 +4220,6 @@
     ],
     "aliases": [
       "ELT",
-      "エブリリトルシング",
-      "エブリ",
       "エブリシング"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4h5tHv",
@@ -4229,7 +4227,7 @@
     "official_site": null,
     "description": "Every Little Thingの代表曲をまとめた公式のプレイリスト「This Is Every Little Thing」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -4246,15 +4244,13 @@
       "eeoupii",
       "ap"
     ],
-    "aliases": [
-      "エーオーピー"
-    ],
+    "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1llqOq",
     "spotify_artist_id": "2lX4klkpALsA3vts9032jP",
     "official_site": null,
     "description": "A応Pの代表曲をまとめた公式のプレイリスト「This Is A応P」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
