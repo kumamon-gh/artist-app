@@ -4077,6 +4077,7 @@
       "hkt48"
     ],
     "aliases": [
+      "エイチケーティーよんじゅうはち",
       "博多48",
       "はかたふぉーてぃーえいと"
     ],
@@ -4369,7 +4370,7 @@
     "official_site": null,
     "description": "江口洋介の代表曲をまとめた公式のプレイリスト「This Is 江口洋介」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -4386,15 +4387,15 @@
       "ak69"
     ],
     "aliases": [
-      "エーケー",
-      "エーケー69"
+      "エーケーろくじゅうきゅう",
+      "エイケーろくじゅうきゅう"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TMKgg",
     "spotify_artist_id": "4Wet9Sqa5LrEjBeV4k6edh",
     "official_site": null,
     "description": "AK-69の代表曲をまとめた公式のプレイリスト「This Is AK-69」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -4411,16 +4412,17 @@
       "akb48"
     ],
     "aliases": [
-      "AKB",
-      "エーケービー",
-      "秋葉原48"
+      "エーケービーよんじゅうはち",
+      "エイケービーよんじゅうはち",
+      "秋葉原48",
+      "あきば48"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWreOe",
     "spotify_artist_id": "01wau5CL3Z1vfJJWkzBkqg",
     "official_site": null,
     "description": "AKB48の代表曲をまとめた公式のプレイリスト「This Is AKB48」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -4459,15 +4461,17 @@
       "snh48"
     ],
     "aliases": [
-      "上海48"
+      "エスエヌエイチよんじゅうはち",
+      "上海48",
+      "しゃんはい48"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SAJLb",
     "spotify_artist_id": "6zhHLETk07jF7nAGIPWE6E",
     "official_site": null,
     "description": "SNH48の代表曲をまとめた公式のプレイリスト「This Is SNH48」",
     "tags": [
-      "女性グループ/ユニット",
-      "C-POP"
+      "女性グループ",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-22",
@@ -4483,15 +4487,16 @@
       "ske48"
     ],
     "aliases": [
-      "SKE",
-      "栄48"
+      "エスケーイーよんじゅうはち",
+      "栄48",
+      "さかえ48"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lpJTE",
     "spotify_artist_id": "5G8OLQcvoCxiMQzwEcuWeN",
     "official_site": null,
     "description": "SKE48の代表曲をまとめた公式のプレイリスト「This Is SKE48」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -4508,15 +4513,16 @@
       "stu48"
     ],
     "aliases": [
-      "STU",
-      "瀬戸内48"
+      "エスティーユーよんじゅうはち",
+      "瀬戸内48",
+      "せとないかい48"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wgxx1",
     "spotify_artist_id": "0Z45lR91V2XYj0YxdiFxnF",
     "official_site": null,
     "description": "STU48の代表曲をまとめた公式のプレイリスト「This Is STU48」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -4538,8 +4544,9 @@
     "official_site": null,
     "description": "aespaの代表曲をまとめた公式のプレイリスト「This Is aespa」",
     "tags": [
-      "女性グループ/ユニット",
-      "K-POP"
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-22",
@@ -4560,8 +4567,9 @@
     "official_site": null,
     "description": "XGの代表曲をまとめた公式のプレイリスト「This Is XG」",
     "tags": [
-      "女性グループ/ユニット",
-      "K-POP"
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-22",
@@ -4576,9 +4584,7 @@
     "romaji": [
       "xjapan"
     ],
-    "aliases": [
-      "X"
-    ],
+    "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TjjHl",
     "spotify_artist_id": "4VrqQQy6X0hlMtqY5gp6Wx",
     "official_site": null,
