@@ -4272,8 +4272,9 @@
     "official_site": null,
     "description": "AOAの代表曲をまとめた公式のプレイリスト「This Is AOA」",
     "tags": [
-      "女性グループ/ユニット",
-      "K-POP"
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-22",
@@ -4289,15 +4290,15 @@
       "exile"
     ],
     "aliases": [
-      "エクザイル",
-      "エグサイル"
+      "イグザイル",
+      "エグザエル"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SPAU9",
     "spotify_artist_id": "6zGmypGQUBXD4ZC9EbfMme",
     "official_site": null,
     "description": "EXILEの代表曲をまとめた公式のプレイリスト「This Is EXILE」",
     "tags": [
-      "男性グループ/ユニット",
+      "男性グループ",
       "J-POP"
     ],
     "status": "published",
