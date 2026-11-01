@@ -4607,15 +4607,16 @@
       "nmb48"
     ],
     "aliases": [
-      "NMB",
-      "難波48"
+      "エヌエムビーよんじゅうはち",
+      "難波48",
+      "なんば48"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UqMIm",
     "spotify_artist_id": "1DdzMfvcBzMgdX5iPu69wk",
     "official_site": null,
     "description": "NMB48の代表曲をまとめた公式のプレイリスト「This Is NMB48」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -4640,8 +4641,9 @@
     "official_site": null,
     "description": "NCT 127の代表曲をまとめた公式のプレイリスト「This Is NCT 127」",
     "tags": [
-      "男性グループ/ユニット",
-      "K-POP"
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-22",
@@ -4656,9 +4658,7 @@
     "romaji": [
       "nctwish"
     ],
-    "aliases": [
-      "NCTウィッシュ"
-    ],
+    "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JFLJr",
     "spotify_artist_id": "4FqmqIspLaUGtxAFFLsZxc",
     "official_site": null,
