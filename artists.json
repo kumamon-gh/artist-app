@@ -4667,8 +4667,9 @@
     "official_site": null,
     "description": "NCT WISHの代表曲をまとめた公式のプレイリスト「This Is NCT WISH」",
     "tags": [
-      "男性グループ/ユニット",
-      "K-POP"
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-23",
@@ -4692,8 +4693,9 @@
     "official_site": null,
     "description": "NCT DREAMの代表曲をまとめた公式のプレイリスト「This Is NCT DREAM」",
     "tags": [
-      "男性グループ/ユニット",
-      "K-POP"
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-23",
@@ -4709,15 +4711,16 @@
       "ngt48"
     ],
     "aliases": [
-      "NGT",
-      "新潟48"
+      "エヌジーティーよんじゅうはち",
+      "新潟48",
+      "にいがた48"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EAUJr",
     "spotify_artist_id": "4wZjP2p0Sm5EHM32uuAgGf",
     "official_site": null,
     "description": "NGT48の代表曲をまとめた公式のプレイリスト「This Is NGT48」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -4733,14 +4736,15 @@
     "romaji": [
       "nctu"
     ],
-    "aliases": [],
+    "aliases": ["NCTユー"],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YAyJN",
     "spotify_artist_id": "3paGCCtX1Xr4Gx53mSeZuQ",
     "official_site": null,
     "description": "NCT Uの代表曲をまとめた公式のプレイリスト「This Is NCT U」",
     "tags": [
-      "男性グループ/ユニット",
-      "K-POP"
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-23",
