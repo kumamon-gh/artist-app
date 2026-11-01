@@ -3873,7 +3873,7 @@
     "official_site": null,
     "description": "内山田洋とクール・ファイブの代表曲をまとめた公式のプレイリスト「This Is 内山田洋とクール・ファイブ」",
     "tags": [
-      "男性グループ/ユニット",
+      "男性グループ",
       "歌謡曲"
     ],
     "status": "published",
@@ -3897,7 +3897,7 @@
     "official_site": null,
     "description": "宇野実彩子の代表曲をまとめた公式のプレイリスト「This Is 宇野実彩子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -3913,10 +3913,7 @@
     "romaji": [
       "uverworld"
     ],
-    "aliases": [
-      "ウーバー",
-      "UVER"
-    ],
+    "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KBMI1",
     "spotify_artist_id": "6m14xgA0m3w92UM7ujJgky",
     "official_site": null,
@@ -3938,15 +3935,13 @@
     "romaji": [
       "umamusumepuritiidaabii"
     ],
-    "aliases": [
-      "ウマ娘"
-    ],
+    "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bDx5R",
     "spotify_artist_id": "5pTLke5Yq8nN4yaPxLPzGd",
     "official_site": null,
     "description": "ウマ娘 プリティーダービーの代表曲をまとめた公式のプレイリスト「This Is ウマ娘 プリティーダービー」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -3968,7 +3963,8 @@
     "official_site": null,
     "description": "梅沢富美男の代表曲をまとめた公式のプレイリスト「This Is 梅沢富美男」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
+      "演歌",
       "歌謡曲"
     ],
     "status": "published",
@@ -3993,7 +3989,7 @@
     "official_site": null,
     "description": "梅田サイファーの代表曲をまとめた公式のプレイリスト「This Is 梅田サイファー」",
     "tags": [
-      "男性グループ/ユニット",
+      "男性グループ",
       "邦楽"
     ],
     "status": "published",
@@ -4015,7 +4011,7 @@
     "official_site": null,
     "description": "Uruの代表曲をまとめた公式のプレイリスト「This Is Uru」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -4057,15 +4053,14 @@
       "awich"
     ],
     "aliases": [
-      "アウィッチ",
-      "エーウィッチ"
+      "アウィッチ"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kqkWQ",
     "spotify_artist_id": "0FnDCrmcQT8qz5TEsZIYw5",
     "official_site": null,
     "description": "Awichの代表曲をまとめた公式のプレイリスト「This Is Awich」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
