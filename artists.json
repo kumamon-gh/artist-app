@@ -4314,7 +4314,10 @@
     "romaji": [
       "exiletakahiro"
     ],
-    "aliases": [],
+    "aliases": [
+"イグザイルタカヒロ",
+      "エグザエルタカヒロ"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2swXHH",
     "spotify_artist_id": "4cW96mgPlmNlWAQyHJNzS4",
     "official_site": null,
@@ -4336,17 +4339,15 @@
     "romaji": [
       "exo"
     ],
-    "aliases": [
-      "エクソ",
-      "エグゾ"
-    ],
+    "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DX5JcPJgYjGcf",
     "spotify_artist_id": "3cjEqqelV9zb4BYE3qDQ4O",
     "official_site": null,
     "description": "EXOの代表曲をまとめた公式のプレイリスト「This Is EXO」",
     "tags": [
-      "男性グループ/ユニット",
-      "K-POP"
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-22",
