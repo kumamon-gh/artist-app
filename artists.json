@@ -3665,7 +3665,7 @@
     "official_site": null,
     "description": "WEST.の代表曲をまとめた公式のプレイリスト「This Is WEST.」",
     "tags": [
-      "男性グループ/ユニット",
+      "男性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -3687,7 +3687,7 @@
     "official_site": null,
     "description": "上田正樹の代表曲をまとめた公式のプレイリスト「This Is 上田正樹」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -3709,7 +3709,7 @@
     "official_site": null,
     "description": "上戸彩の代表曲をまとめた公式のプレイリスト「This Is 上戸彩」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -3733,7 +3733,7 @@
     "official_site": null,
     "description": "上原多香子の代表曲をまとめた公式のプレイリスト「This Is 上原多香子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -3755,7 +3755,7 @@
     "official_site": null,
     "description": "植村花菜の代表曲をまとめた公式のプレイリスト「This Is 植村花菜」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -3778,7 +3778,7 @@
     "official_site": null,
     "description": "汐れいらの代表曲をまとめた公式のプレイリスト「This Is 汐れいら」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -3795,15 +3795,13 @@
       "ushiroyubisasaregumi",
       "usiroyubisasaregumi"
     ],
-    "aliases": [
-      "うしろゆび"
-    ],
+    "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lSulo",
     "spotify_artist_id": "41Sy2SaLzGisGM4k2SOH1l",
     "official_site": null,
     "description": "うしろゆびさされ組の代表曲をまとめた公式のプレイリスト「This Is うしろゆびさされ組」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "歌謡曲"
     ],
     "status": "published",
@@ -3820,16 +3818,14 @@
       "utadahikaru"
     ],
     "aliases": [
-      "ヒッキー",
-      "宇多田",
-      "Utada"
+      "ヒッキー"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DX6CW8azhr2xT",
     "spotify_artist_id": "7lbSsjYACZHn1MSDXPxNF2",
     "official_site": null,
     "description": "宇多田ヒカルの代表曲をまとめた公式のプレイリスト「This Is 宇多田ヒカル」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -3847,7 +3843,6 @@
       "utikubigokumondoukoukai"
     ],
     "aliases": [
-      "打首",
       "獄門"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO27X2M0",
@@ -3873,8 +3868,6 @@
       "utiyamadahirositokuuruhaibu"
     ],
     "aliases": [
-      "クールファイブ",
-      "内山田洋",
       "クールファイヴ"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XhWyl",
