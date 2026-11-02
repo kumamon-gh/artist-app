@@ -8048,6 +8048,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qniBZ"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qniBZ": "#f036a5"
+    },
     "spotify_artist_id": "14T8NkbwXVZgbOvwnuGV89",
     "official_site": null,
     "description": "GReeeeNの代表曲をまとめた公式のプレイリスト「This Is GReeeeN」",
@@ -8058,7 +8061,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#f47e01"
   },
   {
     "id": "artist-389",
