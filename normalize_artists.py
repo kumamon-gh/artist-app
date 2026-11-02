@@ -22,6 +22,11 @@ SPOTIFY_RE = re.compile(r"^[A-Za-z0-9]{22}$")
 RUBY_RE = re.compile(r"^[ぁ-ゖー]+$")
 COLOR_RE = re.compile(r"^#[0-9a-fA-F]{6}$")
 
+# ★追加：tags の許可リスト。1つ目＝区分、2つ目以降＝ジャンル（韓国は K-POP に加えて 海外アーティスト も付ける）
+TAGS_PRIMARY = {"男性ソロ", "女性ソロ", "男性グループ", "女性グループ",
+                "男女混成グループ", "バンド", "ボカロP", "その他"}
+TAGS_GENRE = {"J-POP", "K-POP", "演歌", "歌謡曲", "邦楽", "海外アーティスト"}
+
 JP_RE = re.compile(r"[ぁ-ゖァ-ヺー々〆一-龠]")
 # 記号 → (英単語, rubyにこの読みがある時だけ採用)
 SYMBOL_WORDS = {
@@ -354,6 +359,23 @@ def normalize(data):
                 a.pop(fld, None)
         if a.get("color") and not COLOR_RE.match(str(a["color"])):
             warnings.append(f"{label}: color は #RRGGBB 形式にしてください: {a['color']!r}")
+        # ★追加ここから：tags の許可リスト検証（警告のみ。保存は止めない）
+        tags = a.get("tags")
+        if not isinstance(tags, list) or not all(isinstance(t, str) for t in tags):
+            warnings.append(f"{label}: tags は文字列の配列にしてください: {tags!r}")
+        elif not tags:
+            warnings.append(f"{label}: tags が空です（1つ目に区分、2つ目にジャンルを入れてください）")
+        else:
+            unknown = [t for t in tags if t not in TAGS_PRIMARY and t not in TAGS_GENRE]
+            if unknown:
+                warnings.append(f"{label}: tags に許可リスト外の値があります: {unknown!r}")
+            if tags[0] not in TAGS_PRIMARY:
+                warnings.append(f"{label}: tags の1つ目は区分({'/'.join(sorted(TAGS_PRIMARY))})にしてください: {tags[0]!r}")
+            if not any(t in TAGS_GENRE for t in tags[1:]):
+                warnings.append(f"{label}: tags の2つ目以降にジャンルが必要です: {tags!r}")
+            if "K-POP" in tags and "海外アーティスト" not in tags:
+                warnings.append(f"{label}: K-POP には 海外アーティスト も付けてください")
+        # ★追加ここまで
     if errors:
         return data, errors, warnings, infos
 
