@@ -2,20 +2,11 @@
   {
     "name": "GReeeeN",
     "ruby": "ぐりーん",
-    "aliases": [
-      "GRe4N BOYZ",
-      "ぐりーんぼーいず",
-    ],
+    "aliases": ["GRe4N BOYZ", "ぐりーんぼーいず"],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zLRq1",
-    "extra_urls": [
-      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qniBZ"
-    ],
     "spotify_artist_id": "14T8NkbwXVZgbOvwnuGV89",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ],
-},
+    "tags": ["男性グループ", "J-POP"]
+  },
   {
     "id": "artist-1",
     "name": "AI",
