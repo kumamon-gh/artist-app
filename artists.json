@@ -1,13 +1,5 @@
 [
   {
-    "name": "GReeeeN",
-    "ruby": "ぐりーん",
-    "aliases": ["GRe4N BOYZ", "ぐりーんぼーいず"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zLRq1",
-    "spotify_artist_id": "14T8NkbwXVZgbOvwnuGV89",
-    "tags": ["男性グループ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -8039,6 +8031,31 @@
     "added_date": "2026-11-01",
     "updated_date": "2026-11-01",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-390",
+    "name": "GReeeeN",
+    "ruby": "ぐりーん",
+    "kana": "グリーン",
+    "romaji": [
+      "greeeen"
+    ],
+    "aliases": [
+      "GRe4N BOYZ",
+      "ぐりーんぼーいず"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zLRq1",
+    "spotify_artist_id": "14T8NkbwXVZgbOvwnuGV89",
+    "official_site": null,
+    "description": "GReeeeNの代表曲をまとめた公式のプレイリスト「This Is GReeeeN」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
   },
   {
     "id": "artist-389",
