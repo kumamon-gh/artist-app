@@ -8047,6 +8047,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zLRq1"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zLRq1": "#f47e01"
+    },
     "spotify_artist_id": "5OodWcD7f7OOXvNUG2HqbC",
     "official_site": null,
     "description": "GRe4N BOYZの代表曲をまとめた公式のプレイリスト「This Is GRe4N BOYZ」",
@@ -8057,7 +8060,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-184",
