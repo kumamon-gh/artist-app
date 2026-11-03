@@ -4079,7 +4079,7 @@
     "aliases": [
       "エイチケーティーよんじゅうはち",
       "博多48",
-      "はかたふぉーてぃーえいと"
+      "はかたフォーティーエイト"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uM50q",
     "spotify_artist_id": "4gEIINdqeWnlTnmdsCUVBf",
@@ -4415,7 +4415,7 @@
       "エーケービーよんじゅうはち",
       "エイケービーよんじゅうはち",
       "秋葉原48",
-      "あきば48"
+      "あきばフォーティーエイト"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWreOe",
     "spotify_artist_id": "01wau5CL3Z1vfJJWkzBkqg",
@@ -4463,7 +4463,7 @@
     "aliases": [
       "エスエヌエイチよんじゅうはち",
       "上海48",
-      "しゃんはい48"
+      "しゃんはいフォーティーエイト"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SAJLb",
     "spotify_artist_id": "6zhHLETk07jF7nAGIPWE6E",
@@ -4489,7 +4489,7 @@
     "aliases": [
       "エスケーイーよんじゅうはち",
       "栄48",
-      "さかえ48"
+      "さかえフォーティーエイト"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lpJTE",
     "spotify_artist_id": "5G8OLQcvoCxiMQzwEcuWeN",
@@ -4515,7 +4515,7 @@
     "aliases": [
       "エスティーユーよんじゅうはち",
       "瀬戸内48",
-      "せとないかい48"
+      "せとないかいフォーティーエイト"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wgxx1",
     "spotify_artist_id": "0Z45lR91V2XYj0YxdiFxnF",
@@ -4609,7 +4609,7 @@
     "aliases": [
       "エヌエムビーよんじゅうはち",
       "難波48",
-      "なんば48"
+      "なんばフォーティーエイト"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UqMIm",
     "spotify_artist_id": "1DdzMfvcBzMgdX5iPu69wk",
@@ -4713,7 +4713,7 @@
     "aliases": [
       "エヌジーティーよんじゅうはち",
       "新潟48",
-      "にいがた48"
+      "にいがたフォーティーエイト"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EAUJr",
     "spotify_artist_id": "4wZjP2p0Sm5EHM32uuAgGf",
@@ -4794,7 +4794,7 @@
     "official_site": null,
     "description": "EBiDANの代表曲をまとめた公式のプレイリスト「This Is EBiDAN」",
     "tags": [
-      "男性グループ/ユニット",
+      "男性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -4816,7 +4816,7 @@
     "official_site": null,
     "description": "EPOの代表曲をまとめた公式のプレイリスト「This Is EPO」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -4838,7 +4838,7 @@
     "official_site": null,
     "description": "m.c.A・Tの代表曲をまとめた公式のプレイリスト「This Is m.c.A・T」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -4862,7 +4862,7 @@
     "official_site": null,
     "description": "m-floの代表曲をまとめた公式のプレイリスト「This Is m-flo」",
     "tags": [
-      "男女混成グループ/ユニット",
+      "男女混成グループ",
       "J-POP"
     ],
     "status": "published",
@@ -4887,7 +4887,7 @@
     "official_site": null,
     "description": "Aimerの代表曲をまとめた公式のプレイリスト「This Is Aimer」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -4912,7 +4912,7 @@
     "official_site": null,
     "description": "ELAIZAの代表曲をまとめた公式のプレイリスト「This Is ELAIZA」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -4935,7 +4935,7 @@
     "official_site": null,
     "description": "江利チエミの代表曲をまとめた公式のプレイリスト「This Is 江利チエミ」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -4977,8 +4977,7 @@
       "ellegarden"
     ],
     "aliases": [
-      "エルレ",
-      "エルレガ",
+      "エレルガーデン",
       "エルレガーテン"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QM05u",
@@ -5004,8 +5003,7 @@
       "erehantokasimasi"
     ],
     "aliases": [
-      "エレカシ",
-      "エレファント"
+      "エレカシ"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aKAlr",
     "spotify_artist_id": "24ljrnVUlUZ2apxF6GZsrm",
@@ -5029,7 +5027,7 @@
       "team"
     ],
     "aliases": [
-      "あんどちーむ",
+      "アンドチーム",
       "andteam",
       "エンドチーム"
     ],
@@ -5038,8 +5036,9 @@
     "official_site": null,
     "description": "&TEAMの代表曲をまとめた公式のプレイリスト「This Is &TEAM」",
     "tags": [
-      "男性グループ/ユニット",
-      "K-POP"
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-23",
@@ -5055,16 +5054,16 @@
       "enhypen"
     ],
     "aliases": [
-      "エンハイフン",
-      "エンハ"
+      "エンハイフン"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DX0q3zClOVaZA",
     "spotify_artist_id": "5t5FqBwTcgKTaWmfEbwQY9",
     "official_site": null,
     "description": "ENHYPENの代表曲をまとめた公式のプレイリスト「This Is ENHYPEN」",
     "tags": [
-      "男性グループ/ユニット",
-      "K-POP"
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-23",
