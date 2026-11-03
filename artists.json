@@ -6612,7 +6612,9 @@
       "katsuragiyuki",
       "katuragiyuki"
     ],
-    "aliases": [],
+    "aliases": [
+      "葛城ゆき"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1x1xzt",
     "spotify_artist_id": "2Fmowii6RqsTdVEvvF3EBh",
     "official_site": null,
@@ -6640,7 +6642,7 @@
     "official_site": null,
     "description": "加藤和彦の代表曲をまとめた公式のプレイリスト「This Is 加藤和彦」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -6662,7 +6664,7 @@
     "official_site": null,
     "description": "加藤登紀子の代表曲をまとめた公式のプレイリスト「This Is 加藤登紀子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -6686,7 +6688,7 @@
     "official_site": null,
     "description": "加藤ミリヤの代表曲をまとめた公式のプレイリスト「This Is 加藤ミリヤ」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6709,7 +6711,7 @@
     "official_site": null,
     "description": "香取慎吾の代表曲をまとめた公式のプレイリスト「This Is 香取慎吾」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6778,7 +6780,7 @@
     "official_site": null,
     "description": "華原朋美の代表曲をまとめた公式のプレイリスト「This Is 華原朋美」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6809,7 +6811,7 @@
     "official_site": null,
     "description": "かまやつひろしの代表曲をまとめた公式のプレイリスト「This Is かまやつひろし」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -6832,7 +6834,7 @@
     "official_site": null,
     "description": "上白石萌音の代表曲をまとめた公式のプレイリスト「This Is 上白石萌音」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6854,7 +6856,7 @@
     "official_site": null,
     "description": "雅夢の代表曲をまとめた公式のプレイリスト「This Is 雅夢」",
     "tags": [
-      "デュオ/ペア",
+      "男性グループ",
       "歌謡曲"
     ],
     "status": "published",
@@ -6877,7 +6879,7 @@
     "official_site": null,
     "description": "亀梨和也の代表曲をまとめた公式のプレイリスト「This Is 亀梨和也」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6902,7 +6904,7 @@
     "official_site": null,
     "description": "加山雄三の代表曲をまとめた公式のプレイリスト「This Is 加山雄三」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -6924,8 +6926,9 @@
     "official_site": null,
     "description": "KARAの代表曲をまとめた公式のプレイリスト「This Is KARA」",
     "tags": [
-      "女性グループ/ユニット",
-      "K-POP"
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-31",
@@ -6946,7 +6949,7 @@
     "official_site": null,
     "description": "唐沢美帆の代表曲をまとめた公式のプレイリスト「This Is 唐沢美帆」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6963,13 +6966,15 @@
       "karashimamidori",
       "karasimamidori"
     ],
-    "aliases": [],
+    "aliases": [
+      "からしまみのり"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g7pWH",
     "spotify_artist_id": "2dgx69T4LT2D3PAC5ejgbe",
     "official_site": null,
     "description": "辛島美登里の代表曲をまとめた公式のプレイリスト「This Is 辛島美登里」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6993,7 +6998,7 @@
     "official_site": null,
     "description": "狩人の代表曲をまとめた公式のプレイリスト「This Is 狩人」",
     "tags": [
-      "デュオ/ペア",
+      "男性グループ",
       "歌謡曲"
     ],
     "status": "published",
@@ -7027,14 +7032,14 @@
   },
   {
     "id": "artist-346",
-    "name": "Girls²",
+    "name": "Girls2",
     "ruby": "がーるずがーるず",
     "kana": "ガールズガールズ",
     "romaji": [
       "girls2"
     ],
     "aliases": [
-      "girls2",
+      "girls²",
       "ガールズツー"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ruQF2",
@@ -7042,7 +7047,7 @@
     "official_site": null,
     "description": "Girls²の代表曲をまとめた公式のプレイリスト「This Is Girls²」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -7064,7 +7069,7 @@
     "official_site": null,
     "description": "girl next doorの代表曲をまとめた公式のプレイリスト「This Is girl next door」",
     "tags": [
-      "男女混成グループ/ユニット",
+      "男女混成グループ",
       "J-POP"
     ],
     "status": "published",
@@ -7086,7 +7091,7 @@
     "official_site": null,
     "description": "ガロの代表曲をまとめた公式のプレイリスト「This Is ガロ」",
     "tags": [
-      "男性グループ/ユニット",
+      "男性グループ",
       "歌謡曲"
     ],
     "status": "published",
@@ -7112,7 +7117,7 @@
     "official_site": null,
     "description": "河合奈保子の代表曲をまとめた公式のプレイリスト「This Is 河合奈保子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -7135,7 +7140,7 @@
     "official_site": null,
     "description": "河口恭吾の代表曲をまとめた公式のプレイリスト「This Is 河口恭吾」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -7157,7 +7162,7 @@
     "official_site": null,
     "description": "川崎鷹也の代表曲をまとめた公式のプレイリスト「This Is 川崎鷹也」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -7182,7 +7187,7 @@
     "official_site": null,
     "description": "川嶋あいの代表曲をまとめた公式のプレイリスト「This Is 川嶋あい」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -7207,7 +7212,7 @@
     "official_site": null,
     "description": "河島英五の代表曲をまとめた公式のプレイリスト「This Is 河島英五」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -7229,7 +7234,7 @@
     "official_site": null,
     "description": "川田正子の代表曲をまとめた公式のプレイリスト「This Is 川田正子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -7251,7 +7256,7 @@
     "official_site": null,
     "description": "川中美幸の代表曲をまとめた公式のプレイリスト「This Is 川中美幸」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "演歌"
     ],
     "status": "published",
