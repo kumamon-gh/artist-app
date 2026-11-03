@@ -1,5 +1,85 @@
 [
   {
+    "name": "Creepy Nuts",
+    "ruby": "くりーぴーなっつ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0b8wxi",
+    "spotify_artist_id": "0pWR7TsFhvSCnbmHDjWgrE",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "クリープハイプ",
+    "ruby": "くりーぷはいぷ",
+    "aliases": ["Creep Hype"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42xr02",
+    "spotify_artist_id": "6POfB0fHdzXFLWL3RHxLv8",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
+    "name": "グループ魂",
+    "ruby": "ぐるーぷたましい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbC1O",
+    "spotify_artist_id": "6wXb4P6aFkIAwVdQtfojUl",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "くるり",
+    "ruby": "くるり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cjo9w",
+    "spotify_artist_id": "26WuprsX7JRG69T0PXkze4",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "GLAY",
+    "ruby": "ぐれい",
+    "aliases": ["ぐれー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZVSJdu",
+    "spotify_artist_id": "00AFbqxvdDK6T1D6MQZ9c1",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "クレイジーケンバンド",
+    "ruby": "くれいじーけんばんど",
+    "aliases": ["CKB"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38wx39",
+    "spotify_artist_id": "5kIOu0jisbh3SI7gT6rgq2",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "KREVA",
+    "ruby": "くれば",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KlA76",
+    "spotify_artist_id": "6lAinPkC2U1Huibu6Vfr9R",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "グレープ",
+    "ruby": "ぐれーぷ",
+    "aliases": ["Grape"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1fSsuK",
+    "spotify_artist_id": "2cRHim5No0OPKOG528NfWB",
+    "tags": ["男性グループ", "歌謡曲"]
+  },
+{
+    "name": "globe",
+    "ruby": "ぐろーぶ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qcAqx",
+    "spotify_artist_id": "5O6t6gb6MeNqzOBAq1oLad",
+    "tags": ["男女混成グループ", "J-POP"]
+  },
+{
+    "name": "黒夢",
+    "ruby": "くろゆめ",
+    "aliases": ["こくむ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19pWTa",
+    "spotify_artist_id": "2286E4ur6XjwJuWjaHMJkz",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
