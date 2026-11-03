@@ -1,5 +1,85 @@
 [
   {
+    "name": "桑田佳祐",
+    "ruby": "くわたけいすけ",
+    "aliases": ["桑田圭祐"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO47THqr",
+    "spotify_artist_id": "6YIqgghQqnkNne8BKQpW6v",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "桑名正博",
+    "ruby": "くわなまさひろ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2j9Vmx",
+    "spotify_artist_id": "3XmsESMVqSekUJaxmXWwxV",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+  {
+    "name": "ゲスの極み乙女。",
+    "ruby": "げすのきわみおとめ",
+    "aliases": ["ゲス乙女", "ゲス乙"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HNFTR",
+    "spotify_artist_id": "1ieluXFoq2RRxMXZIQksTz",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "ケツメイシ",
+    "ruby": "けつめいし",
+    "aliases": ["決明子"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JKJhL",
+    "spotify_artist_id": "4FyAgiZa3q0eeljDvcOXFh",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "Kep1er",
+    "ruby": "けぷらー",
+    "aliases": ["Kepler"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s12HS",
+    "spotify_artist_id": "5R7AMwDeroq6Ls0COQYpS4",
+    "tags": ["女性グループ", "K-POP", "海外アーティスト"]
+  },
+{
+    "name": "CHEMISTRY",
+    "ruby": "けみすとりー",
+    "aliases": ["けみすとーりー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bdsuE",
+    "spotify_artist_id": "257kEbQnBziYfmtmqiNuNE",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "欅坂46",
+    "ruby": "けやきざかふぉーてぃーしっくす",
+    "aliases": ["櫻坂46", "けやきざかよんじゅーろく"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXIDEU",
+    "spotify_artist_id": "03E7w8NrBr4lNCK33TQyil",
+    "tags": ["女性グループ", "J-POP"]
+  },
+{
+    "name": "ケラケラ",
+    "ruby": "けらけら",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3riuME",
+    "spotify_artist_id": "5PVENmQjFWIJJO1dZD5tLZ",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "研ナオコ",
+    "ruby": "けんなおこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO45kdaM",
+    "spotify_artist_id": "6Us5oetTjJhA4DJUWgCRp8",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+  {
+    "name": "小泉今日子",
+    "ruby": "こいずみきょうこ",
+    "aliases": ["キョンキョン"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pkHrq",
+    "spotify_artist_id": "47CIQFAst7iOrRZ16XOfP8",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
