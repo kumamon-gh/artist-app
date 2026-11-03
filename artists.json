@@ -1,85 +1,5 @@
 [
   {
-    "name": "香西かおり",
-    "ruby": "こうざいかおり",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3u810V",
-    "spotify_artist_id": "5UCZWyCya7PK6YkqHqxL2k",
-    "tags": ["女性ソロ", "演歌"]
-  },
-{
-    "name": "倖田來未",
-    "ruby": "こうだくみ",
-    "aliases": ["倖田来未", "幸田來未", "幸田来未"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lN1pB",
-    "spotify_artist_id": "2mGYHril2LuZodRtTX06BC",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-  {
-    "name": "郷ひろみ",
-    "ruby": "ごうひろみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oZzk4",
-    "spotify_artist_id": "0MYnDCY3ae0nSzoCmQiKzh",
-    "tags": ["男性ソロ", "歌謡曲"]
-  },
-  {
-    "name": "小金沢昇司",
-    "ruby": "こがねざわしょうじ",
-    "aliases": ["小金澤昇司"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1t0pgg",
-    "spotify_artist_id": "2yGAjlv1ruxihI9MlK1cF2",
-    "tags": ["男性ソロ", "演歌"]
-  },
-{
-    "name": "KOKIA",
-    "ruby": "こきあ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05Htdl",
-    "spotify_artist_id": "0gUsuVOGa73jzUAJ0WEJgo",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-  {
-    "name": "国生さゆり",
-    "ruby": "こくしょうさゆり",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2gObru",
-    "spotify_artist_id": "3Ts5ELxUNyqlHKYJX8uq5t",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-{
-    "name": "国分友里恵",
-    "ruby": "こくぶんゆりえ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO149Get",
-    "spotify_artist_id": "1TnNKsMdzxwBiHkde10tPX",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "CoCo",
-    "ruby": "ここ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZVzQLc",
-    "spotify_artist_id": "0053IOogvINAp4SBeFSz82",
-    "tags": ["女性グループ", "J-POP"]
-  },
-  {
-    "name": "GO!GO!7188",
-    "ruby": "ごーごーなないちはちはち",
-    "aliases": ["ゴーゴーナナセンヒャクハチジュウハチ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bcmd9",
-    "spotify_artist_id": "66ngkg99OYT8xfzYy660Wu",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "小坂明子",
-    "ruby": "こさかあきこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3h6jlv",
-    "spotify_artist_id": "5yYT4nuXXDdy1tJdyK3f9K",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -9167,6 +9087,236 @@
     "spotify_artist_id": "47CIQFAst7iOrRZ16XOfP8",
     "official_site": null,
     "description": "小泉今日子の代表曲をまとめた公式のプレイリスト「This Is 小泉今日子」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-433",
+    "name": "香西かおり",
+    "ruby": "こうざいかおり",
+    "kana": "コウザイカオリ",
+    "romaji": [
+      "kouzaikaori"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3u810V",
+    "spotify_artist_id": "5UCZWyCya7PK6YkqHqxL2k",
+    "official_site": null,
+    "description": "香西かおりの代表曲をまとめた公式のプレイリスト「This Is 香西かおり」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-434",
+    "name": "倖田來未",
+    "ruby": "こうだくみ",
+    "kana": "コウダクミ",
+    "romaji": [
+      "koudakumi"
+    ],
+    "aliases": [
+      "倖田来未",
+      "幸田來未",
+      "幸田来未"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lN1pB",
+    "spotify_artist_id": "2mGYHril2LuZodRtTX06BC",
+    "official_site": null,
+    "description": "倖田來未の代表曲をまとめた公式のプレイリスト「This Is 倖田來未」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-435",
+    "name": "郷ひろみ",
+    "ruby": "ごうひろみ",
+    "kana": "ゴウヒロミ",
+    "romaji": [
+      "gouhiromi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oZzk4",
+    "spotify_artist_id": "0MYnDCY3ae0nSzoCmQiKzh",
+    "official_site": null,
+    "description": "郷ひろみの代表曲をまとめた公式のプレイリスト「This Is 郷ひろみ」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-436",
+    "name": "小金沢昇司",
+    "ruby": "こがねざわしょうじ",
+    "kana": "コガネザワショウジ",
+    "romaji": [
+      "koganezawashouji",
+      "koganezawasyouzi"
+    ],
+    "aliases": [
+      "小金澤昇司"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1t0pgg",
+    "spotify_artist_id": "2yGAjlv1ruxihI9MlK1cF2",
+    "official_site": null,
+    "description": "小金沢昇司の代表曲をまとめた公式のプレイリスト「This Is 小金沢昇司」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-437",
+    "name": "KOKIA",
+    "ruby": "こきあ",
+    "kana": "コキア",
+    "romaji": [
+      "kokia"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05Htdl",
+    "spotify_artist_id": "0gUsuVOGa73jzUAJ0WEJgo",
+    "official_site": null,
+    "description": "KOKIAの代表曲をまとめた公式のプレイリスト「This Is KOKIA」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-438",
+    "name": "国生さゆり",
+    "ruby": "こくしょうさゆり",
+    "kana": "コクショウサユリ",
+    "romaji": [
+      "kokushousayuri",
+      "kokusyousayuri"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2gObru",
+    "spotify_artist_id": "3Ts5ELxUNyqlHKYJX8uq5t",
+    "official_site": null,
+    "description": "国生さゆりの代表曲をまとめた公式のプレイリスト「This Is 国生さゆり」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-439",
+    "name": "国分友里恵",
+    "ruby": "こくぶんゆりえ",
+    "kana": "コクブンユリエ",
+    "romaji": [
+      "kokubunyurie"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO149Get",
+    "spotify_artist_id": "1TnNKsMdzxwBiHkde10tPX",
+    "official_site": null,
+    "description": "国分友里恵の代表曲をまとめた公式のプレイリスト「This Is 国分友里恵」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-440",
+    "name": "CoCo",
+    "ruby": "ここ",
+    "kana": "ココ",
+    "romaji": [
+      "coco"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZVzQLc",
+    "spotify_artist_id": "0053IOogvINAp4SBeFSz82",
+    "official_site": null,
+    "description": "CoCoの代表曲をまとめた公式のプレイリスト「This Is CoCo」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-441",
+    "name": "GO!GO!7188",
+    "ruby": "ごーごーなないちはちはち",
+    "kana": "ゴーゴーナナイチハチハチ",
+    "romaji": [
+      "gogo7188"
+    ],
+    "aliases": [
+      "ゴーゴーナナセンヒャクハチジュウハチ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bcmd9",
+    "spotify_artist_id": "66ngkg99OYT8xfzYy660Wu",
+    "official_site": null,
+    "description": "GO!GO!7188の代表曲をまとめた公式のプレイリスト「This Is GO!GO!7188」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-442",
+    "name": "小坂明子",
+    "ruby": "こさかあきこ",
+    "kana": "コサカアキコ",
+    "romaji": [
+      "kosakaakiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3h6jlv",
+    "spotify_artist_id": "5yYT4nuXXDdy1tJdyK3f9K",
+    "official_site": null,
+    "description": "小坂明子の代表曲をまとめた公式のプレイリスト「This Is 小坂明子」",
     "tags": [
       "女性ソロ",
       "歌謡曲"
