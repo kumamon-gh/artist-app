@@ -1,85 +1,5 @@
 [
   {
-    "name": "Creepy Nuts",
-    "ruby": "くりーぴーなっつ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0b8wxi",
-    "spotify_artist_id": "0pWR7TsFhvSCnbmHDjWgrE",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "クリープハイプ",
-    "ruby": "くりーぷはいぷ",
-    "aliases": ["Creep Hype"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42xr02",
-    "spotify_artist_id": "6POfB0fHdzXFLWL3RHxLv8",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
-    "name": "グループ魂",
-    "ruby": "ぐるーぷたましい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbC1O",
-    "spotify_artist_id": "6wXb4P6aFkIAwVdQtfojUl",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "くるり",
-    "ruby": "くるり",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cjo9w",
-    "spotify_artist_id": "26WuprsX7JRG69T0PXkze4",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "GLAY",
-    "ruby": "ぐれい",
-    "aliases": ["ぐれー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZVSJdu",
-    "spotify_artist_id": "00AFbqxvdDK6T1D6MQZ9c1",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "クレイジーケンバンド",
-    "ruby": "くれいじーけんばんど",
-    "aliases": ["CKB"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38wx39",
-    "spotify_artist_id": "5kIOu0jisbh3SI7gT6rgq2",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "KREVA",
-    "ruby": "くれば",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KlA76",
-    "spotify_artist_id": "6lAinPkC2U1Huibu6Vfr9R",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "グレープ",
-    "ruby": "ぐれーぷ",
-    "aliases": ["Grape"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1fSsuK",
-    "spotify_artist_id": "2cRHim5No0OPKOG528NfWB",
-    "tags": ["男性グループ", "歌謡曲"]
-  },
-{
-    "name": "globe",
-    "ruby": "ぐろーぶ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qcAqx",
-    "spotify_artist_id": "5O6t6gb6MeNqzOBAq1oLad",
-    "tags": ["男女混成グループ", "J-POP"]
-  },
-{
-    "name": "黒夢",
-    "ruby": "くろゆめ",
-    "aliases": ["こくむ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19pWTa",
-    "spotify_artist_id": "2286E4ur6XjwJuWjaHMJkz",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -8632,6 +8552,52 @@
     "color": ""
   },
   {
+    "id": "artist-413",
+    "name": "Creepy Nuts",
+    "ruby": "くりーぴーなっつ",
+    "kana": "クリーピーナッツ",
+    "romaji": [
+      "creepynuts"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0b8wxi",
+    "spotify_artist_id": "0pWR7TsFhvSCnbmHDjWgrE",
+    "official_site": null,
+    "description": "Creepy Nutsの代表曲をまとめた公式のプレイリスト「This Is Creepy Nuts」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-414",
+    "name": "クリープハイプ",
+    "ruby": "くりーぷはいぷ",
+    "kana": "クリープハイプ",
+    "romaji": [
+      "kuriipuhaipu"
+    ],
+    "aliases": [
+      "Creep Hype"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42xr02",
+    "spotify_artist_id": "6POfB0fHdzXFLWL3RHxLv8",
+    "official_site": null,
+    "description": "クリープハイプの代表曲をまとめた公式のプレイリスト「This Is クリープハイプ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
     "id": "artist-390",
     "name": "GReeeeN",
     "ruby": "ぐりーん",
@@ -8697,6 +8663,192 @@
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
     "color": "#f036a5"
+  },
+  {
+    "id": "artist-415",
+    "name": "グループ魂",
+    "ruby": "ぐるーぷたましい",
+    "kana": "グループタマシイ",
+    "romaji": [
+      "guruuputamashii",
+      "guruuputamasii"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbC1O",
+    "spotify_artist_id": "6wXb4P6aFkIAwVdQtfojUl",
+    "official_site": null,
+    "description": "グループ魂の代表曲をまとめた公式のプレイリスト「This Is グループ魂」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-416",
+    "name": "くるり",
+    "ruby": "くるり",
+    "kana": "クルリ",
+    "romaji": [
+      "kururi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cjo9w",
+    "spotify_artist_id": "26WuprsX7JRG69T0PXkze4",
+    "official_site": null,
+    "description": "くるりの代表曲をまとめた公式のプレイリスト「This Is くるり」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-417",
+    "name": "GLAY",
+    "ruby": "ぐれい",
+    "kana": "グレイ",
+    "romaji": [
+      "glay"
+    ],
+    "aliases": [
+      "ぐれー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZVSJdu",
+    "spotify_artist_id": "00AFbqxvdDK6T1D6MQZ9c1",
+    "official_site": null,
+    "description": "GLAYの代表曲をまとめた公式のプレイリスト「This Is GLAY」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-418",
+    "name": "クレイジーケンバンド",
+    "ruby": "くれいじーけんばんど",
+    "kana": "クレイジーケンバンド",
+    "romaji": [
+      "kureijiikenbando",
+      "kureiziikenbando"
+    ],
+    "aliases": [
+      "CKB"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38wx39",
+    "spotify_artist_id": "5kIOu0jisbh3SI7gT6rgq2",
+    "official_site": null,
+    "description": "クレイジーケンバンドの代表曲をまとめた公式のプレイリスト「This Is クレイジーケンバンド」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-419",
+    "name": "KREVA",
+    "ruby": "くれば",
+    "kana": "クレバ",
+    "romaji": [
+      "kreva"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KlA76",
+    "spotify_artist_id": "6lAinPkC2U1Huibu6Vfr9R",
+    "official_site": null,
+    "description": "KREVAの代表曲をまとめた公式のプレイリスト「This Is KREVA」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-420",
+    "name": "グレープ",
+    "ruby": "ぐれーぷ",
+    "kana": "グレープ",
+    "romaji": [
+      "gureepu"
+    ],
+    "aliases": [
+      "Grape"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1fSsuK",
+    "spotify_artist_id": "2cRHim5No0OPKOG528NfWB",
+    "official_site": null,
+    "description": "グレープの代表曲をまとめた公式のプレイリスト「This Is グレープ」",
+    "tags": [
+      "男性グループ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-421",
+    "name": "globe",
+    "ruby": "ぐろーぶ",
+    "kana": "グローブ",
+    "romaji": [
+      "globe"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qcAqx",
+    "spotify_artist_id": "5O6t6gb6MeNqzOBAq1oLad",
+    "official_site": null,
+    "description": "globeの代表曲をまとめた公式のプレイリスト「This Is globe」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-422",
+    "name": "黒夢",
+    "ruby": "くろゆめ",
+    "kana": "クロユメ",
+    "romaji": [
+      "kuroyume"
+    ],
+    "aliases": [
+      "こくむ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19pWTa",
+    "spotify_artist_id": "2286E4ur6XjwJuWjaHMJkz",
+    "official_site": null,
+    "description": "黒夢の代表曲をまとめた公式のプレイリスト「This Is 黒夢」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
   },
   {
     "id": "artist-184",
