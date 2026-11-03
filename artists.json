@@ -1,5 +1,101 @@
 [
   {
+    "name": "CUTIE STREET",
+    "ruby": "きゅーてぃーすとりーと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2eAGZr",
+    "spotify_artist_id": "3PLCOySHJ9zwED5yZvDtPZ",
+    "tags": ["女性グループ", "J-POP"]
+  },
+{
+    "name": "℃-ute",
+    "ruby": "きゅーと",
+    "aliases": ["cute"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EWDB2",
+    "spotify_artist_id": "4xz0HFY6nUhwnp097SYQQ5",
+    "tags": ["女性グループ", "J-POP"]
+  },
+{
+    "name": "清木場俊介",
+    "ruby": "きよきばしゅんすけ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4djjbM",
+    "spotify_artist_id": "77IlpLgCThjGlCrqB3bBck",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+ {
+    "name": "清塚信也",
+    "ruby": "きよづかしんや",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ehroe",
+    "spotify_artist_id": "2acDvNu4hqCoCPlUdehoj2",
+    "tags": ["その他", "邦楽"]
+  },
+  {
+    "name": "Kiroro",
+    "ruby": "きろろ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1crrH3",
+    "spotify_artist_id": "279R7zEl7kwZxoMw18Pr9R",
+    "tags": ["女性グループ", "J-POP"]
+  },
+{
+    "name": "King & Prince",
+    "ruby": "きんぐあんどぷりんす",
+    "aliases": ["キンプリ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWUH8BFUOEIH3",
+    "spotify_artist_id": "1nzId6SLDDTUTRV7lNbgxp",
+    "tags": ["男性グループ", "J-POP"]
+  },
+  {
+    "name": "King Gnu",
+    "ruby": "きんぐぬー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QWpYO",
+    "spotify_artist_id": "6wxfx1yhyqjCPYwwxJktR2",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "銀杏BOYZ",
+    "ruby": "ぎんなんぼーいず",
+    "aliases": ["銀杏ボーイズ", "いちょうぼーいず"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1grVNS",
+    "spotify_artist_id": "2dP0aHVXt8dDPCw5d2Jw0m",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "筋肉少女帯",
+    "ruby": "きんにくしょうじょたい",
+    "aliases": ["筋少", "きんしょう"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qAW7z",
+    "spotify_artist_id": "49Ih923DaLzIEGqAe0PirH",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
+    "name": "九州男",
+    "ruby": "くすお",
+    "aliases": ["きゅうしゅうおとこ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EX6BN",
+    "spotify_artist_id": "4xzzXEv66eobgj3vzqqPZD",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "楠瀬誠志郎",
+    "ruby": "くすのせせいしろう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cqmxI",
+    "spotify_artist_id": "76fgxrs4hooSPpBjqyL0wz",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "工藤静香",
+    "ruby": "くどうしずか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4q3w3b",
+    "spotify_artist_id": "7sU5H7XSVz0GC1RyM7jY2W",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
