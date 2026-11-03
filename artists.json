@@ -8052,7 +8052,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-392",
@@ -8076,7 +8076,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#f47e01"
   },
   {
     "id": "artist-393",
@@ -8099,7 +8099,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-394",
@@ -8122,7 +8122,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#f37e01"
   },
   {
     "id": "artist-395",
@@ -8144,7 +8144,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-396",
@@ -8168,7 +8168,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#8abbf8"
   },
   {
     "id": "artist-397",
@@ -8190,7 +8190,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-398",
@@ -8216,7 +8216,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-399",
@@ -8235,6 +8235,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31KB4X"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31KB4X": "#95c90d"
+    },
     "spotify_artist_id": "49Ih923DaLzIEGqAe0PirH",
     "official_site": null,
     "description": "筋肉少女帯の代表曲をまとめた公式のプレイリスト「This Is 筋肉少女帯」",
@@ -8245,7 +8248,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#fda42a"
   },
   {
     "id": "artist-400",
@@ -8269,7 +8272,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-401",
@@ -8292,7 +8295,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-402",
@@ -8315,7 +8318,7 @@
     "status": "published",
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-390",
