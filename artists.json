@@ -5086,8 +5086,9 @@
     "official_site": null,
     "description": "NMIXXの代表曲をまとめた公式のプレイリスト「This Is NMIXX」",
     "tags": [
-      "女性グループ/ユニット",
-      "K-POP"
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
     ],
     "status": "published",
     "added_date": "2026-10-23",
@@ -5110,7 +5111,7 @@
     "official_site": null,
     "description": "OWVの代表曲をまとめた公式のプレイリスト「This Is OWV」",
     "tags": [
-      "男性グループ/ユニット",
+      "男性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -5132,7 +5133,7 @@
     "official_site": null,
     "description": "大泉洋の代表曲をまとめた公式のプレイリスト「This Is 大泉洋」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5154,7 +5155,7 @@
     "official_site": null,
     "description": "大江千里の代表曲をまとめた公式のプレイリスト「This Is 大江千里」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5170,13 +5171,13 @@
     "romaji": [
       "ooeyutaka"
     ],
-    "aliases": [],
+    "aliases": ["おおえひろし", "おおえゆう"],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2btVHL",
     "spotify_artist_id": "3KBqYlpp84j24ETKR93VJB",
     "official_site": null,
     "description": "大江裕の代表曲をまとめた公式のプレイリスト「This Is 大江裕」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "演歌"
     ],
     "status": "published",
@@ -5198,7 +5199,7 @@
     "official_site": null,
     "description": "大川栄策の代表曲をまとめた公式のプレイリスト「This Is 大川栄策」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "演歌"
     ],
     "status": "published",
@@ -5220,7 +5221,7 @@
     "official_site": null,
     "description": "大黒摩季の代表曲をまとめた公式のプレイリスト「This Is 大黒摩季」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5245,7 +5246,7 @@
     "official_site": null,
     "description": "大沢誉志幸の代表曲をまとめた公式のプレイリスト「This Is 大沢誉志幸」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5267,7 +5268,7 @@
     "official_site": null,
     "description": "大杉久美子の代表曲をまとめた公式のプレイリスト「This Is 大杉久美子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "邦楽"
     ],
     "status": "published",
@@ -5299,7 +5300,7 @@
     "official_site": null,
     "description": "大瀧詠一の代表曲をまとめた公式のプレイリスト「This Is 大瀧詠一」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5322,7 +5323,7 @@
     "official_site": null,
     "description": "大竹しのぶの代表曲をまとめた公式のプレイリスト「This Is 大竹しのぶ」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "邦楽"
     ],
     "status": "published",
@@ -5344,7 +5345,7 @@
     "official_site": null,
     "description": "太田貴子の代表曲をまとめた公式のプレイリスト「This Is 太田貴子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -5366,7 +5367,7 @@
     "official_site": null,
     "description": "太田裕美の代表曲をまとめた公式のプレイリスト「This Is 太田裕美」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -5389,7 +5390,7 @@
     "official_site": null,
     "description": "大塚愛の代表曲をまとめた公式のプレイリスト「This Is 大塚愛」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5412,7 +5413,7 @@
     "official_site": null,
     "description": "大槻マキの代表曲をまとめた公式のプレイリスト「This Is 大槻マキ」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5435,7 +5436,7 @@
     "official_site": null,
     "description": "大月みやこの代表曲をまとめた公式のプレイリスト「This Is 大月みやこ」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "演歌"
     ],
     "status": "published",
@@ -5458,7 +5459,7 @@
     "official_site": null,
     "description": "大橋純子の代表曲をまとめた公式のプレイリスト「This Is 大橋純子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5481,7 +5482,7 @@
     "official_site": null,
     "description": "大橋卓弥の代表曲をまとめた公式のプレイリスト「This Is 大橋卓弥」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5505,7 +5506,7 @@
     "official_site": null,
     "description": "大原櫻子の代表曲をまとめた公式のプレイリスト「This Is 大原櫻子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5527,7 +5528,7 @@
     "official_site": null,
     "description": "大森靖子の代表曲をまとめた公式のプレイリスト「This Is 大森靖子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5551,7 +5552,7 @@
     "official_site": null,
     "description": "岡崎体育の代表曲をまとめた公式のプレイリスト「This Is 岡崎体育」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5573,7 +5574,7 @@
     "official_site": null,
     "description": "岡村孝子の代表曲をまとめた公式のプレイリスト「This Is 岡村孝子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5597,7 +5598,7 @@
     "official_site": null,
     "description": "岡村靖幸の代表曲をまとめた公式のプレイリスト「This Is 岡村靖幸」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5645,7 +5646,7 @@
     "official_site": null,
     "description": "岡本知高の代表曲をまとめた公式のプレイリスト「This Is 岡本知高」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "邦楽"
     ],
     "status": "published",
@@ -5667,7 +5668,7 @@
     "official_site": null,
     "description": "岡本真夜の代表曲をまとめた公式のプレイリスト「This Is 岡本真夜」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5691,7 +5692,7 @@
     "official_site": null,
     "description": "荻野目洋子の代表曲をまとめた公式のプレイリスト「This Is 荻野目洋子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -5716,7 +5717,7 @@
     "official_site": null,
     "description": "奥田民生の代表曲をまとめた公式のプレイリスト「This Is 奥田民生」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5738,7 +5739,7 @@
     "official_site": null,
     "description": "奥華子の代表曲をまとめた公式のプレイリスト「This Is 奥華子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5761,7 +5762,7 @@
     "official_site": null,
     "description": "奥村チヨの代表曲をまとめた公式のプレイリスト「This Is 奥村チヨ」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -5783,7 +5784,7 @@
     "official_site": null,
     "description": "小椋佳の代表曲をまとめた公式のプレイリスト「This Is 小椋佳」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -5805,7 +5806,7 @@
     "official_site": null,
     "description": "尾崎紀世彦の代表曲をまとめた公式のプレイリスト「This Is 尾崎紀世彦」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -5829,7 +5830,7 @@
     "official_site": null,
     "description": "尾崎豊の代表曲をまとめた公式のプレイリスト「This Is 尾崎豊」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5846,8 +5847,7 @@
       "awesomecityclub"
     ],
     "aliases": [
-      "ACC",
-      "オーサム"
+      "ACC"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kvtAc",
     "spotify_artist_id": "7jGn8qhLb48n7yMMNfAoHv",
@@ -5880,7 +5880,7 @@
     "official_site": null,
     "description": "小沢健二の代表曲をまとめた公式のプレイリスト「This Is 小沢健二」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5902,7 +5902,7 @@
     "official_site": null,
     "description": "小田和正の代表曲をまとめた公式のプレイリスト「This Is 小田和正」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5925,7 +5925,7 @@
     "official_site": null,
     "description": "織田哲郎の代表曲をまとめた公式のプレイリスト「This Is 織田哲郎」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5948,7 +5948,7 @@
     "official_site": null,
     "description": "織田裕二の代表曲をまとめた公式のプレイリスト「This Is 織田裕二」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -5972,7 +5972,7 @@
     "official_site": null,
     "description": "OCHA NORMAの代表曲をまとめた公式のプレイリスト「This Is OCHA NORMA」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
@@ -5989,13 +5989,15 @@
       "onitsukachihiro",
       "onitukatihiro"
     ],
-    "aliases": [],
+    "aliases": [
+      "おにづかちひろ"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ONWRm",
     "spotify_artist_id": "4NXiJRheKGsTycUmPwtwSP",
     "official_site": null,
     "description": "鬼束ちひろの代表曲をまとめた公式のプレイリスト「This Is 鬼束ちひろ」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6011,17 +6013,13 @@
     "romaji": [
       "onyankokurabu"
     ],
-    "aliases": [
-      "おにゃんこ",
-      "おにゃん子クラブ",
-      "おニャン子"
-    ],
+    "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bNqQU",
     "spotify_artist_id": "5qahyxUWCUPR8C1vuGozmH",
     "official_site": null,
     "description": "おニャン子クラブの代表曲をまとめた公式のプレイリスト「This Is おニャン子クラブ」",
     "tags": [
-      "女性グループ/ユニット",
+      "女性グループ",
       "歌謡曲"
     ],
     "status": "published",
@@ -6044,7 +6042,7 @@
     "official_site": null,
     "description": "小野正利の代表曲をまとめた公式のプレイリスト「This Is 小野正利」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6239,7 +6237,7 @@
     "official_site": null,
     "description": "海蔵亮太の代表曲をまとめた公式のプレイリスト「This Is 海蔵亮太」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6283,7 +6281,7 @@
     "official_site": null,
     "description": "KAI FIVEの代表曲をまとめた公式のプレイリスト「This Is KAI FIVE」",
     "tags": [
-      "男性グループ/ユニット",
+      "バンド",
       "J-POP"
     ],
     "status": "published",
@@ -6305,7 +6303,7 @@
     "official_site": null,
     "description": "GAOの代表曲をまとめた公式のプレイリスト「This Is GAO」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6323,7 +6321,7 @@
       "sp"
     ],
     "aliases": [
-      "がががえすぴー"
+      "ガガガエスピー"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HGo6E",
     "spotify_artist_id": "1i2ol7SBMNLazfzSZKRGwM",
@@ -6355,7 +6353,7 @@
     "official_site": null,
     "description": "GACKTの代表曲をまとめた公式のプレイリスト「This Is GACKT」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6399,7 +6397,7 @@
     "official_site": null,
     "description": "影山ヒロノブの代表曲をまとめた公式のプレイリスト「This Is 影山ヒロノブ」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6426,7 +6424,7 @@
     "official_site": null,
     "description": "笠置シヅ子の代表曲をまとめた公式のプレイリスト「This Is 笠置シヅ子」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -6451,7 +6449,7 @@
     "official_site": null,
     "description": "柏原芳恵の代表曲をまとめた公式のプレイリスト「This Is 柏原芳恵」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "歌謡曲"
     ],
     "status": "published",
@@ -6474,7 +6472,7 @@
     "official_site": null,
     "description": "春日八郎の代表曲をまとめた公式のプレイリスト「This Is 春日八郎」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "演歌"
     ],
     "status": "published",
@@ -6520,7 +6518,7 @@
     "official_site": null,
     "description": "カズンの代表曲をまとめた公式のプレイリスト「This Is カズン」",
     "tags": [
-      "デュオ/ペア",
+      "男女混成グループ",
       "J-POP"
     ],
     "status": "published",
@@ -6537,7 +6535,7 @@
       "thegazette"
     ],
     "aliases": [
-      "ざがぜっと"
+      "ザガゼット"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uTy5Y",
     "spotify_artist_id": "4gRFSxjAcJkb54BDjqo7Bc",
@@ -6566,7 +6564,7 @@
     "official_site": null,
     "description": "片平里菜の代表曲をまとめた公式のプレイリスト「This Is 片平里菜」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6594,7 +6592,7 @@
     "official_site": null,
     "description": "KATSUMIの代表曲をまとめた公式のプレイリスト「This Is KATSUMI」",
     "tags": [
-      "男性ボーカル/ソロ",
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
@@ -6611,15 +6609,13 @@
       "katsuragiyuki",
       "katuragiyuki"
     ],
-    "aliases": [
-      "葛城ゆき"
-    ],
+    "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1x1xzt",
     "spotify_artist_id": "2Fmowii6RqsTdVEvvF3EBh",
     "official_site": null,
     "description": "葛城ユキの代表曲をまとめた公式のプレイリスト「This Is 葛城ユキ」",
     "tags": [
-      "女性ボーカル/ソロ",
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
