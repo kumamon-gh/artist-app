@@ -1,85 +1,5 @@
 [
   {
-    "name": "久宝留理子",
-    "ruby": "くぼうるりこ",
-    "aliases": ["久保留理子", "久宝瑠璃子"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PG5X5",
-    "spotify_artist_id": "4PpeG1Lnx1kkiekDoPv6eu",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "久保田早紀",
-    "ruby": "くぼたさき",
-    "aliases": ["久米小百合", "くめさゆり"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ttg4w",
-    "spotify_artist_id": "4euNL7Mw27qMOhexRSpY7F",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-{
-    "name": "久保田利伸",
-    "ruby": "くぼたとしのぶ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ociVa",
-    "spotify_artist_id": "45JvI0rkPkFFL14Cj0eput",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-  {
-    "name": "倉木麻衣",
-    "ruby": "くらきまい",
-    "aliases": ["Mai-K"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EDFdM",
-    "spotify_artist_id": "4x3GOic9xXFOoOBrEMuvN9",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "class",
-    "ruby": "くらす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42ZQuR",
-    "spotify_artist_id": "6QzMaC8g1HEqXxxOXEVYsh",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "ClariS",
-    "ruby": "くらりす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36zBDs",
-    "spotify_artist_id": "5htVtReJ3NAwcAdxdHpim3",
-    "tags": ["女性グループ", "J-POP"]
-  },
-{
-    "name": "Klang Ruler",
-    "ruby": "くらんぐるーらー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gUbS5",
-    "spotify_artist_id": "7dGWpqSL5xaZjWbo3UWXyU",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "クリスタルキング",
-    "ruby": "くりすたるきんぐ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VEuPu",
-    "spotify_artist_id": "4ZkxyrVGZwQYwjEHO99njF",
-    "tags": ["バンド", "歌謡曲"]
-  },
-{
-    "name": "Crystal Kay",
-    "ruby": "くりすたるけい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO24fs56",
-    "spotify_artist_id": "3yzQHdj9G34CVZ5rVUDrOM",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "クリス・ハート",
-    "ruby": "くりすはーと",
-    "aliases": ["Chris Hart"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yZrNp",
-    "spotify_artist_id": "7HKv46ONX5fJFCSygtx9R0",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -8399,6 +8319,237 @@
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
     "color": "#fea42a"
+  },
+  {
+    "id": "artist-403",
+    "name": "久宝留理子",
+    "ruby": "くぼうるりこ",
+    "kana": "クボウルリコ",
+    "romaji": [
+      "kuboururiko"
+    ],
+    "aliases": [
+      "久保留理子",
+      "久宝瑠璃子"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PG5X5",
+    "spotify_artist_id": "4PpeG1Lnx1kkiekDoPv6eu",
+    "official_site": null,
+    "description": "久宝留理子の代表曲をまとめた公式のプレイリスト「This Is 久宝留理子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-404",
+    "name": "久保田早紀",
+    "ruby": "くぼたさき",
+    "kana": "クボタサキ",
+    "romaji": [
+      "kubotasaki"
+    ],
+    "aliases": [
+      "久米小百合",
+      "くめさゆり"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ttg4w",
+    "spotify_artist_id": "4euNL7Mw27qMOhexRSpY7F",
+    "official_site": null,
+    "description": "久保田早紀の代表曲をまとめた公式のプレイリスト「This Is 久保田早紀」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-405",
+    "name": "久保田利伸",
+    "ruby": "くぼたとしのぶ",
+    "kana": "クボタトシノブ",
+    "romaji": [
+      "kubotatoshinobu",
+      "kubotatosinobu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ociVa",
+    "spotify_artist_id": "45JvI0rkPkFFL14Cj0eput",
+    "official_site": null,
+    "description": "久保田利伸の代表曲をまとめた公式のプレイリスト「This Is 久保田利伸」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-406",
+    "name": "倉木麻衣",
+    "ruby": "くらきまい",
+    "kana": "クラキマイ",
+    "romaji": [
+      "kurakimai"
+    ],
+    "aliases": [
+      "Mai-K"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EDFdM",
+    "spotify_artist_id": "4x3GOic9xXFOoOBrEMuvN9",
+    "official_site": null,
+    "description": "倉木麻衣の代表曲をまとめた公式のプレイリスト「This Is 倉木麻衣」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-407",
+    "name": "class",
+    "ruby": "くらす",
+    "kana": "クラス",
+    "romaji": [
+      "class"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42ZQuR",
+    "spotify_artist_id": "6QzMaC8g1HEqXxxOXEVYsh",
+    "official_site": null,
+    "description": "classの代表曲をまとめた公式のプレイリスト「This Is class」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-408",
+    "name": "ClariS",
+    "ruby": "くらりす",
+    "kana": "クラリス",
+    "romaji": [
+      "claris"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36zBDs",
+    "spotify_artist_id": "5htVtReJ3NAwcAdxdHpim3",
+    "official_site": null,
+    "description": "ClariSの代表曲をまとめた公式のプレイリスト「This Is ClariS」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-409",
+    "name": "Klang Ruler",
+    "ruby": "くらんぐるーらー",
+    "kana": "クラングルーラー",
+    "romaji": [
+      "klangruler"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gUbS5",
+    "spotify_artist_id": "7dGWpqSL5xaZjWbo3UWXyU",
+    "official_site": null,
+    "description": "Klang Rulerの代表曲をまとめた公式のプレイリスト「This Is Klang Ruler」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-410",
+    "name": "クリスタルキング",
+    "ruby": "くりすたるきんぐ",
+    "kana": "クリスタルキング",
+    "romaji": [
+      "kurisutarukingu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VEuPu",
+    "spotify_artist_id": "4ZkxyrVGZwQYwjEHO99njF",
+    "official_site": null,
+    "description": "クリスタルキングの代表曲をまとめた公式のプレイリスト「This Is クリスタルキング」",
+    "tags": [
+      "バンド",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-411",
+    "name": "Crystal Kay",
+    "ruby": "くりすたるけい",
+    "kana": "クリスタルケイ",
+    "romaji": [
+      "crystalkay"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO24fs56",
+    "spotify_artist_id": "3yzQHdj9G34CVZ5rVUDrOM",
+    "official_site": null,
+    "description": "Crystal Kayの代表曲をまとめた公式のプレイリスト「This Is Crystal Kay」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-412",
+    "name": "クリス・ハート",
+    "ruby": "くりすはーと",
+    "kana": "クリスハート",
+    "romaji": [
+      "kurisuhaato"
+    ],
+    "aliases": [
+      "Chris Hart"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yZrNp",
+    "spotify_artist_id": "7HKv46ONX5fJFCSygtx9R0",
+    "official_site": null,
+    "description": "クリス・ハートの代表曲をまとめた公式のプレイリスト「This Is クリス・ハート」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
   },
   {
     "id": "artist-390",
