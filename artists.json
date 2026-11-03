@@ -1,85 +1,5 @@
 [
   {
-    "name": "桑田佳祐",
-    "ruby": "くわたけいすけ",
-    "aliases": ["桑田圭祐"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO47THqr",
-    "spotify_artist_id": "6YIqgghQqnkNne8BKQpW6v",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "桑名正博",
-    "ruby": "くわなまさひろ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2j9Vmx",
-    "spotify_artist_id": "3XmsESMVqSekUJaxmXWwxV",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-  {
-    "name": "ゲスの極み乙女。",
-    "ruby": "げすのきわみおとめ",
-    "aliases": ["ゲス乙女", "ゲス乙"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HNFTR",
-    "spotify_artist_id": "1ieluXFoq2RRxMXZIQksTz",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "ケツメイシ",
-    "ruby": "けつめいし",
-    "aliases": ["決明子"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JKJhL",
-    "spotify_artist_id": "4FyAgiZa3q0eeljDvcOXFh",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "Kep1er",
-    "ruby": "けぷらー",
-    "aliases": ["Kepler"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s12HS",
-    "spotify_artist_id": "5R7AMwDeroq6Ls0COQYpS4",
-    "tags": ["女性グループ", "K-POP", "海外アーティスト"]
-  },
-{
-    "name": "CHEMISTRY",
-    "ruby": "けみすとりー",
-    "aliases": ["けみすとーりー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bdsuE",
-    "spotify_artist_id": "257kEbQnBziYfmtmqiNuNE",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "欅坂46",
-    "ruby": "けやきざかふぉーてぃーしっくす",
-    "aliases": ["櫻坂46", "けやきざかよんじゅーろく"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXIDEU",
-    "spotify_artist_id": "03E7w8NrBr4lNCK33TQyil",
-    "tags": ["女性グループ", "J-POP"]
-  },
-{
-    "name": "ケラケラ",
-    "ruby": "けらけら",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3riuME",
-    "spotify_artist_id": "5PVENmQjFWIJJO1dZD5tLZ",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "研ナオコ",
-    "ruby": "けんなおこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO45kdaM",
-    "spotify_artist_id": "6Us5oetTjJhA4DJUWgCRp8",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-  {
-    "name": "小泉今日子",
-    "ruby": "こいずみきょうこ",
-    "aliases": ["キョンキョン"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pkHrq",
-    "spotify_artist_id": "47CIQFAst7iOrRZ16XOfP8",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -8929,6 +8849,246 @@
     "added_date": "2026-11-03",
     "updated_date": "2026-11-03",
     "color": "#fec863"
+  },
+  {
+    "id": "artist-423",
+    "name": "桑田佳祐",
+    "ruby": "くわたけいすけ",
+    "kana": "クワタケイスケ",
+    "romaji": [
+      "kuwatakeisuke"
+    ],
+    "aliases": [
+      "桑田圭祐"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO47THqr",
+    "spotify_artist_id": "6YIqgghQqnkNne8BKQpW6v",
+    "official_site": null,
+    "description": "桑田佳祐の代表曲をまとめた公式のプレイリスト「This Is 桑田佳祐」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-424",
+    "name": "桑名正博",
+    "ruby": "くわなまさひろ",
+    "kana": "クワナマサヒロ",
+    "romaji": [
+      "kuwanamasahiro"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2j9Vmx",
+    "spotify_artist_id": "3XmsESMVqSekUJaxmXWwxV",
+    "official_site": null,
+    "description": "桑名正博の代表曲をまとめた公式のプレイリスト「This Is 桑名正博」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-425",
+    "name": "ゲスの極み乙女。",
+    "ruby": "げすのきわみおとめ",
+    "kana": "ゲスノキワミオトメ",
+    "romaji": [
+      "gesunokiwamiotome"
+    ],
+    "aliases": [
+      "ゲス乙女",
+      "ゲス乙"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HNFTR",
+    "spotify_artist_id": "1ieluXFoq2RRxMXZIQksTz",
+    "official_site": null,
+    "description": "ゲスの極み乙女。の代表曲をまとめた公式のプレイリスト「This Is ゲスの極み乙女。」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-426",
+    "name": "ケツメイシ",
+    "ruby": "けつめいし",
+    "kana": "ケツメイシ",
+    "romaji": [
+      "ketsumeishi",
+      "ketumeisi"
+    ],
+    "aliases": [
+      "決明子"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JKJhL",
+    "spotify_artist_id": "4FyAgiZa3q0eeljDvcOXFh",
+    "official_site": null,
+    "description": "ケツメイシの代表曲をまとめた公式のプレイリスト「This Is ケツメイシ」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-427",
+    "name": "Kep1er",
+    "ruby": "けぷらー",
+    "kana": "ケプラー",
+    "romaji": [
+      "kep1er"
+    ],
+    "aliases": [
+      "Kepler"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s12HS",
+    "spotify_artist_id": "5R7AMwDeroq6Ls0COQYpS4",
+    "official_site": null,
+    "description": "Kep1erの代表曲をまとめた公式のプレイリスト「This Is Kep1er」",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-428",
+    "name": "CHEMISTRY",
+    "ruby": "けみすとりー",
+    "kana": "ケミストリー",
+    "romaji": [
+      "chemistry"
+    ],
+    "aliases": [
+      "けみすとーりー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bdsuE",
+    "spotify_artist_id": "257kEbQnBziYfmtmqiNuNE",
+    "official_site": null,
+    "description": "CHEMISTRYの代表曲をまとめた公式のプレイリスト「This Is CHEMISTRY」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-429",
+    "name": "欅坂46",
+    "ruby": "けやきざかふぉーてぃーしっくす",
+    "kana": "ケヤキザカフォーティーシックス",
+    "romaji": [
+      "keyakizakafootiishikkusu",
+      "keyakizakahootiisikkusu",
+      "46"
+    ],
+    "aliases": [
+      "櫻坂46",
+      "けやきざかよんじゅーろく"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXIDEU",
+    "spotify_artist_id": "03E7w8NrBr4lNCK33TQyil",
+    "official_site": null,
+    "description": "欅坂46の代表曲をまとめた公式のプレイリスト「This Is 欅坂46」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-430",
+    "name": "ケラケラ",
+    "ruby": "けらけら",
+    "kana": "ケラケラ",
+    "romaji": [
+      "kerakera"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3riuME",
+    "spotify_artist_id": "5PVENmQjFWIJJO1dZD5tLZ",
+    "official_site": null,
+    "description": "ケラケラの代表曲をまとめた公式のプレイリスト「This Is ケラケラ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-431",
+    "name": "研ナオコ",
+    "ruby": "けんなおこ",
+    "kana": "ケンナオコ",
+    "romaji": [
+      "kennaoko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO45kdaM",
+    "spotify_artist_id": "6Us5oetTjJhA4DJUWgCRp8",
+    "official_site": null,
+    "description": "研ナオコの代表曲をまとめた公式のプレイリスト「This Is 研ナオコ」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-432",
+    "name": "小泉今日子",
+    "ruby": "こいずみきょうこ",
+    "kana": "コイズミキョウコ",
+    "romaji": [
+      "koizumikyouko"
+    ],
+    "aliases": [
+      "キョンキョン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pkHrq",
+    "spotify_artist_id": "47CIQFAst7iOrRZ16XOfP8",
+    "official_site": null,
+    "description": "小泉今日子の代表曲をまとめた公式のプレイリスト「This Is 小泉今日子」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
   },
   {
     "id": "artist-184",
