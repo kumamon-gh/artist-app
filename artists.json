@@ -1,101 +1,5 @@
 [
   {
-    "name": "CUTIE STREET",
-    "ruby": "きゅーてぃーすとりーと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2eAGZr",
-    "spotify_artist_id": "3PLCOySHJ9zwED5yZvDtPZ",
-    "tags": ["女性グループ", "J-POP"]
-  },
-{
-    "name": "℃-ute",
-    "ruby": "きゅーと",
-    "aliases": ["cute"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EWDB2",
-    "spotify_artist_id": "4xz0HFY6nUhwnp097SYQQ5",
-    "tags": ["女性グループ", "J-POP"]
-  },
-{
-    "name": "清木場俊介",
-    "ruby": "きよきばしゅんすけ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4djjbM",
-    "spotify_artist_id": "77IlpLgCThjGlCrqB3bBck",
-    "tags": ["男性ソロ", "J-POP"]
-  },
- {
-    "name": "清塚信也",
-    "ruby": "きよづかしんや",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ehroe",
-    "spotify_artist_id": "2acDvNu4hqCoCPlUdehoj2",
-    "tags": ["その他", "邦楽"]
-  },
-  {
-    "name": "Kiroro",
-    "ruby": "きろろ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1crrH3",
-    "spotify_artist_id": "279R7zEl7kwZxoMw18Pr9R",
-    "tags": ["女性グループ", "J-POP"]
-  },
-{
-    "name": "King & Prince",
-    "ruby": "きんぐあんどぷりんす",
-    "aliases": ["キンプリ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWUH8BFUOEIH3",
-    "spotify_artist_id": "1nzId6SLDDTUTRV7lNbgxp",
-    "tags": ["男性グループ", "J-POP"]
-  },
-  {
-    "name": "King Gnu",
-    "ruby": "きんぐぬー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QWpYO",
-    "spotify_artist_id": "6wxfx1yhyqjCPYwwxJktR2",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "銀杏BOYZ",
-    "ruby": "ぎんなんぼーいず",
-    "aliases": ["銀杏ボーイズ", "いちょうぼーいず"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1grVNS",
-    "spotify_artist_id": "2dP0aHVXt8dDPCw5d2Jw0m",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "筋肉少女帯",
-    "ruby": "きんにくしょうじょたい",
-    "aliases": ["筋少", "きんしょう"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qAW7z",
-    "spotify_artist_id": "49Ih923DaLzIEGqAe0PirH",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
-    "name": "九州男",
-    "ruby": "くすお",
-    "aliases": ["きゅうしゅうおとこ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EX6BN",
-    "spotify_artist_id": "4xzzXEv66eobgj3vzqqPZD",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "楠瀬誠志郎",
-    "ruby": "くすのせせいしろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cqmxI",
-    "spotify_artist_id": "76fgxrs4hooSPpBjqyL0wz",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "工藤静香",
-    "ruby": "くどうしずか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4q3w3b",
-    "spotify_artist_id": "7sU5H7XSVz0GC1RyM7jY2W",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -8127,6 +8031,288 @@
     "added_date": "2026-11-01",
     "updated_date": "2026-11-01",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-391",
+    "name": "CUTIE STREET",
+    "ruby": "きゅーてぃーすとりーと",
+    "kana": "キューティーストリート",
+    "romaji": [
+      "cutiestreet"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2eAGZr",
+    "spotify_artist_id": "3PLCOySHJ9zwED5yZvDtPZ",
+    "official_site": null,
+    "description": "CUTIE STREETの代表曲をまとめた公式のプレイリスト「This Is CUTIE STREET」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-392",
+    "name": "℃-ute",
+    "ruby": "きゅーと",
+    "kana": "キュート",
+    "romaji": [
+      "cute"
+    ],
+    "aliases": [
+      "cute"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EWDB2",
+    "spotify_artist_id": "4xz0HFY6nUhwnp097SYQQ5",
+    "official_site": null,
+    "description": "℃-uteの代表曲をまとめた公式のプレイリスト「This Is ℃-ute」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-393",
+    "name": "清木場俊介",
+    "ruby": "きよきばしゅんすけ",
+    "kana": "キヨキバシュンスケ",
+    "romaji": [
+      "kiyokibashunsuke",
+      "kiyokibasyunsuke"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4djjbM",
+    "spotify_artist_id": "77IlpLgCThjGlCrqB3bBck",
+    "official_site": null,
+    "description": "清木場俊介の代表曲をまとめた公式のプレイリスト「This Is 清木場俊介」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-394",
+    "name": "清塚信也",
+    "ruby": "きよづかしんや",
+    "kana": "キヨヅカシンヤ",
+    "romaji": [
+      "kiyozukashinya",
+      "kiyozukasinya"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ehroe",
+    "spotify_artist_id": "2acDvNu4hqCoCPlUdehoj2",
+    "official_site": null,
+    "description": "清塚信也の代表曲をまとめた公式のプレイリスト「This Is 清塚信也」",
+    "tags": [
+      "その他",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-395",
+    "name": "Kiroro",
+    "ruby": "きろろ",
+    "kana": "キロロ",
+    "romaji": [
+      "kiroro"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1crrH3",
+    "spotify_artist_id": "279R7zEl7kwZxoMw18Pr9R",
+    "official_site": null,
+    "description": "Kiroroの代表曲をまとめた公式のプレイリスト「This Is Kiroro」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-396",
+    "name": "King & Prince",
+    "ruby": "きんぐあんどぷりんす",
+    "kana": "キングアンドプリンス",
+    "romaji": [
+      "kingandprince"
+    ],
+    "aliases": [
+      "キンプリ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWUH8BFUOEIH3",
+    "spotify_artist_id": "1nzId6SLDDTUTRV7lNbgxp",
+    "official_site": null,
+    "description": "King & Princeの代表曲をまとめた公式のプレイリスト「This Is King & Prince」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-397",
+    "name": "King Gnu",
+    "ruby": "きんぐぬー",
+    "kana": "キングヌー",
+    "romaji": [
+      "kinggnu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QWpYO",
+    "spotify_artist_id": "6wxfx1yhyqjCPYwwxJktR2",
+    "official_site": null,
+    "description": "King Gnuの代表曲をまとめた公式のプレイリスト「This Is King Gnu」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-398",
+    "name": "銀杏BOYZ",
+    "ruby": "ぎんなんぼーいず",
+    "kana": "ギンナンボーイズ",
+    "romaji": [
+      "ginnanbooizu",
+      "boyz"
+    ],
+    "aliases": [
+      "銀杏ボーイズ",
+      "いちょうぼーいず"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1grVNS",
+    "spotify_artist_id": "2dP0aHVXt8dDPCw5d2Jw0m",
+    "official_site": null,
+    "description": "銀杏BOYZの代表曲をまとめた公式のプレイリスト「This Is 銀杏BOYZ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-399",
+    "name": "筋肉少女帯",
+    "ruby": "きんにくしょうじょたい",
+    "kana": "キンニクショウジョタイ",
+    "romaji": [
+      "kinnikushoujotai",
+      "kinnikusyouzyotai"
+    ],
+    "aliases": [
+      "筋少",
+      "きんしょう"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qAW7z",
+    "spotify_artist_id": "49Ih923DaLzIEGqAe0PirH",
+    "official_site": null,
+    "description": "筋肉少女帯の代表曲をまとめた公式のプレイリスト「This Is 筋肉少女帯」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-400",
+    "name": "九州男",
+    "ruby": "くすお",
+    "kana": "クスオ",
+    "romaji": [
+      "kusuo"
+    ],
+    "aliases": [
+      "きゅうしゅうおとこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EX6BN",
+    "spotify_artist_id": "4xzzXEv66eobgj3vzqqPZD",
+    "official_site": null,
+    "description": "九州男の代表曲をまとめた公式のプレイリスト「This Is 九州男」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-401",
+    "name": "楠瀬誠志郎",
+    "ruby": "くすのせせいしろう",
+    "kana": "クスノセセイシロウ",
+    "romaji": [
+      "kusunoseseishirou",
+      "kusunoseseisirou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cqmxI",
+    "spotify_artist_id": "76fgxrs4hooSPpBjqyL0wz",
+    "official_site": null,
+    "description": "楠瀬誠志郎の代表曲をまとめた公式のプレイリスト「This Is 楠瀬誠志郎」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
+  },
+  {
+    "id": "artist-402",
+    "name": "工藤静香",
+    "ruby": "くどうしずか",
+    "kana": "クドウシズカ",
+    "romaji": [
+      "kudoushizuka",
+      "kudousizuka"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4q3w3b",
+    "spotify_artist_id": "7sU5H7XSVz0GC1RyM7jY2W",
+    "official_site": null,
+    "description": "工藤静香の代表曲をまとめた公式のプレイリスト「This Is 工藤静香」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-03",
+    "updated_date": "2026-11-03",
+    "color": ""
   },
   {
     "id": "artist-390",
