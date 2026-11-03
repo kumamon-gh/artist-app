@@ -8872,7 +8872,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-424",
@@ -8894,7 +8894,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-425",
@@ -8919,7 +8919,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#fda42a"
   },
   {
     "id": "artist-426",
@@ -8944,7 +8944,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-427",
@@ -8969,7 +8969,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-428",
@@ -8993,7 +8993,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#fdc964"
   },
   {
     "id": "artist-429",
@@ -9013,6 +9013,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sNeeM"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sNeeM": "#fe7163"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sNeeM": "現：櫻坂46"
     },
@@ -9026,7 +9029,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-430",
@@ -9048,7 +9051,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-431",
@@ -9070,7 +9073,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-432",
@@ -9094,7 +9097,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-433",
@@ -9116,7 +9119,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-434",
@@ -9142,7 +9145,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-435",
@@ -9164,7 +9167,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-436",
@@ -9189,7 +9192,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-437",
@@ -9211,7 +9214,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-438",
@@ -9234,7 +9237,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-439",
@@ -9256,7 +9259,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-440",
@@ -9278,7 +9281,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-441",
@@ -9302,7 +9305,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-442",
@@ -9324,7 +9327,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-184",
