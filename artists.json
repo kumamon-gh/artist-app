@@ -1,69 +1,5 @@
 [
   {
-    "name": "THE TIMERS",
-    "ruby": "ざたいまーず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MzkFs",
-    "spotify_artist_id": "4KeWcgX8sNnLLdPqb0FYQo",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "さだまさし",
-    "ruby": "さだまさし",
-    "aliases": ["佐田雅志"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05ZRiZ",
-    "spotify_artist_id": "0hoYZWflKchdSXPXfCRVRO",
-    "tags": ["男性ソロ", "J-POP", "歌謡曲"]
-  },
-  {
-    "name": "Sads",
-    "ruby": "さっず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GvnBu",
-    "spotify_artist_id": "2V7lcLzRCVPefcpLYf2vpq",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "ZARD",
-    "ruby": "ざーど",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C4cb7",
-    "spotify_artist_id": "2NKadilSWCwuqGp5QoDeUS",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "SARD UNDERGROUND",
-    "ruby": "さーどあんだーぐらうんど",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eZWQa",
-    "spotify_artist_id": "7awtWS4uPN7SUSxSRilkMa",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "佐藤竹善",
-    "ruby": "さとうちくぜん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4sYch0",
-    "spotify_artist_id": "7xK7fPe7SjHrGS54CvUoer",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-  {
-    "name": "THE 虎舞竜",
-    "ruby": "ざとらぶりゅう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gCEIf",
-    "spotify_artist_id": "2e6Ljcoe4AcMeTWZtsemzs",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "ザ・ドリフターズ",
-    "ruby": "ざどりふたーず",
-    "aliases": ["ドリフ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WIxdm",
-    "spotify_artist_id": "1H1vWaQhd8vtdVRob9HEWv",
-    "tags": ["男性グループ", "歌謡曲"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -10588,6 +10524,191 @@
     "description": "ザ・タイガースの代表曲をまとめた公式のプレイリスト「This Is ザ・タイガース」",
     "tags": [
       "バンド",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-494",
+    "name": "THE TIMERS",
+    "ruby": "ざたいまーず",
+    "kana": "ザタイマーズ",
+    "romaji": [
+      "thetimers"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MzkFs",
+    "spotify_artist_id": "4KeWcgX8sNnLLdPqb0FYQo",
+    "official_site": null,
+    "description": "THE TIMERSの代表曲をまとめた公式のプレイリスト「This Is THE TIMERS」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-495",
+    "name": "さだまさし",
+    "ruby": "さだまさし",
+    "kana": "サダマサシ",
+    "romaji": [
+      "sadamasashi",
+      "sadamasasi"
+    ],
+    "aliases": [
+      "佐田雅志"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05ZRiZ",
+    "spotify_artist_id": "0hoYZWflKchdSXPXfCRVRO",
+    "official_site": null,
+    "description": "さだまさしの代表曲をまとめた公式のプレイリスト「This Is さだまさし」",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-496",
+    "name": "Sads",
+    "ruby": "さっず",
+    "kana": "サッズ",
+    "romaji": [
+      "sads"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GvnBu",
+    "spotify_artist_id": "2V7lcLzRCVPefcpLYf2vpq",
+    "official_site": null,
+    "description": "Sadsの代表曲をまとめた公式のプレイリスト「This Is Sads」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-497",
+    "name": "ZARD",
+    "ruby": "ざーど",
+    "kana": "ザード",
+    "romaji": [
+      "zard"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C4cb7",
+    "spotify_artist_id": "2NKadilSWCwuqGp5QoDeUS",
+    "official_site": null,
+    "description": "ZARDの代表曲をまとめた公式のプレイリスト「This Is ZARD」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-498",
+    "name": "SARD UNDERGROUND",
+    "ruby": "さーどあんだーぐらうんど",
+    "kana": "サードアンダーグラウンド",
+    "romaji": [
+      "sardunderground"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eZWQa",
+    "spotify_artist_id": "7awtWS4uPN7SUSxSRilkMa",
+    "official_site": null,
+    "description": "SARD UNDERGROUNDの代表曲をまとめた公式のプレイリスト「This Is SARD UNDERGROUND」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-499",
+    "name": "佐藤竹善",
+    "ruby": "さとうちくぜん",
+    "kana": "サトウチクゼン",
+    "romaji": [
+      "satouchikuzen",
+      "satoutikuzen"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4sYch0",
+    "spotify_artist_id": "7xK7fPe7SjHrGS54CvUoer",
+    "official_site": null,
+    "description": "佐藤竹善の代表曲をまとめた公式のプレイリスト「This Is 佐藤竹善」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-500",
+    "name": "THE 虎舞竜",
+    "ruby": "ざとらぶりゅう",
+    "kana": "ザトラブリュウ",
+    "romaji": [
+      "zatoraburyuu",
+      "the"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gCEIf",
+    "spotify_artist_id": "2e6Ljcoe4AcMeTWZtsemzs",
+    "official_site": null,
+    "description": "THE 虎舞竜の代表曲をまとめた公式のプレイリスト「This Is THE 虎舞竜」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-501",
+    "name": "ザ・ドリフターズ",
+    "ruby": "ざどりふたーず",
+    "kana": "ザドリフターズ",
+    "romaji": [
+      "zadorifutaazu",
+      "zadorihutaazu"
+    ],
+    "aliases": [
+      "ドリフ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WIxdm",
+    "spotify_artist_id": "1H1vWaQhd8vtdVRob9HEWv",
+    "official_site": null,
+    "description": "ザ・ドリフターズの代表曲をまとめた公式のプレイリスト「This Is ザ・ドリフターズ」",
+    "tags": [
+      "男性グループ",
       "歌謡曲"
     ],
     "status": "published",
