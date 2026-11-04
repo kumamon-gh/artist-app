@@ -1,13 +1,5 @@
 [
   {
-    "name": "後藤真希",
-    "ruby": "ごとうまき",
-    "aliases": ["ごっちん", "ゴマキ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bxu16",
-    "spotify_artist_id": "5pJEdeLmuXxPjXLDoXDaP0",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -9498,6 +9490,31 @@
     "description": "こっちのけんとの代表曲をまとめた公式のプレイリスト「This Is こっちのけんと」",
     "tags": [
       "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-453",
+    "name": "後藤真希",
+    "ruby": "ごとうまき",
+    "kana": "ゴトウマキ",
+    "romaji": [
+      "gotoumaki"
+    ],
+    "aliases": [
+      "ごっちん",
+      "ゴマキ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bxu16",
+    "spotify_artist_id": "5pJEdeLmuXxPjXLDoXDaP0",
+    "official_site": null,
+    "description": "後藤真希の代表曲をまとめた公式のプレイリスト「This Is 後藤真希」",
+    "tags": [
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
