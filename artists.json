@@ -1,5 +1,69 @@
 [
   {
+    "name": "THE TIMERS",
+    "ruby": "ざたいまーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MzkFs",
+    "spotify_artist_id": "4KeWcgX8sNnLLdPqb0FYQo",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "さだまさし",
+    "ruby": "さだまさし",
+    "aliases": ["佐田雅志"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05ZRiZ",
+    "spotify_artist_id": "0hoYZWflKchdSXPXfCRVRO",
+    "tags": ["男性ソロ", "J-POP", "歌謡曲"]
+  },
+  {
+    "name": "Sads",
+    "ruby": "さっず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GvnBu",
+    "spotify_artist_id": "2V7lcLzRCVPefcpLYf2vpq",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "ZARD",
+    "ruby": "ざーど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C4cb7",
+    "spotify_artist_id": "2NKadilSWCwuqGp5QoDeUS",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "SARD UNDERGROUND",
+    "ruby": "さーどあんだーぐらうんど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eZWQa",
+    "spotify_artist_id": "7awtWS4uPN7SUSxSRilkMa",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "佐藤竹善",
+    "ruby": "さとうちくぜん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4sYch0",
+    "spotify_artist_id": "7xK7fPe7SjHrGS54CvUoer",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+  {
+    "name": "THE 虎舞竜",
+    "ruby": "ざとらぶりゅう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gCEIf",
+    "spotify_artist_id": "2e6Ljcoe4AcMeTWZtsemzs",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "ザ・ドリフターズ",
+    "ruby": "ざどりふたーず",
+    "aliases": ["ドリフ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WIxdm",
+    "spotify_artist_id": "1H1vWaQhd8vtdVRob9HEWv",
+    "tags": ["男性グループ", "歌謡曲"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
