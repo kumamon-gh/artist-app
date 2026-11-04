@@ -1,5 +1,95 @@
 [
   {
+    "name": "越路吹雪",
+    "ruby": "こしじふぶき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FJDzI",
+    "spotify_artist_id": "4ySFVsfsgSW4AbEK3SXp43",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+  {
+    "name": "五條真由美",
+    "ruby": "ごじょうまゆみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1FFcQg",
+    "spotify_artist_id": "2TIKjS1AvfUGY9HezSZSIg",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "ゴスペラーズ",
+    "ruby": "ごすぺらーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2O9g0c",
+    "spotify_artist_id": "4MRHdjH8xf7OH0utAw4air",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "ゴダイゴ",
+    "ruby": "ごだいご",
+    "aliases": ["GODIEGO"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eQmCR",
+    "spotify_artist_id": "7agr01GMFpbX5ie9UsTGxe",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "伍代夏子",
+    "ruby": "ごだいなつこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1o5QBX",
+    "spotify_artist_id": "2qw0AiDXaoLIKVI28fwwPe",
+    "tags": ["女性ソロ", "演歌"]
+  },
+{
+    "name": "Cocco",
+    "ruby": "こっこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2giAN1",
+    "spotify_artist_id": "3SBG08XwrIxXSPTxsbM0b6",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "こっちのけんと",
+    "ruby": "こっちのけんと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZAYDg",
+    "spotify_artist_id": "3qQKrWwcqJlE4OS4e1ox7x",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "後藤真希",
+    "ruby": "ごとうまき",
+    "aliases": ["ごっちん", "ゴマキ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bxu16",
+    "spotify_artist_id": "5pJEdeLmuXxPjXLDoXDaP0",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+
+■{
+    "name": "粉ミルク",
+    "ruby": "こなみるく",
+    "aliases": [],
+    "url": "",
+    "spotify_artist_id": "",
+    "tags": ["バンド", "J-POP"]
+  },
+
+{
+    "name": "小鳩くるみ",
+    "ruby": "こばとくるみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2d932M",
+    "spotify_artist_id": "3NmDuNdrTlCTXYnIqBJ6wc",
+    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
+  },
+{
+    "name": "小林明子",
+    "ruby": "こばやしあきこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fgrMc",
+    "spotify_artist_id": "7aY66TZJhTTTNsIxR9Ado5",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
