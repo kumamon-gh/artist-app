@@ -1,5 +1,13 @@
 [
   {
+    "name": "後藤真希",
+    "ruby": "ごとうまき",
+    "aliases": ["ごっちん", "ゴマキ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bxu16",
+    "spotify_artist_id": "5pJEdeLmuXxPjXLDoXDaP0",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
