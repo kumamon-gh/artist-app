@@ -1,5 +1,85 @@
 [
   {
+    "name": "ゴールデンボンバー",
+    "ruby": "ごーるでんぼんばー",
+    "aliases": ["金爆", "きんばく"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uOTFO",
+    "spotify_artist_id": "2BHobTrfUdKWd84nLdMViA",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "コレサワ",
+    "ruby": "これさわ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OMfHq",
+    "spotify_artist_id": "6sX1XKgDIiAcVZof0SgWUe",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "近藤真彦",
+    "ruby": "こんどうまさひこ",
+    "aliases": ["マッチ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42UCzi",
+    "spotify_artist_id": "6QrcT9aVwvCirIh3PXv8Nm",
+    "tags": ["男性ソロ", "歌謡曲"]
+  },
+  {
+    "name": "COMPLEX",
+    "ruby": "こんぷれっくす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3AyVX3",
+    "spotify_artist_id": "65k9QR7w94Te4V7HYeTqv0",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "THE YELLOW MONKEY",
+    "ruby": "ざいえろーもんきー",
+    "aliases": ["イエモン"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0R3NJB",
+    "spotify_artist_id": "1xCdTZ5Wu70H6YwsmpgmHg",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "西郷輝彦",
+    "ruby": "さいごうてるひこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lxDh1",
+    "spotify_artist_id": "0Hf4OlLTw7TnmNIaTcSKIp",
+    "tags": ["男性ソロ", "歌謡曲"]
+  },
+{
+    "name": "西城秀樹",
+    "ruby": "さいじょうひでき",
+    "aliases": ["ヒデキ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0p9K8l",
+    "spotify_artist_id": "0NftkVrfzvCddFaDAmkBxh",
+    "tags": ["男性ソロ", "歌謡曲"]
+  },
+{
+    "name": "財津和夫",
+    "ruby": "ざいつかずお",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3TKetA",
+    "spotify_artist_id": "6BcIYPy8YuukxAZjFpBKcB",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "斉藤和義",
+    "ruby": "さいとうかずよし",
+    "aliases": ["斎藤和義", "齋藤和義"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pIAqM",
+    "spotify_artist_id": "7sl3PZyhzAqUpL3M6WVD8G",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "斉藤由貴",
+    "ruby": "さいとうゆき",
+    "aliases": ["斎藤由貴", "齋藤由貴"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Q523p",
+    "spotify_artist_id": "3b1ILSjPEq1AXyfmZXkPGr",
+    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
