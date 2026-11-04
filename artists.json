@@ -1,85 +1,5 @@
 [
   {
-    "name": "越路吹雪",
-    "ruby": "こしじふぶき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FJDzI",
-    "spotify_artist_id": "4ySFVsfsgSW4AbEK3SXp43",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-  {
-    "name": "五條真由美",
-    "ruby": "ごじょうまゆみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1FFcQg",
-    "spotify_artist_id": "2TIKjS1AvfUGY9HezSZSIg",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "ゴスペラーズ",
-    "ruby": "ごすぺらーず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2O9g0c",
-    "spotify_artist_id": "4MRHdjH8xf7OH0utAw4air",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "ゴダイゴ",
-    "ruby": "ごだいご",
-    "aliases": ["GODIEGO"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eQmCR",
-    "spotify_artist_id": "7agr01GMFpbX5ie9UsTGxe",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "伍代夏子",
-    "ruby": "ごだいなつこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1o5QBX",
-    "spotify_artist_id": "2qw0AiDXaoLIKVI28fwwPe",
-    "tags": ["女性ソロ", "演歌"]
-  },
-{
-    "name": "Cocco",
-    "ruby": "こっこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2giAN1",
-    "spotify_artist_id": "3SBG08XwrIxXSPTxsbM0b6",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "こっちのけんと",
-    "ruby": "こっちのけんと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZAYDg",
-    "spotify_artist_id": "3qQKrWwcqJlE4OS4e1ox7x",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "後藤真希",
-    "ruby": "ごとうまき",
-    "aliases": ["ごっちん", "ゴマキ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bxu16",
-    "spotify_artist_id": "5pJEdeLmuXxPjXLDoXDaP0",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "小鳩くるみ",
-    "ruby": "こばとくるみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2d932M",
-    "spotify_artist_id": "3NmDuNdrTlCTXYnIqBJ6wc",
-    "tags": ["女性ボーカル/ソロ", "歌謡曲"]
-  },
-{
-    "name": "小林明子",
-    "ruby": "こばやしあきこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fgrMc",
-    "spotify_artist_id": "7aY66TZJhTTTNsIxR9Ado5",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -9416,6 +9336,236 @@
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
     "color": "#f036a5"
+  },
+  {
+    "id": "artist-443",
+    "name": "越路吹雪",
+    "ruby": "こしじふぶき",
+    "kana": "コシジフブキ",
+    "romaji": [
+      "koshijifubuki",
+      "kosizihubuki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FJDzI",
+    "spotify_artist_id": "4ySFVsfsgSW4AbEK3SXp43",
+    "official_site": null,
+    "description": "越路吹雪の代表曲をまとめた公式のプレイリスト「This Is 越路吹雪」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-444",
+    "name": "五條真由美",
+    "ruby": "ごじょうまゆみ",
+    "kana": "ゴジョウマユミ",
+    "romaji": [
+      "gojoumayumi",
+      "gozyoumayumi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1FFcQg",
+    "spotify_artist_id": "2TIKjS1AvfUGY9HezSZSIg",
+    "official_site": null,
+    "description": "五條真由美の代表曲をまとめた公式のプレイリスト「This Is 五條真由美」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-445",
+    "name": "ゴスペラーズ",
+    "ruby": "ごすぺらーず",
+    "kana": "ゴスペラーズ",
+    "romaji": [
+      "gosuperaazu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2O9g0c",
+    "spotify_artist_id": "4MRHdjH8xf7OH0utAw4air",
+    "official_site": null,
+    "description": "ゴスペラーズの代表曲をまとめた公式のプレイリスト「This Is ゴスペラーズ」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-446",
+    "name": "ゴダイゴ",
+    "ruby": "ごだいご",
+    "kana": "ゴダイゴ",
+    "romaji": [
+      "godaigo"
+    ],
+    "aliases": [
+      "GODIEGO"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eQmCR",
+    "spotify_artist_id": "7agr01GMFpbX5ie9UsTGxe",
+    "official_site": null,
+    "description": "ゴダイゴの代表曲をまとめた公式のプレイリスト「This Is ゴダイゴ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-447",
+    "name": "伍代夏子",
+    "ruby": "ごだいなつこ",
+    "kana": "ゴダイナツコ",
+    "romaji": [
+      "godainatsuko",
+      "godainatuko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1o5QBX",
+    "spotify_artist_id": "2qw0AiDXaoLIKVI28fwwPe",
+    "official_site": null,
+    "description": "伍代夏子の代表曲をまとめた公式のプレイリスト「This Is 伍代夏子」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-448",
+    "name": "Cocco",
+    "ruby": "こっこ",
+    "kana": "コッコ",
+    "romaji": [
+      "cocco"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2giAN1",
+    "spotify_artist_id": "3SBG08XwrIxXSPTxsbM0b6",
+    "official_site": null,
+    "description": "Coccoの代表曲をまとめた公式のプレイリスト「This Is Cocco」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-449",
+    "name": "こっちのけんと",
+    "ruby": "こっちのけんと",
+    "kana": "コッチノケント",
+    "romaji": [
+      "kotchinokento",
+      "kottinokento"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZAYDg",
+    "spotify_artist_id": "3qQKrWwcqJlE4OS4e1ox7x",
+    "official_site": null,
+    "description": "こっちのけんとの代表曲をまとめた公式のプレイリスト「This Is こっちのけんと」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-450",
+    "name": "後藤真希",
+    "ruby": "ごとうまき",
+    "kana": "ゴトウマキ",
+    "romaji": [
+      "gotoumaki"
+    ],
+    "aliases": [
+      "ごっちん",
+      "ゴマキ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bxu16",
+    "spotify_artist_id": "5pJEdeLmuXxPjXLDoXDaP0",
+    "official_site": null,
+    "description": "後藤真希の代表曲をまとめた公式のプレイリスト「This Is 後藤真希」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-451",
+    "name": "小鳩くるみ",
+    "ruby": "こばとくるみ",
+    "kana": "コバトクルミ",
+    "romaji": [
+      "kobatokurumi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2d932M",
+    "spotify_artist_id": "3NmDuNdrTlCTXYnIqBJ6wc",
+    "official_site": null,
+    "description": "小鳩くるみの代表曲をまとめた公式のプレイリスト「This Is 小鳩くるみ」",
+    "tags": [
+      "女性ボーカル/ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-452",
+    "name": "小林明子",
+    "ruby": "こばやしあきこ",
+    "kana": "コバヤシアキコ",
+    "romaji": [
+      "kobayashiakiko",
+      "kobayasiakiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fgrMc",
+    "spotify_artist_id": "7aY66TZJhTTTNsIxR9Ado5",
+    "official_site": null,
+    "description": "小林明子の代表曲をまとめた公式のプレイリスト「This Is 小林明子」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
   },
   {
     "id": "artist-184",
