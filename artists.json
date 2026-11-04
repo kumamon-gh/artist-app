@@ -1,85 +1,5 @@
 [
   {
-    "name": "小林旭",
-    "ruby": "こばやしあきら",
-    "aliases": ["マイトガイ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1zBJa8",
-    "spotify_artist_id": "2JEoT6nTr1ejkaso7K823c",
-    "tags": ["男性ソロ", "歌謡曲"]
-  },
-  {
-    "name": "小林幸子",
-    "ruby": "こばやしさちこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qlngM",
-    "spotify_artist_id": "5Oljj7CrBfllZyQzifDmFo",
-    "tags": ["女性ソロ", "演歌"]
-  },
-{
-    "name": "GO-BANG'S",
-    "ruby": "ごーばんず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0QSVTZ",
-    "spotify_artist_id": "1xkvgdDHqUvqZ8Ffds9tPt",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
-    "name": "小比類巻かほる",
-    "ruby": "こひるいまきかほる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1buXo8",
-    "spotify_artist_id": "25AlSzLodlCYZrjU8je4pJ",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "コブクロ",
-    "ruby": "こぶくろ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO08nm95",
-    "spotify_artist_id": "0llYwFIMgF9Jzmp4ZY7wbr",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "こぶしファクトリー",
-    "ruby": "こぶしふぁくとりー",
-    "aliases": ["Kobushi Factory"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bGOm6",
-    "spotify_artist_id": "751JuLSh3lOenhjgIFOmg1",
-    "tags": ["女性グループ", "J-POP"]
-  },
-  {
-    "name": "小松未歩",
-    "ruby": "こまつみほ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1wSbUk",
-    "spotify_artist_id": "2F7g9r3yzmCfMlUnfDa80X",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-  {
-    "name": "米米CLUB",
-    "ruby": "こめこめくらぶ",
-    "aliases": ["米米クラブ", "こめくら"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO39efcT",
-    "spotify_artist_id": "5lTGqFmlTng9jPrs7c2dRA",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "小柳ゆき",
-    "ruby": "こやなぎゆき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Im6cM",
-    "spotify_artist_id": "4DevUOKYHHOfBdxfSDz74z",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "小柳ルミ子",
-    "ruby": "こやなぎるみこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32wIDw",
-    "spotify_artist_id": "5aKUN8Lo7nAYzmsyjgmYA5",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -9638,6 +9558,238 @@
     "spotify_artist_id": "7aY66TZJhTTTNsIxR9Ado5",
     "official_site": null,
     "description": "小林明子の代表曲をまとめた公式のプレイリスト「This Is 小林明子」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-454",
+    "name": "小林旭",
+    "ruby": "こばやしあきら",
+    "kana": "コバヤシアキラ",
+    "romaji": [
+      "kobayashiakira",
+      "kobayasiakira"
+    ],
+    "aliases": [
+      "マイトガイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1zBJa8",
+    "spotify_artist_id": "2JEoT6nTr1ejkaso7K823c",
+    "official_site": null,
+    "description": "小林旭の代表曲をまとめた公式のプレイリスト「This Is 小林旭」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-455",
+    "name": "小林幸子",
+    "ruby": "こばやしさちこ",
+    "kana": "コバヤシサチコ",
+    "romaji": [
+      "kobayashisachiko",
+      "kobayasisatiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qlngM",
+    "spotify_artist_id": "5Oljj7CrBfllZyQzifDmFo",
+    "official_site": null,
+    "description": "小林幸子の代表曲をまとめた公式のプレイリスト「This Is 小林幸子」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-456",
+    "name": "GO-BANG'S",
+    "ruby": "ごーばんず",
+    "kana": "ゴーバンズ",
+    "romaji": [
+      "gobangs"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0QSVTZ",
+    "spotify_artist_id": "1xkvgdDHqUvqZ8Ffds9tPt",
+    "official_site": null,
+    "description": "GO-BANG'Sの代表曲をまとめた公式のプレイリスト「This Is GO-BANG'S」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-457",
+    "name": "小比類巻かほる",
+    "ruby": "こひるいまきかほる",
+    "kana": "コヒルイマキカホル",
+    "romaji": [
+      "kohiruimakikahoru"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1buXo8",
+    "spotify_artist_id": "25AlSzLodlCYZrjU8je4pJ",
+    "official_site": null,
+    "description": "小比類巻かほるの代表曲をまとめた公式のプレイリスト「This Is 小比類巻かほる」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-458",
+    "name": "コブクロ",
+    "ruby": "こぶくろ",
+    "kana": "コブクロ",
+    "romaji": [
+      "kobukuro"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO08nm95",
+    "spotify_artist_id": "0llYwFIMgF9Jzmp4ZY7wbr",
+    "official_site": null,
+    "description": "コブクロの代表曲をまとめた公式のプレイリスト「This Is コブクロ」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-459",
+    "name": "こぶしファクトリー",
+    "ruby": "こぶしふぁくとりー",
+    "kana": "コブシファクトリー",
+    "romaji": [
+      "kobushifakutorii",
+      "kobusihakutorii"
+    ],
+    "aliases": [
+      "Kobushi Factory"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bGOm6",
+    "spotify_artist_id": "751JuLSh3lOenhjgIFOmg1",
+    "official_site": null,
+    "description": "こぶしファクトリーの代表曲をまとめた公式のプレイリスト「This Is こぶしファクトリー」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-460",
+    "name": "小松未歩",
+    "ruby": "こまつみほ",
+    "kana": "コマツミホ",
+    "romaji": [
+      "komatsumiho",
+      "komatumiho"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1wSbUk",
+    "spotify_artist_id": "2F7g9r3yzmCfMlUnfDa80X",
+    "official_site": null,
+    "description": "小松未歩の代表曲をまとめた公式のプレイリスト「This Is 小松未歩」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-461",
+    "name": "米米CLUB",
+    "ruby": "こめこめくらぶ",
+    "kana": "コメコメクラブ",
+    "romaji": [
+      "komekomekurabu",
+      "club"
+    ],
+    "aliases": [
+      "米米クラブ",
+      "こめくら"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO39efcT",
+    "spotify_artist_id": "5lTGqFmlTng9jPrs7c2dRA",
+    "official_site": null,
+    "description": "米米CLUBの代表曲をまとめた公式のプレイリスト「This Is 米米CLUB」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-462",
+    "name": "小柳ゆき",
+    "ruby": "こやなぎゆき",
+    "kana": "コヤナギユキ",
+    "romaji": [
+      "koyanagiyuki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Im6cM",
+    "spotify_artist_id": "4DevUOKYHHOfBdxfSDz74z",
+    "official_site": null,
+    "description": "小柳ゆきの代表曲をまとめた公式のプレイリスト「This Is 小柳ゆき」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-04",
+    "updated_date": "2026-11-04",
+    "color": ""
+  },
+  {
+    "id": "artist-463",
+    "name": "小柳ルミ子",
+    "ruby": "こやなぎるみこ",
+    "kana": "コヤナギルミコ",
+    "romaji": [
+      "koyanagirumiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32wIDw",
+    "spotify_artist_id": "5aKUN8Lo7nAYzmsyjgmYA5",
+    "official_site": null,
+    "description": "小柳ルミ子の代表曲をまとめた公式のプレイリスト「This Is 小柳ルミ子」",
     "tags": [
       "女性ソロ",
       "歌謡曲"
