@@ -9542,7 +9542,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-451",
@@ -9605,6 +9605,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Rsmz6"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Rsmz6": "#f47e00"
+    },
     "spotify_artist_id": "2JEoT6nTr1ejkaso7K823c",
     "official_site": null,
     "description": "小林旭の代表曲をまとめた公式のプレイリスト「This Is 小林旭」",
@@ -9847,7 +9850,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#f37e00"
   },
   {
     "id": "artist-465",
@@ -9869,7 +9872,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-466",
@@ -9893,7 +9896,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-467",
@@ -9915,7 +9918,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-468",
@@ -9939,7 +9942,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-469",
@@ -9961,7 +9964,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-470",
@@ -9986,7 +9989,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#e5ac89"
   },
   {
     "id": "artist-471",
@@ -10002,6 +10005,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO09A0n4"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO09A0n4": "#ffc863"
+    },
     "spotify_artist_id": "6BcIYPy8YuukxAZjFpBKcB",
     "official_site": null,
     "description": "財津和夫の代表曲をまとめた公式のプレイリスト「This Is 財津和夫」",
@@ -10012,7 +10018,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#f37e00"
   },
   {
     "id": "artist-472",
@@ -10038,7 +10044,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-473",
@@ -10063,7 +10069,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-475",
@@ -10087,7 +10093,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-476",
@@ -10111,7 +10117,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-477",
@@ -10135,7 +10141,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-478",
@@ -10158,7 +10164,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-479",
@@ -10184,7 +10190,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-480",
@@ -10207,7 +10213,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#f37e01"
   },
   {
     "id": "artist-481",
@@ -10229,7 +10235,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-482",
@@ -10251,7 +10257,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-483",
@@ -10277,7 +10283,7 @@
     "status": "published",
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-184",
