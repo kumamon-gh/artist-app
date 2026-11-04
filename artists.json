@@ -1,5 +1,85 @@
 [
   {
+    "name": "CONNY",
+    "ruby": "こにー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4n62x2",
+    "spotify_artist_id": "7nYBbH7JlCnvCG52k9rNgq",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "Saucy Dog",
+    "ruby": "さうしーどっぐ",
+    "aliases": ["ソーシードッグ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TUqBO",
+    "spotify_artist_id": "4WqXqPmUuenMIr4QaFrZXN",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "酒井法子",
+    "ruby": "さかいのりこ",
+    "aliases": ["のりピー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qcneg",
+    "spotify_artist_id": "5O6fCwFxAOAEOtW0FCXNEd",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "堺正章",
+    "ruby": "さかいまさあき",
+    "aliases": ["マチャアキ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oAcQV",
+    "spotify_artist_id": "5LpNKGVfQWBdmagbDyYNk3",
+    "tags": ["男性ソロ", "歌謡曲"]
+  },
+  {
+    "name": "サカナクション",
+    "ruby": "さかなくしょん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO068cIO",
+    "spotify_artist_id": "0hCWVMGGQnRVfDgmhwLIxq",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "坂本九",
+    "ruby": "さかもときゅう",
+    "aliases": ["九ちゃん", "きゅうちゃん"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iNhLb",
+    "spotify_artist_id": "3WKkjW8B7x5UZmfC9pnDmN",
+    "tags": ["男性ソロ", "J-POP", "歌謡曲"]
+  },
+{
+    "name": "坂本冬美",
+    "ruby": "さかもとふゆみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Zfgzp",
+    "spotify_artist_id": "55j8oSKnH8ni3P2FaNUwjP",
+    "tags": ["女性ソロ", "演歌"]
+  },
+{
+    "name": "坂本真綾",
+    "ruby": "さかもとまあや",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5",
+    "spotify_artist_id": "4zT3gUH3Xb50swQKT4E9vw",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "坂本美雨",
+    "ruby": "さかもとみう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YkrsB",
+"spotify_artist_id": "53MtqYIMvV1Z2L6FCh9f3h",
+    "tags": ["女性ソロ", "邦楽"]
+  },
+{
+    "name": "坂本龍一",
+    "ruby": "さかもとりゅういち",
+    "aliases": ["教授", "きょうじゅ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0OoFsQ",
+    "spotify_artist_id": "1tcgfoMTT1szjUeaikxRjA",
+    "tags": ["男性ソロ", "邦楽"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
