@@ -1,5 +1,85 @@
 [
   {
+    "name": "佐良直美",
+    "ruby": "さがらなおみ",
+    "aliases": ["さらなおみ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36IzQZ",
+    "spotify_artist_id": "5hIYzEi9gBUCXOmrhV6M04",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+{
+    "name": "さくら学院",
+    "ruby": "さくらがくいん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO48gfy8",
+    "spotify_artist_id": "6ZkreMw9VEGOdBw6NEuG92",
+    "tags": ["女性グループ", "J-POP"]
+  },
+{
+    "name": "櫻坂46",
+    "ruby": "さくらざかふぉーてぃーしっくす",
+    "aliases": ["欅坂46", "さくらざかよんじゅーろく", "桜坂46"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sNeeM",
+    "spotify_artist_id": "0Ti7MfCiVVQAK8zLSiqlto",
+    "tags": ["女性グループ", "J-POP"]
+  },
+{
+    "name": "桜田淳子",
+    "ruby": "さくらだじゅんこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3I08XS",
+    "spotify_artist_id": "6hGjGXzxyWJnuZVyRkomF4",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+  {
+    "name": "ささきいさお",
+    "ruby": "ささきいさお",
+    "aliases": ["佐々木功"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JR5nW",
+    "spotify_artist_id": "1lEkk1df7Xoc5urJBV58V6",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "サザンオールスターズ",
+    "ruby": "さざんおーるすたーず",
+    "aliases": ["Southern All Stars", "SAS"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ej3d6",
+    "spotify_artist_id": "79nkC8XZ5ohEVU0Xlf5Ael",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "THE JAYWALK",
+    "ruby": "ざじぇいうぉーく",
+    "aliases": ["JAYWALK", "ジェイウォーク", "ジェーウォーク"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lxTUn",
+    "spotify_artist_id": "7lp4lzvCjxUeTDo6sB6ZyM",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "THE JET BOY BANGERZ",
+    "ruby": "ざじぇっとぼーいばんがーず",
+    "aliases": ["JBB"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SEU8N",
+    "spotify_artist_id": "3fjFsQiDcaCYsbcnFz3Rhi",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "サスケ",
+    "ruby": "さすけ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32n5Vn",
+    "spotify_artist_id": "5auUuRQ59faj5XKekMnHPv",
+    "tags": ["男性グループ", "J-POP"]
+  },
+  {
+    "name": "ザ・タイガース",
+    "ruby": "ざたいがーす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2J8LRz",
+    "spotify_artist_id": "4ExF31RSKICiaDkkRkcAdZ",
+    "tags": ["バンド", "歌謡曲"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
