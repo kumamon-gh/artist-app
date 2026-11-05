@@ -1,85 +1,5 @@
 [
   {
-    "name": "重盛さと美",
-    "ruby": "しげもりさとみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XgADf",
-    "spotify_artist_id": "520STFW9IFHZA5A1WPWUeZ",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-  {
-    "name": "シシド・カフカ",
-    "ruby": "ししどかふか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03yiUa",
-    "spotify_artist_id": "0dlbyoDrOHqBVQpKdPuUB8",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "C-C-B",
-    "ruby": "しーしーびー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YYEHI",
-    "spotify_artist_id": "3pOrCCIir0VlbMa8DFF04S",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "SHISHAMO",
-    "ruby": "ししゃも",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40ETs5",
-    "spotify_artist_id": "6MGHit7sV38BhpChZYByFv",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
-    "name": "ジッタリン・ジン",
-    "ruby": "じったりんじん",
-    "aliases": ["JITTERIN'JINN", "ジッタリン"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02nZ2E",
-    "spotify_artist_id": "0bpoE3oA5qVID9ZNZAuUmg",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "s**t kingz",
-    "ruby": "しっときんぐす",
-    "aliases": ["shitkingz", "シッキン", "シットキンクズ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tH0wd",
-    "spotify_artist_id": "4eRPT3dCcYsuZ2dFqqcaYx",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "シド",
-    "ruby": "しど",
-    "aliases": ["sid"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aEikP",
-    "spotify_artist_id": "24b231EnCM3BkpiuWs5VBE",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "篠原ともえ",
-    "ruby": "しのはらともえ",
-    "aliases": ["シノラー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cDaH9",
-    "spotify_artist_id": "27trVEYHShFRolUZEP29KC",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "篠原涼子",
-    "ruby": "しのはらりょうこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1wX8MV",
-    "spotify_artist_id": "2Ff8zALDdJVexxrBF9an2M",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "柴咲コウ",
-    "ruby": "しばさきこう",
-    "aliases": ["柴咲こう", "koshibasaki"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wkUfc",
-    "spotify_artist_id": "5YixSA79eNkVmTq8xzRYF7",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -11506,6 +11426,247 @@
     "description": "ZYYGの代表曲をまとめた公式のプレイリスト「This Is ZYYG」",
     "tags": [
       "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-533",
+    "name": "重盛さと美",
+    "ruby": "しげもりさとみ",
+    "kana": "シゲモリサトミ",
+    "romaji": [
+      "shigemorisatomi",
+      "sigemorisatomi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XgADf",
+    "spotify_artist_id": "520STFW9IFHZA5A1WPWUeZ",
+    "official_site": null,
+    "description": "重盛さと美の代表曲をまとめた公式のプレイリスト「This Is 重盛さと美」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-534",
+    "name": "シシド・カフカ",
+    "ruby": "ししどかふか",
+    "kana": "シシドカフカ",
+    "romaji": [
+      "shishidokafuka",
+      "sisidokahuka"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03yiUa",
+    "spotify_artist_id": "0dlbyoDrOHqBVQpKdPuUB8",
+    "official_site": null,
+    "description": "シシド・カフカの代表曲をまとめた公式のプレイリスト「This Is シシド・カフカ」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-535",
+    "name": "C-C-B",
+    "ruby": "しーしーびー",
+    "kana": "シーシービー",
+    "romaji": [
+      "ccb"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YYEHI",
+    "spotify_artist_id": "3pOrCCIir0VlbMa8DFF04S",
+    "official_site": null,
+    "description": "C-C-Bの代表曲をまとめた公式のプレイリスト「This Is C-C-B」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-536",
+    "name": "SHISHAMO",
+    "ruby": "ししゃも",
+    "kana": "シシャモ",
+    "romaji": [
+      "shishamo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40ETs5",
+    "spotify_artist_id": "6MGHit7sV38BhpChZYByFv",
+    "official_site": null,
+    "description": "SHISHAMOの代表曲をまとめた公式のプレイリスト「This Is SHISHAMO」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-537",
+    "name": "ジッタリン・ジン",
+    "ruby": "じったりんじん",
+    "kana": "ジッタリンジン",
+    "romaji": [
+      "jittarinjin",
+      "zittarinzin"
+    ],
+    "aliases": [
+      "JITTERIN'JINN",
+      "ジッタリン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02nZ2E",
+    "spotify_artist_id": "0bpoE3oA5qVID9ZNZAuUmg",
+    "official_site": null,
+    "description": "ジッタリン・ジンの代表曲をまとめた公式のプレイリスト「This Is ジッタリン・ジン」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-538",
+    "name": "s**t kingz",
+    "ruby": "しっときんぐす",
+    "kana": "シットキングス",
+    "romaji": [
+      "stkingz"
+    ],
+    "aliases": [
+      "shitkingz",
+      "シッキン",
+      "シットキンクズ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tH0wd",
+    "spotify_artist_id": "4eRPT3dCcYsuZ2dFqqcaYx",
+    "official_site": null,
+    "description": "s**t kingzの代表曲をまとめた公式のプレイリスト「This Is s**t kingz」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-539",
+    "name": "シド",
+    "ruby": "しど",
+    "kana": "シド",
+    "romaji": [
+      "shido",
+      "sido"
+    ],
+    "aliases": [
+      "sid"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aEikP",
+    "spotify_artist_id": "24b231EnCM3BkpiuWs5VBE",
+    "official_site": null,
+    "description": "シドの代表曲をまとめた公式のプレイリスト「This Is シド」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-540",
+    "name": "篠原ともえ",
+    "ruby": "しのはらともえ",
+    "kana": "シノハラトモエ",
+    "romaji": [
+      "shinoharatomoe",
+      "sinoharatomoe"
+    ],
+    "aliases": [
+      "シノラー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cDaH9",
+    "spotify_artist_id": "27trVEYHShFRolUZEP29KC",
+    "official_site": null,
+    "description": "篠原ともえの代表曲をまとめた公式のプレイリスト「This Is 篠原ともえ」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-541",
+    "name": "篠原涼子",
+    "ruby": "しのはらりょうこ",
+    "kana": "シノハラリョウコ",
+    "romaji": [
+      "shinohararyouko",
+      "sinohararyouko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1wX8MV",
+    "spotify_artist_id": "2Ff8zALDdJVexxrBF9an2M",
+    "official_site": null,
+    "description": "篠原涼子の代表曲をまとめた公式のプレイリスト「This Is 篠原涼子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-542",
+    "name": "柴咲コウ",
+    "ruby": "しばさきこう",
+    "kana": "シバサキコウ",
+    "romaji": [
+      "shibasakikou",
+      "sibasakikou"
+    ],
+    "aliases": [
+      "柴咲こう",
+      "koshibasaki"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wkUfc",
+    "spotify_artist_id": "5YixSA79eNkVmTq8xzRYF7",
+    "official_site": null,
+    "description": "柴咲コウの代表曲をまとめた公式のプレイリスト「This Is 柴咲コウ」",
+    "tags": [
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
