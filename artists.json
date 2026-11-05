@@ -1,5 +1,86 @@
 [
   {
+    "name": "椎名恵",
+    "ruby": "しいなめぐみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HeesA",
+    "spotify_artist_id": "6gp9jw7DuN6VFhpYoZzu4X",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "椎名林檎",
+    "ruby": "しいなりんご",
+    "aliases": ["林檎", "りんご"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1HP8iu",
+    "spotify_artist_id": "2XjqKvB2Xz9IdyjWPIHaXi",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "JO1",
+    "ruby": "じぇいおーわん",
+    "aliases": ["ジェーオーワン", "ジョーワン"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYNqGXJE31uO",
+    "spotify_artist_id": "2koP6FEfIEVk4l2Fe6jFhu",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "JAY'ED",
+    "ruby": "じぇいど",
+    "aliases": ["jayd"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22iIsU",
+    "spotify_artist_id": "3vlAUneucinIokaOUeYbrv",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+  {
+    "name": "J.Y. Park",
+    "ruby": "じぇいわいぱーく",
+    "aliases": ["パクジニョン", "jyp"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14sEBG",
+    "spotify_artist_id": "1TTx0YcbKUtJIZY1HEnh9B",
+    "tags": ["男性ソロ", "K-POP", "海外アーティスト"]
+  },
+  {
+    "name": "ジェニーハイ",
+    "ruby": "じぇにーはい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO10rwit",
+    "spotify_artist_id": "1NdpjvRYsY6cwAVX9YWzAB",
+    "tags": ["男女混成グループ", "J-POP"]
+  },
+  {
+    "name": "GENERATIONS",
+    "ruby": "じぇねれーしょんず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2KLZ2c",
+    "spotify_artist_id": "4HfuyMMy295oBvbIuXr0v8",
+    "tags": ["男性グループ", "J-POP"]
+  },
+  {
+    "name": "ジェロ",
+    "ruby": "じぇろ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QPO6p",
+    "spotify_artist_id": "3chLNFSDZkd5g9Fo43dxgJ",
+    "tags": ["男性ソロ", "演歌"]
+  },
+
+{
+    "name": "ZIGGY",
+    "ruby": "じぎー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DAlyS",
+    "spotify_artist_id": "1be5pBkzQZ3kVJFWroppbb",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "ZYYG",
+    "ruby": "じーぐ",
+    "aliases": ["ジーワイワイジー", "ジッグ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO35ebqd",
+    "spotify_artist_id": "5ffbZjWEhkdJ8a7kPXQCyE",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
