@@ -1,5 +1,85 @@
 [
   {
+    "name": "佐野元春",
+    "ruby": "さのもとはる",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d0RhF",
+    "spotify_artist_id": "286Db6EQmfgB3SJYulhGqb",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+  {
+    "name": "サバシスター",
+    "ruby": "さばしすたー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31ZZOF",
+    "spotify_artist_id": "59SCS5djYwMbZv80XDI0pj",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "The Birthday",
+    "ruby": "ざばーすでぃ",
+    "aliases": ["ザバースデー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31dm63",
+    "spotify_artist_id": "58zME34zPsQx58YXCyFryH",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "ザ・ピーナッツ",
+    "ruby": "ざぴーなっつ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3iUviG",
+    "spotify_artist_id": "5BZgkvkTEBu0cXyM1MkvKl",
+    "tags": ["女性グループ", "歌謡曲"]
+  },
+{
+    "name": "Safarii",
+    "ruby": "さふぁりー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Xz3yz",
+    "spotify_artist_id": "1Ir5sJR1kohwOVrOMl0ViK",
+    "tags": ["男女混成グループ", "J-POP"]
+  },
+{
+    "name": "THE BOOM",
+    "ruby": "ざぶーむ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZS33v",
+    "spotify_artist_id": "3rj96ybf29aaJsJRg4Qci2",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "the brilliant green",
+    "ruby": "ざぶりりあんとぐりーん",
+    "aliases": ["ブリグリ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40HwpR",
+    "spotify_artist_id": "6ML3nrYx5Mu1wcXP8SmtG2",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
+    "name": "ザ・ベイビースターズ",
+    "ruby": "ざべいびーすたーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0KfyJK",
+    "spotify_artist_id": "1mj0NmmfWyzHsJsmWyBtge",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "Something ELse",
+    "ruby": "さむしんぐえるす",
+    "aliases": ["サムエル"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DGhYT",
+    "spotify_artist_id": "2QqEZyjFGNgDq9jEvireY0",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "THE RAMPAGE",
+    "ruby": "ざらんぺーじ",
+    "aliases": ["ランペ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VvWZr",
+    "spotify_artist_id": "6E94YMM50nYraxpkixvQuW",
+    "tags": ["男性グループ", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
