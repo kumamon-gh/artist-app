@@ -1,86 +1,5 @@
 [
   {
-    "name": "椎名恵",
-    "ruby": "しいなめぐみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HeesA",
-    "spotify_artist_id": "6gp9jw7DuN6VFhpYoZzu4X",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "椎名林檎",
-    "ruby": "しいなりんご",
-    "aliases": ["林檎", "りんご"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1HP8iu",
-    "spotify_artist_id": "2XjqKvB2Xz9IdyjWPIHaXi",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "JO1",
-    "ruby": "じぇいおーわん",
-    "aliases": ["ジェーオーワン", "ジョーワン"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYNqGXJE31uO",
-    "spotify_artist_id": "2koP6FEfIEVk4l2Fe6jFhu",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "JAY'ED",
-    "ruby": "じぇいど",
-    "aliases": ["jayd"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22iIsU",
-    "spotify_artist_id": "3vlAUneucinIokaOUeYbrv",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-  {
-    "name": "J.Y. Park",
-    "ruby": "じぇいわいぱーく",
-    "aliases": ["パクジニョン", "jyp"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14sEBG",
-    "spotify_artist_id": "1TTx0YcbKUtJIZY1HEnh9B",
-    "tags": ["男性ソロ", "K-POP", "海外アーティスト"]
-  },
-  {
-    "name": "ジェニーハイ",
-    "ruby": "じぇにーはい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO10rwit",
-    "spotify_artist_id": "1NdpjvRYsY6cwAVX9YWzAB",
-    "tags": ["男女混成グループ", "J-POP"]
-  },
-  {
-    "name": "GENERATIONS",
-    "ruby": "じぇねれーしょんず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2KLZ2c",
-    "spotify_artist_id": "4HfuyMMy295oBvbIuXr0v8",
-    "tags": ["男性グループ", "J-POP"]
-  },
-  {
-    "name": "ジェロ",
-    "ruby": "じぇろ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QPO6p",
-    "spotify_artist_id": "3chLNFSDZkd5g9Fo43dxgJ",
-    "tags": ["男性ソロ", "演歌"]
-  },
-
-{
-    "name": "ZIGGY",
-    "ruby": "じぎー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DAlyS",
-    "spotify_artist_id": "1be5pBkzQZ3kVJFWroppbb",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "ZYYG",
-    "ruby": "じーぐ",
-    "aliases": ["ジーワイワイジー", "ジッグ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO35ebqd",
-    "spotify_artist_id": "5ffbZjWEhkdJ8a7kPXQCyE",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -11272,6 +11191,245 @@
     "added_date": "2026-11-05",
     "updated_date": "2026-11-05",
     "color": "#16d1a6"
+  },
+  {
+    "id": "artist-523",
+    "name": "椎名恵",
+    "ruby": "しいなめぐみ",
+    "kana": "シイナメグミ",
+    "romaji": [
+      "shiinamegumi",
+      "siinamegumi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HeesA",
+    "spotify_artist_id": "6gp9jw7DuN6VFhpYoZzu4X",
+    "official_site": null,
+    "description": "椎名恵の代表曲をまとめた公式のプレイリスト「This Is 椎名恵」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-524",
+    "name": "椎名林檎",
+    "ruby": "しいなりんご",
+    "kana": "シイナリンゴ",
+    "romaji": [
+      "shiinaringo",
+      "siinaringo"
+    ],
+    "aliases": [
+      "林檎",
+      "りんご"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1HP8iu",
+    "spotify_artist_id": "2XjqKvB2Xz9IdyjWPIHaXi",
+    "official_site": null,
+    "description": "椎名林檎の代表曲をまとめた公式のプレイリスト「This Is 椎名林檎」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-525",
+    "name": "JO1",
+    "ruby": "じぇいおーわん",
+    "kana": "ジェイオーワン",
+    "romaji": [
+      "jo1"
+    ],
+    "aliases": [
+      "ジェーオーワン",
+      "ジョーワン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYNqGXJE31uO",
+    "spotify_artist_id": "2koP6FEfIEVk4l2Fe6jFhu",
+    "official_site": null,
+    "description": "JO1の代表曲をまとめた公式のプレイリスト「This Is JO1」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-526",
+    "name": "JAY'ED",
+    "ruby": "じぇいど",
+    "kana": "ジェイド",
+    "romaji": [
+      "jayed"
+    ],
+    "aliases": [
+      "jayd"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22iIsU",
+    "spotify_artist_id": "3vlAUneucinIokaOUeYbrv",
+    "official_site": null,
+    "description": "JAY'EDの代表曲をまとめた公式のプレイリスト「This Is JAY'ED」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-527",
+    "name": "J.Y. Park",
+    "ruby": "じぇいわいぱーく",
+    "kana": "ジェイワイパーク",
+    "romaji": [
+      "jypark"
+    ],
+    "aliases": [
+      "パクジニョン",
+      "jyp"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14sEBG",
+    "spotify_artist_id": "1TTx0YcbKUtJIZY1HEnh9B",
+    "official_site": null,
+    "description": "J.Y. Parkの代表曲をまとめた公式のプレイリスト「This Is J.Y. Park」",
+    "tags": [
+      "男性ソロ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-528",
+    "name": "ジェニーハイ",
+    "ruby": "じぇにーはい",
+    "kana": "ジェニーハイ",
+    "romaji": [
+      "jeniihai",
+      "zeniihai"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO10rwit",
+    "spotify_artist_id": "1NdpjvRYsY6cwAVX9YWzAB",
+    "official_site": null,
+    "description": "ジェニーハイの代表曲をまとめた公式のプレイリスト「This Is ジェニーハイ」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-529",
+    "name": "GENERATIONS",
+    "ruby": "じぇねれーしょんず",
+    "kana": "ジェネレーションズ",
+    "romaji": [
+      "generations"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2KLZ2c",
+    "spotify_artist_id": "4HfuyMMy295oBvbIuXr0v8",
+    "official_site": null,
+    "description": "GENERATIONSの代表曲をまとめた公式のプレイリスト「This Is GENERATIONS」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-530",
+    "name": "ジェロ",
+    "ruby": "じぇろ",
+    "kana": "ジェロ",
+    "romaji": [
+      "jero",
+      "zero"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QPO6p",
+    "spotify_artist_id": "3chLNFSDZkd5g9Fo43dxgJ",
+    "official_site": null,
+    "description": "ジェロの代表曲をまとめた公式のプレイリスト「This Is ジェロ」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-531",
+    "name": "ZIGGY",
+    "ruby": "じぎー",
+    "kana": "ジギー",
+    "romaji": [
+      "ziggy"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DAlyS",
+    "spotify_artist_id": "1be5pBkzQZ3kVJFWroppbb",
+    "official_site": null,
+    "description": "ZIGGYの代表曲をまとめた公式のプレイリスト「This Is ZIGGY」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-532",
+    "name": "ZYYG",
+    "ruby": "じーぐ",
+    "kana": "ジーグ",
+    "romaji": [
+      "zyyg"
+    ],
+    "aliases": [
+      "ジーワイワイジー",
+      "ジッグ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO35ebqd",
+    "spotify_artist_id": "5ffbZjWEhkdJ8a7kPXQCyE",
+    "official_site": null,
+    "description": "ZYYGの代表曲をまとめた公式のプレイリスト「This Is ZYYG」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
   },
   {
     "id": "artist-184",
