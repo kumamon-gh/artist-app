@@ -1,5 +1,29 @@
 [
   {
+    "name": "猿岩石",
+    "ruby": "さるがんせき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nR9tL",
+    "spotify_artist_id": "2q7KeWojB7TwaIbiWuArEW",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "ザ・ワイルドワンズ",
+    "ruby": "ざわいるどわんず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ZdyPp",
+    "spotify_artist_id": "6KitwYTgRB6oeqabIfEwo8",
+    "tags": ["バンド", "歌謡曲"]
+  },
+{
+    "name": "沢田研二",
+    "ruby": "さわだけんじ",
+    "aliases": ["ジュリー", "澤田研二"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PdLJI",
+    "spotify_artist_id": "4ODvJoXQmuckB89qwmCzTd",
+    "tags": ["男性ソロ", "歌謡曲"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
