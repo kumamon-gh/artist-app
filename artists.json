@@ -1,5 +1,13 @@
 [
   {
+    "name": "斉藤由貴",
+    "ruby": "さいとうゆき",
+    "aliases": ["斎藤由貴", "齋藤由貴"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Q523p",
+    "spotify_artist_id": "3b1ILSjPEq1AXyfmZXkPGr",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
