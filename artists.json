@@ -1,5 +1,85 @@
 [
   {
+    "name": "柴田恭兵",
+    "ruby": "しばたきょうへい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4o8pAE",
+    "spotify_artist_id": "7pIdoY9RmjQrLCpWzjePFt",
+    "tags": ["男性ソロ", "歌謡曲"]
+  },
+  {
+    "name": "島倉千代子",
+    "ruby": "しまくらちよこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XYXlI",
+    "spotify_artist_id": "53cuVCnpOQkB0gnNcoS3SC",
+    "tags": ["女性ソロ", "演歌", "歌謡曲"]
+  },
+  {
+    "name": "島田歌穂",
+    "ruby": "しまだかほ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO356L6i",
+    "spotify_artist_id": "5f3bK61MPrJ94WSj4RrRHi",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+{
+    "name": "島谷ひとみ",
+    "ruby": "しまたにひとみ",
+    "aliases": ["島谷瞳"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LZ5fj",
+    "spotify_artist_id": "34eavfJpWV3DnvwqOmml18",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "島津亜矢",
+    "ruby": "しまづあや",
+    "aliases": ["しまずあや"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0trVtu",
+    "spotify_artist_id": "0Uo2L6pJ0ifmUIc00fHElx",
+    "tags": ["女性ソロ", "演歌"]
+  },
+{
+    "name": "清水翔太",
+    "ruby": "しみずしょうた",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1J2d40",
+    "spotify_artist_id": "2ZjWbNQAjL74Pf4aqikIz2",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "清水美依紗",
+    "ruby": "しみずみいしゃ",
+    "aliases": ["しみずみいさ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z9fZV",
+    "spotify_artist_id": "2ITl7YzD1Hm6NVojBhKkOp",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "SiM",
+    "ruby": "しむ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uRCKI",
+    "spotify_artist_id": "2BM933ADIluGGrPBOhPgIt",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "SEAMO",
+    "ruby": "しーも",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0OBChC",
+    "spotify_artist_id": "1txC4MvuCHFRrtRiy4cwnR",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+  {
+    "name": "シャイトープ",
+    "ruby": "しゃいとーぷ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cboKQ",
+    "spotify_artist_id": "26JbIcCELE7o1nl8pw6Vlg",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
