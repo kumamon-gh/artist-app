@@ -1,61 +1,5 @@
 [
   {
-    "name": "澤田知可子",
-    "ruby": "さわだちかこ",
-    "aliases": ["沢田知可子"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Eix6o",
-    "spotify_artist_id": "1cpDDMq3VbNnVr45wkeHzb",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "三代目 J Soul Brothers",
-    "ruby": "さんだいめじぇいそうるぶらざーず",
-    "aliases": ["JSB", "三代目JSB"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GvuCT",
-    "spotify_artist_id": "1g51NlHKUXlgfvGP22m0uD",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "サンプラザ中野くん",
-    "ruby": "さんぷらざなかのくん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO290upJ",
-    "spotify_artist_id": "3GuupOBSa826HytfVVhxdi",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "サンボマスター",
-    "ruby": "さんぼますたー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3gE0ye",
-    "spotify_artist_id": "5ydDSP9qSxEOlHWnpbblFB",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "i-dle",
-    "ruby": "あいどぅる",
-    "aliases": ["gidle", "(G)I-DLE", "アイドル", "ジーアイドル"],
-    "url": "",
-    "spotify_artist_id": "",
-    "tags": ["女性グループ", "K-POP", "海外アーティスト"]
-  },
-{
-    "name": "THE ALFEE",
-    "ruby": "じあるふぃー",
-    "aliases": ["アルフィー", "ザアルフィー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZY2yA5",
-    "spotify_artist_id": "04bitarCLkcC3GVESLDZgY",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "C&K",
-    "ruby": "しーあんどけー",
-    "aliases": ["ck"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SnClh",
-    "spotify_artist_id": "3eR0Jeo212WCF0Yyi46Pzj",
-    "tags": ["男性グループ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -258,6 +202,34 @@
     "added_date": "2026-04-27",
     "updated_date": "2026-04-27",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-520",
+    "name": "i-dle",
+    "ruby": "あいどぅる",
+    "kana": "アイドゥル",
+    "romaji": [
+      "idle"
+    ],
+    "aliases": [
+      "gidle",
+      "(G)I-DLE",
+      "アイドル",
+      "ジーアイドル"
+    ],
+    "url": "",
+    "spotify_artist_id": null,
+    "official_site": null,
+    "description": "i-dleの代表曲をまとめた公式のプレイリスト「This Is i-dle」",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
   },
   {
     "id": "artist-11",
@@ -11069,6 +11041,151 @@
     "tags": [
       "男性ソロ",
       "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-516",
+    "name": "澤田知可子",
+    "ruby": "さわだちかこ",
+    "kana": "サワダチカコ",
+    "romaji": [
+      "sawadachikako",
+      "sawadatikako"
+    ],
+    "aliases": [
+      "沢田知可子"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Eix6o",
+    "spotify_artist_id": "1cpDDMq3VbNnVr45wkeHzb",
+    "official_site": null,
+    "description": "澤田知可子の代表曲をまとめた公式のプレイリスト「This Is 澤田知可子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-517",
+    "name": "三代目 J Soul Brothers",
+    "ruby": "さんだいめじぇいそうるぶらざーず",
+    "kana": "サンダイメジェイソウルブラザーズ",
+    "romaji": [
+      "sandaimejeisouruburazaazu",
+      "sandaimezeisouruburazaazu",
+      "jsoulbrothers"
+    ],
+    "aliases": [
+      "JSB",
+      "三代目JSB"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GvuCT",
+    "spotify_artist_id": "1g51NlHKUXlgfvGP22m0uD",
+    "official_site": null,
+    "description": "三代目 J Soul Brothersの代表曲をまとめた公式のプレイリスト「This Is 三代目 J Soul Brothers」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-518",
+    "name": "サンプラザ中野くん",
+    "ruby": "さんぷらざなかのくん",
+    "kana": "サンプラザナカノクン",
+    "romaji": [
+      "sanpurazanakanokun"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO290upJ",
+    "spotify_artist_id": "3GuupOBSa826HytfVVhxdi",
+    "official_site": null,
+    "description": "サンプラザ中野くんの代表曲をまとめた公式のプレイリスト「This Is サンプラザ中野くん」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-519",
+    "name": "サンボマスター",
+    "ruby": "さんぼますたー",
+    "kana": "サンボマスター",
+    "romaji": [
+      "sanbomasutaa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3gE0ye",
+    "spotify_artist_id": "5ydDSP9qSxEOlHWnpbblFB",
+    "official_site": null,
+    "description": "サンボマスターの代表曲をまとめた公式のプレイリスト「This Is サンボマスター」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-521",
+    "name": "THE ALFEE",
+    "ruby": "じあるふぃー",
+    "kana": "ジアルフィー",
+    "romaji": [
+      "thealfee"
+    ],
+    "aliases": [
+      "アルフィー",
+      "ザアルフィー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZY2yA5",
+    "spotify_artist_id": "04bitarCLkcC3GVESLDZgY",
+    "official_site": null,
+    "description": "THE ALFEEの代表曲をまとめた公式のプレイリスト「This Is THE ALFEE」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-522",
+    "name": "C&K",
+    "ruby": "しーあんどけー",
+    "kana": "シーアンドケー",
+    "romaji": [
+      "candk"
+    ],
+    "aliases": [
+      "ck"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SnClh",
+    "spotify_artist_id": "3eR0Jeo212WCF0Yyi46Pzj",
+    "official_site": null,
+    "description": "C&Kの代表曲をまとめた公式のプレイリスト「This Is C&K」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
     ],
     "status": "published",
     "added_date": "2026-11-05",
