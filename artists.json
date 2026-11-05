@@ -1,85 +1,5 @@
 [
   {
-    "name": "佐野元春",
-    "ruby": "さのもとはる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d0RhF",
-    "spotify_artist_id": "286Db6EQmfgB3SJYulhGqb",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-  {
-    "name": "サバシスター",
-    "ruby": "さばしすたー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31ZZOF",
-    "spotify_artist_id": "59SCS5djYwMbZv80XDI0pj",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "The Birthday",
-    "ruby": "ざばーすでぃ",
-    "aliases": ["ザバースデー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31dm63",
-    "spotify_artist_id": "58zME34zPsQx58YXCyFryH",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "ザ・ピーナッツ",
-    "ruby": "ざぴーなっつ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3iUviG",
-    "spotify_artist_id": "5BZgkvkTEBu0cXyM1MkvKl",
-    "tags": ["女性グループ", "歌謡曲"]
-  },
-{
-    "name": "Safarii",
-    "ruby": "さふぁりー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Xz3yz",
-    "spotify_artist_id": "1Ir5sJR1kohwOVrOMl0ViK",
-    "tags": ["男女混成グループ", "J-POP"]
-  },
-{
-    "name": "THE BOOM",
-    "ruby": "ざぶーむ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZS33v",
-    "spotify_artist_id": "3rj96ybf29aaJsJRg4Qci2",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "the brilliant green",
-    "ruby": "ざぶりりあんとぐりーん",
-    "aliases": ["ブリグリ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40HwpR",
-    "spotify_artist_id": "6ML3nrYx5Mu1wcXP8SmtG2",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
-    "name": "ザ・ベイビースターズ",
-    "ruby": "ざべいびーすたーず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0KfyJK",
-    "spotify_artist_id": "1mj0NmmfWyzHsJsmWyBtge",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "Something ELse",
-    "ruby": "さむしんぐえるす",
-    "aliases": ["サムエル"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DGhYT",
-    "spotify_artist_id": "2QqEZyjFGNgDq9jEvireY0",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "THE RAMPAGE",
-    "ruby": "ざらんぺーじ",
-    "aliases": ["ランペ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VvWZr",
-    "spotify_artist_id": "6E94YMM50nYraxpkixvQuW",
-    "tags": ["男性グループ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -10798,6 +10718,236 @@
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
     "color": "#e5ad89"
+  },
+  {
+    "id": "artist-503",
+    "name": "佐野元春",
+    "ruby": "さのもとはる",
+    "kana": "サノモトハル",
+    "romaji": [
+      "sanomotoharu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d0RhF",
+    "spotify_artist_id": "286Db6EQmfgB3SJYulhGqb",
+    "official_site": null,
+    "description": "佐野元春の代表曲をまとめた公式のプレイリスト「This Is 佐野元春」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-504",
+    "name": "サバシスター",
+    "ruby": "さばしすたー",
+    "kana": "サバシスター",
+    "romaji": [
+      "sabashisutaa",
+      "sabasisutaa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31ZZOF",
+    "spotify_artist_id": "59SCS5djYwMbZv80XDI0pj",
+    "official_site": null,
+    "description": "サバシスターの代表曲をまとめた公式のプレイリスト「This Is サバシスター」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-505",
+    "name": "The Birthday",
+    "ruby": "ざばーすでぃ",
+    "kana": "ザバースディ",
+    "romaji": [
+      "thebirthday"
+    ],
+    "aliases": [
+      "ザバースデー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31dm63",
+    "spotify_artist_id": "58zME34zPsQx58YXCyFryH",
+    "official_site": null,
+    "description": "The Birthdayの代表曲をまとめた公式のプレイリスト「This Is The Birthday」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-506",
+    "name": "ザ・ピーナッツ",
+    "ruby": "ざぴーなっつ",
+    "kana": "ザピーナッツ",
+    "romaji": [
+      "zapiinattsu",
+      "zapiinattu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3iUviG",
+    "spotify_artist_id": "5BZgkvkTEBu0cXyM1MkvKl",
+    "official_site": null,
+    "description": "ザ・ピーナッツの代表曲をまとめた公式のプレイリスト「This Is ザ・ピーナッツ」",
+    "tags": [
+      "女性グループ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-507",
+    "name": "Safarii",
+    "ruby": "さふぁりー",
+    "kana": "サファリー",
+    "romaji": [
+      "safarii"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Xz3yz",
+    "spotify_artist_id": "1Ir5sJR1kohwOVrOMl0ViK",
+    "official_site": null,
+    "description": "Safariiの代表曲をまとめた公式のプレイリスト「This Is Safarii」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-508",
+    "name": "THE BOOM",
+    "ruby": "ざぶーむ",
+    "kana": "ザブーム",
+    "romaji": [
+      "theboom"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZS33v",
+    "spotify_artist_id": "3rj96ybf29aaJsJRg4Qci2",
+    "official_site": null,
+    "description": "THE BOOMの代表曲をまとめた公式のプレイリスト「This Is THE BOOM」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-509",
+    "name": "the brilliant green",
+    "ruby": "ざぶりりあんとぐりーん",
+    "kana": "ザブリリアントグリーン",
+    "romaji": [
+      "thebrilliantgreen"
+    ],
+    "aliases": [
+      "ブリグリ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40HwpR",
+    "spotify_artist_id": "6ML3nrYx5Mu1wcXP8SmtG2",
+    "official_site": null,
+    "description": "the brilliant greenの代表曲をまとめた公式のプレイリスト「This Is the brilliant green」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-510",
+    "name": "ザ・ベイビースターズ",
+    "ruby": "ざべいびーすたーず",
+    "kana": "ザベイビースターズ",
+    "romaji": [
+      "zabeibiisutaazu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0KfyJK",
+    "spotify_artist_id": "1mj0NmmfWyzHsJsmWyBtge",
+    "official_site": null,
+    "description": "ザ・ベイビースターズの代表曲をまとめた公式のプレイリスト「This Is ザ・ベイビースターズ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-511",
+    "name": "Something ELse",
+    "ruby": "さむしんぐえるす",
+    "kana": "サムシングエルス",
+    "romaji": [
+      "somethingelse"
+    ],
+    "aliases": [
+      "サムエル"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DGhYT",
+    "spotify_artist_id": "2QqEZyjFGNgDq9jEvireY0",
+    "official_site": null,
+    "description": "Something ELseの代表曲をまとめた公式のプレイリスト「This Is Something ELse」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-512",
+    "name": "THE RAMPAGE",
+    "ruby": "ざらんぺーじ",
+    "kana": "ザランページ",
+    "romaji": [
+      "therampage"
+    ],
+    "aliases": [
+      "ランペ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VvWZr",
+    "spotify_artist_id": "6E94YMM50nYraxpkixvQuW",
+    "official_site": null,
+    "description": "THE RAMPAGEの代表曲をまとめた公式のプレイリスト「This Is THE RAMPAGE」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
   },
   {
     "id": "artist-184",
