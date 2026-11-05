@@ -1,5 +1,61 @@
 [
   {
+    "name": "澤田知可子",
+    "ruby": "さわだちかこ",
+    "aliases": ["沢田知可子"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Eix6o",
+    "spotify_artist_id": "1cpDDMq3VbNnVr45wkeHzb",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "三代目 J Soul Brothers",
+    "ruby": "さんだいめじぇいそうるぶらざーず",
+    "aliases": ["JSB", "三代目JSB"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GvuCT",
+    "spotify_artist_id": "1g51NlHKUXlgfvGP22m0uD",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "サンプラザ中野くん",
+    "ruby": "さんぷらざなかのくん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO290upJ",
+    "spotify_artist_id": "3GuupOBSa826HytfVVhxdi",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "サンボマスター",
+    "ruby": "さんぼますたー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3gE0ye",
+    "spotify_artist_id": "5ydDSP9qSxEOlHWnpbblFB",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "i-dle",
+    "ruby": "あいどぅる",
+    "aliases": ["gidle", "(G)I-DLE", "アイドル", "ジーアイドル"],
+    "url": "",
+    "spotify_artist_id": "",
+    "tags": ["女性グループ", "K-POP", "海外アーティスト"]
+  },
+{
+    "name": "THE ALFEE",
+    "ruby": "じあるふぃー",
+    "aliases": ["アルフィー", "ザアルフィー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZY2yA5",
+    "spotify_artist_id": "04bitarCLkcC3GVESLDZgY",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "C&K",
+    "ruby": "しーあんどけー",
+    "aliases": ["ck"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SnClh",
+    "spotify_artist_id": "3eR0Jeo212WCF0Yyi46Pzj",
+    "tags": ["男性グループ", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
