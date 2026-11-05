@@ -1,29 +1,5 @@
 [
   {
-    "name": "猿岩石",
-    "ruby": "さるがんせき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nR9tL",
-    "spotify_artist_id": "2q7KeWojB7TwaIbiWuArEW",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "ザ・ワイルドワンズ",
-    "ruby": "ざわいるどわんず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ZdyPp",
-    "spotify_artist_id": "6KitwYTgRB6oeqabIfEwo8",
-    "tags": ["バンド", "歌謡曲"]
-  },
-{
-    "name": "沢田研二",
-    "ruby": "さわだけんじ",
-    "aliases": ["ジュリー", "澤田研二"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PdLJI",
-    "spotify_artist_id": "4ODvJoXQmuckB89qwmCzTd",
-    "tags": ["男性ソロ", "歌謡曲"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -10967,6 +10943,76 @@
     "tags": [
       "男性グループ",
       "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-513",
+    "name": "猿岩石",
+    "ruby": "さるがんせき",
+    "kana": "サルガンセキ",
+    "romaji": [
+      "saruganseki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nR9tL",
+    "spotify_artist_id": "2q7KeWojB7TwaIbiWuArEW",
+    "official_site": null,
+    "description": "猿岩石の代表曲をまとめた公式のプレイリスト「This Is 猿岩石」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-514",
+    "name": "ザ・ワイルドワンズ",
+    "ruby": "ざわいるどわんず",
+    "kana": "ザワイルドワンズ",
+    "romaji": [
+      "zawairudowanzu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ZdyPp",
+    "spotify_artist_id": "6KitwYTgRB6oeqabIfEwo8",
+    "official_site": null,
+    "description": "ザ・ワイルドワンズの代表曲をまとめた公式のプレイリスト「This Is ザ・ワイルドワンズ」",
+    "tags": [
+      "バンド",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-515",
+    "name": "沢田研二",
+    "ruby": "さわだけんじ",
+    "kana": "サワダケンジ",
+    "romaji": [
+      "sawadakenji",
+      "sawadakenzi"
+    ],
+    "aliases": [
+      "ジュリー",
+      "澤田研二"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PdLJI",
+    "spotify_artist_id": "4ODvJoXQmuckB89qwmCzTd",
+    "official_site": null,
+    "description": "沢田研二の代表曲をまとめた公式のプレイリスト「This Is 沢田研二」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
     ],
     "status": "published",
     "added_date": "2026-11-05",
