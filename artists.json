@@ -1,61 +1,5 @@
 [
   {
-    "name": "SHINee",
-    "ruby": "しゃいにー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iSTEA",
-    "spotify_artist_id": "2hRQKC0gqlZGPrmUKbcchR",
-    "tags": ["男性グループ", "K-POP", "海外アーティスト"]
-  },
-  {
-    "name": "SHAZNA",
-    "ruby": "しゃずな",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0N2wuZ",
-    "spotify_artist_id": "1qWhc5xaI8R8Mv95ZY2rY6",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "ジャッキー吉川とブルー・コメッツ",
-    "ruby": "じゃっきーよしかわとぶるーこめっつ",
-    "aliases": ["ブルコメ", "ブルーコメッツ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0VNl2H",
-    "spotify_artist_id": "1FuGXhS9KcNy6YF2PZqLj1",
-    "tags": ["バンド", "歌謡曲"]
-  },
-{
-    "name": "SIAM SHADE",
-    "ruby": "しゃむしぇいど",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iHyjj",
-    "spotify_artist_id": "0CvWmx0ZwvjimskCJvUjXb",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "シャ乱Q",
-    "ruby": "しゃらんきゅー",
-    "aliases": ["シャランQ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JjoDg",
-    "spotify_artist_id": "1kK9HRCnY3kiEgiEZIjHVH",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "Jungle Smile",
-    "ruby": "じゃんぐるすまいる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Rlt18",
-    "spotify_artist_id": "6xdg0RWqnueooDo4chTcta",
-    "tags": ["男女混成グループ", "J-POP"]
-  },
-{
-    "name": "Janne Da Arc",
-    "ruby": "じゃんぬだるく",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Bx3hz",
-    "spotify_artist_id": "17OoiwOfChkOVxbqaLzB1W",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -11956,6 +11900,168 @@
     "spotify_artist_id": "26JbIcCELE7o1nl8pw6Vlg",
     "official_site": null,
     "description": "シャイトープの代表曲をまとめた公式のプレイリスト「This Is シャイトープ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-553",
+    "name": "SHINee",
+    "ruby": "しゃいにー",
+    "kana": "シャイニー",
+    "romaji": [
+      "shinee"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iSTEA",
+    "spotify_artist_id": "2hRQKC0gqlZGPrmUKbcchR",
+    "official_site": null,
+    "description": "SHINeeの代表曲をまとめた公式のプレイリスト「This Is SHINee」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-554",
+    "name": "SHAZNA",
+    "ruby": "しゃずな",
+    "kana": "シャズナ",
+    "romaji": [
+      "shazna"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0N2wuZ",
+    "spotify_artist_id": "1qWhc5xaI8R8Mv95ZY2rY6",
+    "official_site": null,
+    "description": "SHAZNAの代表曲をまとめた公式のプレイリスト「This Is SHAZNA」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-555",
+    "name": "ジャッキー吉川とブルー・コメッツ",
+    "ruby": "じゃっきーよしかわとぶるーこめっつ",
+    "kana": "ジャッキーヨシカワトブルーコメッツ",
+    "romaji": [
+      "jakkiiyoshikawatoburuukomettsu",
+      "zyakkiiyosikawatoburuukomettu"
+    ],
+    "aliases": [
+      "ブルコメ",
+      "ブルーコメッツ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0VNl2H",
+    "spotify_artist_id": "1FuGXhS9KcNy6YF2PZqLj1",
+    "official_site": null,
+    "description": "ジャッキー吉川とブルー・コメッツの代表曲をまとめた公式のプレイリスト「This Is ジャッキー吉川とブルー・コメッツ」",
+    "tags": [
+      "バンド",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-556",
+    "name": "SIAM SHADE",
+    "ruby": "しゃむしぇいど",
+    "kana": "シャムシェイド",
+    "romaji": [
+      "siamshade"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iHyjj",
+    "spotify_artist_id": "0CvWmx0ZwvjimskCJvUjXb",
+    "official_site": null,
+    "description": "SIAM SHADEの代表曲をまとめた公式のプレイリスト「This Is SIAM SHADE」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-557",
+    "name": "シャ乱Q",
+    "ruby": "しゃらんきゅー",
+    "kana": "シャランキュー",
+    "romaji": [
+      "sharankyuu",
+      "syarankyuu"
+    ],
+    "aliases": [
+      "シャランQ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JjoDg",
+    "spotify_artist_id": "1kK9HRCnY3kiEgiEZIjHVH",
+    "official_site": null,
+    "description": "シャ乱Qの代表曲をまとめた公式のプレイリスト「This Is シャ乱Q」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-558",
+    "name": "Jungle Smile",
+    "ruby": "じゃんぐるすまいる",
+    "kana": "ジャングルスマイル",
+    "romaji": [
+      "junglesmile"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Rlt18",
+    "spotify_artist_id": "6xdg0RWqnueooDo4chTcta",
+    "official_site": null,
+    "description": "Jungle Smileの代表曲をまとめた公式のプレイリスト「This Is Jungle Smile」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-05",
+    "updated_date": "2026-11-05",
+    "color": ""
+  },
+  {
+    "id": "artist-559",
+    "name": "Janne Da Arc",
+    "ruby": "じゃんぬだるく",
+    "kana": "ジャンヌダルク",
+    "romaji": [
+      "jannedaarc"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Bx3hz",
+    "spotify_artist_id": "17OoiwOfChkOVxbqaLzB1W",
+    "official_site": null,
+    "description": "Janne Da Arcの代表曲をまとめた公式のプレイリスト「This Is Janne Da Arc」",
     "tags": [
       "バンド",
       "J-POP"
