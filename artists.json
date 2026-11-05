@@ -1,5 +1,85 @@
 [
   {
+    "name": "重盛さと美",
+    "ruby": "しげもりさとみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XgADf",
+    "spotify_artist_id": "520STFW9IFHZA5A1WPWUeZ",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+  {
+    "name": "シシド・カフカ",
+    "ruby": "ししどかふか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03yiUa",
+    "spotify_artist_id": "0dlbyoDrOHqBVQpKdPuUB8",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "C-C-B",
+    "ruby": "しーしーびー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YYEHI",
+    "spotify_artist_id": "3pOrCCIir0VlbMa8DFF04S",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "SHISHAMO",
+    "ruby": "ししゃも",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40ETs5",
+    "spotify_artist_id": "6MGHit7sV38BhpChZYByFv",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
+    "name": "ジッタリン・ジン",
+    "ruby": "じったりんじん",
+    "aliases": ["JITTERIN'JINN", "ジッタリン"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02nZ2E",
+    "spotify_artist_id": "0bpoE3oA5qVID9ZNZAuUmg",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "s**t kingz",
+    "ruby": "しっときんぐす",
+    "aliases": ["shitkingz", "シッキン", "シットキンクズ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tH0wd",
+    "spotify_artist_id": "4eRPT3dCcYsuZ2dFqqcaYx",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "シド",
+    "ruby": "しど",
+    "aliases": ["sid"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aEikP",
+    "spotify_artist_id": "24b231EnCM3BkpiuWs5VBE",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "篠原ともえ",
+    "ruby": "しのはらともえ",
+    "aliases": ["シノラー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cDaH9",
+    "spotify_artist_id": "27trVEYHShFRolUZEP29KC",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "篠原涼子",
+    "ruby": "しのはらりょうこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1wX8MV",
+    "spotify_artist_id": "2Ff8zALDdJVexxrBF9an2M",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "柴咲コウ",
+    "ruby": "しばさきこう",
+    "aliases": ["柴咲こう", "koshibasaki"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wkUfc",
+    "spotify_artist_id": "5YixSA79eNkVmTq8xzRYF7",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
