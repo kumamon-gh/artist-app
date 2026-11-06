@@ -1,5 +1,85 @@
 [
   {
+    "name": "Shuta Sueyoshi",
+    "ruby": "しゅうたすえよし",
+    "aliases": ["末吉秀太", "すえよししゅうた"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2dsit4",
+    "spotify_artist_id": "3NSKTb4t386KNoI3bP9XVV",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+  {
+    "name": "Sugar",
+    "ruby": "しゅがー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Iwil3",
+    "spotify_artist_id": "https://open.spotify.com/artist/2Yt9GbnJRUR3gopzAQEaOU",
+    "tags": ["女性グループ", "J-POP"]
+  },
+{
+    "name": "Sugar Soul",
+    "ruby": "しゅがーそうる",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3im2B0",
+    "spotify_artist_id": "5B3LLv1PZOvpGrZYmhGCXn",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "19",
+    "ruby": "じゅうく",
+    "aliases": ["じゅうきゅう", "ナインティーン"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uztwI",
+    "spotify_artist_id": "2BhO9lW6OahbPnfhbHR2Kl",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "JUJU",
+    "ruby": "じゅじゅ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3uOz62",
+    "spotify_artist_id": "5VLVogbPeBgFHXQPZQzBej",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "Juice=Juice",
+    "ruby": "じゅーすじゅーす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EMapM",
+    "spotify_artist_id": "6ckfItpfxpSYKrZ0OIXUuh",
+    "tags": ["女性グループ", "J-POP"]
+  },
+{
+    "name": "JUDY AND MARY",
+    "ruby": "じゅでぃあんどまりー",
+    "aliases": ["ジュディマリ", "ジュディアンドメアリー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4qWS3G",
+    "spotify_artist_id": "7unNuvk3OEqGmegHTaxRA9",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "ジュディ・オング",
+    "ruby": "じゅでぃおんぐ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JxnEq",
+    "spotify_artist_id": "309ZomaW9Iy9M7yVJkuPiO",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+{
+    "name": "syudou",
+    "ruby": "しゅどう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2n828o",
+    "spotify_artist_id": "43XkWaoCS0wKjuMJrWFgoa",
+    "tags": ["ボカロP", "J-POP"]
+  },
+{
+    "name": "Juliet",
+    "ruby": "じゅりえっと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s4tsc",
+    "spotify_artist_id": "7wfpfUZ1k2lSDKZtDLVwT7",
+    "tags": ["女性グループ", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
