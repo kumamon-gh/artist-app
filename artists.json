@@ -12109,6 +12109,9 @@
       "ナインティーン"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uztwI",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zaAAU"
+    ],
     "spotify_artist_id": "2BhO9lW6OahbPnfhbHR2Kl",
     "official_site": null,
     "description": "19の代表曲をまとめた公式のプレイリスト「This Is 19」",
@@ -12639,6 +12642,9 @@
       "新沢敏彦"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1pvHiV",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1jYxGB"
+    ],
     "spotify_artist_id": "2sS7SdXSCONGTZ8WZlcOtv",
     "official_site": null,
     "description": "新沢としひこの代表曲をまとめた公式のプレイリスト「This Is 新沢としひこ」",
@@ -13089,6 +13095,12 @@
       "バルーン"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO34rvLq",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qrrFu"
+    ],
+    "extra_labels": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qrrFu": "ボカロP：バルーン"
+    },
     "spotify_artist_id": "5dWE3G7COO82G6vRy2Hpum",
     "official_site": null,
     "description": "須田景凪の代表曲をまとめた公式のプレイリスト「This Is 須田景凪」",
