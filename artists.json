@@ -1,5 +1,13 @@
 [
   {
+    "name": "Sugar",
+    "ruby": "しゅがー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Iwil3",
+    "spotify_artist_id": "https://open.spotify.com/artist/2Yt9GbnJRUR3gopzAQEaOU",
+    "tags": ["女性グループ", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
