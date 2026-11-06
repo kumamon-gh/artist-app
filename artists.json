@@ -1,77 +1,5 @@
 [
   {
-    "name": "Shuta Sueyoshi",
-    "ruby": "しゅうたすえよし",
-    "aliases": ["末吉秀太", "すえよししゅうた"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2dsit4",
-    "spotify_artist_id": "3NSKTb4t386KNoI3bP9XVV",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "Sugar Soul",
-    "ruby": "しゅがーそうる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3im2B0",
-    "spotify_artist_id": "5B3LLv1PZOvpGrZYmhGCXn",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "19",
-    "ruby": "じゅうく",
-    "aliases": ["じゅうきゅう", "ナインティーン"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uztwI",
-    "spotify_artist_id": "2BhO9lW6OahbPnfhbHR2Kl",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "JUJU",
-    "ruby": "じゅじゅ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3uOz62",
-    "spotify_artist_id": "5VLVogbPeBgFHXQPZQzBej",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "Juice=Juice",
-    "ruby": "じゅーすじゅーす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EMapM",
-    "spotify_artist_id": "6ckfItpfxpSYKrZ0OIXUuh",
-    "tags": ["女性グループ", "J-POP"]
-  },
-{
-    "name": "JUDY AND MARY",
-    "ruby": "じゅでぃあんどまりー",
-    "aliases": ["ジュディマリ", "ジュディアンドメアリー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4qWS3G",
-    "spotify_artist_id": "7unNuvk3OEqGmegHTaxRA9",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "ジュディ・オング",
-    "ruby": "じゅでぃおんぐ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JxnEq",
-    "spotify_artist_id": "309ZomaW9Iy9M7yVJkuPiO",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-{
-    "name": "syudou",
-    "ruby": "しゅどう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2n828o",
-    "spotify_artist_id": "43XkWaoCS0wKjuMJrWFgoa",
-    "tags": ["ボカロP", "J-POP"]
-  },
-{
-    "name": "Juliet",
-    "ruby": "じゅりえっと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s4tsc",
-    "spotify_artist_id": "7wfpfUZ1k2lSDKZtDLVwT7",
-    "tags": ["女性グループ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -12142,6 +12070,214 @@
     "added_date": "2026-11-05",
     "updated_date": "2026-11-05",
     "color": "#f37e00"
+  },
+  {
+    "id": "artist-562",
+    "name": "19",
+    "ruby": "じゅうく",
+    "kana": "ジュウク",
+    "romaji": [
+      "19"
+    ],
+    "aliases": [
+      "じゅうきゅう",
+      "ナインティーン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uztwI",
+    "spotify_artist_id": "2BhO9lW6OahbPnfhbHR2Kl",
+    "official_site": null,
+    "description": "19の代表曲をまとめた公式のプレイリスト「This Is 19」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-560",
+    "name": "Shuta Sueyoshi",
+    "ruby": "しゅうたすえよし",
+    "kana": "シュウタスエヨシ",
+    "romaji": [
+      "shutasueyoshi"
+    ],
+    "aliases": [
+      "末吉秀太",
+      "すえよししゅうた"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2dsit4",
+    "spotify_artist_id": "3NSKTb4t386KNoI3bP9XVV",
+    "official_site": null,
+    "description": "Shuta Sueyoshiの代表曲をまとめた公式のプレイリスト「This Is Shuta Sueyoshi」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-561",
+    "name": "Sugar Soul",
+    "ruby": "しゅがーそうる",
+    "kana": "シュガーソウル",
+    "romaji": [
+      "sugarsoul"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3im2B0",
+    "spotify_artist_id": "5B3LLv1PZOvpGrZYmhGCXn",
+    "official_site": null,
+    "description": "Sugar Soulの代表曲をまとめた公式のプレイリスト「This Is Sugar Soul」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-563",
+    "name": "JUJU",
+    "ruby": "じゅじゅ",
+    "kana": "ジュジュ",
+    "romaji": [
+      "juju"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3uOz62",
+    "spotify_artist_id": "5VLVogbPeBgFHXQPZQzBej",
+    "official_site": null,
+    "description": "JUJUの代表曲をまとめた公式のプレイリスト「This Is JUJU」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-564",
+    "name": "Juice=Juice",
+    "ruby": "じゅーすじゅーす",
+    "kana": "ジュースジュース",
+    "romaji": [
+      "juicejuice"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EMapM",
+    "spotify_artist_id": "6ckfItpfxpSYKrZ0OIXUuh",
+    "official_site": null,
+    "description": "Juice=Juiceの代表曲をまとめた公式のプレイリスト「This Is Juice=Juice」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-565",
+    "name": "JUDY AND MARY",
+    "ruby": "じゅでぃあんどまりー",
+    "kana": "ジュディアンドマリー",
+    "romaji": [
+      "judyandmary"
+    ],
+    "aliases": [
+      "ジュディマリ",
+      "ジュディアンドメアリー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4qWS3G",
+    "spotify_artist_id": "7unNuvk3OEqGmegHTaxRA9",
+    "official_site": null,
+    "description": "JUDY AND MARYの代表曲をまとめた公式のプレイリスト「This Is JUDY AND MARY」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-566",
+    "name": "ジュディ・オング",
+    "ruby": "じゅでぃおんぐ",
+    "kana": "ジュディオング",
+    "romaji": [
+      "judiongu",
+      "zyudiongu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JxnEq",
+    "spotify_artist_id": "309ZomaW9Iy9M7yVJkuPiO",
+    "official_site": null,
+    "description": "ジュディ・オングの代表曲をまとめた公式のプレイリスト「This Is ジュディ・オング」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-567",
+    "name": "syudou",
+    "ruby": "しゅどう",
+    "kana": "シュドウ",
+    "romaji": [
+      "syudou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2n828o",
+    "spotify_artist_id": "43XkWaoCS0wKjuMJrWFgoa",
+    "official_site": null,
+    "description": "syudouの代表曲をまとめた公式のプレイリスト「This Is syudou」",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-568",
+    "name": "Juliet",
+    "ruby": "じゅりえっと",
+    "kana": "ジュリエット",
+    "romaji": [
+      "juliet"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s4tsc",
+    "spotify_artist_id": "7wfpfUZ1k2lSDKZtDLVwT7",
+    "official_site": null,
+    "description": "Julietの代表曲をまとめた公式のプレイリスト「This Is Juliet」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
   },
   {
     "id": "artist-184",
