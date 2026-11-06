@@ -1,85 +1,5 @@
 [
   {
-    "name": "私立恵比寿中学",
-    "ruby": "しりつえびすちゅうがく",
-    "aliases": ["エビ中", "恵比寿中学", "えびちゅう", "えびちゅー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06jUPY",
-    "spotify_artist_id": "0hWvpmIrUgyPKOYvEGcERp",
-    "tags": ["女性グループ", "J-POP"]
-  },
-{
-    "name": "SILVA",
-    "ruby": "しるゔぁ",
-    "aliases": ["シルヴァ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Evr4T",
-    "spotify_artist_id": "2RNMsLGqdckAwn6VkB2IjA",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "じん",
-    "ruby": "じん",
-    "aliases": ["自然の敵P", "しぜんのてきぴー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4qlCZG",
-    "spotify_artist_id": "7to1UlTpu40h7CpjRPkGqA",
-    "tags": ["ボカロP", "J-POP"]
-  },
-  {
-    "name": "新沢としひこ",
-    "ruby": "しんざわとしひこ",
-    "aliases": ["新沢敏彦"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1pvHiV",
-    "spotify_artist_id": "2sS7SdXSCONGTZ8WZlcOtv",
-    "tags": ["男性ソロ", "邦楽"]
-  },
-{
-    "name": "ZOO",
-    "ruby": "ずー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0jxzbp",
-    "spotify_artist_id": "0DUh3aTFD6ObgiCG2OfPNa",
-    "tags": ["男女混成グループ", "J-POP"]
-  },
-  {
-    "name": "水曜日のカンパネラ",
-    "ruby": "すいようびのかんぱねら",
-    "aliases": ["すいかん", "水カン"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02o53B",
-    "spotify_artist_id": "0bp9CvkjQYhUJvWRHjFRWI",
-    "tags": ["男女混成グループ", "J-POP"]
-  },
-{
-    "name": "SWEET STEADY",
-    "ruby": "すいーとすてでぃ",
-    "aliases": ["スイステ", "スウィートステディ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14Rp0J",
-    "spotify_artist_id": "1UyIqMBjk0DMexWtQF2X1i",
-    "tags": ["女性グループ", "J-POP"]
-  },
-{
-    "name": "SKY-HI",
-    "ruby": "すかいはい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MxrrW",
-    "spotify_artist_id": "4Kbxm7oCQujaslLxf9q7k2",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "スガシカオ",
-    "ruby": "すがしかお",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO20pSX7",
-    "spotify_artist_id": "3sddhwNhGabYSvzYKhB7qj",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "菅原都々子",
-    "ruby": "すがわらつづこ",
-    "aliases": ["菅原つづこ", "すがはらつづこ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4g1KbI",
-    "spotify_artist_id": "7ceHg4tqRB6L30nVuWZjPW",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -12627,6 +12547,252 @@
     "added_date": "2026-11-06",
     "updated_date": "2026-11-06",
     "color": "#f37e00"
+  },
+  {
+    "id": "artist-580",
+    "name": "私立恵比寿中学",
+    "ruby": "しりつえびすちゅうがく",
+    "kana": "シリツエビスチュウガク",
+    "romaji": [
+      "shiritsuebisuchuugaku",
+      "sirituebisutyuugaku"
+    ],
+    "aliases": [
+      "エビ中",
+      "恵比寿中学",
+      "えびちゅう",
+      "えびちゅー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06jUPY",
+    "spotify_artist_id": "0hWvpmIrUgyPKOYvEGcERp",
+    "official_site": null,
+    "description": "私立恵比寿中学の代表曲をまとめた公式のプレイリスト「This Is 私立恵比寿中学」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-581",
+    "name": "SILVA",
+    "ruby": "しるゔぁ",
+    "kana": "シルヴァ",
+    "romaji": [
+      "silva"
+    ],
+    "aliases": [
+      "シルヴァ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Evr4T",
+    "spotify_artist_id": "2RNMsLGqdckAwn6VkB2IjA",
+    "official_site": null,
+    "description": "SILVAの代表曲をまとめた公式のプレイリスト「This Is SILVA」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-582",
+    "name": "じん",
+    "ruby": "じん",
+    "kana": "ジン",
+    "romaji": [
+      "jin",
+      "zin"
+    ],
+    "aliases": [
+      "自然の敵P",
+      "しぜんのてきぴー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4qlCZG",
+    "spotify_artist_id": "7to1UlTpu40h7CpjRPkGqA",
+    "official_site": null,
+    "description": "じんの代表曲をまとめた公式のプレイリスト「This Is じん」",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-583",
+    "name": "新沢としひこ",
+    "ruby": "しんざわとしひこ",
+    "kana": "シンザワトシヒコ",
+    "romaji": [
+      "shinzawatoshihiko",
+      "sinzawatosihiko"
+    ],
+    "aliases": [
+      "新沢敏彦"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1pvHiV",
+    "spotify_artist_id": "2sS7SdXSCONGTZ8WZlcOtv",
+    "official_site": null,
+    "description": "新沢としひこの代表曲をまとめた公式のプレイリスト「This Is 新沢としひこ」",
+    "tags": [
+      "男性ソロ",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-584",
+    "name": "ZOO",
+    "ruby": "ずー",
+    "kana": "ズー",
+    "romaji": [
+      "zoo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0jxzbp",
+    "spotify_artist_id": "0DUh3aTFD6ObgiCG2OfPNa",
+    "official_site": null,
+    "description": "ZOOの代表曲をまとめた公式のプレイリスト「This Is ZOO」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-586",
+    "name": "SWEET STEADY",
+    "ruby": "すいーとすてでぃ",
+    "kana": "スイートステディ",
+    "romaji": [
+      "sweetsteady"
+    ],
+    "aliases": [
+      "スイステ",
+      "スウィートステディ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14Rp0J",
+    "spotify_artist_id": "1UyIqMBjk0DMexWtQF2X1i",
+    "official_site": null,
+    "description": "SWEET STEADYの代表曲をまとめた公式のプレイリスト「This Is SWEET STEADY」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-585",
+    "name": "水曜日のカンパネラ",
+    "ruby": "すいようびのかんぱねら",
+    "kana": "スイヨウビノカンパネラ",
+    "romaji": [
+      "suiyoubinokanpanera"
+    ],
+    "aliases": [
+      "すいかん",
+      "水カン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02o53B",
+    "spotify_artist_id": "0bp9CvkjQYhUJvWRHjFRWI",
+    "official_site": null,
+    "description": "水曜日のカンパネラの代表曲をまとめた公式のプレイリスト「This Is 水曜日のカンパネラ」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-587",
+    "name": "SKY-HI",
+    "ruby": "すかいはい",
+    "kana": "スカイハイ",
+    "romaji": [
+      "skyhi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MxrrW",
+    "spotify_artist_id": "4Kbxm7oCQujaslLxf9q7k2",
+    "official_site": null,
+    "description": "SKY-HIの代表曲をまとめた公式のプレイリスト「This Is SKY-HI」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-588",
+    "name": "スガシカオ",
+    "ruby": "すがしかお",
+    "kana": "スガシカオ",
+    "romaji": [
+      "sugashikao",
+      "sugasikao"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO20pSX7",
+    "spotify_artist_id": "3sddhwNhGabYSvzYKhB7qj",
+    "official_site": null,
+    "description": "スガシカオの代表曲をまとめた公式のプレイリスト「This Is スガシカオ」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-589",
+    "name": "菅原都々子",
+    "ruby": "すがわらつづこ",
+    "kana": "スガワラツヅコ",
+    "romaji": [
+      "sugawaratsuzuko",
+      "sugawaratuzuko"
+    ],
+    "aliases": [
+      "菅原つづこ",
+      "すがはらつづこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4g1KbI",
+    "spotify_artist_id": "7ceHg4tqRB6L30nVuWZjPW",
+    "official_site": null,
+    "description": "菅原都々子の代表曲をまとめた公式のプレイリスト「This Is 菅原都々子」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
   },
   {
     "id": "artist-184",
