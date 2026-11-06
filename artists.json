@@ -1,5 +1,93 @@
 [
   {
+    "name": "JUN SKY WALKER(S)",
+    "ruby": "じゅんすかいうぉーかーず",
+    "aliases": ["ジュンスカ", "ジュンスカイウォーカー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03MZSB",
+    "spotify_artist_id": "0dJJhSKpO4ixCTCsCkJxgr",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "純烈",
+    "ruby": "じゅんれつ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chZVC",
+    "spotify_artist_id": "26TVVTy3q953UuDa8YnrvY",
+    "tags": ["男性グループ", "歌謡曲"]
+  },
+{
+    "name": "少女時代",
+    "ruby": "しょうじょじだい",
+    "aliases": ["snsd", "girls generation", "ソシ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0s79KM",
+    "spotify_artist_id": "0Sadg1vgvaPqGTOjxu0N6c",
+    "tags": ["女性グループ", "K-POP", "海外アーティスト"]
+  },
+{
+    "name": "湘南乃風",
+    "ruby": "しょうなんのかぜ",
+    "aliases": ["湘南の風"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO48Z4wo",
+    "spotify_artist_id": "70x6gPIjIhWtxjczooKl3p",
+    "tags": ["男性グループ", "J-POP"]
+  },
+  {
+    "name": "城之内早苗",
+    "ruby": "じょうのうちさなえ",
+    "aliases": ["城ノ内早苗"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dIdYT",
+    "spotify_artist_id": "5tlsmR2jgtHVGNu5VMUK6I",
+    "tags": ["女性ソロ", "演歌"]
+  },
+{
+    "name": "庄野真代",
+    "ruby": "しょうのまよ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO213ZOV",
+    "spotify_artist_id": "3ti3MwQcStFXqXKJH4gH9I",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+  {
+    "name": "SHOW-WA",
+    "ruby": "しょうわ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13gGs4",
+    "spotify_artist_id": "1RUxMDqzt5FGy3gmLM0GVr",
+    "tags": ["男性グループ", "歌謡曲"]
+  },
+  {
+    "name": "女王蜂",
+    "ruby": "じょおうばち",
+    "aliases": ["じょうおうばち"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QN3os",
+    "spotify_artist_id": "6whFEcaV75AmQMiwlfaxvc",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
+    "name": "Johnny",
+    "ruby": "じょにー",
+    "aliases": ["ジョニー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ETmkM",
+    "spotify_artist_id": "2Sr7LVerkjjXlS30ojA43g",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "SHOW-YA",
+    "ruby": "しょーや",
+    "aliases": ["ショウヤ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Wzeg7",
+    "spotify_artist_id": "1GLStwjGJcUvkHGeCVgBEp",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "JY",
+    "ruby": "じぇいわい",
+    "aliases": ["ジェイワイ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3fbNgA",
+    "spotify_artist_id": "5vO3b6n7tKXv7S9JWmeniF",
+    "tags": ["女性ソロ", "K-POP", "海外アーティスト"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
