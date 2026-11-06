@@ -1,5 +1,85 @@
 [
   {
+    "name": "私立恵比寿中学",
+    "ruby": "しりつえびすちゅうがく",
+    "aliases": ["エビ中", "恵比寿中学", "えびちゅう", "えびちゅー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06jUPY",
+    "spotify_artist_id": "0hWvpmIrUgyPKOYvEGcERp",
+    "tags": ["女性グループ", "J-POP"]
+  },
+{
+    "name": "SILVA",
+    "ruby": "しるゔぁ",
+    "aliases": ["シルヴァ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Evr4T",
+    "spotify_artist_id": "2RNMsLGqdckAwn6VkB2IjA",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "じん",
+    "ruby": "じん",
+    "aliases": ["自然の敵P", "しぜんのてきぴー"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4qlCZG",
+    "spotify_artist_id": "7to1UlTpu40h7CpjRPkGqA",
+    "tags": ["ボカロP", "J-POP"]
+  },
+  {
+    "name": "新沢としひこ",
+    "ruby": "しんざわとしひこ",
+    "aliases": ["新沢敏彦"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1pvHiV",
+    "spotify_artist_id": "2sS7SdXSCONGTZ8WZlcOtv",
+    "tags": ["男性ソロ", "邦楽"]
+  },
+{
+    "name": "ZOO",
+    "ruby": "ずー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0jxzbp",
+    "spotify_artist_id": "0DUh3aTFD6ObgiCG2OfPNa",
+    "tags": ["男女混成グループ", "J-POP"]
+  },
+  {
+    "name": "水曜日のカンパネラ",
+    "ruby": "すいようびのかんぱねら",
+    "aliases": ["すいかん", "水カン"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02o53B",
+    "spotify_artist_id": "0bp9CvkjQYhUJvWRHjFRWI",
+    "tags": ["男女混成グループ", "J-POP"]
+  },
+{
+    "name": "SWEET STEADY",
+    "ruby": "すいーとすてでぃ",
+    "aliases": ["スイステ", "スウィートステディ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14Rp0J",
+    "spotify_artist_id": "1UyIqMBjk0DMexWtQF2X1i",
+    "tags": ["女性グループ", "J-POP"]
+  },
+{
+    "name": "SKY-HI",
+    "ruby": "すかいはい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MxrrW",
+    "spotify_artist_id": "4Kbxm7oCQujaslLxf9q7k2",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "スガシカオ",
+    "ruby": "すがしかお",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO20pSX7",
+    "spotify_artist_id": "3sddhwNhGabYSvzYKhB7qj",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "菅原都々子",
+    "ruby": "すがわらつづこ",
+    "aliases": ["菅原つづこ", "すがはらつづこ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4g1KbI",
+    "spotify_artist_id": "7ceHg4tqRB6L30nVuWZjPW",
+    "tags": ["女性ソロ", "歌謡曲"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
