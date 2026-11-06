@@ -12112,6 +12112,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zaAAU"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zaAAU": "#fea42a"
+    },
     "spotify_artist_id": "2BhO9lW6OahbPnfhbHR2Kl",
     "official_site": null,
     "description": "19の代表曲をまとめた公式のプレイリスト「This Is 19」",
@@ -12645,6 +12648,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1jYxGB"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1jYxGB": "#fea42a"
+    },
     "spotify_artist_id": "2sS7SdXSCONGTZ8WZlcOtv",
     "official_site": null,
     "description": "新沢としひこの代表曲をまとめた公式のプレイリスト「This Is 新沢としひこ」",
@@ -13035,7 +13041,7 @@
     "status": "published",
     "added_date": "2026-11-07",
     "updated_date": "2026-11-07",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-601",
@@ -13057,7 +13063,7 @@
     "status": "published",
     "added_date": "2026-11-07",
     "updated_date": "2026-11-07",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-602",
@@ -13081,7 +13087,7 @@
     "status": "published",
     "added_date": "2026-11-07",
     "updated_date": "2026-11-07",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-603",
@@ -13098,6 +13104,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qrrFu"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qrrFu": "#95c90d"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qrrFu": "ボカロP：バルーン"
     },
@@ -13111,7 +13120,7 @@
     "status": "published",
     "added_date": "2026-11-07",
     "updated_date": "2026-11-07",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-184",
