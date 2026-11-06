@@ -1,85 +1,5 @@
 [
   {
-    "name": "スキマスイッチ",
-    "ruby": "すきますいっち",
-    "aliases": ["スキスイ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fisI1",
-    "spotify_artist_id": "0wRzWf3I4lUl9hdFF5uL0m",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "すぎもとまさと",
-    "ruby": "すぎもとまさと",
-    "aliases": ["杉本眞人", "杉本まさと"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Qo3xb",
-    "spotify_artist_id": "4QzTbSBgzJZC13YNbYcTrV",
-    "tags": ["男性ソロ", "J-POP", "歌謡曲"]
-  },
-{
-    "name": "杉山清貴",
-    "ruby": "すぎやまきよたか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wSs6I",
-    "spotify_artist_id": "5Zc8dRhik5WK1nxjzcqwfC",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "杉山清貴&オメガトライブ",
-    "ruby": "すぎやまきよたかあんどおめがとらいぶ",
-    "aliases": ["オメガトライブ", "杉山清貴オメガトライブ", "すぎやまきよたかとおめがとらいぶ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fGQtb",
-    "spotify_artist_id": "7bG2PIfT22HGxisl6LAohx",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "SCANDAL",
-    "ruby": "すきゃんだる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4jrdxM",
-    "spotify_artist_id": "7hTZwqQILVH4bAbN67CeEz",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "杉良太郎",
-    "ruby": "すぎりょうたろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TOnx8",
-    "spotify_artist_id": "4WhdGYSowLm5D2LJVxtYqi",
-    "tags": ["男性ソロ", "演歌"]
-  },
-{
-    "name": "Skoop On Somebody",
-    "ruby": "すくーぷおんさむばでぃ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05NwXd",
-    "spotify_artist_id": "0h4DzoOz1OlX7uJ8itsBIw",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "松原みき",
-    "ruby": "まつばらみき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vwzIs",
-    "spotify_artist_id": "4hUmsYcvD8C5zuVSP93jb1",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "鈴木愛理",
-    "ruby": "すずきあいり",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wnTSF",
-    "spotify_artist_id": "5YnNfqofR6jjU2DDoGfh2h",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "鈴木亜美",
-    "ruby": "すずきあみ",
-    "aliases": ["ami", "鈴木あみ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dPH2E",
-    "spotify_artist_id": "5txXmJzhOCjswudIed7MAI",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -12875,6 +12795,219 @@
     "color": ""
   },
   {
+    "id": "artist-590",
+    "name": "スキマスイッチ",
+    "ruby": "すきますいっち",
+    "kana": "スキマスイッチ",
+    "romaji": [
+      "sukimasuitchi",
+      "sukimasuitti"
+    ],
+    "aliases": [
+      "スキスイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fisI1",
+    "spotify_artist_id": "0wRzWf3I4lUl9hdFF5uL0m",
+    "official_site": null,
+    "description": "スキマスイッチの代表曲をまとめた公式のプレイリスト「This Is スキマスイッチ」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-591",
+    "name": "すぎもとまさと",
+    "ruby": "すぎもとまさと",
+    "kana": "スギモトマサト",
+    "romaji": [
+      "sugimotomasato"
+    ],
+    "aliases": [
+      "杉本眞人",
+      "杉本まさと"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Qo3xb",
+    "spotify_artist_id": "4QzTbSBgzJZC13YNbYcTrV",
+    "official_site": null,
+    "description": "すぎもとまさとの代表曲をまとめた公式のプレイリスト「This Is すぎもとまさと」",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-592",
+    "name": "杉山清貴",
+    "ruby": "すぎやまきよたか",
+    "kana": "スギヤマキヨタカ",
+    "romaji": [
+      "sugiyamakiyotaka"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wSs6I",
+    "spotify_artist_id": "5Zc8dRhik5WK1nxjzcqwfC",
+    "official_site": null,
+    "description": "杉山清貴の代表曲をまとめた公式のプレイリスト「This Is 杉山清貴」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-593",
+    "name": "杉山清貴&オメガトライブ",
+    "ruby": "すぎやまきよたかあんどおめがとらいぶ",
+    "kana": "スギヤマキヨタカアンドオメガトライブ",
+    "romaji": [
+      "sugiyamakiyotakaandoomegatoraibu",
+      "and"
+    ],
+    "aliases": [
+      "オメガトライブ",
+      "杉山清貴オメガトライブ",
+      "すぎやまきよたかとおめがとらいぶ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fGQtb",
+    "spotify_artist_id": "7bG2PIfT22HGxisl6LAohx",
+    "official_site": null,
+    "description": "杉山清貴&オメガトライブの代表曲をまとめた公式のプレイリスト「This Is 杉山清貴&オメガトライブ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-594",
+    "name": "SCANDAL",
+    "ruby": "すきゃんだる",
+    "kana": "スキャンダル",
+    "romaji": [
+      "scandal"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4jrdxM",
+    "spotify_artist_id": "7hTZwqQILVH4bAbN67CeEz",
+    "official_site": null,
+    "description": "SCANDALの代表曲をまとめた公式のプレイリスト「This Is SCANDAL」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-595",
+    "name": "杉良太郎",
+    "ruby": "すぎりょうたろう",
+    "kana": "スギリョウタロウ",
+    "romaji": [
+      "sugiryoutarou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TOnx8",
+    "spotify_artist_id": "4WhdGYSowLm5D2LJVxtYqi",
+    "official_site": null,
+    "description": "杉良太郎の代表曲をまとめた公式のプレイリスト「This Is 杉良太郎」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-596",
+    "name": "Skoop On Somebody",
+    "ruby": "すくーぷおんさむばでぃ",
+    "kana": "スクープオンサムバディ",
+    "romaji": [
+      "skooponsomebody"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05NwXd",
+    "spotify_artist_id": "0h4DzoOz1OlX7uJ8itsBIw",
+    "official_site": null,
+    "description": "Skoop On Somebodyの代表曲をまとめた公式のプレイリスト「This Is Skoop On Somebody」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-598",
+    "name": "鈴木愛理",
+    "ruby": "すずきあいり",
+    "kana": "スズキアイリ",
+    "romaji": [
+      "suzukiairi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wnTSF",
+    "spotify_artist_id": "5YnNfqofR6jjU2DDoGfh2h",
+    "official_site": null,
+    "description": "鈴木愛理の代表曲をまとめた公式のプレイリスト「This Is 鈴木愛理」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-599",
+    "name": "鈴木亜美",
+    "ruby": "すずきあみ",
+    "kana": "スズキアミ",
+    "romaji": [
+      "suzukiami"
+    ],
+    "aliases": [
+      "ami",
+      "鈴木あみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dPH2E",
+    "spotify_artist_id": "5txXmJzhOCjswudIed7MAI",
+    "official_site": null,
+    "description": "鈴木亜美の代表曲をまとめた公式のプレイリスト「This Is 鈴木亜美」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
     "id": "artist-184",
     "name": "スピッツ",
     "ruby": "すぴっつ",
@@ -12940,6 +13073,29 @@
     "status": "published",
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
+    "color": ""
+  },
+  {
+    "id": "artist-597",
+    "name": "松原みき",
+    "ruby": "まつばらみき",
+    "kana": "マツバラミキ",
+    "romaji": [
+      "matsubaramiki",
+      "matubaramiki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vwzIs",
+    "spotify_artist_id": "4hUmsYcvD8C5zuVSP93jb1",
+    "official_site": null,
+    "description": "松原みきの代表曲をまとめた公式のプレイリスト「This Is 松原みき」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
     "color": ""
   },
   {
