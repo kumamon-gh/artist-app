@@ -1,93 +1,5 @@
 [
   {
-    "name": "JUN SKY WALKER(S)",
-    "ruby": "じゅんすかいうぉーかーず",
-    "aliases": ["ジュンスカ", "ジュンスカイウォーカー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03MZSB",
-    "spotify_artist_id": "0dJJhSKpO4ixCTCsCkJxgr",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "純烈",
-    "ruby": "じゅんれつ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chZVC",
-    "spotify_artist_id": "26TVVTy3q953UuDa8YnrvY",
-    "tags": ["男性グループ", "歌謡曲"]
-  },
-{
-    "name": "少女時代",
-    "ruby": "しょうじょじだい",
-    "aliases": ["snsd", "girls generation", "ソシ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0s79KM",
-    "spotify_artist_id": "0Sadg1vgvaPqGTOjxu0N6c",
-    "tags": ["女性グループ", "K-POP", "海外アーティスト"]
-  },
-{
-    "name": "湘南乃風",
-    "ruby": "しょうなんのかぜ",
-    "aliases": ["湘南の風"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO48Z4wo",
-    "spotify_artist_id": "70x6gPIjIhWtxjczooKl3p",
-    "tags": ["男性グループ", "J-POP"]
-  },
-  {
-    "name": "城之内早苗",
-    "ruby": "じょうのうちさなえ",
-    "aliases": ["城ノ内早苗"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dIdYT",
-    "spotify_artist_id": "5tlsmR2jgtHVGNu5VMUK6I",
-    "tags": ["女性ソロ", "演歌"]
-  },
-{
-    "name": "庄野真代",
-    "ruby": "しょうのまよ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO213ZOV",
-    "spotify_artist_id": "3ti3MwQcStFXqXKJH4gH9I",
-    "tags": ["女性ソロ", "歌謡曲"]
-  },
-  {
-    "name": "SHOW-WA",
-    "ruby": "しょうわ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13gGs4",
-    "spotify_artist_id": "1RUxMDqzt5FGy3gmLM0GVr",
-    "tags": ["男性グループ", "歌謡曲"]
-  },
-  {
-    "name": "女王蜂",
-    "ruby": "じょおうばち",
-    "aliases": ["じょうおうばち"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QN3os",
-    "spotify_artist_id": "6whFEcaV75AmQMiwlfaxvc",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
-    "name": "Johnny",
-    "ruby": "じょにー",
-    "aliases": ["ジョニー"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ETmkM",
-    "spotify_artist_id": "2Sr7LVerkjjXlS30ojA43g",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "SHOW-YA",
-    "ruby": "しょーや",
-    "aliases": ["ショウヤ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Wzeg7",
-    "spotify_artist_id": "1GLStwjGJcUvkHGeCVgBEp",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "JY",
-    "ruby": "じぇいわい",
-    "aliases": ["ジェイワイ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3fbNgA",
-    "spotify_artist_id": "5vO3b6n7tKXv7S9JWmeniF",
-    "tags": ["女性ソロ", "K-POP", "海外アーティスト"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -11379,6 +11291,31 @@
     "color": "#fea42a"
   },
   {
+    "id": "artist-579",
+    "name": "JY",
+    "ruby": "じぇいわい",
+    "kana": "ジェイワイ",
+    "romaji": [
+      "jy"
+    ],
+    "aliases": [
+      "ジェイワイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3fbNgA",
+    "spotify_artist_id": "5vO3b6n7tKXv7S9JWmeniF",
+    "official_site": null,
+    "description": "JYの代表曲をまとめた公式のプレイリスト「This Is JY」",
+    "tags": [
+      "女性ソロ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
     "id": "artist-527",
     "name": "J.Y. Park",
     "ruby": "じぇいわいぱーく",
@@ -12360,6 +12297,250 @@
     "description": "Julietの代表曲をまとめた公式のプレイリスト「This Is Juliet」",
     "tags": [
       "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-569",
+    "name": "JUN SKY WALKER(S)",
+    "ruby": "じゅんすかいうぉーかーず",
+    "kana": "ジュンスカイウォーカーズ",
+    "romaji": [
+      "junskywalkers"
+    ],
+    "aliases": [
+      "ジュンスカ",
+      "ジュンスカイウォーカー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03MZSB",
+    "spotify_artist_id": "0dJJhSKpO4ixCTCsCkJxgr",
+    "official_site": null,
+    "description": "JUN SKY WALKER(S)の代表曲をまとめた公式のプレイリスト「This Is JUN SKY WALKER(S)」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-570",
+    "name": "純烈",
+    "ruby": "じゅんれつ",
+    "kana": "ジュンレツ",
+    "romaji": [
+      "junretsu",
+      "zyunretu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chZVC",
+    "spotify_artist_id": "26TVVTy3q953UuDa8YnrvY",
+    "official_site": null,
+    "description": "純烈の代表曲をまとめた公式のプレイリスト「This Is 純烈」",
+    "tags": [
+      "男性グループ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-571",
+    "name": "少女時代",
+    "ruby": "しょうじょじだい",
+    "kana": "ショウジョジダイ",
+    "romaji": [
+      "shoujojidai",
+      "syouzyozidai"
+    ],
+    "aliases": [
+      "snsd",
+      "girls generation",
+      "ソシ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0s79KM",
+    "spotify_artist_id": "0Sadg1vgvaPqGTOjxu0N6c",
+    "official_site": null,
+    "description": "少女時代の代表曲をまとめた公式のプレイリスト「This Is 少女時代」",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-572",
+    "name": "湘南乃風",
+    "ruby": "しょうなんのかぜ",
+    "kana": "ショウナンノカゼ",
+    "romaji": [
+      "shounannokaze",
+      "syounannokaze"
+    ],
+    "aliases": [
+      "湘南の風"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO48Z4wo",
+    "spotify_artist_id": "70x6gPIjIhWtxjczooKl3p",
+    "official_site": null,
+    "description": "湘南乃風の代表曲をまとめた公式のプレイリスト「This Is 湘南乃風」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-573",
+    "name": "城之内早苗",
+    "ruby": "じょうのうちさなえ",
+    "kana": "ジョウノウチサナエ",
+    "romaji": [
+      "jounouchisanae",
+      "zyounoutisanae"
+    ],
+    "aliases": [
+      "城ノ内早苗"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dIdYT",
+    "spotify_artist_id": "5tlsmR2jgtHVGNu5VMUK6I",
+    "official_site": null,
+    "description": "城之内早苗の代表曲をまとめた公式のプレイリスト「This Is 城之内早苗」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-574",
+    "name": "庄野真代",
+    "ruby": "しょうのまよ",
+    "kana": "ショウノマヨ",
+    "romaji": [
+      "shounomayo",
+      "syounomayo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO213ZOV",
+    "spotify_artist_id": "3ti3MwQcStFXqXKJH4gH9I",
+    "official_site": null,
+    "description": "庄野真代の代表曲をまとめた公式のプレイリスト「This Is 庄野真代」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-575",
+    "name": "SHOW-WA",
+    "ruby": "しょうわ",
+    "kana": "ショウワ",
+    "romaji": [
+      "showwa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13gGs4",
+    "spotify_artist_id": "1RUxMDqzt5FGy3gmLM0GVr",
+    "official_site": null,
+    "description": "SHOW-WAの代表曲をまとめた公式のプレイリスト「This Is SHOW-WA」",
+    "tags": [
+      "男性グループ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-576",
+    "name": "女王蜂",
+    "ruby": "じょおうばち",
+    "kana": "ジョオウバチ",
+    "romaji": [
+      "jooubachi",
+      "zyooubati"
+    ],
+    "aliases": [
+      "じょうおうばち"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QN3os",
+    "spotify_artist_id": "6whFEcaV75AmQMiwlfaxvc",
+    "official_site": null,
+    "description": "女王蜂の代表曲をまとめた公式のプレイリスト「This Is 女王蜂」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-577",
+    "name": "Johnny",
+    "ruby": "じょにー",
+    "kana": "ジョニー",
+    "romaji": [
+      "johnny"
+    ],
+    "aliases": [
+      "ジョニー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ETmkM",
+    "spotify_artist_id": "2Sr7LVerkjjXlS30ojA43g",
+    "official_site": null,
+    "description": "Johnnyの代表曲をまとめた公式のプレイリスト「This Is Johnny」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-06",
+    "updated_date": "2026-11-06",
+    "color": ""
+  },
+  {
+    "id": "artist-578",
+    "name": "SHOW-YA",
+    "ruby": "しょーや",
+    "kana": "ショーヤ",
+    "romaji": [
+      "showya"
+    ],
+    "aliases": [
+      "ショウヤ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Wzeg7",
+    "spotify_artist_id": "1GLStwjGJcUvkHGeCVgBEp",
+    "official_site": null,
+    "description": "SHOW-YAの代表曲をまとめた公式のプレイリスト「This Is SHOW-YA」",
+    "tags": [
+      "バンド",
       "J-POP"
     ],
     "status": "published",
