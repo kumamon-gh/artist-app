@@ -1,37 +1,5 @@
 [
   {
-    "name": "鈴木聖美",
-    "ruby": "すずききよみ",
-    "aliases": ["鈴木きよみ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40ZPrj",
-    "spotify_artist_id": "6NfGvkKjc6XuhjRNP5lACn",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "鈴木鈴木",
-    "ruby": "すずきすずき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cN0u7",
-    "spotify_artist_id": "76QUiw7IqXtPsy2dqmr2ev",
-    "tags": ["男性グループ", "J-POP"]
-  },
-  {
-    "name": "鈴木雅之",
-    "ruby": "すずきまさゆき",
-    "aliases": ["マーチン"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4z3JvS",
-    "spotify_artist_id": "7HRu4Npbza5TBWn74TkAOF",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-  {
-    "name": "須田景凪",
-    "ruby": "すだけいな",
-    "aliases": ["バルーン"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO34rvLq",
-    "spotify_artist_id": "5dWE3G7COO82G6vRy2Hpum",
-    "tags": ["ボカロP", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -13038,6 +13006,100 @@
     "added_date": "2026-11-07",
     "updated_date": "2026-11-07",
     "color": "#e4ac8a"
+  },
+  {
+    "id": "artist-600",
+    "name": "鈴木聖美",
+    "ruby": "すずききよみ",
+    "kana": "スズキキヨミ",
+    "romaji": [
+      "suzukikiyomi"
+    ],
+    "aliases": [
+      "鈴木きよみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40ZPrj",
+    "spotify_artist_id": "6NfGvkKjc6XuhjRNP5lACn",
+    "official_site": null,
+    "description": "鈴木聖美の代表曲をまとめた公式のプレイリスト「This Is 鈴木聖美」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-601",
+    "name": "鈴木鈴木",
+    "ruby": "すずきすずき",
+    "kana": "スズキスズキ",
+    "romaji": [
+      "suzukisuzuki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cN0u7",
+    "spotify_artist_id": "76QUiw7IqXtPsy2dqmr2ev",
+    "official_site": null,
+    "description": "鈴木鈴木の代表曲をまとめた公式のプレイリスト「This Is 鈴木鈴木」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-602",
+    "name": "鈴木雅之",
+    "ruby": "すずきまさゆき",
+    "kana": "スズキマサユキ",
+    "romaji": [
+      "suzukimasayuki"
+    ],
+    "aliases": [
+      "マーチン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4z3JvS",
+    "spotify_artist_id": "7HRu4Npbza5TBWn74TkAOF",
+    "official_site": null,
+    "description": "鈴木雅之の代表曲をまとめた公式のプレイリスト「This Is 鈴木雅之」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
+  },
+  {
+    "id": "artist-603",
+    "name": "須田景凪",
+    "ruby": "すだけいな",
+    "kana": "スダケイナ",
+    "romaji": [
+      "sudakeina"
+    ],
+    "aliases": [
+      "バルーン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO34rvLq",
+    "spotify_artist_id": "5dWE3G7COO82G6vRy2Hpum",
+    "official_site": null,
+    "description": "須田景凪の代表曲をまとめた公式のプレイリスト「This Is 須田景凪」",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-07",
+    "updated_date": "2026-11-07",
+    "color": ""
   },
   {
     "id": "artist-184",
