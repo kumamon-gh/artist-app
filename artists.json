@@ -1,61 +1,5 @@
 [
   {
-    "name": "セントチヒロ・チッチ",
-    "ruby": "せんとちひろちっち",
-    "aliases": ["cent"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO476cJK",
-    "spotify_artist_id": "6XoPPVd3Cqm3yXoZAdn8ms",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-  {
-    "name": "千昌夫",
-    "ruby": "せんまさお",
-    "aliases": ["せんあきお"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0nr39K",
-    "spotify_artist_id": "0KojFtEdOqHGt0XPf7mBD5",
-    "tags": ["男性ソロ", "演歌"]
-  },
-{
-    "name": "相対性理論",
-    "ruby": "そうたいせいりろん",
-    "aliases": ["相対性りろん"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DDhLz",
-    "spotify_artist_id": "1bj13qFAwnyM3ILOiFnn1Y",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
-    "name": "Sonar Pocket",
-    "ruby": "そなーぽけっと",
-    "aliases": ["ソナポケ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2x5eus",
-    "spotify_artist_id": "4kuP7AbiovQdVXJkRHeq4w",
-    "tags": ["男性グループ", "J-POP"]
-  },
-  {
-    "name": "SOPHIA",
-    "ruby": "そふぃあ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jLzJS",
-    "spotify_artist_id": "5DppQgaMuyzR2ea5t9DOcK",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
-    "name": "SoulJa",
-    "ruby": "そるじゃ",
-    "aliases": ["ソウルジャ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fh5ao",
-    "spotify_artist_id": "0wP8E9fUgYBHx1QRf3QLPT",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-{
-    "name": "ZONE",
-    "ruby": "ぞーん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38G7te",
-    "spotify_artist_id": "5kYS7bPX5tm3jrsYqqNSZN",
-    "tags": ["女性グループ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -13911,6 +13855,171 @@
     "description": "センチメンタル・バスの代表曲をまとめた公式のプレイリスト「This Is センチメンタル・バス」",
     "tags": [
       "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-635",
+    "name": "セントチヒロ・チッチ",
+    "ruby": "せんとちひろちっち",
+    "kana": "セントチヒロチッチ",
+    "romaji": [
+      "sentochihirochitchi",
+      "sentotihirotitti"
+    ],
+    "aliases": [
+      "cent"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO476cJK",
+    "spotify_artist_id": "6XoPPVd3Cqm3yXoZAdn8ms",
+    "official_site": null,
+    "description": "セントチヒロ・チッチの代表曲をまとめた公式のプレイリスト「This Is セントチヒロ・チッチ」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-636",
+    "name": "千昌夫",
+    "ruby": "せんまさお",
+    "kana": "センマサオ",
+    "romaji": [
+      "senmasao"
+    ],
+    "aliases": [
+      "せんあきお"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0nr39K",
+    "spotify_artist_id": "0KojFtEdOqHGt0XPf7mBD5",
+    "official_site": null,
+    "description": "千昌夫の代表曲をまとめた公式のプレイリスト「This Is 千昌夫」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-637",
+    "name": "相対性理論",
+    "ruby": "そうたいせいりろん",
+    "kana": "ソウタイセイリロン",
+    "romaji": [
+      "soutaiseiriron"
+    ],
+    "aliases": [
+      "相対性りろん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DDhLz",
+    "spotify_artist_id": "1bj13qFAwnyM3ILOiFnn1Y",
+    "official_site": null,
+    "description": "相対性理論の代表曲をまとめた公式のプレイリスト「This Is 相対性理論」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-638",
+    "name": "Sonar Pocket",
+    "ruby": "そなーぽけっと",
+    "kana": "ソナーポケット",
+    "romaji": [
+      "sonarpocket"
+    ],
+    "aliases": [
+      "ソナポケ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2x5eus",
+    "spotify_artist_id": "4kuP7AbiovQdVXJkRHeq4w",
+    "official_site": null,
+    "description": "Sonar Pocketの代表曲をまとめた公式のプレイリスト「This Is Sonar Pocket」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-639",
+    "name": "SOPHIA",
+    "ruby": "そふぃあ",
+    "kana": "ソフィア",
+    "romaji": [
+      "sophia"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jLzJS",
+    "spotify_artist_id": "5DppQgaMuyzR2ea5t9DOcK",
+    "official_site": null,
+    "description": "SOPHIAの代表曲をまとめた公式のプレイリスト「This Is SOPHIA」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-640",
+    "name": "SoulJa",
+    "ruby": "そるじゃ",
+    "kana": "ソルジャ",
+    "romaji": [
+      "soulja"
+    ],
+    "aliases": [
+      "ソウルジャ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fh5ao",
+    "spotify_artist_id": "0wP8E9fUgYBHx1QRf3QLPT",
+    "official_site": null,
+    "description": "SoulJaの代表曲をまとめた公式のプレイリスト「This Is SoulJa」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-641",
+    "name": "ZONE",
+    "ruby": "ぞーん",
+    "kana": "ゾーン",
+    "romaji": [
+      "zone"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38G7te",
+    "spotify_artist_id": "5kYS7bPX5tm3jrsYqqNSZN",
+    "official_site": null,
+    "description": "ZONEの代表曲をまとめた公式のプレイリスト「This Is ZONE」",
+    "tags": [
+      "女性グループ",
       "J-POP"
     ],
     "status": "published",
