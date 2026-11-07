@@ -1,85 +1,5 @@
 [
   {
-    "name": "スマイレージ",
-    "ruby": "すまいれーじ",
-    "aliases": ["アンジュルム", "angerme"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2h3j8j",
-    "spotify_artist_id": "3TRwLsWRE4FD8OWW7vbwB5",
-    "tags": ["女性グループ", "J-POP"]
-  },
-  {
-    "name": "住岡梨奈",
-    "ruby": "すみおかりな",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UBSkW",
-    "spotify_artist_id": "4XBhUEEmSLxG9Zs1tDjHlL",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "聖飢魔II",
-    "ruby": "せいきまつ",
-    "aliases": ["聖飢魔2"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO23viIt",
-    "spotify_artist_id": "3xl8koA4X7WDnRYSmjYeDa",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "SEKAI NO OWARI",
-    "ruby": "せかいのおわり",
-    "aliases": ["セカオワ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yRfbH",
-    "spotify_artist_id": "7HwzlRPa9Ad0I8rK0FPzzK",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "瀬川瑛子",
-    "ruby": "せがわえいこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YYZeL",
-    "spotify_artist_id": "6JUp8OnRhSZirVkofP9c7e",
-    "tags": ["女性ソロ", "演歌"]
-  },
-  {
-    "name": "SEX MACHINEGUNS",
-    "ruby": "せっくすましんがんず",
-    "aliases": ["セクマシ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pfdwI",
-    "spotify_artist_id": "7ryhULNX7RLDr2sAwJa2wO",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
-    "name": "SEVENTEEN",
-    "ruby": "せぶんてぃーん",
-    "aliases": ["セブチ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWXa2ShUct1Fm",
-    "spotify_artist_id": "7nqOGRxlXj7N2JYbgNEjYH",
-    "tags": ["男性グループ", "K-POP", "海外アーティスト"]
-  },
-{
-    "name": "世良公則",
-    "ruby": "せらまさのり",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B2mbu",
-    "spotify_artist_id": "667fuEouMIbbjnD87Inxwl",
-    "tags": ["男性ソロ", "J-POP"]
-  },
-  {
-    "name": "ZEROBASEONE",
-    "ruby": "ぜろべーすわん",
-    "aliases": ["ゼベワン", "zb1"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4g4uFX",
-    "spotify_artist_id": "7cjg7EkeZy3OI5o9Qthc6n",
-    "tags": ["男性グループ", "K-POP", "海外アーティスト"]
-  },
-{
-    "name": "センチメンタル・バス",
-    "ruby": "せんちめんたるばす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4oX0Az",
-    "spotify_artist_id": "7r47auVicPAlscTiu4gLZa",
-    "tags": ["バンド", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -13695,6 +13615,246 @@
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
     "color": "#f47e00"
+  },
+  {
+    "id": "artist-625",
+    "name": "スマイレージ",
+    "ruby": "すまいれーじ",
+    "kana": "スマイレージ",
+    "romaji": [
+      "sumaireeji",
+      "sumaireezi"
+    ],
+    "aliases": [
+      "アンジュルム",
+      "angerme"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2h3j8j",
+    "spotify_artist_id": "3TRwLsWRE4FD8OWW7vbwB5",
+    "official_site": null,
+    "description": "スマイレージの代表曲をまとめた公式のプレイリスト「This Is スマイレージ」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-626",
+    "name": "住岡梨奈",
+    "ruby": "すみおかりな",
+    "kana": "スミオカリナ",
+    "romaji": [
+      "sumiokarina"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UBSkW",
+    "spotify_artist_id": "4XBhUEEmSLxG9Zs1tDjHlL",
+    "official_site": null,
+    "description": "住岡梨奈の代表曲をまとめた公式のプレイリスト「This Is 住岡梨奈」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-627",
+    "name": "聖飢魔II",
+    "ruby": "せいきまつ",
+    "kana": "セイキマツ",
+    "romaji": [
+      "seikimatsu",
+      "seikimatu",
+      "ii"
+    ],
+    "aliases": [
+      "聖飢魔2"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO23viIt",
+    "spotify_artist_id": "3xl8koA4X7WDnRYSmjYeDa",
+    "official_site": null,
+    "description": "聖飢魔IIの代表曲をまとめた公式のプレイリスト「This Is 聖飢魔II」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-628",
+    "name": "SEKAI NO OWARI",
+    "ruby": "せかいのおわり",
+    "kana": "セカイノオワリ",
+    "romaji": [
+      "sekainoowari"
+    ],
+    "aliases": [
+      "セカオワ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yRfbH",
+    "spotify_artist_id": "7HwzlRPa9Ad0I8rK0FPzzK",
+    "official_site": null,
+    "description": "SEKAI NO OWARIの代表曲をまとめた公式のプレイリスト「This Is SEKAI NO OWARI」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-629",
+    "name": "瀬川瑛子",
+    "ruby": "せがわえいこ",
+    "kana": "セガワエイコ",
+    "romaji": [
+      "segawaeiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YYZeL",
+    "spotify_artist_id": "6JUp8OnRhSZirVkofP9c7e",
+    "official_site": null,
+    "description": "瀬川瑛子の代表曲をまとめた公式のプレイリスト「This Is 瀬川瑛子」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-630",
+    "name": "SEX MACHINEGUNS",
+    "ruby": "せっくすましんがんず",
+    "kana": "セックスマシンガンズ",
+    "romaji": [
+      "sexmachineguns"
+    ],
+    "aliases": [
+      "セクマシ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pfdwI",
+    "spotify_artist_id": "7ryhULNX7RLDr2sAwJa2wO",
+    "official_site": null,
+    "description": "SEX MACHINEGUNSの代表曲をまとめた公式のプレイリスト「This Is SEX MACHINEGUNS」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-631",
+    "name": "SEVENTEEN",
+    "ruby": "せぶんてぃーん",
+    "kana": "セブンティーン",
+    "romaji": [
+      "seventeen"
+    ],
+    "aliases": [
+      "セブチ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWXa2ShUct1Fm",
+    "spotify_artist_id": "7nqOGRxlXj7N2JYbgNEjYH",
+    "official_site": null,
+    "description": "SEVENTEENの代表曲をまとめた公式のプレイリスト「This Is SEVENTEEN」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-632",
+    "name": "世良公則",
+    "ruby": "せらまさのり",
+    "kana": "セラマサノリ",
+    "romaji": [
+      "seramasanori"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B2mbu",
+    "spotify_artist_id": "667fuEouMIbbjnD87Inxwl",
+    "official_site": null,
+    "description": "世良公則の代表曲をまとめた公式のプレイリスト「This Is 世良公則」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-633",
+    "name": "ZEROBASEONE",
+    "ruby": "ぜろべーすわん",
+    "kana": "ゼロベースワン",
+    "romaji": [
+      "zerobaseone"
+    ],
+    "aliases": [
+      "ゼベワン",
+      "zb1"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4g4uFX",
+    "spotify_artist_id": "7cjg7EkeZy3OI5o9Qthc6n",
+    "official_site": null,
+    "description": "ZEROBASEONEの代表曲をまとめた公式のプレイリスト「This Is ZEROBASEONE」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-634",
+    "name": "センチメンタル・バス",
+    "ruby": "せんちめんたるばす",
+    "kana": "センチメンタルバス",
+    "romaji": [
+      "senchimentarubasu",
+      "sentimentarubasu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4oX0Az",
+    "spotify_artist_id": "7r47auVicPAlscTiu4gLZa",
+    "official_site": null,
+    "description": "センチメンタル・バスの代表曲をまとめた公式のプレイリスト「This Is センチメンタル・バス」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
   },
   {
     "id": "artist-200",
