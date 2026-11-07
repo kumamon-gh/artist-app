@@ -1,5 +1,85 @@
 [
   {
+    "name": "スマイレージ",
+    "ruby": "すまいれーじ",
+    "aliases": ["アンジュルム", "angerme"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2h3j8j",
+    "spotify_artist_id": "3TRwLsWRE4FD8OWW7vbwB5",
+    "tags": ["女性グループ", "J-POP"]
+  },
+  {
+    "name": "住岡梨奈",
+    "ruby": "すみおかりな",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UBSkW",
+    "spotify_artist_id": "4XBhUEEmSLxG9Zs1tDjHlL",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+{
+    "name": "聖飢魔II",
+    "ruby": "せいきまつ",
+    "aliases": ["聖飢魔2"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO23viIt",
+    "spotify_artist_id": "3xl8koA4X7WDnRYSmjYeDa",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "SEKAI NO OWARI",
+    "ruby": "せかいのおわり",
+    "aliases": ["セカオワ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yRfbH",
+    "spotify_artist_id": "7HwzlRPa9Ad0I8rK0FPzzK",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "瀬川瑛子",
+    "ruby": "せがわえいこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YYZeL",
+    "spotify_artist_id": "6JUp8OnRhSZirVkofP9c7e",
+    "tags": ["女性ソロ", "演歌"]
+  },
+  {
+    "name": "SEX MACHINEGUNS",
+    "ruby": "せっくすましんがんず",
+    "aliases": ["セクマシ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pfdwI",
+    "spotify_artist_id": "7ryhULNX7RLDr2sAwJa2wO",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
+    "name": "SEVENTEEN",
+    "ruby": "せぶんてぃーん",
+    "aliases": ["セブチ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWXa2ShUct1Fm",
+    "spotify_artist_id": "7nqOGRxlXj7N2JYbgNEjYH",
+    "tags": ["男性グループ", "K-POP", "海外アーティスト"]
+  },
+{
+    "name": "世良公則",
+    "ruby": "せらまさのり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B2mbu",
+    "spotify_artist_id": "667fuEouMIbbjnD87Inxwl",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+  {
+    "name": "ZEROBASEONE",
+    "ruby": "ぜろべーすわん",
+    "aliases": ["ゼベワン", "zb1"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4g4uFX",
+    "spotify_artist_id": "7cjg7EkeZy3OI5o9Qthc6n",
+    "tags": ["男性グループ", "K-POP", "海外アーティスト"]
+  },
+{
+    "name": "センチメンタル・バス",
+    "ruby": "せんちめんたるばす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4oX0Az",
+    "spotify_artist_id": "7r47auVicPAlscTiu4gLZa",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
