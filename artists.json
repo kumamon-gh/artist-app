@@ -13633,6 +13633,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PPHle"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PPHle": "#f47e00"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PPHle": "現：アンジュルム"
     },
@@ -13646,7 +13649,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#e5ad89"
   },
   {
     "id": "artist-626",
@@ -13668,7 +13671,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-627",
@@ -13694,7 +13697,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-628",
@@ -13718,7 +13721,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-629",
@@ -13740,7 +13743,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-630",
@@ -13764,7 +13767,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-631",
@@ -13789,7 +13792,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#89bbf8"
   },
   {
     "id": "artist-632",
@@ -13811,7 +13814,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-633",
@@ -13837,7 +13840,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-634",
@@ -13860,7 +13863,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#fd4aab"
   },
   {
     "id": "artist-635",
@@ -13885,7 +13888,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-636",
@@ -13909,7 +13912,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-637",
@@ -13933,7 +13936,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-638",
@@ -13957,7 +13960,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-639",
@@ -13979,7 +13982,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-640",
@@ -14003,7 +14006,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-641",
@@ -14025,7 +14028,7 @@
     "status": "published",
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-200",
