@@ -1,5 +1,61 @@
 [
   {
+    "name": "セントチヒロ・チッチ",
+    "ruby": "せんとちひろちっち",
+    "aliases": ["cent"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO476cJK",
+    "spotify_artist_id": "6XoPPVd3Cqm3yXoZAdn8ms",
+    "tags": ["女性ソロ", "J-POP"]
+  },
+  {
+    "name": "千昌夫",
+    "ruby": "せんまさお",
+    "aliases": ["せんあきお"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0nr39K",
+    "spotify_artist_id": "0KojFtEdOqHGt0XPf7mBD5",
+    "tags": ["男性ソロ", "演歌"]
+  },
+{
+    "name": "相対性理論",
+    "ruby": "そうたいせいりろん",
+    "aliases": ["相対性りろん"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DDhLz",
+    "spotify_artist_id": "1bj13qFAwnyM3ILOiFnn1Y",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
+    "name": "Sonar Pocket",
+    "ruby": "そなーぽけっと",
+    "aliases": ["ソナポケ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2x5eus",
+    "spotify_artist_id": "4kuP7AbiovQdVXJkRHeq4w",
+    "tags": ["男性グループ", "J-POP"]
+  },
+  {
+    "name": "SOPHIA",
+    "ruby": "そふぃあ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jLzJS",
+    "spotify_artist_id": "5DppQgaMuyzR2ea5t9DOcK",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
+    "name": "SoulJa",
+    "ruby": "そるじゃ",
+    "aliases": ["ソウルジャ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fh5ao",
+    "spotify_artist_id": "0wP8E9fUgYBHx1QRf3QLPT",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "ZONE",
+    "ruby": "ぞーん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38G7te",
+    "spotify_artist_id": "5kYS7bPX5tm3jrsYqqNSZN",
+    "tags": ["女性グループ", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
