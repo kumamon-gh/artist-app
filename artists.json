@@ -1,5 +1,85 @@
 [
   {
+    "name": "スターダスト☆レビュー",
+    "ruby": "すたーだすとれびゅー",
+    "aliases": ["スタレビ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HiI6b",
+    "spotify_artist_id": "6gwjJz85PWrQ4mSLrku8fh",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "STUTS",
+    "ruby": "すたっつ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bxgWc",
+    "spotify_artist_id": "0qC4CNzOUtgdmdVzRqCa1d",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "菅田将暉",
+    "ruby": "すだまさき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3LfBtX",
+    "spotify_artist_id": "6n4SsAp5VjvIBg3s9QCcPX",
+    "tags": ["男性ソロ", "J-POP"]
+  },
+{
+    "name": "ST☆RISH",
+    "ruby": "すたーりっしゅ",
+    "aliases": ["スタリッシュ", "starish"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2AD50B",
+    "spotify_artist_id": "4qozdjjHNXwEDYMMuK6dUb",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "ずっと真夜中でいいのに。",
+    "ruby": "ずっとまよなかでいいのに",
+    "aliases": ["ずとまよ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1OOLMQ",
+    "spotify_artist_id": "38WbKH6oKAZskBhqDFA8Uj",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
+    "name": "Stray Kids",
+    "ruby": "すとれいきっず",
+    "aliases": ["SKZ", "スキズ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWWqjEVD8TBr9",
+    "spotify_artist_id": "2dIgFjalVxs4ThymZ67YCE",
+    "tags": ["男性グループ", "K-POP", "海外アーティスト"]
+  },
+  {
+    "name": "SixTONES",
+    "ruby": "すとーんず",
+    "aliases": ["シックストーンズ"],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DXdC0xfsKDo6B",
+    "spotify_artist_id": "7dhueqtbx2NVq1leXyqaNl",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "Snail Ramp",
+    "ruby": "すねいるらんぷ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0W4F7H",
+    "spotify_artist_id": "1FXeQKrufIqfjNAPPV4bfx",
+    "tags": ["バンド", "J-POP"]
+  },
+{
+    "name": "Snow Man",
+    "ruby": "すのーまん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWVxD67zqK6u0",
+    "spotify_artist_id": "0UuiWPm9FpWvRuWNrXO98N",
+    "tags": ["男性グループ", "J-POP"]
+  },
+{
+    "name": "SPYAIR",
+    "ruby": "すぱいえあー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iOisK",
+    "spotify_artist_id": "7gRg6C2qgQ1F01k3sgyEVt",
+    "tags": ["バンド", "J-POP"]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
