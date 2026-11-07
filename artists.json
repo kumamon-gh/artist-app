@@ -13630,6 +13630,12 @@
       "angerme"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2h3j8j",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PPHle"
+    ],
+"extra_labels": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PPHle": "現："アンジュルム"
+    },
     "spotify_artist_id": "3TRwLsWRE4FD8OWW7vbwB5",
     "official_site": null,
     "description": "スマイレージの代表曲をまとめた公式のプレイリスト「This Is スマイレージ」",
