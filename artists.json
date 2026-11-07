@@ -1,85 +1,5 @@
 [
   {
-    "name": "SPICY CHOCOLATE",
-    "ruby": "すぱいしーちょこれーと",
-    "aliases": ["スパチョコ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tlqsZ",
-    "spotify_artist_id": "2zfrJbiT7DpWlzwJaJCFiC",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "SUPER EIGHT",
-    "ruby": "すーぱーえいと",
-    "aliases": ["関ジャニ∞", "関ジャニエイト", "かんじゃにえいと", "エイト"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4josj8",
-    "spotify_artist_id": "7hPEh2rcIFbRsUdy6ZzFpQ",
-    "tags": ["男性グループ", "J-POP"]
-  },
-{
-    "name": "SUPER☆GiRLS",
-    "ruby": "すーぱーがーるず",
-    "aliases": ["スパガ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2G5H8l",
-    "spotify_artist_id": "4zthDDKQvX4jJtGfo4ouKr",
-    "tags": ["女性グループ", "J-POP"]
-  },
-{
-    "name": "SUPER JUNIOR",
-    "ruby": "すーぱーじゅにあ",
-    "aliases": ["スジュ", "SJ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HkPL4",
-    "spotify_artist_id": "6gzXCdfYfFe5XKhPKkYqxV",
-    "tags": ["男性グループ", "K-POP", "海外アーティスト"]
-  },
-{
-    "name": "supercell",
-    "ruby": "すーぱーせる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NKoT4",
-    "spotify_artist_id": "4Mc3zbnQx4wRb0tYg7A8sG",
-    "tags": ["男女混成グループ", "J-POP"]
-  },
-{
-    "name": "SUPER BEAVER",
-    "ruby": "すーぱーびーばー",
-    "aliases": ["ビーバー", "スパビ"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0stYOs",
-    "spotify_artist_id": "0SMhG4gXGD4gzLMMz08cQU",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "Superfly",
-    "ruby": "すーぱーふらい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3p1aOm",
-    "spotify_artist_id": "5M8AXrOifBT8elkLKbGPQZ",
-    "tags": ["女性ソロ", "J-POP"]
-  },
-{
-    "name": "スピッツ",
-    "ruby": "すぴっつ",
-    "aliases": ["spitz"],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38htI0",
-    "spotify_artist_id": "5kjGRHClVacSyllOUqU1S0",
-    "tags": ["バンド", "J-POP"]
-  },
-{
-    "name": "SPEED",
-    "ruby": "すぴーど",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2hZmYg",
-    "spotify_artist_id": "3VpWtcxsAiE148UkrC1yt9",
-    "tags": ["女性グループ", "J-POP"]
-  },
-{
-    "name": "スポンテニア",
-    "ruby": "すぽんてにあ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25IUV2",
-    "spotify_artist_id": "3B1Bb9rGqk3iAcn0G6V21S",
-    "tags": ["男女混成グループ", "J-POP"]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -13450,6 +13370,245 @@
     "description": "SPYAIRの代表曲をまとめた公式のプレイリスト「This Is SPYAIR」",
     "tags": [
       "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-615",
+    "name": "SPICY CHOCOLATE",
+    "ruby": "すぱいしーちょこれーと",
+    "kana": "スパイシーチョコレート",
+    "romaji": [
+      "spicychocolate"
+    ],
+    "aliases": [
+      "スパチョコ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tlqsZ",
+    "spotify_artist_id": "2zfrJbiT7DpWlzwJaJCFiC",
+    "official_site": null,
+    "description": "SPICY CHOCOLATEの代表曲をまとめた公式のプレイリスト「This Is SPICY CHOCOLATE」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-616",
+    "name": "SUPER EIGHT",
+    "ruby": "すーぱーえいと",
+    "kana": "スーパーエイト",
+    "romaji": [
+      "supereight"
+    ],
+    "aliases": [
+      "関ジャニ∞",
+      "関ジャニエイト",
+      "かんじゃにえいと",
+      "エイト"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4josj8",
+    "spotify_artist_id": "7hPEh2rcIFbRsUdy6ZzFpQ",
+    "official_site": null,
+    "description": "SUPER EIGHTの代表曲をまとめた公式のプレイリスト「This Is SUPER EIGHT」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-617",
+    "name": "SUPER☆GiRLS",
+    "ruby": "すーぱーがーるず",
+    "kana": "スーパーガールズ",
+    "romaji": [
+      "supergirls"
+    ],
+    "aliases": [
+      "スパガ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2G5H8l",
+    "spotify_artist_id": "4zthDDKQvX4jJtGfo4ouKr",
+    "official_site": null,
+    "description": "SUPER☆GiRLSの代表曲をまとめた公式のプレイリスト「This Is SUPER☆GiRLS」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-618",
+    "name": "SUPER JUNIOR",
+    "ruby": "すーぱーじゅにあ",
+    "kana": "スーパージュニア",
+    "romaji": [
+      "superjunior"
+    ],
+    "aliases": [
+      "スジュ",
+      "SJ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HkPL4",
+    "spotify_artist_id": "6gzXCdfYfFe5XKhPKkYqxV",
+    "official_site": null,
+    "description": "SUPER JUNIORの代表曲をまとめた公式のプレイリスト「This Is SUPER JUNIOR」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-619",
+    "name": "supercell",
+    "ruby": "すーぱーせる",
+    "kana": "スーパーセル",
+    "romaji": [
+      "supercell"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NKoT4",
+    "spotify_artist_id": "4Mc3zbnQx4wRb0tYg7A8sG",
+    "official_site": null,
+    "description": "supercellの代表曲をまとめた公式のプレイリスト「This Is supercell」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-620",
+    "name": "SUPER BEAVER",
+    "ruby": "すーぱーびーばー",
+    "kana": "スーパービーバー",
+    "romaji": [
+      "superbeaver"
+    ],
+    "aliases": [
+      "ビーバー",
+      "スパビ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0stYOs",
+    "spotify_artist_id": "0SMhG4gXGD4gzLMMz08cQU",
+    "official_site": null,
+    "description": "SUPER BEAVERの代表曲をまとめた公式のプレイリスト「This Is SUPER BEAVER」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-621",
+    "name": "Superfly",
+    "ruby": "すーぱーふらい",
+    "kana": "スーパーフライ",
+    "romaji": [
+      "superfly"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3p1aOm",
+    "spotify_artist_id": "5M8AXrOifBT8elkLKbGPQZ",
+    "official_site": null,
+    "description": "Superflyの代表曲をまとめた公式のプレイリスト「This Is Superfly」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-622",
+    "name": "スピッツ",
+    "ruby": "すぴっつ",
+    "kana": "スピッツ",
+    "romaji": [
+      "supittsu",
+      "supittu"
+    ],
+    "aliases": [
+      "spitz"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38htI0",
+    "spotify_artist_id": "5kjGRHClVacSyllOUqU1S0",
+    "official_site": null,
+    "description": "スピッツの代表曲をまとめた公式のプレイリスト「This Is スピッツ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-623",
+    "name": "SPEED",
+    "ruby": "すぴーど",
+    "kana": "スピード",
+    "romaji": [
+      "speed"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2hZmYg",
+    "spotify_artist_id": "3VpWtcxsAiE148UkrC1yt9",
+    "official_site": null,
+    "description": "SPEEDの代表曲をまとめた公式のプレイリスト「This Is SPEED」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-624",
+    "name": "スポンテニア",
+    "ruby": "すぽんてにあ",
+    "kana": "スポンテニア",
+    "romaji": [
+      "supontenia"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25IUV2",
+    "spotify_artist_id": "3B1Bb9rGqk3iAcn0G6V21S",
+    "official_site": null,
+    "description": "スポンテニアの代表曲をまとめた公式のプレイリスト「This Is スポンテニア」",
+    "tags": [
+      "男女混成グループ",
       "J-POP"
     ],
     "status": "published",
