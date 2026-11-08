@@ -1,5 +1,121 @@
 [
   {
+    "name": "田端義夫",
+    "ruby": "たばたよしお",
+    "aliases": [
+      "バタヤン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lEYiI",
+    "spotify_artist_id": "7lBaOv2re9Lt6FZaYttrzQ",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "演歌"
+    ]
+  },
+{
+    "name": "田原俊彦",
+    "ruby": "たはらとしひこ",
+    "aliases": [
+      "トシちゃん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vFD0z",
+    "spotify_artist_id": "5Xc1nVFZOLYSio1qIHxjjt",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "DA PUMP",
+    "ruby": "だぱんぷ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2drLys",
+    "spotify_artist_id": "3NRXKeatDxKe4apH6XawKX",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "たま",
+    "ruby": "たま",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lRlv7",
+    "spotify_artist_id": "7lVG50DbbnbI4i1DgLxrLk",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "玉置浩二",
+    "ruby": "たまきこうじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oc2wI",
+    "spotify_artist_id": "5KLvrcsAUwqMOqxErwSJmD",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "玉置成実",
+    "ruby": "たまきなるみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2r5qTZ",
+    "spotify_artist_id": "4awZsyevkX7tP6nu1rFvUq",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "田村英里子",
+    "ruby": "たむらえりこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CjLdw",
+    "spotify_artist_id": "4tc2Vg3R8pVtea8WeUFIOm",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "田村直美",
+    "ruby": "たむらなおみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0nSy2Y",
+    "spotify_artist_id": "0L7Qb17znlkaydgMefkLUq",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "Daoko",
+    "ruby": "だおこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ruc3I",
+    "spotify_artist_id": "5Qeyh2XKoITt1mlEVtzazC",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "タンポポ",
+    "ruby": "たんぽぽ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3A00K4",
+    "spotify_artist_id": "64nV18SsBAUIIqidUSH1l2",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
