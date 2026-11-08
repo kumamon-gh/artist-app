@@ -1,5 +1,130 @@
 [
   {
+    "name": "ダイアモンド☆ユカイ",
+    "ruby": "だいやもんどゆかい",
+    "aliases": [
+      "ダイヤモンドユカイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1HNtmM",
+    "spotify_artist_id": "2Xgqw0qSxzLPXOgPg1NEUL",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "Da-iCE",
+    "ruby": "だいす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49OWmI",
+    "spotify_artist_id": "71UIOLnsacxQHlU55TvfiH",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "timelesz",
+    "ruby": "たいむれす",
+    "aliases": [
+      "Sexy Zone",
+      "セクシーゾーン",
+      "セクゾ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO17VXU2",
+    "spotify_artist_id": "1ZFfhzyXjPvbzSYPlCIwo3",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "太陽とシスコムーン",
+    "ruby": "たいようとしすこむーん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s9QgV",
+    "spotify_artist_id": "5Rm0zNH07q0eaxE5Iz0Ekl",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "平浩二",
+    "ruby": "たいらこうじ",
+    "aliases": [
+      "ひらこうじ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22XpHP",
+    "spotify_artist_id": "3wqNnKUAGPPJvomk0Boehf",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "ダウン・タウン・ブギウギ・バンド",
+    "ruby": "だうんたうんぶぎうぎばんど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0PcagF",
+    "spotify_artist_id": "1uwxL7ukphTFlyexgyjufs",
+    "tags": [
+      "バンド",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "高岡早紀",
+    "ruby": "たかおかさき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xyyLq",
+    "spotify_artist_id": "11d6hjMPzCMIzDrAzMwrvp",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "高嶋ちさ子",
+    "ruby": "たかしまちさこ",
+    "aliases": [
+      "高島ちさこ",
+      "高島ちさ子"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WecX3",
+    "spotify_artist_id": "1GcQunOtBMLkIYgm7w1HfA",
+    "tags": [
+      "その他",
+      "邦楽"
+    ]
+  },
+{
+    "name": "高田みづえ",
+    "ruby": "たかだみづえ",
+    "aliases": [
+      "高田みずえ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ii36g",
+    "spotify_artist_id": "2gSv29tig3fcanFgMBqq3J",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "高嶺のなでしこ",
+    "ruby": "たかねのなでしこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Aibi9",
+    "spotify_artist_id": "4pPKLWtUwFk3RKIGuVZtcQ",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
