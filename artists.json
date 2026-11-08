@@ -1,5 +1,128 @@
 [
   {
+    "name": "竹原ピストル",
+    "ruby": "たけはらぴすとる",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mwmfo",
+    "spotify_artist_id": "0IRFQcZbbHHpFY5EUNA2XA",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "たこやきレインボー",
+    "ruby": "たこやきれいんぼー",
+    "aliases": [
+      "たこ虹",
+      "たこにじ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO292VBj",
+    "spotify_artist_id": "3Gy9YFDrhJbxoGPm05v3rq",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "橘いずみ",
+    "ruby": "たちばないずみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2cj4NL",
+    "spotify_artist_id": "3LYoUr0rRFurqwRzFvnk2p",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "舘ひろし",
+    "ruby": "たちひろし",
+    "aliases": [
+      "館ひろし",
+      "たてひろし"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ih80a",
+    "spotify_artist_id": "6i8Dqow5PmVBXBt7faYfxZ",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "田中あいみ",
+    "ruby": "たなかあいみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32J5Q0",
+    "spotify_artist_id": "5b5N91QfDll536aOStKTr9",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "田中星児",
+    "ruby": "たなかせいじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO48ov1a",
+    "spotify_artist_id": "6Zy5tZ7SjPA2ILnLzGvaCE",
+    "tags": [
+      "男性ソロ",
+      "邦楽",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "谷村新司",
+    "ruby": "たにむらしんじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXNpkr",
+    "spotify_artist_id": "03MgOjRS1TG6x7OhAB9ZnN",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "木村拓哉",
+    "ruby": "きむらたくや",
+    "aliases": [
+      "キムタク"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kH1DB",
+    "spotify_artist_id": "7jZnmNs4rkoMqljfgaXxF9",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "谷本貴義",
+    "ruby": "たにもとたかよし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3agQ1Q",
+    "spotify_artist_id": "5nCVXtvsB2KsngsMbk8Hat",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Tani Yuuki",
+    "ruby": "たにゆうき",
+    "aliases": [
+"たにゆーき"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hNxZL",
+    "spotify_artist_id": "0B1ce3uNrzkdm76NXI4mhX",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
