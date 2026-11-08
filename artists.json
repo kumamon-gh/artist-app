@@ -1,5 +1,125 @@
 [
   {
+    "name": "高橋ひろ",
+    "ruby": "たかはしひろ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OToYh",
+    "spotify_artist_id": "6t8SRQ3JL9AuvhNxlyYjfR",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "高橋真梨子",
+    "ruby": "たかはしまりこ",
+    "aliases": [
+      "高橋まりこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZZ9gFr",
+    "spotify_artist_id": "061wx7ayIPhKImKfURbWxU",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "高橋優",
+    "ruby": "たかはしゆう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2r9j11",
+    "spotify_artist_id": "4aDG4r8Fb7lNdMtETDIB4t",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "高橋由美子",
+    "ruby": "たかはしゆみこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kFGHy",
+    "spotify_artist_id": "0FMKy2BXh6rzZiNJ1K9O2c",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "高橋洋子",
+    "ruby": "たかはしようこ",
+    "aliases": [
+      "高橋ひろこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1EyGnQ",
+    "spotify_artist_id": "2RSmBT9gH02j53dMSw982t",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "高畑充希",
+    "ruby": "たかはたみつき",
+    "aliases": [
+      "高畑みつき"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ldrqx",
+    "spotify_artist_id": "6n21y1MVxkEBZnezjLGiXk",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ダ・カーポ",
+    "ruby": "だかーぽ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RKPZ4",
+    "spotify_artist_id": "4SR3XJg7LfU0gRVAWsQnKP",
+    "tags": [
+      "男女混成グループ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "田川寿美",
+    "ruby": "たがわとしみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2owVAA",
+    "spotify_artist_id": "46hWJ6OU0bGAORgHAPbEWx",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ]
+  },
+  {
+    "name": "ダーク・ダックス",
+    "ruby": "だーくだっくす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYDlFw",
+    "spotify_artist_id": "05awEy7ptFq3N45Epwlydg",
+    "tags": [
+      "男性グループ",
+      "邦楽"
+    ]
+  },
+  {
+    "name": "竹内まりや",
+    "ruby": "たけうちまりや",
+    "aliases": [
+"たけうちまりあ"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iF6yP",
+    "spotify_artist_id": "3WwGRA2o4Ux1RRMYaYDh7N",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
