@@ -1,130 +1,5 @@
 [
   {
-    "name": "ダイアモンド☆ユカイ",
-    "ruby": "だいやもんどゆかい",
-    "aliases": [
-      "ダイヤモンドユカイ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1HNtmM",
-    "spotify_artist_id": "2Xgqw0qSxzLPXOgPg1NEUL",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "Da-iCE",
-    "ruby": "だいす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49OWmI",
-    "spotify_artist_id": "71UIOLnsacxQHlU55TvfiH",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "timelesz",
-    "ruby": "たいむれす",
-    "aliases": [
-      "Sexy Zone",
-      "セクシーゾーン",
-      "セクゾ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO17VXU2",
-    "spotify_artist_id": "1ZFfhzyXjPvbzSYPlCIwo3",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "太陽とシスコムーン",
-    "ruby": "たいようとしすこむーん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s9QgV",
-    "spotify_artist_id": "5Rm0zNH07q0eaxE5Iz0Ekl",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "平浩二",
-    "ruby": "たいらこうじ",
-    "aliases": [
-      "ひらこうじ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22XpHP",
-    "spotify_artist_id": "3wqNnKUAGPPJvomk0Boehf",
-    "tags": [
-      "男性ソロ",
-      "演歌",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "ダウン・タウン・ブギウギ・バンド",
-    "ruby": "だうんたうんぶぎうぎばんど",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0PcagF",
-    "spotify_artist_id": "1uwxL7ukphTFlyexgyjufs",
-    "tags": [
-      "バンド",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "高岡早紀",
-    "ruby": "たかおかさき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xyyLq",
-    "spotify_artist_id": "11d6hjMPzCMIzDrAzMwrvp",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "高嶋ちさ子",
-    "ruby": "たかしまちさこ",
-    "aliases": [
-      "高島ちさこ",
-      "高島ちさ子"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WecX3",
-    "spotify_artist_id": "1GcQunOtBMLkIYgm7w1HfA",
-    "tags": [
-      "その他",
-      "邦楽"
-    ]
-  },
-{
-    "name": "高田みづえ",
-    "ruby": "たかだみづえ",
-    "aliases": [
-      "高田みずえ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ii36g",
-    "spotify_artist_id": "2gSv29tig3fcanFgMBqq3J",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "高嶺のなでしこ",
-    "ruby": "たかねのなでしこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Aibi9",
-    "spotify_artist_id": "4pPKLWtUwFk3RKIGuVZtcQ",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -14154,6 +14029,245 @@
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
     "color": "#fde54f"
+  },
+  {
+    "id": "artist-643",
+    "name": "Da-iCE",
+    "ruby": "だいす",
+    "kana": "ダイス",
+    "romaji": [
+      "daice"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49OWmI",
+    "spotify_artist_id": "71UIOLnsacxQHlU55TvfiH",
+    "official_site": null,
+    "description": "Da-iCEの代表曲をまとめた公式のプレイリスト「This Is Da-iCE」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-644",
+    "name": "timelesz",
+    "ruby": "たいむれす",
+    "kana": "タイムレス",
+    "romaji": [
+      "timelesz"
+    ],
+    "aliases": [
+      "Sexy Zone",
+      "セクシーゾーン",
+      "セクゾ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO17VXU2",
+    "spotify_artist_id": "1ZFfhzyXjPvbzSYPlCIwo3",
+    "official_site": null,
+    "description": "timeleszの代表曲をまとめた公式のプレイリスト「This Is timelesz」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-642",
+    "name": "ダイアモンド☆ユカイ",
+    "ruby": "だいやもんどゆかい",
+    "kana": "ダイヤモンドユカイ",
+    "romaji": [
+      "daiyamondoyukai"
+    ],
+    "aliases": [
+      "ダイヤモンドユカイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1HNtmM",
+    "spotify_artist_id": "2Xgqw0qSxzLPXOgPg1NEUL",
+    "official_site": null,
+    "description": "ダイアモンド☆ユカイの代表曲をまとめた公式のプレイリスト「This Is ダイアモンド☆ユカイ」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-645",
+    "name": "太陽とシスコムーン",
+    "ruby": "たいようとしすこむーん",
+    "kana": "タイヨウトシスコムーン",
+    "romaji": [
+      "taiyoutoshisukomuun",
+      "taiyoutosisukomuun"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s9QgV",
+    "spotify_artist_id": "5Rm0zNH07q0eaxE5Iz0Ekl",
+    "official_site": null,
+    "description": "太陽とシスコムーンの代表曲をまとめた公式のプレイリスト「This Is 太陽とシスコムーン」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-646",
+    "name": "平浩二",
+    "ruby": "たいらこうじ",
+    "kana": "タイラコウジ",
+    "romaji": [
+      "tairakouji",
+      "tairakouzi"
+    ],
+    "aliases": [
+      "ひらこうじ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22XpHP",
+    "spotify_artist_id": "3wqNnKUAGPPJvomk0Boehf",
+    "official_site": null,
+    "description": "平浩二の代表曲をまとめた公式のプレイリスト「This Is 平浩二」",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-647",
+    "name": "ダウン・タウン・ブギウギ・バンド",
+    "ruby": "だうんたうんぶぎうぎばんど",
+    "kana": "ダウンタウンブギウギバンド",
+    "romaji": [
+      "dauntaunbugiugibando"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0PcagF",
+    "spotify_artist_id": "1uwxL7ukphTFlyexgyjufs",
+    "official_site": null,
+    "description": "ダウン・タウン・ブギウギ・バンドの代表曲をまとめた公式のプレイリスト「This Is ダウン・タウン・ブギウギ・バンド」",
+    "tags": [
+      "バンド",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-648",
+    "name": "高岡早紀",
+    "ruby": "たかおかさき",
+    "kana": "タカオカサキ",
+    "romaji": [
+      "takaokasaki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xyyLq",
+    "spotify_artist_id": "11d6hjMPzCMIzDrAzMwrvp",
+    "official_site": null,
+    "description": "高岡早紀の代表曲をまとめた公式のプレイリスト「This Is 高岡早紀」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-649",
+    "name": "高嶋ちさ子",
+    "ruby": "たかしまちさこ",
+    "kana": "タカシマチサコ",
+    "romaji": [
+      "takashimachisako",
+      "takasimatisako"
+    ],
+    "aliases": [
+      "高島ちさこ",
+      "高島ちさ子"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WecX3",
+    "spotify_artist_id": "1GcQunOtBMLkIYgm7w1HfA",
+    "official_site": null,
+    "description": "高嶋ちさ子の代表曲をまとめた公式のプレイリスト「This Is 高嶋ちさ子」",
+    "tags": [
+      "その他",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-650",
+    "name": "高田みづえ",
+    "ruby": "たかだみづえ",
+    "kana": "タカダミヅエ",
+    "romaji": [
+      "takadamizue"
+    ],
+    "aliases": [
+      "高田みずえ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ii36g",
+    "spotify_artist_id": "2gSv29tig3fcanFgMBqq3J",
+    "official_site": null,
+    "description": "高田みづえの代表曲をまとめた公式のプレイリスト「This Is 高田みづえ」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
+  },
+  {
+    "id": "artist-651",
+    "name": "高嶺のなでしこ",
+    "ruby": "たかねのなでしこ",
+    "kana": "タカネノナデシコ",
+    "romaji": [
+      "takanenonadeshiko",
+      "takanenonadesiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Aibi9",
+    "spotify_artist_id": "4pPKLWtUwFk3RKIGuVZtcQ",
+    "official_site": null,
+    "description": "高嶺のなでしこの代表曲をまとめた公式のプレイリスト「This Is 高嶺のなでしこ」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-08",
+    "updated_date": "2026-11-08",
+    "color": ""
   },
   {
     "id": "artist-200",
