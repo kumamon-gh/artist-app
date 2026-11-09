@@ -1,5 +1,121 @@
 [
   {
+    "name": "10-FEET",
+    "ruby": "てんふぃーと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0rpA49",
+    "spotify_artist_id": "0QZqdhoRQkn1VphAa5eX8h",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "doa",
+    "ruby": "どあ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1FtnJS",
+    "spotify_artist_id": "2TpkAUdGAEYofr9wvfscyP",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "TWS",
+    "ruby": "とぅあす",
+    "aliases": [
+      "ティーダブリューエス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Kb7j6",
+    "spotify_artist_id": "4GgBKgxhc649frZDHcXIEz",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "Do As Infinity",
+    "ruby": "どぅあずいんふぃにてぃ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05fElR",
+    "spotify_artist_id": "0gakJs5JAKmJZ4KnAHMh9i",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "2NE1",
+    "ruby": "とぅえにわん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Jta80",
+    "spotify_artist_id": "1l0mKo96Jh9HVYONcRl3Yp",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "東京ゲゲゲイ",
+    "ruby": "とうきょうげげげい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0u5Nzc",
+    "spotify_artist_id": "0Vs3W8eXnwhsvDQZR5tnoC",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "東京事変",
+    "ruby": "とうきょうじへん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Zyhjx",
+    "spotify_artist_id": "6KQWWzFLPQbqomJrieHAW5",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "東京女子流",
+    "ruby": "とうきょうじょしりゅう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lV2Ay",
+    "spotify_artist_id": "2mUoXdIOsE0kFnXdNzS3wx",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "東京スカパラダイスオーケストラ",
+    "ruby": "とうきょうすかぱらだいすおーけすとら",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6",
+    "spotify_artist_id": "0UZq6vAHrwGgctvxTzzxYm",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "東京パフォーマンスドール",
+    "ruby": "とうきょうぱふぉーまんすどーる",
+    "aliases": [
+      "TPD"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GI05c",
+    "spotify_artist_id": "6fwRviahtvzpdsTDCZoUyu",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
