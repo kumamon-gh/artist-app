@@ -1,123 +1,5 @@
 [
   {
-    "name": "T.M.Revolution",
-    "ruby": "てぃーえむれぼりゅーしょん",
-    "aliases": [
-      "TMR"
- ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1V0nnV",
-    "spotify_artist_id": "3jdzcmtw5XOmOkSb2mRDtr",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "TK from 凛として時雨",
-    "ruby": "てぃーけーふろむりんとしてしぐれ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25NG3m",
-    "spotify_artist_id": "3B9O5mYYw89fFXkwKh7jCS",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "D-51",
-    "ruby": "でぃーごーいち",
-    "aliases": [
-      "ディーフィフティーワン"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ehIOe",
-    "spotify_artist_id": "5uisl58N23dXm8fGfbLF8m",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "DJ OZMA",
-    "ruby": "でぃーじぇいおずま",
-    "aliases": [
-      "ディージェーオズマ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO18HOpz",
-    "spotify_artist_id": "20WW027E2lIhdDHif2m05y",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "T字路s",
-    "ruby": "てぃーじろす",
-    "aliases": [
-      "ジロス"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1a1tWb",
-    "spotify_artist_id": "238nzReAbgGdev4POJB20t",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "DISH//",
-    "ruby": "でぃっしゅ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07oBRi",
-    "spotify_artist_id": "0jJmZHZHNe8n24Y33z5Nil",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "T-BOLAN",
-    "ruby": "てぃーぼらん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1S9hw7",
-    "spotify_artist_id": "3etntM5D8zqhYOTJHFhMXb",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "DIR EN GREY",
-    "ruby": "でぃるあんぐれい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VXfXB",
-    "spotify_artist_id": "3kNqzLmW33fQIfmZ1OfqMA",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "DEEN",
-    "ruby": "でぃーん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1451Qb",
-    "spotify_artist_id": "1Tg3cYxIGONHrwVagR1QlG",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "DEAN FUJIOKA",
-    "ruby": "でぃーんふじおか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31Gtln",
-    "spotify_artist_id": "59m6Auk4r76d16XDpOznCY",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -15781,6 +15663,238 @@
     "description": "TM NETWORKの代表曲をまとめた公式のプレイリスト「This Is TM NETWORK」",
     "tags": [
       "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-712",
+    "name": "T.M.Revolution",
+    "ruby": "てぃーえむれぼりゅーしょん",
+    "kana": "ティーエムレボリューション",
+    "romaji": [
+      "tmrevolution"
+    ],
+    "aliases": [
+      "TMR"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1V0nnV",
+    "spotify_artist_id": "3jdzcmtw5XOmOkSb2mRDtr",
+    "official_site": null,
+    "description": "T.M.Revolutionの代表曲をまとめた公式のプレイリスト「This Is T.M.Revolution」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-713",
+    "name": "TK from 凛として時雨",
+    "ruby": "てぃーけーふろむりんとしてしぐれ",
+    "kana": "ティーケーフロムリントシテシグレ",
+    "romaji": [
+      "tiikeefuromurintoshiteshigure",
+      "tiikeehuromurintositesigure",
+      "tkfrom"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25NG3m",
+    "spotify_artist_id": "3B9O5mYYw89fFXkwKh7jCS",
+    "official_site": null,
+    "description": "TK from 凛として時雨の代表曲をまとめた公式のプレイリスト「This Is TK from 凛として時雨」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-714",
+    "name": "D-51",
+    "ruby": "でぃーごーいち",
+    "kana": "ディーゴーイチ",
+    "romaji": [
+      "d51"
+    ],
+    "aliases": [
+      "ディーフィフティーワン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ehIOe",
+    "spotify_artist_id": "5uisl58N23dXm8fGfbLF8m",
+    "official_site": null,
+    "description": "D-51の代表曲をまとめた公式のプレイリスト「This Is D-51」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-715",
+    "name": "DJ OZMA",
+    "ruby": "でぃーじぇいおずま",
+    "kana": "ディージェイオズマ",
+    "romaji": [
+      "djozma"
+    ],
+    "aliases": [
+      "ディージェーオズマ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO18HOpz",
+    "spotify_artist_id": "20WW027E2lIhdDHif2m05y",
+    "official_site": null,
+    "description": "DJ OZMAの代表曲をまとめた公式のプレイリスト「This Is DJ OZMA」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-716",
+    "name": "T字路s",
+    "ruby": "てぃーじろす",
+    "kana": "ティージロス",
+    "romaji": [
+      "tiijirosu",
+      "tiizirosu",
+      "ts"
+    ],
+    "aliases": [
+      "ジロス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1a1tWb",
+    "spotify_artist_id": "238nzReAbgGdev4POJB20t",
+    "official_site": null,
+    "description": "T字路sの代表曲をまとめた公式のプレイリスト「This Is T字路s」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-717",
+    "name": "DISH//",
+    "ruby": "でぃっしゅ",
+    "kana": "ディッシュ",
+    "romaji": [
+      "dish"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07oBRi",
+    "spotify_artist_id": "0jJmZHZHNe8n24Y33z5Nil",
+    "official_site": null,
+    "description": "DISH//の代表曲をまとめた公式のプレイリスト「This Is DISH//」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-718",
+    "name": "T-BOLAN",
+    "ruby": "てぃーぼらん",
+    "kana": "ティーボラン",
+    "romaji": [
+      "tbolan"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1S9hw7",
+    "spotify_artist_id": "3etntM5D8zqhYOTJHFhMXb",
+    "official_site": null,
+    "description": "T-BOLANの代表曲をまとめた公式のプレイリスト「This Is T-BOLAN」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-719",
+    "name": "DIR EN GREY",
+    "ruby": "でぃるあんぐれい",
+    "kana": "ディルアングレイ",
+    "romaji": [
+      "direngrey"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VXfXB",
+    "spotify_artist_id": "3kNqzLmW33fQIfmZ1OfqMA",
+    "official_site": null,
+    "description": "DIR EN GREYの代表曲をまとめた公式のプレイリスト「This Is DIR EN GREY」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-720",
+    "name": "DEEN",
+    "ruby": "でぃーん",
+    "kana": "ディーン",
+    "romaji": [
+      "deen"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1451Qb",
+    "spotify_artist_id": "1Tg3cYxIGONHrwVagR1QlG",
+    "official_site": null,
+    "description": "DEENの代表曲をまとめた公式のプレイリスト「This Is DEEN」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-721",
+    "name": "DEAN FUJIOKA",
+    "ruby": "でぃーんふじおか",
+    "kana": "ディーンフジオカ",
+    "romaji": [
+      "deanfujioka"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31Gtln",
+    "spotify_artist_id": "59m6Auk4r76d16XDpOznCY",
+    "official_site": null,
+    "description": "DEAN FUJIOKAの代表曲をまとめた公式のプレイリスト「This Is DEAN FUJIOKA」",
+    "tags": [
+      "男性ソロ",
       "J-POP"
     ],
     "status": "published",
