@@ -1,5 +1,139 @@
 [
   {
+    "name": "DECO*27",
+    "ruby": "でこにーな",
+    "aliases": [
+      "デコにじゅうなな",
+      "デコ27"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4liOn9",
+    "spotify_artist_id": "7kZTWx6cRLc0TSRPq1XBMP",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "手嶌葵",
+    "ruby": "てしまあおい",
+    "aliases": [
+      "手島葵",
+      "手島あおい"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JGASs",
+    "spotify_artist_id": "4FrFdi2hHpulQOxDihRIQD",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "テツandトモ",
+    "ruby": "てつあんどとも",
+    "aliases": [
+      "テツトモ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40CbeB",
+    "spotify_artist_id": "6MCGLsExCi9cLFN2IY1KEM",
+    "tags": [
+      "男性グループ",
+      "邦楽"
+    ]
+  },
+{
+    "name": "Def Tech",
+    "ruby": "でふてっく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vHYXI",
+    "spotify_artist_id": "7CifQjntMwkU4kfV85zTnS",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "デューク・エイセス",
+    "ruby": "でゅーくえいせす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cngnw",
+    "spotify_artist_id": "5r7E1grhu18BbdmRA6tA69",
+    "tags": [
+      "男性グループ",
+      "歌謡曲",
+      "邦楽"
+    ]
+  },
+{
+    "name": "寺尾聰",
+    "ruby": "てらおあきら",
+    "aliases": [
+      "寺尾あきら",
+      "寺尾聡"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2w6B7H",
+    "spotify_artist_id": "4iSwCQtRcHVKhxCbW1oHV6",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "テレサ・テン",
+    "ruby": "てれさてん",
+    "aliases": [
+      "鄧麗君"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UpwN7",
+    "spotify_artist_id": "3ienC90A5I1X3irDyQoqWZ",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲",
+      "演歌",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "電気グルーヴ",
+    "ruby": "でんきぐるーう",
+    "aliases": [
+      "電気グルーブ",
+      "電グル",
+      "でんぐる",
+"電気グループ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aSPIx",
+    "spotify_artist_id": "3JByu9VCNA1Rs6puGfRupj",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "天童よしみ",
+    "ruby": "てんどうよしみ",
+    "aliases": [
+      "天堂よしみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2n0EGu",
+    "spotify_artist_id": "43L3c5Gb7Io5WdzeziXUiV",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "でんぱ組.inc",
+    "ruby": "でんぱぐみいんく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1jVon1",
+    "spotify_artist_id": "2jAtwNClGACPlYgR1QFAIq",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
