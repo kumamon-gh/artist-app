@@ -1,121 +1,5 @@
 [
   {
-    "name": "ちあきなおみ",
-    "ruby": "ちあきなおみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3T5gbO",
-    "spotify_artist_id": "6A6BKpotlhRUH0ty7eZV83",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "チェリッシュ",
-    "ruby": "ちぇりっしゅ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0scnGp",
-    "spotify_artist_id": "0SiPm71q3iqjIKTwOq2guQ",
-    "tags": [
-      "男女混成グループ",
-      "歌謡曲",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "知念里奈",
-    "ruby": "ちねんりな",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3eWFzO",
-    "spotify_artist_id": "5voCmF5rKUSoDiqINEgp4i",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "千葉紘子",
-    "ruby": "ちばひろこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yfa1q",
-    "spotify_artist_id": "2Hou6jJLkdXFLiPhOGjIY2",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "TEAM SHACHI",
-    "ruby": "ちーむしゃち",
-    "aliases": [
-      "チームしゃちほこ",
-      "しゃちほこ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42Cci8?",
-    "spotify_artist_id": "6PWtv6Ry0vlA2WkbFcQfro",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "CHAI",
-    "ruby": "ちゃい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0pBKYp",
-    "spotify_artist_id": "0NZsNnETGPWLKJj2Y0vpBx",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "chay",
-    "ruby": "ちゃい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4btkXu",
-    "spotify_artist_id": "74F5BixS3Q9eSs9AnG3xIz",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "CHAGE and ASKA",
-    "ruby": "ちゃげあんどあすか",
-    "aliases": [
-      "チャゲアス"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IxpRl",
-    "spotify_artist_id": "1jsmqw6pME0Yj47diPFh0C",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "チャットモンチー",
-    "ruby": "ちゃっともんちー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0l53lT",
-    "spotify_artist_id": "0GtBUVp1cWdIUKwm2GHTHc",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Chara",
-    "ruby": "ちゃら",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1qOREb",
-    "spotify_artist_id": "2v3eFzDOUnyWP1drW2dPTp",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -15089,6 +14973,237 @@
     "added_date": "2026-11-09",
     "updated_date": "2026-11-09",
     "color": "#f47e00"
+  },
+  {
+    "id": "artist-682",
+    "name": "ちあきなおみ",
+    "ruby": "ちあきなおみ",
+    "kana": "チアキナオミ",
+    "romaji": [
+      "chiakinaomi",
+      "tiakinaomi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3T5gbO",
+    "spotify_artist_id": "6A6BKpotlhRUH0ty7eZV83",
+    "official_site": null,
+    "description": "ちあきなおみの代表曲をまとめた公式のプレイリスト「This Is ちあきなおみ」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-683",
+    "name": "チェリッシュ",
+    "ruby": "ちぇりっしゅ",
+    "kana": "チェリッシュ",
+    "romaji": [
+      "cherisshu",
+      "terissyu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0scnGp",
+    "spotify_artist_id": "0SiPm71q3iqjIKTwOq2guQ",
+    "official_site": null,
+    "description": "チェリッシュの代表曲をまとめた公式のプレイリスト「This Is チェリッシュ」",
+    "tags": [
+      "男女混成グループ",
+      "歌謡曲",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-684",
+    "name": "知念里奈",
+    "ruby": "ちねんりな",
+    "kana": "チネンリナ",
+    "romaji": [
+      "chinenrina",
+      "tinenrina"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3eWFzO",
+    "spotify_artist_id": "5voCmF5rKUSoDiqINEgp4i",
+    "official_site": null,
+    "description": "知念里奈の代表曲をまとめた公式のプレイリスト「This Is 知念里奈」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-685",
+    "name": "千葉紘子",
+    "ruby": "ちばひろこ",
+    "kana": "チバヒロコ",
+    "romaji": [
+      "chibahiroko",
+      "tibahiroko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yfa1q",
+    "spotify_artist_id": "2Hou6jJLkdXFLiPhOGjIY2",
+    "official_site": null,
+    "description": "千葉紘子の代表曲をまとめた公式のプレイリスト「This Is 千葉紘子」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-686",
+    "name": "TEAM SHACHI",
+    "ruby": "ちーむしゃち",
+    "kana": "チームシャチ",
+    "romaji": [
+      "teamshachi"
+    ],
+    "aliases": [
+      "チームしゃちほこ",
+      "しゃちほこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42Cci8",
+    "spotify_artist_id": "6PWtv6Ry0vlA2WkbFcQfro",
+    "official_site": null,
+    "description": "TEAM SHACHIの代表曲をまとめた公式のプレイリスト「This Is TEAM SHACHI」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-687",
+    "name": "CHAI",
+    "ruby": "ちゃい",
+    "kana": "チャイ",
+    "romaji": [
+      "chai"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0pBKYp",
+    "spotify_artist_id": "0NZsNnETGPWLKJj2Y0vpBx",
+    "official_site": null,
+    "description": "CHAIの代表曲をまとめた公式のプレイリスト「This Is CHAI」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-688",
+    "name": "chay",
+    "ruby": "ちゃい",
+    "kana": "チャイ",
+    "romaji": [
+      "chay"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4btkXu",
+    "spotify_artist_id": "74F5BixS3Q9eSs9AnG3xIz",
+    "official_site": null,
+    "description": "chayの代表曲をまとめた公式のプレイリスト「This Is chay」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-689",
+    "name": "CHAGE and ASKA",
+    "ruby": "ちゃげあんどあすか",
+    "kana": "チャゲアンドアスカ",
+    "romaji": [
+      "chageandaska"
+    ],
+    "aliases": [
+      "チャゲアス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IxpRl",
+    "spotify_artist_id": "1jsmqw6pME0Yj47diPFh0C",
+    "official_site": null,
+    "description": "CHAGE and ASKAの代表曲をまとめた公式のプレイリスト「This Is CHAGE and ASKA」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-690",
+    "name": "チャットモンチー",
+    "ruby": "ちゃっともんちー",
+    "kana": "チャットモンチー",
+    "romaji": [
+      "chattomonchii",
+      "tyattomontii"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0l53lT",
+    "spotify_artist_id": "0GtBUVp1cWdIUKwm2GHTHc",
+    "official_site": null,
+    "description": "チャットモンチーの代表曲をまとめた公式のプレイリスト「This Is チャットモンチー」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
+  },
+  {
+    "id": "artist-691",
+    "name": "Chara",
+    "ruby": "ちゃら",
+    "kana": "チャラ",
+    "romaji": [
+      "chara"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1qOREb",
+    "spotify_artist_id": "2v3eFzDOUnyWP1drW2dPTp",
+    "official_site": null,
+    "description": "Charaの代表曲をまとめた公式のプレイリスト「This Is Chara」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-09",
+    "updated_date": "2026-11-09",
+    "color": ""
   },
   {
     "id": "artist-201",
