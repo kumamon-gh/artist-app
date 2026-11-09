@@ -1,121 +1,5 @@
 [
   {
-    "name": "10-FEET",
-    "ruby": "てんふぃーと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0rpA49",
-    "spotify_artist_id": "0QZqdhoRQkn1VphAa5eX8h",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "doa",
-    "ruby": "どあ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1FtnJS",
-    "spotify_artist_id": "2TpkAUdGAEYofr9wvfscyP",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "TWS",
-    "ruby": "とぅあす",
-    "aliases": [
-      "ティーダブリューエス"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Kb7j6",
-    "spotify_artist_id": "4GgBKgxhc649frZDHcXIEz",
-    "tags": [
-      "男性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "Do As Infinity",
-    "ruby": "どぅあずいんふぃにてぃ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05fElR",
-    "spotify_artist_id": "0gakJs5JAKmJZ4KnAHMh9i",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "2NE1",
-    "ruby": "とぅえにわん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Jta80",
-    "spotify_artist_id": "1l0mKo96Jh9HVYONcRl3Yp",
-    "tags": [
-      "女性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "東京ゲゲゲイ",
-    "ruby": "とうきょうげげげい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0u5Nzc",
-    "spotify_artist_id": "0Vs3W8eXnwhsvDQZR5tnoC",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "東京事変",
-    "ruby": "とうきょうじへん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Zyhjx",
-    "spotify_artist_id": "6KQWWzFLPQbqomJrieHAW5",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "東京女子流",
-    "ruby": "とうきょうじょしりゅう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lV2Ay",
-    "spotify_artist_id": "2mUoXdIOsE0kFnXdNzS3wx",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "東京スカパラダイスオーケストラ",
-    "ruby": "とうきょうすかぱらだいすおーけすとら",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6",
-    "spotify_artist_id": "0UZq6vAHrwGgctvxTzzxYm",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "東京パフォーマンスドール",
-    "ruby": "とうきょうぱふぉーまんすどーる",
-    "aliases": [
-      "TPD"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GI05c",
-    "spotify_artist_id": "6fwRviahtvzpdsTDCZoUyu",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -16266,6 +16150,235 @@
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-732",
+    "name": "10-FEET",
+    "ruby": "てんふぃーと",
+    "kana": "テンフィート",
+    "romaji": [
+      "10feet"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0rpA49",
+    "spotify_artist_id": "0QZqdhoRQkn1VphAa5eX8h",
+    "official_site": null,
+    "description": "10-FEETの代表曲をまとめた公式のプレイリスト「This Is 10-FEET」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-733",
+    "name": "doa",
+    "ruby": "どあ",
+    "kana": "ドア",
+    "romaji": [
+      "doa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1FtnJS",
+    "spotify_artist_id": "2TpkAUdGAEYofr9wvfscyP",
+    "official_site": null,
+    "description": "doaの代表曲をまとめた公式のプレイリスト「This Is doa」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-734",
+    "name": "TWS",
+    "ruby": "とぅあす",
+    "kana": "トゥアス",
+    "romaji": [
+      "tws"
+    ],
+    "aliases": [
+      "ティーダブリューエス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Kb7j6",
+    "spotify_artist_id": "4GgBKgxhc649frZDHcXIEz",
+    "official_site": null,
+    "description": "TWSの代表曲をまとめた公式のプレイリスト「This Is TWS」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-735",
+    "name": "Do As Infinity",
+    "ruby": "どぅあずいんふぃにてぃ",
+    "kana": "ドゥアズインフィニティ",
+    "romaji": [
+      "doasinfinity"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05fElR",
+    "spotify_artist_id": "0gakJs5JAKmJZ4KnAHMh9i",
+    "official_site": null,
+    "description": "Do As Infinityの代表曲をまとめた公式のプレイリスト「This Is Do As Infinity」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-736",
+    "name": "2NE1",
+    "ruby": "とぅえにわん",
+    "kana": "トゥエニワン",
+    "romaji": [
+      "2ne1"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Jta80",
+    "spotify_artist_id": "1l0mKo96Jh9HVYONcRl3Yp",
+    "official_site": null,
+    "description": "2NE1の代表曲をまとめた公式のプレイリスト「This Is 2NE1」",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-737",
+    "name": "東京ゲゲゲイ",
+    "ruby": "とうきょうげげげい",
+    "kana": "トウキョウゲゲゲイ",
+    "romaji": [
+      "toukyougegegei"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0u5Nzc",
+    "spotify_artist_id": "0Vs3W8eXnwhsvDQZR5tnoC",
+    "official_site": null,
+    "description": "東京ゲゲゲイの代表曲をまとめた公式のプレイリスト「This Is 東京ゲゲゲイ」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-738",
+    "name": "東京事変",
+    "ruby": "とうきょうじへん",
+    "kana": "トウキョウジヘン",
+    "romaji": [
+      "toukyoujihen",
+      "toukyouzihen"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Zyhjx",
+    "spotify_artist_id": "6KQWWzFLPQbqomJrieHAW5",
+    "official_site": null,
+    "description": "東京事変の代表曲をまとめた公式のプレイリスト「This Is 東京事変」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-739",
+    "name": "東京女子流",
+    "ruby": "とうきょうじょしりゅう",
+    "kana": "トウキョウジョシリュウ",
+    "romaji": [
+      "toukyoujoshiryuu",
+      "toukyouzyosiryuu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lV2Ay",
+    "spotify_artist_id": "2mUoXdIOsE0kFnXdNzS3wx",
+    "official_site": null,
+    "description": "東京女子流の代表曲をまとめた公式のプレイリスト「This Is 東京女子流」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-740",
+    "name": "東京スカパラダイスオーケストラ",
+    "ruby": "とうきょうすかぱらだいすおーけすとら",
+    "kana": "トウキョウスカパラダイスオーケストラ",
+    "romaji": [
+      "toukyousukaparadaisuookesutora"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6",
+    "spotify_artist_id": "0UZq6vAHrwGgctvxTzzxYm",
+    "official_site": null,
+    "description": "東京スカパラダイスオーケストラの代表曲をまとめた公式のプレイリスト「This Is 東京スカパラダイスオーケストラ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-741",
+    "name": "東京パフォーマンスドール",
+    "ruby": "とうきょうぱふぉーまんすどーる",
+    "kana": "トウキョウパフォーマンスドール",
+    "romaji": [
+      "toukyoupafoomansudooru",
+      "toukyoupahoomansudooru"
+    ],
+    "aliases": [
+      "TPD"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GI05c",
+    "spotify_artist_id": "6fwRviahtvzpdsTDCZoUyu",
+    "official_site": null,
+    "description": "東京パフォーマンスドールの代表曲をまとめた公式のプレイリスト「This Is 東京パフォーマンスドール」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
   },
   {
     "id": "artist-201",
