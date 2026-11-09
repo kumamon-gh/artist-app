@@ -16171,7 +16171,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#f37e00"
   },
   {
     "id": "artist-733",
@@ -16193,7 +16193,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-734",
@@ -16218,7 +16218,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-735",
@@ -16240,7 +16240,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#f37e01"
   },
   {
     "id": "artist-736",
@@ -16263,7 +16263,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-737",
@@ -16285,7 +16285,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-738",
@@ -16308,7 +16308,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-739",
@@ -16331,7 +16331,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#f37e01"
   },
   {
     "id": "artist-740",
@@ -16353,7 +16353,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#f79bd2"
   },
   {
     "id": "artist-741",
@@ -16371,6 +16371,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GI05c"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GI05c": "#f89bd2"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GI05c": "旧：東京パフォーマンスドール (1990～1994)"
     },
@@ -16384,7 +16387,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-201",
