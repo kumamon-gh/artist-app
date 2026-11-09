@@ -1,5 +1,124 @@
 [
   {
+    "name": "チャラン・ポ・ランタン",
+    "ruby": "ちゃらんぽらんたん",
+    "aliases": [
+      "チャランポランタン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31pyI0",
+    "spotify_artist_id": "58TSYUufxjTDGCHo9xyvVb",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ちゃんみな",
+    "ruby": "ちゃんみな",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1qYIbN",
+    "spotify_artist_id": "2vjeuQwzSP5ErC1S41gONX",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "TUBE",
+    "ruby": "ちゅーぶ",
+    "aliases": [
+"ちゅうぶ"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2eeY7K",
+    "spotify_artist_id": "3PbLpi4wzurD94SXDhVQmQ",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "超ときめき♡宣伝部",
+    "ruby": "ちょうときめきせんでんぶ",
+    "aliases": [
+      "とき宣",
+      "ときせん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWTyuI",
+    "spotify_artist_id": "02hwDSWEF0JdOgdIBw1gRT",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "超特急",
+    "ruby": "ちょうとっきゅう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0dIboe",
+    "spotify_artist_id": "0udR1QMfgT37SQnL1QClTU",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "Chilli Beans.",
+    "ruby": "ちりびーんず",
+    "aliases": [
+      "チリビ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pF33Q",
+    "spotify_artist_id": "48apiuEaHdddhdRvfFjPB7",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "tuki.",
+    "ruby": "つき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO16Z7r5",
+    "spotify_artist_id": "1Y5vJqABeI6QI6R95EDV6o",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "月島きらり",
+    "ruby": "つきしまきらり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wJGIs",
+    "spotify_artist_id": "0ZQh05wci5l2MImnYb0uMe",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "つじあやの",
+    "ruby": "つじあやの",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aFDAG",
+    "spotify_artist_id": "73kAoAaI4yjMeHuLwpsL4i",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "つばきファクトリー",
+    "ruby": "つばきふぁくとりー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lL1no",
+    "spotify_artist_id": "7lL2WDIFFuxyLYHMcmp9AI",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
