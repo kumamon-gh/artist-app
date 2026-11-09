@@ -1,5 +1,121 @@
 [
   {
+    "name": "ちあきなおみ",
+    "ruby": "ちあきなおみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3T5gbO",
+    "spotify_artist_id": "6A6BKpotlhRUH0ty7eZV83",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "チェリッシュ",
+    "ruby": "ちぇりっしゅ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0scnGp",
+    "spotify_artist_id": "0SiPm71q3iqjIKTwOq2guQ",
+    "tags": [
+      "男女混成グループ",
+      "歌謡曲",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "知念里奈",
+    "ruby": "ちねんりな",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3eWFzO",
+    "spotify_artist_id": "5voCmF5rKUSoDiqINEgp4i",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "千葉紘子",
+    "ruby": "ちばひろこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yfa1q",
+    "spotify_artist_id": "2Hou6jJLkdXFLiPhOGjIY2",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "TEAM SHACHI",
+    "ruby": "ちーむしゃち",
+    "aliases": [
+      "チームしゃちほこ",
+      "しゃちほこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42Cci8?",
+    "spotify_artist_id": "6PWtv6Ry0vlA2WkbFcQfro",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "CHAI",
+    "ruby": "ちゃい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0pBKYp",
+    "spotify_artist_id": "0NZsNnETGPWLKJj2Y0vpBx",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "chay",
+    "ruby": "ちゃい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4btkXu",
+    "spotify_artist_id": "74F5BixS3Q9eSs9AnG3xIz",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "CHAGE and ASKA",
+    "ruby": "ちゃげあんどあすか",
+    "aliases": [
+      "チャゲアス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IxpRl",
+    "spotify_artist_id": "1jsmqw6pME0Yj47diPFh0C",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "チャットモンチー",
+    "ruby": "ちゃっともんちー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0l53lT",
+    "spotify_artist_id": "0GtBUVp1cWdIUKwm2GHTHc",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Chara",
+    "ruby": "ちゃら",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1qOREb",
+    "spotify_artist_id": "2v3eFzDOUnyWP1drW2dPTp",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
