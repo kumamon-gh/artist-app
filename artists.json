@@ -1,5 +1,121 @@
 [
   {
+    "name": "鶴岡雅義と東京ロマンチカ",
+    "ruby": "つるおかまさよしととうきょうろまんちか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3aQjl4",
+    "spotify_artist_id": "5oA6N9MgIWYHgDZCnFim91",
+    "tags": [
+      "男性グループ",
+      "歌謡曲",
+      "演歌"
+    ]
+  },
+{
+    "name": "鶴田浩二",
+    "ruby": "つるたこうじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R8gFz",
+    "spotify_artist_id": "6wRwDsBdTy0B4WjDHhxs6q",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "つるの剛士",
+    "ruby": "つるのたけし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4t6wdo",
+    "spotify_artist_id": "7xY1VgD8D3d53TUtYX2vfE",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "TEE",
+    "ruby": "てぃー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO48q29P",
+    "spotify_artist_id": "6ZAdWEKyVHu0ZMm5X3sajN",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "day After tomorrow",
+    "ruby": "でいあふたーとぅもろー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0b44Pi",
+    "spotify_artist_id": "0pPjfOkLRyaXXJdizZzqCp",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Tiara",
+    "ruby": "てぃあら",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j2fjG",
+    "spotify_artist_id": "2i7pUrZo9AJeK9XR6nPhqD",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "T-ARA",
+    "ruby": "てぃあら",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO12LCwK",
+    "spotify_artist_id": "1R52cwGf75yTf7I3Q0Irf8",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "TRF",
+    "ruby": "てぃーあーるえふ",
+    "aliases": [
+      "ティーアールエフ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bCrUq",
+    "spotify_artist_id": "74UwkYjA5WAPyrTYFO3mW9",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "DXTEEN",
+    "ruby": "でぃーえっくすてぃーん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lwK9I",
+    "spotify_artist_id": "5GkZGONRSCs4UEsbt8UVIR",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "TM NETWORK",
+    "ruby": "てぃーえむねっとわーく",
+    "aliases": [
+      "TMN"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3DXkOw",
+    "spotify_artist_id": "6aXIcqTy3R1dqSml9HQZUB",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
