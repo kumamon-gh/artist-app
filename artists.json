@@ -16411,7 +16411,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-743",
@@ -16427,6 +16427,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TTBsM"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TTBsM": "#ffc863"
+    },
     "spotify_artist_id": "4xIGdXa6w9eWUoVnEsZNJ9",
     "official_site": null,
     "description": "堂島孝平の代表曲をまとめた公式のプレイリスト「This Is 堂島孝平」",
@@ -16437,7 +16440,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-744",
@@ -16462,7 +16465,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-745",
@@ -16486,7 +16489,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-746",
@@ -16512,7 +16515,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-747",
@@ -16535,7 +16538,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-748",
@@ -16558,7 +16561,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#e5ad89"
   },
   {
     "id": "artist-749",
@@ -16610,7 +16613,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-751",
@@ -16632,7 +16635,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-752",
@@ -16679,7 +16682,7 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-754",
@@ -16701,7 +16704,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-755",
@@ -16723,7 +16726,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-756",
@@ -16745,7 +16748,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-757",
@@ -16771,7 +16774,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#f47e01"
   },
   {
     "id": "artist-758",
@@ -16796,7 +16799,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-759",
@@ -16818,7 +16821,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-760",
@@ -16841,7 +16844,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-761",
@@ -16866,7 +16869,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-762",
@@ -16889,7 +16892,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-763",
@@ -16911,7 +16914,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-764",
@@ -16935,7 +16938,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-765",
@@ -16957,7 +16960,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#f37e00"
   },
   {
     "id": "artist-766",
@@ -16979,7 +16982,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-767",
@@ -17003,7 +17006,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-768",
@@ -17025,7 +17028,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-769",
@@ -17049,7 +17052,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-770",
@@ -17074,7 +17077,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-771",
@@ -17098,7 +17101,7 @@
     "status": "published",
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-201",
