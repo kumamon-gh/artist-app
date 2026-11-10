@@ -1,5 +1,133 @@
 [
   {
+    "name": "Tohko",
+    "ruby": "とうこ",
+    "aliases": [
+"とーこ"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ZyNz7",
+    "spotify_artist_id": "1LKoUxerf9Lw60Wt6ebNPv",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "堂島孝平",
+    "ruby": "どうじまこうへい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F2yOX",
+    "spotify_artist_id": "4xIGdXa6w9eWUoVnEsZNJ9",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "2PM",
+    "ruby": "とぅーぴーえむ",
+    "aliases": [
+      "ツーピーエム"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO37pdB1",
+    "spotify_artist_id": "5iRPbkcPmqAFFwDUj6ywVS",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "To Be Continued",
+    "ruby": "とぅびーこんてぃにゅーど",
+    "aliases": [
+      "TBC"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KUK6k",
+    "spotify_artist_id": "6mwLCmbHMnerJGme5Hd138",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "東方神起",
+    "ruby": "とうほうしんき",
+    "aliases": [
+      "TVXQ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3LL0aN",
+    "spotify_artist_id": "6nVMMEywS5Y4tsHPKx1nIo",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+  {
+    "name": "堂本光一",
+    "ruby": "どうもとこういち",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UMTCh",
+    "spotify_artist_id": "3iRaHa8g7knz7nOcuhtAUf",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "堂本剛",
+    "ruby": "どうもとつよし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aC3rr",
+    "spotify_artist_id": "247jIrXpsgL9R3yGLMVGCo",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "TOMORROW X TOGETHER",
+    "ruby": "とぅもろーばいとぅぎゃざー",
+    "aliases": [
+      "TXT",
+      "トゥモローバイトゥゲザー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX2pmk7QemwOu",
+    "spotify_artist_id": "0ghlgldX5Dd6720Q3qFyQB",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "當山みれい",
+    "ruby": "とうやまみれい",
+    "aliases": [
+      "当山みれい",
+      "当山美玲",
+      "當山美玲"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4B3r3y",
+    "spotify_artist_id": "7Lb6KifoVBVM3cAXiDvirw",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "TRUE",
+    "ruby": "とぅるー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0txqs8",
+    "spotify_artist_id": "0UwVT0iMLLAa9SUNENg4te",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
