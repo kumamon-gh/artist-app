@@ -1,126 +1,5 @@
 [
   {
-    "name": "鳥羽一郎",
-    "ruby": "とばいちろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19beE1",
-    "spotify_artist_id": "21JFpgtHyhF5ydHGOraX4U",
-    "tags": [
-      "男性ソロ",
-      "演歌"
-    ]
-  },
-{
-    "name": "どぶろっく",
-    "ruby": "どぶろっく",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1O1gZ4",
-    "spotify_artist_id": "37BDvbRbNDjboqMDg9jpn8",
-    "tags": [
-      "男性グループ",
-      "邦楽"
-    ]
-  },
-{
-    "name": "Tommy february6",
-    "ruby": "とみーふぇぶらりーしっくす",
-    "aliases": [
-      "トミフェブ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2H6hmG",
-    "spotify_artist_id": "4B9dJjZ4F00cExmGc2OiST",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "TOM☆CAT",
-    "ruby": "とむきゃっと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0CJbN4",
-    "spotify_artist_id": "19NOe6HsGtyb5lIEB42QLH",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "TOMOO",
-    "ruby": "ともお",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NOR8t",
-    "spotify_artist_id": "6rm1uaZjykvKCobTzRPs35",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ともさかりえ",
-    "ruby": "ともさかりえ",
-    "aliases": [
-      "友坂"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pb1qr",
-    "spotify_artist_id": "4Ozr0TBXSYzgGSF6cI1ks7",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "TrySail",
-    "ruby": "とらいせいる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jLk0V",
-    "spotify_artist_id": "3YmAt9U9INQwxAwfgMVfKD",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Dragon Ash",
-    "ruby": "どらごんあっしゅ",
-    "aliases": [
-      "DA"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rMcJE",
-    "spotify_artist_id": "2wDlv5Qp9pffOqnO4vdn8L",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Travis Japan",
-    "ruby": "とらびすじゃぱん",
-    "aliases": [
-      "トラジャ",
-      "TJ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dnDXA",
-    "spotify_artist_id": "28IJpwoVi5R92MtHxkj2Lk",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "AAA",
-    "ruby": "とりぷるえー",
-    "aliases": [
-      "トリプルエイ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SPo0a",
-    "spotify_artist_id": "1AyWsgtaIgXbzjJlTx2ZDp",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -16983,6 +16862,238 @@
       "男性グループ",
       "演歌",
       "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-762",
+    "name": "鳥羽一郎",
+    "ruby": "とばいちろう",
+    "kana": "トバイチロウ",
+    "romaji": [
+      "tobaichirou",
+      "tobaitirou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19beE1",
+    "spotify_artist_id": "21JFpgtHyhF5ydHGOraX4U",
+    "official_site": null,
+    "description": "鳥羽一郎の代表曲をまとめた公式のプレイリスト「This Is 鳥羽一郎」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-763",
+    "name": "どぶろっく",
+    "ruby": "どぶろっく",
+    "kana": "ドブロック",
+    "romaji": [
+      "doburokku"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1O1gZ4",
+    "spotify_artist_id": "37BDvbRbNDjboqMDg9jpn8",
+    "official_site": null,
+    "description": "どぶろっくの代表曲をまとめた公式のプレイリスト「This Is どぶろっく」",
+    "tags": [
+      "男性グループ",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-764",
+    "name": "Tommy february6",
+    "ruby": "とみーふぇぶらりーしっくす",
+    "kana": "トミーフェブラリーシックス",
+    "romaji": [
+      "tommyfebruary6"
+    ],
+    "aliases": [
+      "トミフェブ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2H6hmG",
+    "spotify_artist_id": "4B9dJjZ4F00cExmGc2OiST",
+    "official_site": null,
+    "description": "Tommy february6の代表曲をまとめた公式のプレイリスト「This Is Tommy february6」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-765",
+    "name": "TOM☆CAT",
+    "ruby": "とむきゃっと",
+    "kana": "トムキャット",
+    "romaji": [
+      "tomcat"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0CJbN4",
+    "spotify_artist_id": "19NOe6HsGtyb5lIEB42QLH",
+    "official_site": null,
+    "description": "TOM☆CATの代表曲をまとめた公式のプレイリスト「This Is TOM☆CAT」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-766",
+    "name": "TOMOO",
+    "ruby": "ともお",
+    "kana": "トモオ",
+    "romaji": [
+      "tomoo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NOR8t",
+    "spotify_artist_id": "6rm1uaZjykvKCobTzRPs35",
+    "official_site": null,
+    "description": "TOMOOの代表曲をまとめた公式のプレイリスト「This Is TOMOO」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-767",
+    "name": "ともさかりえ",
+    "ruby": "ともさかりえ",
+    "kana": "トモサカリエ",
+    "romaji": [
+      "tomosakarie"
+    ],
+    "aliases": [
+      "友坂"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pb1qr",
+    "spotify_artist_id": "4Ozr0TBXSYzgGSF6cI1ks7",
+    "official_site": null,
+    "description": "ともさかりえの代表曲をまとめた公式のプレイリスト「This Is ともさかりえ」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-768",
+    "name": "TrySail",
+    "ruby": "とらいせいる",
+    "kana": "トライセイル",
+    "romaji": [
+      "trysail"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jLk0V",
+    "spotify_artist_id": "3YmAt9U9INQwxAwfgMVfKD",
+    "official_site": null,
+    "description": "TrySailの代表曲をまとめた公式のプレイリスト「This Is TrySail」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-769",
+    "name": "Dragon Ash",
+    "ruby": "どらごんあっしゅ",
+    "kana": "ドラゴンアッシュ",
+    "romaji": [
+      "dragonash"
+    ],
+    "aliases": [
+      "DA"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rMcJE",
+    "spotify_artist_id": "2wDlv5Qp9pffOqnO4vdn8L",
+    "official_site": null,
+    "description": "Dragon Ashの代表曲をまとめた公式のプレイリスト「This Is Dragon Ash」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-770",
+    "name": "Travis Japan",
+    "ruby": "とらびすじゃぱん",
+    "kana": "トラビスジャパン",
+    "romaji": [
+      "travisjapan"
+    ],
+    "aliases": [
+      "トラジャ",
+      "TJ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dnDXA",
+    "spotify_artist_id": "28IJpwoVi5R92MtHxkj2Lk",
+    "official_site": null,
+    "description": "Travis Japanの代表曲をまとめた公式のプレイリスト「This Is Travis Japan」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-771",
+    "name": "AAA",
+    "ruby": "とりぷるえー",
+    "kana": "トリプルエー",
+    "romaji": [
+      "aaa"
+    ],
+    "aliases": [
+      "トリプルエイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SPo0a",
+    "spotify_artist_id": "1AyWsgtaIgXbzjJlTx2ZDp",
+    "official_site": null,
+    "description": "AAAの代表曲をまとめた公式のプレイリスト「This Is AAA」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
     ],
     "status": "published",
     "added_date": "2026-11-11",
