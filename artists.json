@@ -1,102 +1,5 @@
 [
   {
-    "name": "時任三郎",
-    "ruby": "ときとうさぶろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0cdTwd",
-    "spotify_artist_id": "0rKDJ90r4TlCyw1JUcu6o0",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "徳永英明",
-    "ruby": "とくながひであき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1xlCzS",
-    "spotify_artist_id": "2FTUpyPZ3hqBPLwmaEH14B",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "徳永ゆうき",
-    "ruby": "とくながゆうき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pn7zV",
-    "spotify_artist_id": "4OTziGnurCfZUKK1JdJY8z",
-    "tags": [
-      "男性ソロ",
-      "演歌"
-    ]
-  },
-{
-    "name": "所ジョージ",
-    "ruby": "ところじょーじ",
-    "aliases": [
-      "所ジョウジ",
-      "ところじょうじ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dItHO",
-    "spotify_artist_id": "78oGbH7WpytlUBCzbIKF8M",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "DOES",
-    "ruby": "どーず",
-    "aliases": [
-"ダズ",
-      "ドゥーズ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tvMef",
-    "spotify_artist_id": "2zwGPEFviyaICCDiAWxLjy",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "とた",
-    "ruby": "とた",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vo1So",
-    "spotify_artist_id": "5WIXXPkyVYncLscyUbDrpi",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "トータス松本",
-    "ruby": "とーたすまつもと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WwR79",
-    "spotify_artist_id": "50MDyQulQMbVbC4wf8T9kz",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "殿さまキングス",
-    "ruby": "とのさまきんぐす",
-    "aliases": [
-      "殿様キングス"
-  ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Xoz3b",
-    "spotify_artist_id": "52euRyuPy9qH8B8Pajk8AT",
-    "tags": [
-      "男性グループ",
-      "演歌",
-      "歌謡曲"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -16776,6 +16679,193 @@
     "status": "published",
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-754",
+    "name": "時任三郎",
+    "ruby": "ときとうさぶろう",
+    "kana": "トキトウサブロウ",
+    "romaji": [
+      "tokitousaburou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0cdTwd",
+    "spotify_artist_id": "0rKDJ90r4TlCyw1JUcu6o0",
+    "official_site": null,
+    "description": "時任三郎の代表曲をまとめた公式のプレイリスト「This Is 時任三郎」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-755",
+    "name": "徳永英明",
+    "ruby": "とくながひであき",
+    "kana": "トクナガヒデアキ",
+    "romaji": [
+      "tokunagahideaki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1xlCzS",
+    "spotify_artist_id": "2FTUpyPZ3hqBPLwmaEH14B",
+    "official_site": null,
+    "description": "徳永英明の代表曲をまとめた公式のプレイリスト「This Is 徳永英明」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-756",
+    "name": "徳永ゆうき",
+    "ruby": "とくながゆうき",
+    "kana": "トクナガユウキ",
+    "romaji": [
+      "tokunagayuuki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pn7zV",
+    "spotify_artist_id": "4OTziGnurCfZUKK1JdJY8z",
+    "official_site": null,
+    "description": "徳永ゆうきの代表曲をまとめた公式のプレイリスト「This Is 徳永ゆうき」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-757",
+    "name": "所ジョージ",
+    "ruby": "ところじょーじ",
+    "kana": "トコロジョージ",
+    "romaji": [
+      "tokorojooji",
+      "tokorozyoozi"
+    ],
+    "aliases": [
+      "所ジョウジ",
+      "ところじょうじ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dItHO",
+    "spotify_artist_id": "78oGbH7WpytlUBCzbIKF8M",
+    "official_site": null,
+    "description": "所ジョージの代表曲をまとめた公式のプレイリスト「This Is 所ジョージ」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-758",
+    "name": "DOES",
+    "ruby": "どーず",
+    "kana": "ドーズ",
+    "romaji": [
+      "does"
+    ],
+    "aliases": [
+      "ダズ",
+      "ドゥーズ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tvMef",
+    "spotify_artist_id": "2zwGPEFviyaICCDiAWxLjy",
+    "official_site": null,
+    "description": "DOESの代表曲をまとめた公式のプレイリスト「This Is DOES」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-759",
+    "name": "とた",
+    "ruby": "とた",
+    "kana": "トタ",
+    "romaji": [
+      "tota"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vo1So",
+    "spotify_artist_id": "5WIXXPkyVYncLscyUbDrpi",
+    "official_site": null,
+    "description": "とたの代表曲をまとめた公式のプレイリスト「This Is とた」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-760",
+    "name": "トータス松本",
+    "ruby": "とーたすまつもと",
+    "kana": "トータスマツモト",
+    "romaji": [
+      "tootasumatsumoto",
+      "tootasumatumoto"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WwR79",
+    "spotify_artist_id": "50MDyQulQMbVbC4wf8T9kz",
+    "official_site": null,
+    "description": "トータス松本の代表曲をまとめた公式のプレイリスト「This Is トータス松本」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-761",
+    "name": "殿さまキングス",
+    "ruby": "とのさまきんぐす",
+    "kana": "トノサマキングス",
+    "romaji": [
+      "tonosamakingusu"
+    ],
+    "aliases": [
+      "殿様キングス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Xoz3b",
+    "spotify_artist_id": "52euRyuPy9qH8B8Pajk8AT",
+    "official_site": null,
+    "description": "殿さまキングスの代表曲をまとめた公式のプレイリスト「This Is 殿さまキングス」",
+    "tags": [
+      "男性グループ",
+      "演歌",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
     "color": ""
   },
   {
