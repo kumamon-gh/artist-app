@@ -1,5 +1,126 @@
 [
   {
+    "name": "鳥羽一郎",
+    "ruby": "とばいちろう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19beE1",
+    "spotify_artist_id": "21JFpgtHyhF5ydHGOraX4U",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "どぶろっく",
+    "ruby": "どぶろっく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1O1gZ4",
+    "spotify_artist_id": "37BDvbRbNDjboqMDg9jpn8",
+    "tags": [
+      "男性グループ",
+      "邦楽"
+    ]
+  },
+{
+    "name": "Tommy february6",
+    "ruby": "とみーふぇぶらりーしっくす",
+    "aliases": [
+      "トミフェブ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2H6hmG",
+    "spotify_artist_id": "4B9dJjZ4F00cExmGc2OiST",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "TOM☆CAT",
+    "ruby": "とむきゃっと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0CJbN4",
+    "spotify_artist_id": "19NOe6HsGtyb5lIEB42QLH",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "TOMOO",
+    "ruby": "ともお",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NOR8t",
+    "spotify_artist_id": "6rm1uaZjykvKCobTzRPs35",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ともさかりえ",
+    "ruby": "ともさかりえ",
+    "aliases": [
+      "友坂"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pb1qr",
+    "spotify_artist_id": "4Ozr0TBXSYzgGSF6cI1ks7",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "TrySail",
+    "ruby": "とらいせいる",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jLk0V",
+    "spotify_artist_id": "3YmAt9U9INQwxAwfgMVfKD",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Dragon Ash",
+    "ruby": "どらごんあっしゅ",
+    "aliases": [
+      "DA"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rMcJE",
+    "spotify_artist_id": "2wDlv5Qp9pffOqnO4vdn8L",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Travis Japan",
+    "ruby": "とらびすじゃぱん",
+    "aliases": [
+      "トラジャ",
+      "TJ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dnDXA",
+    "spotify_artist_id": "28IJpwoVi5R92MtHxkj2Lk",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "AAA",
+    "ruby": "とりぷるえー",
+    "aliases": [
+      "トリプルエイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SPo0a",
+    "spotify_artist_id": "1AyWsgtaIgXbzjJlTx2ZDp",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
