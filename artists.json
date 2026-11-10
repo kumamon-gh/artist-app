@@ -1,5 +1,90 @@
 [
   {
+    "name": "ドリーミング",
+    "ruby": "どりーみんぐ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NIPnO",
+    "spotify_artist_id": "4M9FTgU2MKVIwZAFfMsr3r",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Dream",
+    "ruby": "どりーむ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3BKXPu",
+    "spotify_artist_id": "67j0XHDG7fP5ZHia8gDsJU",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Dream Ami",
+    "ruby": "どりーむあみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO41A7Tz",
+    "spotify_artist_id": "6Oeb6i0acXNe1Q1MqqfkPX",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "DREAMS COME TRUE",
+    "ruby": "どりーむずかむとぅるー",
+    "aliases": [
+      "ドリカム"
+      ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lOFJd",
+    "spotify_artist_id": "2mJOGcLR3aCHkM1uAF93or",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Dream5",
+    "ruby": "どりーむふぁいぶ",
+    "aliases": [
+      "ドリーム5"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3izSDg",
+    "spotify_artist_id": "5BqQUM8Xe6LUP48eZLWhFI",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "TREASURE",
+    "ruby": "とれじゃー",
+    "aliases": [
+      "TRS"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWVoVEUmIsa1Y",
+    "spotify_artist_id": "3KonOYiLsU53m4yT7gNotP",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+  {
+    "name": "とんねるず",
+    "ruby": "とんねるず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ZD8nm",
+    "spotify_artist_id": "6KYYUGQKrP2l1dOHGTYAyQ",
+    "tags": [
+      "男性グループ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
