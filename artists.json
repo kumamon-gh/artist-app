@@ -1,133 +1,5 @@
 [
   {
-    "name": "Tohko",
-    "ruby": "とうこ",
-    "aliases": [
-"とーこ"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ZyNz7",
-    "spotify_artist_id": "1LKoUxerf9Lw60Wt6ebNPv",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "堂島孝平",
-    "ruby": "どうじまこうへい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F2yOX",
-    "spotify_artist_id": "4xIGdXa6w9eWUoVnEsZNJ9",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "2PM",
-    "ruby": "とぅーぴーえむ",
-    "aliases": [
-      "ツーピーエム"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO37pdB1",
-    "spotify_artist_id": "5iRPbkcPmqAFFwDUj6ywVS",
-    "tags": [
-      "男性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "To Be Continued",
-    "ruby": "とぅびーこんてぃにゅーど",
-    "aliases": [
-      "TBC"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KUK6k",
-    "spotify_artist_id": "6mwLCmbHMnerJGme5Hd138",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "東方神起",
-    "ruby": "とうほうしんき",
-    "aliases": [
-      "TVXQ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3LL0aN",
-    "spotify_artist_id": "6nVMMEywS5Y4tsHPKx1nIo",
-    "tags": [
-      "男性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-  {
-    "name": "堂本光一",
-    "ruby": "どうもとこういち",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UMTCh",
-    "spotify_artist_id": "3iRaHa8g7knz7nOcuhtAUf",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "堂本剛",
-    "ruby": "どうもとつよし",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aC3rr",
-    "spotify_artist_id": "247jIrXpsgL9R3yGLMVGCo",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "TOMORROW X TOGETHER",
-    "ruby": "とぅもろーばいとぅぎゃざー",
-    "aliases": [
-      "TXT",
-      "トゥモローバイトゥゲザー"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX2pmk7QemwOu",
-    "spotify_artist_id": "0ghlgldX5Dd6720Q3qFyQB",
-    "tags": [
-      "男性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "當山みれい",
-    "ruby": "とうやまみれい",
-    "aliases": [
-      "当山みれい",
-      "当山美玲",
-      "當山美玲"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4B3r3y",
-    "spotify_artist_id": "7Lb6KifoVBVM3cAXiDvirw",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "TRUE",
-    "ruby": "とぅるー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0txqs8",
-    "spotify_artist_id": "0UwVT0iMLLAa9SUNENg4te",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -16516,6 +16388,248 @@
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
     "color": "#ffc863"
+  },
+  {
+    "id": "artist-742",
+    "name": "Tohko",
+    "ruby": "とうこ",
+    "kana": "トウコ",
+    "romaji": [
+      "tohko"
+    ],
+    "aliases": [
+      "とーこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ZyNz7",
+    "spotify_artist_id": "1LKoUxerf9Lw60Wt6ebNPv",
+    "official_site": null,
+    "description": "Tohkoの代表曲をまとめた公式のプレイリスト「This Is Tohko」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-743",
+    "name": "堂島孝平",
+    "ruby": "どうじまこうへい",
+    "kana": "ドウジマコウヘイ",
+    "romaji": [
+      "doujimakouhei",
+      "douzimakouhei"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F2yOX",
+    "spotify_artist_id": "4xIGdXa6w9eWUoVnEsZNJ9",
+    "official_site": null,
+    "description": "堂島孝平の代表曲をまとめた公式のプレイリスト「This Is 堂島孝平」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-744",
+    "name": "2PM",
+    "ruby": "とぅーぴーえむ",
+    "kana": "トゥーピーエム",
+    "romaji": [
+      "2pm"
+    ],
+    "aliases": [
+      "ツーピーエム"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO37pdB1",
+    "spotify_artist_id": "5iRPbkcPmqAFFwDUj6ywVS",
+    "official_site": null,
+    "description": "2PMの代表曲をまとめた公式のプレイリスト「This Is 2PM」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-745",
+    "name": "To Be Continued",
+    "ruby": "とぅびーこんてぃにゅーど",
+    "kana": "トゥビーコンティニュード",
+    "romaji": [
+      "tobecontinued"
+    ],
+    "aliases": [
+      "TBC"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KUK6k",
+    "spotify_artist_id": "6mwLCmbHMnerJGme5Hd138",
+    "official_site": null,
+    "description": "To Be Continuedの代表曲をまとめた公式のプレイリスト「This Is To Be Continued」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-746",
+    "name": "東方神起",
+    "ruby": "とうほうしんき",
+    "kana": "トウホウシンキ",
+    "romaji": [
+      "touhoushinki",
+      "touhousinki"
+    ],
+    "aliases": [
+      "TVXQ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3LL0aN",
+    "spotify_artist_id": "6nVMMEywS5Y4tsHPKx1nIo",
+    "official_site": null,
+    "description": "東方神起の代表曲をまとめた公式のプレイリスト「This Is 東方神起」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-747",
+    "name": "堂本光一",
+    "ruby": "どうもとこういち",
+    "kana": "ドウモトコウイチ",
+    "romaji": [
+      "doumotokouichi",
+      "doumotokouiti"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UMTCh",
+    "spotify_artist_id": "3iRaHa8g7knz7nOcuhtAUf",
+    "official_site": null,
+    "description": "堂本光一の代表曲をまとめた公式のプレイリスト「This Is 堂本光一」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-748",
+    "name": "堂本剛",
+    "ruby": "どうもとつよし",
+    "kana": "ドウモトツヨシ",
+    "romaji": [
+      "doumototsuyoshi",
+      "doumototuyosi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aC3rr",
+    "spotify_artist_id": "247jIrXpsgL9R3yGLMVGCo",
+    "official_site": null,
+    "description": "堂本剛の代表曲をまとめた公式のプレイリスト「This Is 堂本剛」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-749",
+    "name": "TOMORROW X TOGETHER",
+    "ruby": "とぅもろーばいとぅぎゃざー",
+    "kana": "トゥモローバイトゥギャザー",
+    "romaji": [
+      "tomorrowxtogether"
+    ],
+    "aliases": [
+      "TXT",
+      "トゥモローバイトゥゲザー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX2pmk7QemwOu",
+    "spotify_artist_id": "0ghlgldX5Dd6720Q3qFyQB",
+    "official_site": null,
+    "description": "TOMORROW X TOGETHERの代表曲をまとめた公式のプレイリスト「This Is TOMORROW X TOGETHER」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-750",
+    "name": "當山みれい",
+    "ruby": "とうやまみれい",
+    "kana": "トウヤマミレイ",
+    "romaji": [
+      "touyamamirei"
+    ],
+    "aliases": [
+      "当山みれい",
+      "当山美玲",
+      "當山美玲"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4B3r3y",
+    "spotify_artist_id": "7Lb6KifoVBVM3cAXiDvirw",
+    "official_site": null,
+    "description": "當山みれいの代表曲をまとめた公式のプレイリスト「This Is 當山みれい」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-751",
+    "name": "TRUE",
+    "ruby": "とぅるー",
+    "kana": "トゥルー",
+    "romaji": [
+      "true"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0txqs8",
+    "spotify_artist_id": "0UwVT0iMLLAa9SUNENg4te",
+    "official_site": null,
+    "description": "TRUEの代表曲をまとめた公式のプレイリスト「This Is TRUE」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
   },
   {
     "id": "artist-201",
