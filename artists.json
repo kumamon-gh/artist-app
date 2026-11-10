@@ -1,5 +1,30 @@
 [
   {
+    "name": "TWICE",
+    "ruby": "とぅわいす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m",
+    "spotify_artist_id": "7n2Ycct7Beij7Dj7meI4X0",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "土岐麻子",
+    "ruby": "ときあさこ",
+    "aliases": [
+"つちきあさこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TtRvP",
+    "spotify_artist_id": "4VIGlACQnSacU0b1HTLA7y",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
