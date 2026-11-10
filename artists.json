@@ -1,30 +1,5 @@
 [
   {
-    "name": "TWICE",
-    "ruby": "とぅわいす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m",
-    "spotify_artist_id": "7n2Ycct7Beij7Dj7meI4X0",
-    "tags": [
-      "女性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "土岐麻子",
-    "ruby": "ときあさこ",
-    "aliases": [
-"つちきあさこ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TtRvP",
-    "spotify_artist_id": "4VIGlACQnSacU0b1HTLA7y",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -16650,6 +16625,53 @@
     "spotify_artist_id": "0UwVT0iMLLAa9SUNENg4te",
     "official_site": null,
     "description": "TRUEの代表曲をまとめた公式のプレイリスト「This Is TRUE」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-752",
+    "name": "TWICE",
+    "ruby": "とぅわいす",
+    "kana": "トゥワイス",
+    "romaji": [
+      "twice"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m",
+    "spotify_artist_id": "7n2Ycct7Beij7Dj7meI4X0",
+    "official_site": null,
+    "description": "TWICEの代表曲をまとめた公式のプレイリスト「This Is TWICE」",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-10",
+    "updated_date": "2026-11-10",
+    "color": ""
+  },
+  {
+    "id": "artist-753",
+    "name": "土岐麻子",
+    "ruby": "ときあさこ",
+    "kana": "トキアサコ",
+    "romaji": [
+      "tokiasako"
+    ],
+    "aliases": [
+      "つちきあさこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TtRvP",
+    "spotify_artist_id": "4VIGlACQnSacU0b1HTLA7y",
+    "official_site": null,
+    "description": "土岐麻子の代表曲をまとめた公式のプレイリスト「This Is 土岐麻子」",
     "tags": [
       "女性ソロ",
       "J-POP"
