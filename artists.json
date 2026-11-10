@@ -1,90 +1,5 @@
 [
   {
-    "name": "ドリーミング",
-    "ruby": "どりーみんぐ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NIPnO",
-    "spotify_artist_id": "4M9FTgU2MKVIwZAFfMsr3r",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Dream",
-    "ruby": "どりーむ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3BKXPu",
-    "spotify_artist_id": "67j0XHDG7fP5ZHia8gDsJU",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Dream Ami",
-    "ruby": "どりーむあみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO41A7Tz",
-    "spotify_artist_id": "6Oeb6i0acXNe1Q1MqqfkPX",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "DREAMS COME TRUE",
-    "ruby": "どりーむずかむとぅるー",
-    "aliases": [
-      "ドリカム"
-      ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lOFJd",
-    "spotify_artist_id": "2mJOGcLR3aCHkM1uAF93or",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Dream5",
-    "ruby": "どりーむふぁいぶ",
-    "aliases": [
-      "ドリーム5"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3izSDg",
-    "spotify_artist_id": "5BqQUM8Xe6LUP48eZLWhFI",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "TREASURE",
-    "ruby": "とれじゃー",
-    "aliases": [
-      "TRS"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWVoVEUmIsa1Y",
-    "spotify_artist_id": "3KonOYiLsU53m4yT7gNotP",
-    "tags": [
-      "男性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-  {
-    "name": "とんねるず",
-    "ruby": "とんねるず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ZD8nm",
-    "spotify_artist_id": "6KYYUGQKrP2l1dOHGTYAyQ",
-    "tags": [
-      "男性グループ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -17187,6 +17102,168 @@
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
     "color": "#ffc863"
+  },
+  {
+    "id": "artist-772",
+    "name": "ドリーミング",
+    "ruby": "どりーみんぐ",
+    "kana": "ドリーミング",
+    "romaji": [
+      "doriimingu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NIPnO",
+    "spotify_artist_id": "4M9FTgU2MKVIwZAFfMsr3r",
+    "official_site": null,
+    "description": "ドリーミングの代表曲をまとめた公式のプレイリスト「This Is ドリーミング」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-773",
+    "name": "Dream",
+    "ruby": "どりーむ",
+    "kana": "ドリーム",
+    "romaji": [
+      "dream"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3BKXPu",
+    "spotify_artist_id": "67j0XHDG7fP5ZHia8gDsJU",
+    "official_site": null,
+    "description": "Dreamの代表曲をまとめた公式のプレイリスト「This Is Dream」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-774",
+    "name": "Dream Ami",
+    "ruby": "どりーむあみ",
+    "kana": "ドリームアミ",
+    "romaji": [
+      "dreamami"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO41A7Tz",
+    "spotify_artist_id": "6Oeb6i0acXNe1Q1MqqfkPX",
+    "official_site": null,
+    "description": "Dream Amiの代表曲をまとめた公式のプレイリスト「This Is Dream Ami」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-775",
+    "name": "DREAMS COME TRUE",
+    "ruby": "どりーむずかむとぅるー",
+    "kana": "ドリームズカムトゥルー",
+    "romaji": [
+      "dreamscometrue"
+    ],
+    "aliases": [
+      "ドリカム"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lOFJd",
+    "spotify_artist_id": "2mJOGcLR3aCHkM1uAF93or",
+    "official_site": null,
+    "description": "DREAMS COME TRUEの代表曲をまとめた公式のプレイリスト「This Is DREAMS COME TRUE」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-776",
+    "name": "Dream5",
+    "ruby": "どりーむふぁいぶ",
+    "kana": "ドリームファイブ",
+    "romaji": [
+      "dream5"
+    ],
+    "aliases": [
+      "ドリーム5"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3izSDg",
+    "spotify_artist_id": "5BqQUM8Xe6LUP48eZLWhFI",
+    "official_site": null,
+    "description": "Dream5の代表曲をまとめた公式のプレイリスト「This Is Dream5」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-777",
+    "name": "TREASURE",
+    "ruby": "とれじゃー",
+    "kana": "トレジャー",
+    "romaji": [
+      "treasure"
+    ],
+    "aliases": [
+      "TRS"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWVoVEUmIsa1Y",
+    "spotify_artist_id": "3KonOYiLsU53m4yT7gNotP",
+    "official_site": null,
+    "description": "TREASUREの代表曲をまとめた公式のプレイリスト「This Is TREASURE」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
+    "id": "artist-778",
+    "name": "とんねるず",
+    "ruby": "とんねるず",
+    "kana": "トンネルズ",
+    "romaji": [
+      "tonneruzu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ZD8nm",
+    "spotify_artist_id": "6KYYUGQKrP2l1dOHGTYAyQ",
+    "official_site": null,
+    "description": "とんねるずの代表曲をまとめた公式のプレイリスト「This Is とんねるず」",
+    "tags": [
+      "男性グループ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
   },
   {
     "id": "artist-201",
