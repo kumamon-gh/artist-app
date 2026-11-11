@@ -61,11 +61,24 @@ async function fetchJson(url, tries = 3) {
 
 const isSpotifyPlaylist = u => typeof u === 'string' && /^https:\/\/open\.spotify\.com\/playlist\/[A-Za-z0-9]+/.test(u);
 
-// プレイリストURLから代表色を求める（oEmbed でジャケット画像のURLを得る。認証不要）
+// プレイリストURLからジャケット画像のURLを得る（認証不要。oEmbed を優先し、失敗時は og:image で代用）
+async function imageUrlOf(url) {
+  // まず oEmbed。画像が無い／失敗した時は、プレイリストページの og:image で代用する
+  try {
+    const j = await fetchJson('https://open.spotify.com/oembed?url=' + encodeURIComponent(url));
+    if (j.thumbnail_url) return j.thumbnail_url;
+  } catch (e) { /* 下の代用へ */ }
+  const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; artist-list-colors)' } });
+  if (!res.ok) throw new Error('ページHTTP ' + res.status);
+  const html = await res.text();
+  const m = /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i.exec(html) ||
+            /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i.exec(html);
+  if (!m) throw new Error('画像URLなし');
+  return m[1].replace(/&amp;/g, '&');
+}
+
 async function colorOf(url) {
-  const j = await fetchJson('https://open.spotify.com/oembed?url=' + encodeURIComponent(url));
-  if (!j.thumbnail_url) throw new Error('画像URLなし');
-  return await dominantColor(j.thumbnail_url);
+  return await dominantColor(await imageUrlOf(url));
 }
 
 // afterKey の直後に key を置く（無ければ末尾）。artists.json のキー順を normalize_artists.py と揃えて、無駄な差分を出さない
