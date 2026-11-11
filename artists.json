@@ -1,5 +1,34 @@
 [
   {
+    "name": "TOMORROW X TOGETHER",
+    "ruby": "とぅもろーばいとぅぎゃざー",
+    "aliases": [
+      "TXT",
+      "トゥモローバイトゥゲザー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX2pmk7QemwOu",
+    "spotify_artist_id": "0ghlgldX5Dd6720Q3qFyQB",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+  {
+    "name": "TREASURE",
+    "ruby": "とれじゃー",
+    "aliases": [
+      "TRS"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWVoVEUmIsa1Y",
+    "spotify_artist_id": "3KonOYiLsU53m4yT7gNotP",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
