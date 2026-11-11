@@ -611,7 +611,9 @@
     "ruby": "あおやましん",
     "kana": "アオヤマシン",
     "romaji": "aoyamashin",
-    "aliases": [],
+    "aliases": [
+      "青山あらた"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0FtXa3",
     "spotify_artist_id": null,
     "official_site": null,
@@ -691,7 +693,9 @@
     "ruby": "あかえんぴつ",
     "kana": "アカエンピツ",
     "romaji": "akaenpitsu",
-    "aliases": [],
+    "aliases": [
+      "赤鉛筆"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00zeZB",
     "spotify_artist_id": null,
     "official_site": null,
@@ -1075,7 +1079,10 @@
     "ruby": "あじあんかんふーじぇねれーしょん",
     "kana": "アジアンカンフージェネレーション",
     "romaji": "asiankung-fugeneration",
-    "aliases": [],
+    "aliases": [
+      "アジカン",
+      "AKG"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oQMfm",
     "spotify_artist_id": null,
     "official_site": null,
@@ -1115,7 +1122,9 @@
     "ruby": "あしっどぶらっくちぇりー",
     "kana": "アシッドブラックチェリー",
     "romaji": "acidblackcherry",
-    "aliases": [],
+    "aliases": [
+      "ABC"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49JmPZ",
     "spotify_artist_id": null,
     "official_site": null,
