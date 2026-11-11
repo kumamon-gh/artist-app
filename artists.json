@@ -237,7 +237,9 @@
     "ruby": "あいどりっしゅせぶん",
     "kana": "アイドリッシュセブン",
     "romaji": "idolish7",
-    "aliases": [],
+    "aliases": [
+     "アイナナ" 
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0m7EGe",
     "spotify_artist_id": null,
     "official_site": null,
@@ -277,7 +279,9 @@
     "ruby": "あいどるかれっじ",
     "kana": "アイドルカレッジ",
     "romaji": "idolcollege",
-    "aliases": [],
+    "aliases": [
+      "アイカレ"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s5ZAs",
     "spotify_artist_id": null,
     "official_site": null,
@@ -317,7 +321,10 @@
     "ruby": "あいびー",
     "kana": "アイビー",
     "romaji": "ivvy",
-    "aliases": [],
+    "aliases": [
+      "アイヴィー",
+      "ivy"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1r4eT6",
     "spotify_artist_id": null,
     "official_site": null,
@@ -437,7 +444,9 @@
     "ruby": "あいりっと",
     "kana": "アイリット",
     "romaji": "illit",
-    "aliases": [],
+    "aliases": [
+      "イリット"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NatAS",
     "spotify_artist_id": null,
     "official_site": null,
@@ -477,7 +486,10 @@
     "ruby": "あおいえいる",
     "kana": "アオイエイル",
     "romaji": "aoieir",
-    "aliases": [],
+    "aliases": [
+      "エイル",
+      "蒼井エイル"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5",
     "spotify_artist_id": null,
     "official_site": null,
