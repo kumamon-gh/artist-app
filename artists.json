@@ -1,34 +1,5 @@
 [
   {
-    "name": "TOMORROW X TOGETHER",
-    "ruby": "とぅもろーばいとぅぎゃざー",
-    "aliases": [
-      "TXT",
-      "トゥモローバイトゥゲザー"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX2pmk7QemwOu",
-    "spotify_artist_id": "0ghlgldX5Dd6720Q3qFyQB",
-    "tags": [
-      "男性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-  {
-    "name": "TREASURE",
-    "ruby": "とれじゃー",
-    "aliases": [
-      "TRS"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWVoVEUmIsa1Y",
-    "spotify_artist_id": "3KonOYiLsU53m4yT7gNotP",
-    "tags": [
-      "男性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -16593,6 +16564,32 @@
     "color": "#e5ad89"
   },
   {
+    "id": "artist-780",
+    "name": "TOMORROW X TOGETHER",
+    "ruby": "とぅもろーばいとぅぎゃざー",
+    "kana": "トゥモローバイトゥギャザー",
+    "romaji": [
+      "tomorrowxtogether"
+    ],
+    "aliases": [
+      "TXT",
+      "トゥモローバイトゥゲザー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX2pmk7QemwOu",
+    "spotify_artist_id": "0ghlgldX5Dd6720Q3qFyQB",
+    "official_site": null,
+    "description": "TOMORROW X TOGETHERの代表曲をまとめた公式のプレイリスト「This Is TOMORROW X TOGETHER」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
+  },
+  {
     "id": "artist-750",
     "name": "當山みれい",
     "ruby": "とうやまみれい",
@@ -17219,6 +17216,31 @@
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
     "color": "#fea42a"
+  },
+  {
+    "id": "artist-781",
+    "name": "TREASURE",
+    "ruby": "とれじゃー",
+    "kana": "トレジャー",
+    "romaji": [
+      "treasure"
+    ],
+    "aliases": [
+      "TRS"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWVoVEUmIsa1Y",
+    "spotify_artist_id": "3KonOYiLsU53m4yT7gNotP",
+    "official_site": null,
+    "description": "TREASUREの代表曲をまとめた公式のプレイリスト「This Is TREASURE」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
   },
   {
     "id": "artist-778",
