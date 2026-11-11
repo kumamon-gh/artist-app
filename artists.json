@@ -1,17 +1,5 @@
 [
   {
-    "name": "TWICE",
-    "ruby": "とぅわいす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m",
-    "spotify_artist_id": "7n2Ycct7Beij7Dj7meI4X0",
-    "tags": [
-      "女性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -16622,6 +16610,29 @@
     "added_date": "2026-11-10",
     "updated_date": "2026-11-10",
     "color": "#f47e00"
+  },
+  {
+    "id": "artist-779",
+    "name": "TWICE",
+    "ruby": "とぅわいす",
+    "kana": "トゥワイス",
+    "romaji": [
+      "twice"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m",
+    "spotify_artist_id": "7n2Ycct7Beij7Dj7meI4X0",
+    "official_site": null,
+    "description": "TWICEの代表曲をまとめた公式のプレイリスト「This Is TWICE」",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-11",
+    "updated_date": "2026-11-11",
+    "color": ""
   },
   {
     "id": "artist-753",
