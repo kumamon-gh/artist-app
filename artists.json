@@ -2119,7 +2119,9 @@
     "ruby": "あんじゅるむ",
     "kana": "アンジュルム",
     "romaji": "angerme",
-    "aliases": [],
+    "aliases": [
+      "スマイレージ"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PPHle",
     "spotify_artist_id": null,
     "official_site": null,
@@ -2299,7 +2301,9 @@
     "ruby": "いえろーじぇねれーしょん",
     "kana": "イエロージェネレーション",
     "romaji": "yellowgeneration",
-    "aliases": [],
+    "aliases": [
+      "イエジェネ"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ybSKZ",
     "spotify_artist_id": null,
     "official_site": null,
@@ -2339,7 +2343,9 @@
     "ruby": "いえろーまじっくおーけすとら",
     "kana": "イエローマジックオーケストラ",
     "romaji": "yellowmagicorchestra",
-    "aliases": [],
+    "aliases": [
+      "YMO"
+    ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1zDOLg",
     "spotify_artist_id": null,
     "official_site": null,
