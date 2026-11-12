@@ -98,9 +98,11 @@ let changed = 0, extraChanged = 0, same = 0, failed = 0, skipped = 0;
 for (const a of artists) {
   if (a.colorLock) { skipped++; continue; }
 
-  // 1つ目のプレイリスト → color
+  // 1つ目のプレイリスト → color（色が既にある人は問い合わせない。再確認したい時は colorCheckAll: true）
   const url = a.url || a.link || '';
-  if (url) {
+  if (url && a.color && !a.colorCheckAll) {
+    skipped++;
+  } else if (url) {
     try {
       const calc = await colorOf(url);
       if (!calc) {
@@ -125,6 +127,7 @@ for (const a of artists) {
   const map = (a.extra_colors && typeof a.extra_colors === 'object' && !Array.isArray(a.extra_colors)) ? { ...a.extra_colors } : {};
   let mapChanged = false;
   for (const u of extras) {
+    if (map[u] && !a.colorCheckAll) continue; // 取得済みのURLは問い合わせない
     try {
       const calc = await colorOf(u);
       if (calc) {
