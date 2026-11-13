@@ -24,24 +24,34 @@ async function dominantColor(imageUrl) {
   const buf = Buffer.from(await res.arrayBuffer());
   // 64x64 に縮小して画素数を減らす（計算を軽くし、細かいノイズも均す）
   const { data, info } = await sharp(buf).resize(64, 64, { fit: 'cover' }).removeAlpha().raw().toBuffer({ resolveWithObject: true });
-  const bins = new Map();
-  for (let i = 0; i < data.length; i += info.channels) {
-    const r = data[i], g = data[i + 1], b = data[i + 2];
-    const max = Math.max(r, g, b), min = Math.min(r, g, b);
-    const sat = max === 0 ? 0 : (max - min) / max;
-    // 黒っぽい・白っぽい・彩度の低い画素は、アクセントカラーに向かないため数えない
-    if (max < 40 || min > 235 || sat < 0.2) continue;
-    // 各チャンネル上位3bit（8段階）に丸めて集計し、似た色を同じ箱にまとめる
-    const key = (r >> 5) + ',' + (g >> 5) + ',' + (b >> 5);
-    const e = bins.get(key) || { n: 0, r: 0, g: 0, b: 0 };
-    e.n++; e.r += r; e.g += g; e.b += b;
-    bins.set(key, e);
+
+  // 彩度の基準を段階的に下げて探す。通常は最初（0.2）で決まり、従来と同じ色になる。
+  // ほぼ白黒・グレーのジャケットでも、色が決まらず空のままにならないようにする
+  for (const minSat of [0.2, 0.05]) {
+    const bins = new Map();
+    for (let i = 0; i < data.length; i += info.channels) {
+      const r = data[i], g = data[i + 1], b = data[i + 2];
+      const max = Math.max(r, g, b), min = Math.min(r, g, b);
+      const sat = max === 0 ? 0 : (max - min) / max;
+      // 黒っぽい・白っぽい・彩度の低い画素は、アクセントカラーに向かないため数えない
+      if (max < 40 || min > 235 || sat < minSat) continue;
+      // 各チャンネル上位3bit（8段階）に丸めて集計し、似た色を同じ箱にまとめる
+      const key = (r >> 5) + ',' + (g >> 5) + ',' + (b >> 5);
+      const e = bins.get(key) || { n: 0, r: 0, g: 0, b: 0 };
+      e.n++; e.r += r; e.g += g; e.b += b;
+      bins.set(key, e);
+    }
+    // 画素数が最も多い箱を選び、その箱の平均色を返す
+    let best = null;
+    for (const e of bins.values()) if (!best || e.n > best.n) best = e;
+    if (best) return '#' + hex2(Math.round(best.r / best.n)) + hex2(Math.round(best.g / best.n)) + hex2(Math.round(best.b / best.n));
   }
-  // 画素数が最も多い箱を選び、その箱の平均色を返す
-  let best = null;
-  for (const e of bins.values()) if (!best || e.n > best.n) best = e;
-  if (!best) return null;
-  return '#' + hex2(Math.round(best.r / best.n)) + hex2(Math.round(best.g / best.n)) + hex2(Math.round(best.b / best.n));
+
+  // 最後の手段：画像全体の平均色
+  let n = 0, sr = 0, sg = 0, sb = 0;
+  for (let i = 0; i < data.length; i += info.channels) { sr += data[i]; sg += data[i + 1]; sb += data[i + 2]; n++; }
+  if (!n) return null;
+  return '#' + hex2(Math.round(sr / n)) + hex2(Math.round(sg / n)) + hex2(Math.round(sb / n));
 }
 
 const dist = (a, b) => Math.hypot(a[0] - b[0], a[1] - b[1], a[2] - b[2]);
@@ -106,7 +116,8 @@ for (const a of artists) {
     try {
       const calc = await colorOf(url);
       if (!calc) {
-        skipped++;
+        console.warn(a.name, '色を決められませんでした');
+        failed++;
       } else {
         const cur = parseHex(a.color);
         if (cur && dist(cur, parseHex(calc)) <= THRESHOLD) { same++; }
