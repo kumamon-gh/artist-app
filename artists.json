@@ -1,5 +1,122 @@
 [
   {
+    "name": "なにわ男子",
+    "ruby": "なにわだんし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWZeWwdLPniPK",
+    "spotify_artist_id": "5V0oa9WaeYkBszHV6ItVD6",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "名前は未だ無いです。",
+    "ruby": "なまえはまだないです",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VHOK0",
+    "spotify_artist_id": "3knBO7rQ2WaW3wRNUkG1nl",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "Number_i",
+    "ruby": "なんばーあい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DXax6EguGy7Df",
+    "spotify_artist_id": "4XFkDALFTsSHVnRtJSsaMN",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "南波志帆",
+    "ruby": "なんばしほ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO39vOFj",
+    "spotify_artist_id": "5mmHPUaiqDMeaSauaMIJlv",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "≒JOY",
+    "ruby": "にありーいこーるじょい",
+    "aliases": [
+      "ニアジョイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iXAOd",
+    "spotify_artist_id": "0CXdxGaAia8vQLHVRFXW8a",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "新妻聖子",
+    "ruby": "にいづませいこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XeFi5",
+    "spotify_artist_id": "51XVegZ3DRLvvyHBJ2gufV",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+"邦楽"
+    ]
+  },
+{
+    "name": "新沼謙治",
+    "ruby": "にいぬまけんじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tLGlG",
+    "spotify_artist_id": "4eZxAuDEWugT2KHS32AIkA",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "新浜レオン",
+    "ruby": "にいはまれおん",
+    "aliases": [
+      "あらはまれおん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO46Gm8E",
+    "spotify_artist_id": "6WHw9pdyHYT9c952yPaGM2",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "NICO Touches the Walls",
+    "ruby": "にこたっちずざうぉーるず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AQ5ha",
+    "spotify_artist_id": "16FpDRuy5xMHpuLYZV0Hkt",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "西内まりや",
+    "ruby": "にしうちまりや",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4zxWqH",
+    "spotify_artist_id": "7IFIqzq10JsjbCL0mr8BVv",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
