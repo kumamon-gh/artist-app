@@ -18308,6 +18308,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L4wdz"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L4wdz": "#fe7163"
+    },
     "spotify_artist_id": "30TlwY1jUGvQl6RzwjwiNI",
     "official_site": null,
     "description": "西田ひかるの代表曲をまとめた公式のプレイリスト「This Is 西田ひかる」",
