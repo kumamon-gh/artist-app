@@ -1,126 +1,5 @@
 [
   {
-    "name": "西島三重子",
-    "ruby": "にしじまみえこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ass3s",
-    "spotify_artist_id": "0oP6sBOdNGZiLLmogy86MX",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "西田敏行",
-    "ruby": "にしだとしゆき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2sKZco",
-    "spotify_artist_id": "4djumM1qrx3qrRNTQworSy",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "西田ひかる",
-    "ruby": "にしだひかる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZ0dJ",
-    "spotify_artist_id": "30TlwY1jUGvQl6RzwjwiNI",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "にしな",
-    "ruby": "にしな",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eol6U",
-    "spotify_artist_id": "2aoUBwmHWln0JSEZbi9E70",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "西野カナ",
-    "ruby": "にしのかな",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2IAZks",
-    "spotify_artist_id": "4DDoAL8n6ob19r3jOZEbJI",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "虹のコンキスタドール",
-    "ruby": "にじのこんきすたどーる",
-    "aliases": [
-      "虹コン",
-      "にじこん"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2khuJG",
-    "spotify_artist_id": "3ZdRpXbuyNbMM6MQFJMErr",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "NiziU",
-    "ruby": "にじゅー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO24A3Bu",
-    "spotify_artist_id": "3z8diLlUCkN1j9N9ZdnfBJ",
-    "tags": [
-      "女性グループ",
-      "J-POP",
-"K-POP",
-"海外アーティスト"
-    ]
-  },
-{
-    "name": "26時のマスカレイド",
-    "ruby": "にじゅうろくじのますかれいど",
-    "aliases": [
-      "ニジマス"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1EzhLk",
-    "spotify_artist_id": "2RTJG5KGfKi6uAUXEgFF9d",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Nissy(西島隆弘)",
-    "ruby": "にっしーにしじまたかひろ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2N7HMs",
-    "spotify_artist_id": "4L9VSeE7K3BTBndqEL9A6q",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "新田恵利",
-    "ruby": "にったえり",
-    "aliases": [
-"あらたえり"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tVknV",
-    "spotify_artist_id": "2AddL17dmpImYA8LbXtMtz",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -18367,6 +18246,247 @@
     "added_date": "2026-11-14",
     "updated_date": "2026-11-14",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-822",
+    "name": "西島三重子",
+    "ruby": "にしじまみえこ",
+    "kana": "ニシジマミエコ",
+    "romaji": [
+      "nishijimamieko",
+      "nisizimamieko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ass3s",
+    "spotify_artist_id": "0oP6sBOdNGZiLLmogy86MX",
+    "official_site": null,
+    "description": "西島三重子の代表曲をまとめた公式のプレイリスト「This Is 西島三重子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-823",
+    "name": "西田敏行",
+    "ruby": "にしだとしゆき",
+    "kana": "ニシダトシユキ",
+    "romaji": [
+      "nishidatoshiyuki",
+      "nisidatosiyuki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2sKZco",
+    "spotify_artist_id": "4djumM1qrx3qrRNTQworSy",
+    "official_site": null,
+    "description": "西田敏行の代表曲をまとめた公式のプレイリスト「This Is 西田敏行」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-824",
+    "name": "西田ひかる",
+    "ruby": "にしだひかる",
+    "kana": "ニシダヒカル",
+    "romaji": [
+      "nishidahikaru",
+      "nisidahikaru"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZ0dJ",
+    "spotify_artist_id": "30TlwY1jUGvQl6RzwjwiNI",
+    "official_site": null,
+    "description": "西田ひかるの代表曲をまとめた公式のプレイリスト「This Is 西田ひかる」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-825",
+    "name": "にしな",
+    "ruby": "にしな",
+    "kana": "ニシナ",
+    "romaji": [
+      "nishina",
+      "nisina"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eol6U",
+    "spotify_artist_id": "2aoUBwmHWln0JSEZbi9E70",
+    "official_site": null,
+    "description": "にしなの代表曲をまとめた公式のプレイリスト「This Is にしな」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-826",
+    "name": "西野カナ",
+    "ruby": "にしのかな",
+    "kana": "ニシノカナ",
+    "romaji": [
+      "nishinokana",
+      "nisinokana"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2IAZks",
+    "spotify_artist_id": "4DDoAL8n6ob19r3jOZEbJI",
+    "official_site": null,
+    "description": "西野カナの代表曲をまとめた公式のプレイリスト「This Is 西野カナ」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-827",
+    "name": "虹のコンキスタドール",
+    "ruby": "にじのこんきすたどーる",
+    "kana": "ニジノコンキスタドール",
+    "romaji": [
+      "nijinokonkisutadooru",
+      "nizinokonkisutadooru"
+    ],
+    "aliases": [
+      "虹コン",
+      "にじこん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2khuJG",
+    "spotify_artist_id": "3ZdRpXbuyNbMM6MQFJMErr",
+    "official_site": null,
+    "description": "虹のコンキスタドールの代表曲をまとめた公式のプレイリスト「This Is 虹のコンキスタドール」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-828",
+    "name": "NiziU",
+    "ruby": "にじゅー",
+    "kana": "ニジュー",
+    "romaji": [
+      "niziu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO24A3Bu",
+    "spotify_artist_id": "3z8diLlUCkN1j9N9ZdnfBJ",
+    "official_site": null,
+    "description": "NiziUの代表曲をまとめた公式のプレイリスト「This Is NiziU」",
+    "tags": [
+      "女性グループ",
+      "J-POP",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-829",
+    "name": "26時のマスカレイド",
+    "ruby": "にじゅうろくじのますかれいど",
+    "kana": "ニジュウロクジノマスカレイド",
+    "romaji": [
+      "nijuurokujinomasukareido",
+      "nizyuurokuzinomasukareido",
+      "26"
+    ],
+    "aliases": [
+      "ニジマス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1EzhLk",
+    "spotify_artist_id": "2RTJG5KGfKi6uAUXEgFF9d",
+    "official_site": null,
+    "description": "26時のマスカレイドの代表曲をまとめた公式のプレイリスト「This Is 26時のマスカレイド」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-830",
+    "name": "Nissy(西島隆弘)",
+    "ruby": "にっしーにしじまたかひろ",
+    "kana": "ニッシーニシジマタカヒロ",
+    "romaji": [
+      "nisshiinishijimatakahiro",
+      "nissiinisizimatakahiro",
+      "nissy"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2N7HMs",
+    "spotify_artist_id": "4L9VSeE7K3BTBndqEL9A6q",
+    "official_site": null,
+    "description": "Nissy(西島隆弘)の代表曲をまとめた公式のプレイリスト「This Is Nissy(西島隆弘)」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-831",
+    "name": "新田恵利",
+    "ruby": "にったえり",
+    "kana": "ニッタエリ",
+    "romaji": [
+      "nittaeri"
+    ],
+    "aliases": [
+      "あらたえり"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tVknV",
+    "spotify_artist_id": "2AddL17dmpImYA8LbXtMtz",
+    "official_site": null,
+    "description": "新田恵利の代表曲をまとめた公式のプレイリスト「This Is 新田恵利」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
   },
   {
     "id": "artist-202",
