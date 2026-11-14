@@ -1,133 +1,5 @@
 [
   {
-    "name": "NewJeans",
-    "ruby": "にゅーじーんず",
-    "aliases": [
-      "ニュジ",
-      "NJZ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWVGwK1DVdGDJ",
-    "spotify_artist_id": "6HvZYsbFfjnjFrWF950C9d",
-    "tags": [
-      "女性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "NEWS",
-    "ruby": "にゅーす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX3RCuHQlEOVw",
-    "spotify_artist_id": "2Sw8snRnez7gVPNd9UU07o",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "navy&ivory",
-    "ruby": "ねいびーあんどあいぼりー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gWbbz",
-    "spotify_artist_id": "2eDe1EsxF5iTABEGxIg9JE",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "NEXZ",
-    "ruby": "ねくすじ",
-    "aliases": [
-      "ネクスト"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tfuiX",
-    "spotify_artist_id": "5TaK8pOYVARAr5cdgoa8EW",
-    "tags": [
-      "男性グループ",
-      "J-POP",
-"K-POP",
-"海外アーティスト"
-    ]
-  },
-{
-    "name": "ねぐせ。",
-    "ruby": "ねぐせ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4khs5z",
-    "spotify_artist_id": "7jiFTNRWSw8zYgUj9wNJld",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "音莉飴",
-    "ruby": "ねりあめ",
-    "aliases": [
-      "おとりあめ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pG9fX",
-    "spotify_artist_id": "48cmBTHGDXpbMmImSbBprJ",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "NOA",
-    "ruby": "のあ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0PJrbC",
-    "spotify_artist_id": "1vpHPL6nejNAg9GXYrJ5ck",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "乃紫",
-    "ruby": "のあ",
-    "aliases": [
-      "のし",
-      "のむらさき",
-"乃柴"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1oVqgA",
-    "spotify_artist_id": "2rUfBClgdqQ4Svcg0A6gIl",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "乃木坂46",
-    "ruby": "のぎざかふぉーてぃーしっくす",
-    "aliases": [
-"N46",
-      "のぎざかよんじゅーろく"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00y9Ml",
-    "spotify_artist_id": "08lN7bm4Etec8ETFxaTUmq",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "野口五郎",
-    "ruby": "のぐちごろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DMpZW",
-    "spotify_artist_id": "1byi3eQdRpqAgQOIIw1Pwh",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -18608,6 +18480,247 @@
     "description": "新田恵利の代表曲をまとめた公式のプレイリスト「This Is 新田恵利」",
     "tags": [
       "女性ソロ",
+      "歌謡曲",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-832",
+    "name": "NewJeans",
+    "ruby": "にゅーじーんず",
+    "kana": "ニュージーンズ",
+    "romaji": [
+      "newjeans"
+    ],
+    "aliases": [
+      "ニュジ",
+      "NJZ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWVGwK1DVdGDJ",
+    "spotify_artist_id": "6HvZYsbFfjnjFrWF950C9d",
+    "official_site": null,
+    "description": "NewJeansの代表曲をまとめた公式のプレイリスト「This Is NewJeans」",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-833",
+    "name": "NEWS",
+    "ruby": "にゅーす",
+    "kana": "ニュース",
+    "romaji": [
+      "news"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX3RCuHQlEOVw",
+    "spotify_artist_id": "2Sw8snRnez7gVPNd9UU07o",
+    "official_site": null,
+    "description": "NEWSの代表曲をまとめた公式のプレイリスト「This Is NEWS」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-834",
+    "name": "navy&ivory",
+    "ruby": "ねいびーあんどあいぼりー",
+    "kana": "ネイビーアンドアイボリー",
+    "romaji": [
+      "navyandivory"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gWbbz",
+    "spotify_artist_id": "2eDe1EsxF5iTABEGxIg9JE",
+    "official_site": null,
+    "description": "navy&ivoryの代表曲をまとめた公式のプレイリスト「This Is navy&ivory」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-835",
+    "name": "NEXZ",
+    "ruby": "ねくすじ",
+    "kana": "ネクスジ",
+    "romaji": [
+      "nexz"
+    ],
+    "aliases": [
+      "ネクスト"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tfuiX",
+    "spotify_artist_id": "5TaK8pOYVARAr5cdgoa8EW",
+    "official_site": null,
+    "description": "NEXZの代表曲をまとめた公式のプレイリスト「This Is NEXZ」",
+    "tags": [
+      "男性グループ",
+      "J-POP",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-836",
+    "name": "ねぐせ。",
+    "ruby": "ねぐせ",
+    "kana": "ネグセ",
+    "romaji": [
+      "neguse"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4khs5z",
+    "spotify_artist_id": "7jiFTNRWSw8zYgUj9wNJld",
+    "official_site": null,
+    "description": "ねぐせ。の代表曲をまとめた公式のプレイリスト「This Is ねぐせ。」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-837",
+    "name": "音莉飴",
+    "ruby": "ねりあめ",
+    "kana": "ネリアメ",
+    "romaji": [
+      "neriame"
+    ],
+    "aliases": [
+      "おとりあめ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pG9fX",
+    "spotify_artist_id": "48cmBTHGDXpbMmImSbBprJ",
+    "official_site": null,
+    "description": "音莉飴の代表曲をまとめた公式のプレイリスト「This Is 音莉飴」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-838",
+    "name": "NOA",
+    "ruby": "のあ",
+    "kana": "ノア",
+    "romaji": [
+      "noa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0PJrbC",
+    "spotify_artist_id": "1vpHPL6nejNAg9GXYrJ5ck",
+    "official_site": null,
+    "description": "NOAの代表曲をまとめた公式のプレイリスト「This Is NOA」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-839",
+    "name": "乃紫",
+    "ruby": "のあ",
+    "kana": "ノア",
+    "romaji": [
+      "noa"
+    ],
+    "aliases": [
+      "のし",
+      "のむらさき",
+      "乃柴"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1oVqgA",
+    "spotify_artist_id": "2rUfBClgdqQ4Svcg0A6gIl",
+    "official_site": null,
+    "description": "乃紫の代表曲をまとめた公式のプレイリスト「This Is 乃紫」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-840",
+    "name": "乃木坂46",
+    "ruby": "のぎざかふぉーてぃーしっくす",
+    "kana": "ノギザカフォーティーシックス",
+    "romaji": [
+      "nogizakafootiishikkusu",
+      "nogizakahootiisikkusu",
+      "46"
+    ],
+    "aliases": [
+      "N46",
+      "のぎざかよんじゅーろく"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00y9Ml",
+    "spotify_artist_id": "08lN7bm4Etec8ETFxaTUmq",
+    "official_site": null,
+    "description": "乃木坂46の代表曲をまとめた公式のプレイリスト「This Is 乃木坂46」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-841",
+    "name": "野口五郎",
+    "ruby": "のぐちごろう",
+    "kana": "ノグチゴロウ",
+    "romaji": [
+      "noguchigorou",
+      "nogutigorou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DMpZW",
+    "spotify_artist_id": "1byi3eQdRpqAgQOIIw1Pwh",
+    "official_site": null,
+    "description": "野口五郎の代表曲をまとめた公式のプレイリスト「This Is 野口五郎」",
+    "tags": [
+      "男性ソロ",
       "歌謡曲",
       "J-POP"
     ],
