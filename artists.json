@@ -1,121 +1,5 @@
 [
   {
-    "name": "中西圭三",
-    "ruby": "なかにしけいぞう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wQtDY",
-    "spotify_artist_id": "7Ebtq0EVDb4P2yLbn1bJN0",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "中西保志",
-    "ruby": "なかにしやすし",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO408L06",
-    "spotify_artist_id": "6LPAJqKRO7d6cJ9GcqdfCh",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "中原めいこ",
-    "ruby": "なかはらめいこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03MkoO",
-    "spotify_artist_id": "0dIGBGRHRiNzdTpZofcJ3Z",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "長渕剛",
-    "ruby": "ながぶちつよし",
-    "aliases": [
-      "長淵剛"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36HN2q",
-    "spotify_artist_id": "5hHNaYRpbcz1qo09jeVcg8",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "中村晃子",
-    "ruby": "なかむらあきこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2LEpxO",
-    "spotify_artist_id": "4II3xfiWr40pXx5T1UwFmh",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "中村中",
-    "ruby": "なかむらあたる",
-    "aliases": [
-      "中村なか",
-      "なかむらなか"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3yFo9x",
-    "spotify_artist_id": "62aASg6d7RpX0IdURQgIvv",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "中村あゆみ",
-    "ruby": "なかむらあゆみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fFk32",
-    "spotify_artist_id": "3RyaA1p8ixjGPT6c8LWYPA",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "中村佳穂",
-    "ruby": "なかむらかほ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06yK43",
-    "spotify_artist_id": "0illCOhPkFBykngmCWos6u",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "中村雅俊",
-    "ruby": "なかむらまさとし",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wm2vC",
-    "spotify_artist_id": "0Zdks2FJQFrb3vLbj9uIJ5",
-    "tags": [
-      "男性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "中村美律子",
-    "ruby": "なかむらみつこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01VtWa",
-    "spotify_artist_id": "0aDuVPAfm8iLlrRjWigdog",
-    "tags": [
-      "女性ソロ",
-      "演歌"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -17665,6 +17549,237 @@
     "tags": [
       "女性ソロ",
       "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-792",
+    "name": "中西圭三",
+    "ruby": "なかにしけいぞう",
+    "kana": "ナカニシケイゾウ",
+    "romaji": [
+      "nakanishikeizou",
+      "nakanisikeizou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wQtDY",
+    "spotify_artist_id": "7Ebtq0EVDb4P2yLbn1bJN0",
+    "official_site": null,
+    "description": "中西圭三の代表曲をまとめた公式のプレイリスト「This Is 中西圭三」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-793",
+    "name": "中西保志",
+    "ruby": "なかにしやすし",
+    "kana": "ナカニシヤスシ",
+    "romaji": [
+      "nakanishiyasushi",
+      "nakanisiyasusi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO408L06",
+    "spotify_artist_id": "6LPAJqKRO7d6cJ9GcqdfCh",
+    "official_site": null,
+    "description": "中西保志の代表曲をまとめた公式のプレイリスト「This Is 中西保志」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-794",
+    "name": "中原めいこ",
+    "ruby": "なかはらめいこ",
+    "kana": "ナカハラメイコ",
+    "romaji": [
+      "nakaharameiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03MkoO",
+    "spotify_artist_id": "0dIGBGRHRiNzdTpZofcJ3Z",
+    "official_site": null,
+    "description": "中原めいこの代表曲をまとめた公式のプレイリスト「This Is 中原めいこ」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-795",
+    "name": "長渕剛",
+    "ruby": "ながぶちつよし",
+    "kana": "ナガブチツヨシ",
+    "romaji": [
+      "nagabuchitsuyoshi",
+      "nagabutituyosi"
+    ],
+    "aliases": [
+      "長淵剛"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36HN2q",
+    "spotify_artist_id": "5hHNaYRpbcz1qo09jeVcg8",
+    "official_site": null,
+    "description": "長渕剛の代表曲をまとめた公式のプレイリスト「This Is 長渕剛」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-796",
+    "name": "中村晃子",
+    "ruby": "なかむらあきこ",
+    "kana": "ナカムラアキコ",
+    "romaji": [
+      "nakamuraakiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2LEpxO",
+    "spotify_artist_id": "4II3xfiWr40pXx5T1UwFmh",
+    "official_site": null,
+    "description": "中村晃子の代表曲をまとめた公式のプレイリスト「This Is 中村晃子」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-797",
+    "name": "中村中",
+    "ruby": "なかむらあたる",
+    "kana": "ナカムラアタル",
+    "romaji": [
+      "nakamuraataru"
+    ],
+    "aliases": [
+      "中村なか",
+      "なかむらなか"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3yFo9x",
+    "spotify_artist_id": "62aASg6d7RpX0IdURQgIvv",
+    "official_site": null,
+    "description": "中村中の代表曲をまとめた公式のプレイリスト「This Is 中村中」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-798",
+    "name": "中村あゆみ",
+    "ruby": "なかむらあゆみ",
+    "kana": "ナカムラアユミ",
+    "romaji": [
+      "nakamuraayumi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fFk32",
+    "spotify_artist_id": "3RyaA1p8ixjGPT6c8LWYPA",
+    "official_site": null,
+    "description": "中村あゆみの代表曲をまとめた公式のプレイリスト「This Is 中村あゆみ」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-799",
+    "name": "中村佳穂",
+    "ruby": "なかむらかほ",
+    "kana": "ナカムラカホ",
+    "romaji": [
+      "nakamurakaho"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06yK43",
+    "spotify_artist_id": "0illCOhPkFBykngmCWos6u",
+    "official_site": null,
+    "description": "中村佳穂の代表曲をまとめた公式のプレイリスト「This Is 中村佳穂」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-800",
+    "name": "中村雅俊",
+    "ruby": "なかむらまさとし",
+    "kana": "ナカムラマサトシ",
+    "romaji": [
+      "nakamuramasatoshi",
+      "nakamuramasatosi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wm2vC",
+    "spotify_artist_id": "0Zdks2FJQFrb3vLbj9uIJ5",
+    "official_site": null,
+    "description": "中村雅俊の代表曲をまとめた公式のプレイリスト「This Is 中村雅俊」",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-801",
+    "name": "中村美律子",
+    "ruby": "なかむらみつこ",
+    "kana": "ナカムラミツコ",
+    "romaji": [
+      "nakamuramitsuko",
+      "nakamuramituko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01VtWa",
+    "spotify_artist_id": "0aDuVPAfm8iLlrRjWigdog",
+    "official_site": null,
+    "description": "中村美律子の代表曲をまとめた公式のプレイリスト「This Is 中村美律子」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
     ],
     "status": "published",
     "added_date": "2026-11-14",
