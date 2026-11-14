@@ -1,5 +1,121 @@
 [
   {
+    "name": "中西圭三",
+    "ruby": "なかにしけいぞう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wQtDY",
+    "spotify_artist_id": "7Ebtq0EVDb4P2yLbn1bJN0",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "中西保志",
+    "ruby": "なかにしやすし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO408L06",
+    "spotify_artist_id": "6LPAJqKRO7d6cJ9GcqdfCh",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "中原めいこ",
+    "ruby": "なかはらめいこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03MkoO",
+    "spotify_artist_id": "0dIGBGRHRiNzdTpZofcJ3Z",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "長渕剛",
+    "ruby": "ながぶちつよし",
+    "aliases": [
+      "長淵剛"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36HN2q",
+    "spotify_artist_id": "5hHNaYRpbcz1qo09jeVcg8",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "中村晃子",
+    "ruby": "なかむらあきこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2LEpxO",
+    "spotify_artist_id": "4II3xfiWr40pXx5T1UwFmh",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "中村中",
+    "ruby": "なかむらあたる",
+    "aliases": [
+      "中村なか",
+      "なかむらなか"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3yFo9x",
+    "spotify_artist_id": "62aASg6d7RpX0IdURQgIvv",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "中村あゆみ",
+    "ruby": "なかむらあゆみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fFk32",
+    "spotify_artist_id": "3RyaA1p8ixjGPT6c8LWYPA",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "中村佳穂",
+    "ruby": "なかむらかほ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06yK43",
+    "spotify_artist_id": "0illCOhPkFBykngmCWos6u",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "中村雅俊",
+    "ruby": "なかむらまさとし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wm2vC",
+    "spotify_artist_id": "0Zdks2FJQFrb3vLbj9uIJ5",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "中村美律子",
+    "ruby": "なかむらみつこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01VtWa",
+    "spotify_artist_id": "0aDuVPAfm8iLlrRjWigdog",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
