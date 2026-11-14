@@ -1,5 +1,123 @@
 [
   {
+    "name": "中森明菜",
+    "ruby": "なかもりあきな",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49iTjt",
+    "spotify_artist_id": "7140bcJ0ZySe314nUfOo1J",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "中山美穂",
+    "ruby": "なかやまみほ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cDZQc",
+    "spotify_artist_id": "27uDA7mGoHPHFvlBiZ4J9Z",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "長山洋子",
+    "ruby": "ながやまようこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0L7bh3",
+    "spotify_artist_id": "1nK05TsvBTFr56az8qe0FK",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "なぎら健壱",
+    "ruby": "なぎらけんいち",
+    "aliases": [
+      "なぎら健一"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lrLX7",
+    "spotify_artist_id": "7lf3Rc9zVTnuc8NwsJbs5K",
+    "tags": [
+      "男性ソロ",
+      "邦楽"
+    ]
+  },
+{
+    "name": "Nagie Lane",
+    "ruby": "なぎーれーん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO10QxKp",
+    "spotify_artist_id": "1NSPGP2G2k6pZFFZERvOwC",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "夏川りみ",
+    "ruby": "なつかわりみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1u9EZW",
+    "spotify_artist_id": "2AAMBmrNdim79LRSv1kKFn",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "なとり",
+    "ruby": "なとり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO46tYWf",
+    "spotify_artist_id": "6WmXWHmfBMhupyIs8MSqtu",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "22/7",
+    "ruby": "ななぶんのにじゅうに",
+    "aliases": [
+      "ナナニジ"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ql4TE",
+    "spotify_artist_id": "7tn9UjhRgGnDjOWOXuzIgZ",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ナナヲアカリ",
+    "ruby": "ななをあかり",
+    "aliases": [
+      "ナナオアカリ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZZkfip",
+    "spotify_artist_id": "06jSjpC81wzjoUoE61Fhdn",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ナナランド",
+    "ruby": "なならんど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Ww7mS",
+    "spotify_artist_id": "50LJWpfb50Or2UZo6PgAcx",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
