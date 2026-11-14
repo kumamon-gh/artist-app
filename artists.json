@@ -1,126 +1,5 @@
 [
   {
-    "name": "内藤やす子",
-    "ruby": "ないとうやすこ",
-    "aliases": [
-      "内藤康子"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2awx8J",
-    "spotify_artist_id": "3J0MzrsfmDnPCO9yi3cmJx",
-    "tags": [
-      "女性ソロ",
-      "演歌",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "9nine",
-    "ruby": "ないん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Bc62o",
-    "spotify_artist_id": "2MiheFm6jbDXNZXQOso9It",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ナオト・インティライミ",
-    "ruby": "なおといんてぃらいみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dpvEI",
-    "spotify_artist_id": "77SZmOd2zA3L3n9x697iWb",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "永井真理子",
-    "ruby": "ながいまりこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03DfMM",
-    "spotify_artist_id": "0dtIz8DHaZo2ov7v4vRzQq",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "中川翔子",
-    "ruby": "なかがわしょうこ",
-    "aliases": [
-      "しょこたん"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXZMA7",
-    "spotify_artist_id": "046RRGSoYRQ7qIKliJJSNS",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "中島健人",
-    "ruby": "なかじまけんと",
-    "aliases": [
-      "ケンティー"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX0umHuMMLQiN",
-    "spotify_artist_id": "3KJigfhLjMfuE2HXsgXbln",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "中島美嘉",
-    "ruby": "なかしまみか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO26Yync",
-    "spotify_artist_id": "3D73KNJRMbV45N59E8IN0F",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "中島みゆき",
-    "ruby": "なかじまみゆき",
-    "aliases": [
-      "中島美雪"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02QA81",
-    "spotify_artist_id": "0caDIM0rTovLDe5UdFvK1t",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "中条きよし",
-    "ruby": "なかじょうきよし",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xja1z",
-    "spotify_artist_id": "10NegrNEwwakENlGEqzuoL",
-    "tags": [
-      "男性ソロ",
-      "演歌",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "中谷美紀",
-    "ruby": "なかたにみき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO08Fmin",
-    "spotify_artist_id": "0lQqccMaSieqmC4KN96fgs",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -17439,6 +17318,242 @@
     "added_date": "2026-11-11",
     "updated_date": "2026-11-11",
     "color": "#f036a5"
+  },
+  {
+    "id": "artist-782",
+    "name": "内藤やす子",
+    "ruby": "ないとうやすこ",
+    "kana": "ナイトウヤスコ",
+    "romaji": [
+      "naitouyasuko"
+    ],
+    "aliases": [
+      "内藤康子"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2awx8J",
+    "spotify_artist_id": "3J0MzrsfmDnPCO9yi3cmJx",
+    "official_site": null,
+    "description": "内藤やす子の代表曲をまとめた公式のプレイリスト「This Is 内藤やす子」",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-783",
+    "name": "9nine",
+    "ruby": "ないん",
+    "kana": "ナイン",
+    "romaji": [
+      "9nine"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Bc62o",
+    "spotify_artist_id": "2MiheFm6jbDXNZXQOso9It",
+    "official_site": null,
+    "description": "9nineの代表曲をまとめた公式のプレイリスト「This Is 9nine」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-784",
+    "name": "ナオト・インティライミ",
+    "ruby": "なおといんてぃらいみ",
+    "kana": "ナオトインティライミ",
+    "romaji": [
+      "naotointiraimi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dpvEI",
+    "spotify_artist_id": "77SZmOd2zA3L3n9x697iWb",
+    "official_site": null,
+    "description": "ナオト・インティライミの代表曲をまとめた公式のプレイリスト「This Is ナオト・インティライミ」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-785",
+    "name": "永井真理子",
+    "ruby": "ながいまりこ",
+    "kana": "ナガイマリコ",
+    "romaji": [
+      "nagaimariko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03DfMM",
+    "spotify_artist_id": "0dtIz8DHaZo2ov7v4vRzQq",
+    "official_site": null,
+    "description": "永井真理子の代表曲をまとめた公式のプレイリスト「This Is 永井真理子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-786",
+    "name": "中川翔子",
+    "ruby": "なかがわしょうこ",
+    "kana": "ナカガワショウコ",
+    "romaji": [
+      "nakagawashouko",
+      "nakagawasyouko"
+    ],
+    "aliases": [
+      "しょこたん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXZMA7",
+    "spotify_artist_id": "046RRGSoYRQ7qIKliJJSNS",
+    "official_site": null,
+    "description": "中川翔子の代表曲をまとめた公式のプレイリスト「This Is 中川翔子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-787",
+    "name": "中島健人",
+    "ruby": "なかじまけんと",
+    "kana": "ナカジマケント",
+    "romaji": [
+      "nakajimakento",
+      "nakazimakento"
+    ],
+    "aliases": [
+      "ケンティー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX0umHuMMLQiN",
+    "spotify_artist_id": "3KJigfhLjMfuE2HXsgXbln",
+    "official_site": null,
+    "description": "中島健人の代表曲をまとめた公式のプレイリスト「This Is 中島健人」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-788",
+    "name": "中島美嘉",
+    "ruby": "なかしまみか",
+    "kana": "ナカシマミカ",
+    "romaji": [
+      "nakashimamika",
+      "nakasimamika"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO26Yync",
+    "spotify_artist_id": "3D73KNJRMbV45N59E8IN0F",
+    "official_site": null,
+    "description": "中島美嘉の代表曲をまとめた公式のプレイリスト「This Is 中島美嘉」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-789",
+    "name": "中島みゆき",
+    "ruby": "なかじまみゆき",
+    "kana": "ナカジマミユキ",
+    "romaji": [
+      "nakajimamiyuki",
+      "nakazimamiyuki"
+    ],
+    "aliases": [
+      "中島美雪"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02QA81",
+    "spotify_artist_id": "0caDIM0rTovLDe5UdFvK1t",
+    "official_site": null,
+    "description": "中島みゆきの代表曲をまとめた公式のプレイリスト「This Is 中島みゆき」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-790",
+    "name": "中条きよし",
+    "ruby": "なかじょうきよし",
+    "kana": "ナカジョウキヨシ",
+    "romaji": [
+      "nakajoukiyoshi",
+      "nakazyoukiyosi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xja1z",
+    "spotify_artist_id": "10NegrNEwwakENlGEqzuoL",
+    "official_site": null,
+    "description": "中条きよしの代表曲をまとめた公式のプレイリスト「This Is 中条きよし」",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
+  },
+  {
+    "id": "artist-791",
+    "name": "中谷美紀",
+    "ruby": "なかたにみき",
+    "kana": "ナカタニミキ",
+    "romaji": [
+      "nakatanimiki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO08Fmin",
+    "spotify_artist_id": "0lQqccMaSieqmC4KN96fgs",
+    "official_site": null,
+    "description": "中谷美紀の代表曲をまとめた公式のプレイリスト「This Is 中谷美紀」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-14",
+    "updated_date": "2026-11-14",
+    "color": ""
   },
   {
     "id": "artist-201",
