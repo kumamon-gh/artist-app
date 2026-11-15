@@ -1,5 +1,88 @@
 [
   {
+    "name": "ノースリーブス",
+    "ruby": "のーすりーぶす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GTVug",
+    "spotify_artist_id": "2VM81ux8Ip6Vq2RsDdeGXW",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "NOKKO",
+    "ruby": "のっこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EwrKe",
+    "spotify_artist_id": "4wRafUzFqp9hsc2B6WojEG",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Not yet",
+    "ruby": "のっといえっと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nEsAb",
+    "spotify_artist_id": "5JS0hBzoCk3WIFSzN0t13i",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "≠ME",
+    "ruby": "のっといこーるみー",
+    "aliases": [
+      "ノイミー"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1RTSMh",
+    "spotify_artist_id": "3e3ubSlRDBFxokscDrbvpF",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "nobodyknows+",
+    "ruby": "のーばでぃーのうず",
+    "aliases": [
+      "ノーボディーノウズ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lPHcQ",
+    "spotify_artist_id": "7lSZHedda1CjyJwI6Z9Zlj",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Novelbright",
+    "ruby": "のーべるぶらいと",
+    "aliases": [
+      "ノベブラ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07wpG0",
+    "spotify_artist_id": "0jWCX6zp4RjWrmZRxJ2uri",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "のん",
+    "ruby": "のん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VmTHs",
+    "spotify_artist_id": "4YRx01IyUq6BreGGtNHQQk",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
