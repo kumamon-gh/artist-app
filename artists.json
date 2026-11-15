@@ -1,88 +1,5 @@
 [
   {
-    "name": "ノースリーブス",
-    "ruby": "のーすりーぶす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GTVug",
-    "spotify_artist_id": "2VM81ux8Ip6Vq2RsDdeGXW",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "NOKKO",
-    "ruby": "のっこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EwrKe",
-    "spotify_artist_id": "4wRafUzFqp9hsc2B6WojEG",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Not yet",
-    "ruby": "のっといえっと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nEsAb",
-    "spotify_artist_id": "5JS0hBzoCk3WIFSzN0t13i",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "≠ME",
-    "ruby": "のっといこーるみー",
-    "aliases": [
-      "ノイミー"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1RTSMh",
-    "spotify_artist_id": "3e3ubSlRDBFxokscDrbvpF",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "nobodyknows+",
-    "ruby": "のーばでぃーのうず",
-    "aliases": [
-      "ノーボディーノウズ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lPHcQ",
-    "spotify_artist_id": "7lSZHedda1CjyJwI6Z9Zlj",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Novelbright",
-    "ruby": "のーべるぶらいと",
-    "aliases": [
-      "ノベブラ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07wpG0",
-    "spotify_artist_id": "0jWCX6zp4RjWrmZRxJ2uri",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "のん",
-    "ruby": "のん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VmTHs",
-    "spotify_artist_id": "4YRx01IyUq6BreGGtNHQQk",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -18817,6 +18734,166 @@
     "added_date": "2026-11-15",
     "updated_date": "2026-11-15",
     "color": "#fea42a"
+  },
+  {
+    "id": "artist-842",
+    "name": "ノースリーブス",
+    "ruby": "のーすりーぶす",
+    "kana": "ノースリーブス",
+    "romaji": [
+      "noosuriibusu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GTVug",
+    "spotify_artist_id": "2VM81ux8Ip6Vq2RsDdeGXW",
+    "official_site": null,
+    "description": "ノースリーブスの代表曲をまとめた公式のプレイリスト「This Is ノースリーブス」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-843",
+    "name": "NOKKO",
+    "ruby": "のっこ",
+    "kana": "ノッコ",
+    "romaji": [
+      "nokko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EwrKe",
+    "spotify_artist_id": "4wRafUzFqp9hsc2B6WojEG",
+    "official_site": null,
+    "description": "NOKKOの代表曲をまとめた公式のプレイリスト「This Is NOKKO」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-844",
+    "name": "Not yet",
+    "ruby": "のっといえっと",
+    "kana": "ノットイエット",
+    "romaji": [
+      "notyet"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nEsAb",
+    "spotify_artist_id": "5JS0hBzoCk3WIFSzN0t13i",
+    "official_site": null,
+    "description": "Not yetの代表曲をまとめた公式のプレイリスト「This Is Not yet」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-845",
+    "name": "≠ME",
+    "ruby": "のっといこーるみー",
+    "kana": "ノットイコールミー",
+    "romaji": [
+      "me"
+    ],
+    "aliases": [
+      "ノイミー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1RTSMh",
+    "spotify_artist_id": "3e3ubSlRDBFxokscDrbvpF",
+    "official_site": null,
+    "description": "≠MEの代表曲をまとめた公式のプレイリスト「This Is ≠ME」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-846",
+    "name": "nobodyknows+",
+    "ruby": "のーばでぃーのうず",
+    "kana": "ノーバディーノウズ",
+    "romaji": [
+      "nobodyknows"
+    ],
+    "aliases": [
+      "ノーボディーノウズ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lPHcQ",
+    "spotify_artist_id": "7lSZHedda1CjyJwI6Z9Zlj",
+    "official_site": null,
+    "description": "nobodyknows+の代表曲をまとめた公式のプレイリスト「This Is nobodyknows+」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-847",
+    "name": "Novelbright",
+    "ruby": "のーべるぶらいと",
+    "kana": "ノーベルブライト",
+    "romaji": [
+      "novelbright"
+    ],
+    "aliases": [
+      "ノベブラ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07wpG0",
+    "spotify_artist_id": "0jWCX6zp4RjWrmZRxJ2uri",
+    "official_site": null,
+    "description": "Novelbrightの代表曲をまとめた公式のプレイリスト「This Is Novelbright」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
+  },
+  {
+    "id": "artist-848",
+    "name": "のん",
+    "ruby": "のん",
+    "kana": "ノン",
+    "romaji": [
+      "non"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VmTHs",
+    "spotify_artist_id": "4YRx01IyUq6BreGGtNHQQk",
+    "official_site": null,
+    "description": "のんの代表曲をまとめた公式のプレイリスト「This Is のん」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-15",
+    "updated_date": "2026-11-15",
+    "color": ""
   },
   {
     "id": "artist-202",
