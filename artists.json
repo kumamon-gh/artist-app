@@ -1,5 +1,119 @@
 [
   {
+    "name": "稲葉浩志",
+    "ruby": "いなばこうじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0jTC81",
+    "spotify_artist_id": "0EvnQ89Ry2DPyn2xYAH9Ls",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "浜田省吾",
+    "ruby": "はまだしょうご",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oWfOT",
+    "spotify_artist_id": "46Y4IAsvxi9vMQjqL2wdfy",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "浜田麻里",
+    "ruby": "はまだまり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lhvUz",
+    "spotify_artist_id": "2lQwmHGmTnEu1jjfAgUAcq",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "林原めぐみ",
+    "ruby": "はやしばらめぐみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XZJQO",
+    "spotify_artist_id": "53e5Lp1qdqsYgfGL9YuW5p",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "林部智史",
+    "ruby": "はやしべさとし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hxScU",
+    "spotify_artist_id": "0ABdfNLUE5brftsnVu7w5U",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "早見優",
+    "ruby": "はやみゆう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0V3KSM",
+    "spotify_artist_id": "1EgJAueSbwh56nECF6YQHX",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "原田真二",
+    "ruby": "はらだしんじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ozb3w",
+    "spotify_artist_id": "5Lo7ke2VQqfAyNhWGBg2t1",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "原田知世",
+    "ruby": "はらだともよ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3P0QJa",
+    "spotify_artist_id": "6tl1VDtemwax4iIKxqekK1",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "原由子",
+    "ruby": "はらゆうこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0B6xTc",
+    "spotify_artist_id": "176umXeBGLzt8j80Bh53l0",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BALLISTIK BOYZ",
+    "ruby": "ばりすてぃっくぼーいず",
+    "aliases": [
+      "BBZ",
+      "バリボ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ff6wg",
+    "spotify_artist_id": "1dZ8IZ8BXP30yhG50TH06o",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
