@@ -9210,7 +9210,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f37e00"
   },
   {
     "id": "artist-432",
@@ -19353,7 +19353,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-870",
@@ -19376,7 +19376,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f37e01"
   },
   {
     "id": "artist-871",
@@ -19398,7 +19398,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-872",
@@ -19421,7 +19421,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-873",
@@ -19445,7 +19445,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-874",
@@ -19468,7 +19468,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-875",
@@ -19490,7 +19490,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-876",
@@ -19512,7 +19512,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f47e01"
   },
   {
     "id": "artist-877",
@@ -19536,7 +19536,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-878",
@@ -19558,7 +19558,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-879",
@@ -19580,7 +19580,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f47e01"
   },
   {
     "id": "artist-880",
@@ -19596,6 +19596,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0voDWN"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0voDWN": "#16d1a6"
+    },
     "spotify_artist_id": "5pL8awp89gekz07SMoWpqb",
     "official_site": null,
     "description": "馬場俊英の代表曲をまとめた公式のプレイリスト「This Is 馬場俊英」",
@@ -19606,7 +19609,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-881",
@@ -19628,7 +19631,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-882",
@@ -19650,7 +19653,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-883",
@@ -19672,7 +19675,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-884",
@@ -19694,7 +19697,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-885",
@@ -19716,7 +19719,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-886",
@@ -19742,7 +19745,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-597",
