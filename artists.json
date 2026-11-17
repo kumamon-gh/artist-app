@@ -1,18 +1,5 @@
 [
   {
-    "name": "Ken Yokoyama",
-    "ruby": "けんよこやま",
-    "aliases": [
-"横山健"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2AihEQ",
-    "spotify_artist_id": "4pPZ7nNH108ax8A1sjxfpX",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -9199,6 +9186,30 @@
     "added_date": "2026-11-04",
     "updated_date": "2026-11-04",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-868",
+    "name": "Ken Yokoyama",
+    "ruby": "けんよこやま",
+    "kana": "ケンヨコヤマ",
+    "romaji": [
+      "kenyokoyama"
+    ],
+    "aliases": [
+      "横山健"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2AihEQ",
+    "spotify_artist_id": "4pPZ7nNH108ax8A1sjxfpX",
+    "official_site": null,
+    "description": "Ken Yokoyamaの代表曲をまとめた公式のプレイリスト「This Is Ken Yokoyama」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
   },
   {
     "id": "artist-432",
