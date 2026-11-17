@@ -1,121 +1,5 @@
 [
   {
-    "name": "倍賞千恵子",
-    "ruby": "ばいしょうちえこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZZa4ue",
-    "spotify_artist_id": "062PpvpxL0geLWBOeiOqFx",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "Hi-STANDARD",
-    "ruby": "はいすたんだーど",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32VK5q",
-    "spotify_artist_id": "5bqCpmhZzNzRzzKSbbDkeH",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Yokoyama Ken",
-    "ruby": "よこやまけん",
-    "aliases": [
-"横山健"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2AihEQ",
-    "spotify_artist_id": "4pPZ7nNH108ax8A1sjxfpX",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "灰田勝彦",
-    "ruby": "はいだかつひこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MMx14",
-    "spotify_artist_id": "4KAGnPTAeC4Xg7N0J0CkWD",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "はいだしょうこ",
-    "ruby": "はいだしょうこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2gvaAG",
-    "spotify_artist_id": "3SW7viaMu12cE2V3DQPBIx",
-    "tags": [
-      "女性ソロ",
-      "邦楽"
-    ]
-  },
-{
-    "name": "HYDE",
-    "ruby": "はいど",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wO5uV",
-    "spotify_artist_id": "0ZXSQd2JNOfwJcLNbX0jpN",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "ハイ・ファイ・セット",
-    "ruby": "はいふぁいせっと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vx8vN",
-    "spotify_artist_id": "5WXIodDr8Cl8sQv5a9E0nm",
-    "tags": [
-      "男女混成グループ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "Vaundy",
-    "ruby": "ばうんでぃ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z9O5W",
-    "spotify_artist_id": "2IUl3m1H1EQ7QfNbNWvgru",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "葉加瀬太郎",
-    "ruby": "はかせたろう",
-    "aliases": [
-      "葉加瀬たろう",
-      "葉加世太郎"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QsdAT",
-    "spotify_artist_id": "6vJFQLD25Df5uZW77gVv0k",
-    "tags": [
-      "その他",
-      "邦楽"
-    ]
-  },
-  {
-    "name": "BUCK-TICK",
-    "ruby": "ばくちく",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vMjjT",
-    "spotify_artist_id": "2DiecQcRbDuSJuSPKtirrX",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -19012,6 +18896,212 @@
     "color": "#f47e00"
   },
   {
+    "id": "artist-849",
+    "name": "倍賞千恵子",
+    "ruby": "ばいしょうちえこ",
+    "kana": "バイショウチエコ",
+    "romaji": [
+      "baishouchieko",
+      "baisyoutieko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZZa4ue",
+    "spotify_artist_id": "062PpvpxL0geLWBOeiOqFx",
+    "official_site": null,
+    "description": "倍賞千恵子の代表曲をまとめた公式のプレイリスト「This Is 倍賞千恵子」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-850",
+    "name": "Hi-STANDARD",
+    "ruby": "はいすたんだーど",
+    "kana": "ハイスタンダード",
+    "romaji": [
+      "histandard"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32VK5q",
+    "spotify_artist_id": "5bqCpmhZzNzRzzKSbbDkeH",
+    "official_site": null,
+    "description": "Hi-STANDARDの代表曲をまとめた公式のプレイリスト「This Is Hi-STANDARD」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-852",
+    "name": "灰田勝彦",
+    "ruby": "はいだかつひこ",
+    "kana": "ハイダカツヒコ",
+    "romaji": [
+      "haidakatsuhiko",
+      "haidakatuhiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MMx14",
+    "spotify_artist_id": "4KAGnPTAeC4Xg7N0J0CkWD",
+    "official_site": null,
+    "description": "灰田勝彦の代表曲をまとめた公式のプレイリスト「This Is 灰田勝彦」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-853",
+    "name": "はいだしょうこ",
+    "ruby": "はいだしょうこ",
+    "kana": "ハイダショウコ",
+    "romaji": [
+      "haidashouko",
+      "haidasyouko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2gvaAG",
+    "spotify_artist_id": "3SW7viaMu12cE2V3DQPBIx",
+    "official_site": null,
+    "description": "はいだしょうこの代表曲をまとめた公式のプレイリスト「This Is はいだしょうこ」",
+    "tags": [
+      "女性ソロ",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-854",
+    "name": "HYDE",
+    "ruby": "はいど",
+    "kana": "ハイド",
+    "romaji": [
+      "hyde"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wO5uV",
+    "spotify_artist_id": "0ZXSQd2JNOfwJcLNbX0jpN",
+    "official_site": null,
+    "description": "HYDEの代表曲をまとめた公式のプレイリスト「This Is HYDE」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-855",
+    "name": "ハイ・ファイ・セット",
+    "ruby": "はいふぁいせっと",
+    "kana": "ハイファイセット",
+    "romaji": [
+      "haifaisetto",
+      "haihaisetto"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vx8vN",
+    "spotify_artist_id": "5WXIodDr8Cl8sQv5a9E0nm",
+    "official_site": null,
+    "description": "ハイ・ファイ・セットの代表曲をまとめた公式のプレイリスト「This Is ハイ・ファイ・セット」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-856",
+    "name": "Vaundy",
+    "ruby": "ばうんでぃ",
+    "kana": "バウンディ",
+    "romaji": [
+      "vaundy"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z9O5W",
+    "spotify_artist_id": "2IUl3m1H1EQ7QfNbNWvgru",
+    "official_site": null,
+    "description": "Vaundyの代表曲をまとめた公式のプレイリスト「This Is Vaundy」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-857",
+    "name": "葉加瀬太郎",
+    "ruby": "はかせたろう",
+    "kana": "ハカセタロウ",
+    "romaji": [
+      "hakasetarou"
+    ],
+    "aliases": [
+      "葉加瀬たろう",
+      "葉加世太郎"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QsdAT",
+    "spotify_artist_id": "6vJFQLD25Df5uZW77gVv0k",
+    "official_site": null,
+    "description": "葉加瀬太郎の代表曲をまとめた公式のプレイリスト「This Is 葉加瀬太郎」",
+    "tags": [
+      "その他",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-858",
+    "name": "BUCK-TICK",
+    "ruby": "ばくちく",
+    "kana": "バクチク",
+    "romaji": [
+      "bucktick"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vMjjT",
+    "spotify_artist_id": "2DiecQcRbDuSJuSPKtirrX",
+    "official_site": null,
+    "description": "BUCK-TICKの代表曲をまとめた公式のプレイリスト「This Is BUCK-TICK」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
     "id": "artist-202",
     "name": "はテスト",
     "ruby": "はテスト",
@@ -19179,6 +19269,30 @@
     "status": "published",
     "added_date": "2026-10-18",
     "updated_date": "2026-10-18",
+    "color": ""
+  },
+  {
+    "id": "artist-851",
+    "name": "Yokoyama Ken",
+    "ruby": "よこやまけん",
+    "kana": "ヨコヤマケン",
+    "romaji": [
+      "yokoyamaken"
+    ],
+    "aliases": [
+      "横山健"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2AihEQ",
+    "spotify_artist_id": "4pPZ7nNH108ax8A1sjxfpX",
+    "official_site": null,
+    "description": "Yokoyama Kenの代表曲をまとめた公式のプレイリスト「This Is Yokoyama Ken」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
     "color": ""
   },
   {
