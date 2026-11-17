@@ -1,5 +1,122 @@
 [
   {
+    "name": "春茶",
+    "ruby": "はるちゃ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZIEG6",
+    "spotify_artist_id": "565RlgvCEeBHqybr221qBs",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "春畑道哉",
+    "ruby": "はるはたみちや",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3TEZxs",
+    "spotify_artist_id": "6B3JbWQ1eamId6N5y09gzg",
+    "tags": [
+      "その他",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Bank Band",
+    "ruby": "ばんくばんど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38cqbL",
+    "spotify_artist_id": "5kbHObZlWoViBhC3p4EvZo",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "半崎美子",
+    "ruby": "はんざきよしこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ynqOk",
+    "spotify_artist_id": "12zDcy83uhhdVBdnxO9Ymr",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+
+{
+    "name": "バンドじゃないもん！MAXX NAKAYOSHI",
+    "ruby": "ばんどじゃないもんまっくすなかよし",
+    "aliases": [
+      "バンもん"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RjwQp",
+    "spotify_artist_id": "1y2BdZ7ihwRkZQCohhNfQq",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BAND-MAID",
+    "ruby": "ばんどめいど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7wbM",
+    "spotify_artist_id": "5Wh3G01Xfxn2zzEZNpuYHH",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "HUNTR/X",
+    "ruby": "はんとりっくす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1t4O2N",
+    "spotify_artist_id": "2yNNYQBChuox9A5Ka93BIn",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+  {
+    "name": "BUMP OF CHICKEN",
+    "ruby": "ばんぷおぶちきん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06hEZq",
+    "spotify_artist_id": "0hSFeqPehe7FtCNWuQ6Bsy",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ハンブレッダーズ",
+    "ruby": "はんぶれっだーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KQ6UU",
+    "spotify_artist_id": "32k7rSC70F3C7qif9Pgavi",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "柊キライ",
+    "ruby": "ひいらぎきらい",
+    "aliases": [
+      "柊きらい",
+      "ひいらぎキライ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3G0T3I",
+    "spotify_artist_id": "6enAUr8uYLFYHKDcnRUst2",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
