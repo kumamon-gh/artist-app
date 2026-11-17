@@ -1,5 +1,110 @@
 [
   {
+    "name": "八反安未果",
+    "ruby": "はったんあみか",
+    "aliases": [
+      "八反あみか"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2R4Zpi",
+    "spotify_artist_id": "4RJLzPgw372R4JxAuloufo",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ばってん少女隊",
+    "ruby": "ばってんしょうじょたい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ELUGJ",
+    "spotify_artist_id": "4xhjJZS6jLaPkdRdDcr2rj",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "服部隆之",
+    "ruby": "はっとりたかゆき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4coktt",
+    "spotify_artist_id": "76bJYea3ZCMhhO8aF0iU5W",
+    "tags": [
+      "その他",
+      "邦楽"
+    ]
+  },
+{
+    "name": "初音ミク",
+    "ruby": "はつねみく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MSIs9",
+    "spotify_artist_id": "6pNgnvzBa6Bthsv8SrZJYl",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ]
+  },
+{
+    "name": "はっぴいえんど",
+    "ruby": "はっぴいえんど",
+    "aliases": [
+      "ハッピーエンド"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33F79N",
+    "spotify_artist_id": "5cE4zmLUDdmvlYp8TP1YRn",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "初星学園",
+    "ruby": "はつぼしがくえん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2HHoY2",
+    "spotify_artist_id": "4C9binD0PqNg8nLD93FQpr",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "HANA",
+    "ruby": "はな",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX3ZlckltYrYx",
+    "spotify_artist_id": "7fmXV2O48buswss04YetaN",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "花澤香菜",
+    "ruby": "はなざわかな",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nryBG",
+    "spotify_artist_id": "44u07DJH5eTBDjhZ7LpMO0",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "花＊花",
+    "ruby": "はなはな",
+    "aliases": [
+"花*花"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4AoTCe",
+    "spotify_artist_id": "7K5CN6zysGLqtsYT1XSVqM",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -9196,7 +9301,8 @@
       "kenyokoyama"
     ],
     "aliases": [
-      "横山健"
+      "横山健",
+      "よこやまけん"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2AihEQ",
     "spotify_artist_id": "4pPZ7nNH108ax8A1sjxfpX",
