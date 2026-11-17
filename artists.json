@@ -1,110 +1,5 @@
 [
   {
-    "name": "八反安未果",
-    "ruby": "はったんあみか",
-    "aliases": [
-      "八反あみか"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2R4Zpi",
-    "spotify_artist_id": "4RJLzPgw372R4JxAuloufo",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ばってん少女隊",
-    "ruby": "ばってんしょうじょたい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ELUGJ",
-    "spotify_artist_id": "4xhjJZS6jLaPkdRdDcr2rj",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "服部隆之",
-    "ruby": "はっとりたかゆき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4coktt",
-    "spotify_artist_id": "76bJYea3ZCMhhO8aF0iU5W",
-    "tags": [
-      "その他",
-      "邦楽"
-    ]
-  },
-{
-    "name": "初音ミク",
-    "ruby": "はつねみく",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MSIs9",
-    "spotify_artist_id": "6pNgnvzBa6Bthsv8SrZJYl",
-    "tags": [
-      "ボカロP",
-      "J-POP"
-    ]
-  },
-{
-    "name": "はっぴいえんど",
-    "ruby": "はっぴいえんど",
-    "aliases": [
-      "ハッピーエンド"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33F79N",
-    "spotify_artist_id": "5cE4zmLUDdmvlYp8TP1YRn",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "初星学園",
-    "ruby": "はつぼしがくえん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2HHoY2",
-    "spotify_artist_id": "4C9binD0PqNg8nLD93FQpr",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "HANA",
-    "ruby": "はな",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX3ZlckltYrYx",
-    "spotify_artist_id": "7fmXV2O48buswss04YetaN",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "花澤香菜",
-    "ruby": "はなざわかな",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nryBG",
-    "spotify_artist_id": "44u07DJH5eTBDjhZ7LpMO0",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "花＊花",
-    "ruby": "はなはな",
-    "aliases": [
-"花*花"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4AoTCe",
-    "spotify_artist_id": "7K5CN6zysGLqtsYT1XSVqM",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -19437,6 +19332,145 @@
     "color": "#e4ac89"
   },
   {
+    "id": "artist-869",
+    "name": "八反安未果",
+    "ruby": "はったんあみか",
+    "kana": "ハッタンアミカ",
+    "romaji": [
+      "hattanamika"
+    ],
+    "aliases": [
+      "八反あみか"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2R4Zpi",
+    "spotify_artist_id": "4RJLzPgw372R4JxAuloufo",
+    "official_site": null,
+    "description": "八反安未果の代表曲をまとめた公式のプレイリスト「This Is 八反安未果」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-870",
+    "name": "ばってん少女隊",
+    "ruby": "ばってんしょうじょたい",
+    "kana": "バッテンショウジョタイ",
+    "romaji": [
+      "battenshoujotai",
+      "battensyouzyotai"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ELUGJ",
+    "spotify_artist_id": "4xhjJZS6jLaPkdRdDcr2rj",
+    "official_site": null,
+    "description": "ばってん少女隊の代表曲をまとめた公式のプレイリスト「This Is ばってん少女隊」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-871",
+    "name": "服部隆之",
+    "ruby": "はっとりたかゆき",
+    "kana": "ハットリタカユキ",
+    "romaji": [
+      "hattoritakayuki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4coktt",
+    "spotify_artist_id": "76bJYea3ZCMhhO8aF0iU5W",
+    "official_site": null,
+    "description": "服部隆之の代表曲をまとめた公式のプレイリスト「This Is 服部隆之」",
+    "tags": [
+      "その他",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-872",
+    "name": "初音ミク",
+    "ruby": "はつねみく",
+    "kana": "ハツネミク",
+    "romaji": [
+      "hatsunemiku",
+      "hatunemiku"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MSIs9",
+    "spotify_artist_id": "6pNgnvzBa6Bthsv8SrZJYl",
+    "official_site": null,
+    "description": "初音ミクの代表曲をまとめた公式のプレイリスト「This Is 初音ミク」",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-873",
+    "name": "はっぴいえんど",
+    "ruby": "はっぴいえんど",
+    "kana": "ハッピイエンド",
+    "romaji": [
+      "happiiendo"
+    ],
+    "aliases": [
+      "ハッピーエンド"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33F79N",
+    "spotify_artist_id": "5cE4zmLUDdmvlYp8TP1YRn",
+    "official_site": null,
+    "description": "はっぴいえんどの代表曲をまとめた公式のプレイリスト「This Is はっぴいえんど」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-874",
+    "name": "初星学園",
+    "ruby": "はつぼしがくえん",
+    "kana": "ハツボシガクエン",
+    "romaji": [
+      "hatsuboshigakuen",
+      "hatubosigakuen"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2HHoY2",
+    "spotify_artist_id": "4C9binD0PqNg8nLD93FQpr",
+    "official_site": null,
+    "description": "初星学園の代表曲をまとめた公式のプレイリスト「This Is 初星学園」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
     "id": "artist-202",
     "name": "はテスト",
     "ruby": "はテスト",
@@ -19449,6 +19483,74 @@
     "status": "published",
     "added_date": "2026-10-19",
     "updated_date": "2026-10-19",
+    "color": ""
+  },
+  {
+    "id": "artist-875",
+    "name": "HANA",
+    "ruby": "はな",
+    "kana": "ハナ",
+    "romaji": [
+      "hana"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX3ZlckltYrYx",
+    "spotify_artist_id": "7fmXV2O48buswss04YetaN",
+    "official_site": null,
+    "description": "HANAの代表曲をまとめた公式のプレイリスト「This Is HANA」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-876",
+    "name": "花澤香菜",
+    "ruby": "はなざわかな",
+    "kana": "ハナザワカナ",
+    "romaji": [
+      "hanazawakana"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nryBG",
+    "spotify_artist_id": "44u07DJH5eTBDjhZ7LpMO0",
+    "official_site": null,
+    "description": "花澤香菜の代表曲をまとめた公式のプレイリスト「This Is 花澤香菜」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-877",
+    "name": "花＊花",
+    "ruby": "はなはな",
+    "kana": "ハナハナ",
+    "romaji": [
+      "hanahana"
+    ],
+    "aliases": [
+      "花*花"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4AoTCe",
+    "spotify_artist_id": "7K5CN6zysGLqtsYT1XSVqM",
+    "official_site": null,
+    "description": "花＊花の代表曲をまとめた公式のプレイリスト「This Is 花＊花」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
     "color": ""
   },
   {
