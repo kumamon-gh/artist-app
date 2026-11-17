@@ -1,5 +1,121 @@
 [
   {
+    "name": "倍賞千恵子",
+    "ruby": "ばいしょうちえこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZZa4ue",
+    "spotify_artist_id": "062PpvpxL0geLWBOeiOqFx",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "Hi-STANDARD",
+    "ruby": "はいすたんだーど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32VK5q",
+    "spotify_artist_id": "5bqCpmhZzNzRzzKSbbDkeH",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Yokoyama Ken",
+    "ruby": "よこやまけん",
+    "aliases": [
+"横山健"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2AihEQ",
+    "spotify_artist_id": "4pPZ7nNH108ax8A1sjxfpX",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "灰田勝彦",
+    "ruby": "はいだかつひこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MMx14",
+    "spotify_artist_id": "4KAGnPTAeC4Xg7N0J0CkWD",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "はいだしょうこ",
+    "ruby": "はいだしょうこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2gvaAG",
+    "spotify_artist_id": "3SW7viaMu12cE2V3DQPBIx",
+    "tags": [
+      "女性ソロ",
+      "邦楽"
+    ]
+  },
+{
+    "name": "HYDE",
+    "ruby": "はいど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wO5uV",
+    "spotify_artist_id": "0ZXSQd2JNOfwJcLNbX0jpN",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "ハイ・ファイ・セット",
+    "ruby": "はいふぁいせっと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vx8vN",
+    "spotify_artist_id": "5WXIodDr8Cl8sQv5a9E0nm",
+    "tags": [
+      "男女混成グループ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "Vaundy",
+    "ruby": "ばうんでぃ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z9O5W",
+    "spotify_artist_id": "2IUl3m1H1EQ7QfNbNWvgru",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "葉加瀬太郎",
+    "ruby": "はかせたろう",
+    "aliases": [
+      "葉加瀬たろう",
+      "葉加世太郎"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3QsdAT",
+    "spotify_artist_id": "6vJFQLD25Df5uZW77gVv0k",
+    "tags": [
+      "その他",
+      "邦楽"
+    ]
+  },
+  {
+    "name": "BUCK-TICK",
+    "ruby": "ばくちく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vMjjT",
+    "spotify_artist_id": "2DiecQcRbDuSJuSPKtirrX",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
