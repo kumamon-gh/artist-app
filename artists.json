@@ -1,5 +1,111 @@
 [
   {
+    "name": "はなわ",
+    "ruby": "はなわ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02KO6p",
+    "spotify_artist_id": "0c0YTTuMg4f2ujid2FY0A6",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "HoneyWorks",
+    "ruby": "はにーわーくす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kZdvO",
+    "spotify_artist_id": "40oxjbVm3kdeyJEiGsKrmd",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ]
+  },
+{
+    "name": "馬場俊英",
+    "ruby": "ばばとしひで",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3byngm",
+   "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0voDWN"
+    ], 
+  "spotify_artist_id": "5pL8awp89gekz07SMoWpqb",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Happiness",
+    "ruby": "はぴねす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2e22Pg",
+    "spotify_artist_id": "3OQcKLF8yVlfDAG0uz0xLy",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BARBEE BOYS",
+    "ruby": "ばーびーぼーいず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urc87",
+    "spotify_artist_id": "0W1m3MMY33283949YlU2bD",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "PUFFY",
+    "ruby": "ぱふぃー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rT9a8",
+    "spotify_artist_id": "2wPaW7JIZGyM16donpyBmW",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Perfume",
+    "ruby": "ぱふゅーむ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1I6Ja6",
+    "spotify_artist_id": "2XMxWKPKCxoLkSdpCViCnr",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "バブルガム・ブラザーズ",
+    "ruby": "ばぶるがむぶらざーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kEMKI",
+    "spotify_artist_id": "0FLOzca1Pwv8ULvdtkcrZD",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "浜崎あゆみ",
+    "ruby": "はまさきあゆみ",
+    "aliases": [
+"ayu",
+      "あゆ",
+"濱崎あゆみ"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2cCSF5",
+    "spotify_artist_id": "3Mvc8kRgr8LRYYgvFmlZqn",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
