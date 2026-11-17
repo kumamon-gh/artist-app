@@ -1,111 +1,5 @@
 [
   {
-    "name": "はなわ",
-    "ruby": "はなわ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02KO6p",
-    "spotify_artist_id": "0c0YTTuMg4f2ujid2FY0A6",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "HoneyWorks",
-    "ruby": "はにーわーくす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kZdvO",
-    "spotify_artist_id": "40oxjbVm3kdeyJEiGsKrmd",
-    "tags": [
-      "ボカロP",
-      "J-POP"
-    ]
-  },
-{
-    "name": "馬場俊英",
-    "ruby": "ばばとしひで",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3byngm",
-   "extra_urls": [
-      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0voDWN"
-    ], 
-  "spotify_artist_id": "5pL8awp89gekz07SMoWpqb",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Happiness",
-    "ruby": "はぴねす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2e22Pg",
-    "spotify_artist_id": "3OQcKLF8yVlfDAG0uz0xLy",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "BARBEE BOYS",
-    "ruby": "ばーびーぼーいず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urc87",
-    "spotify_artist_id": "0W1m3MMY33283949YlU2bD",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "PUFFY",
-    "ruby": "ぱふぃー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rT9a8",
-    "spotify_artist_id": "2wPaW7JIZGyM16donpyBmW",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Perfume",
-    "ruby": "ぱふゅーむ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1I6Ja6",
-    "spotify_artist_id": "2XMxWKPKCxoLkSdpCViCnr",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "バブルガム・ブラザーズ",
-    "ruby": "ばぶるがむぶらざーず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kEMKI",
-    "spotify_artist_id": "0FLOzca1Pwv8ULvdtkcrZD",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "浜崎あゆみ",
-    "ruby": "はまさきあゆみ",
-    "aliases": [
-"ayu",
-      "あゆ",
-"濱崎あゆみ"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2cCSF5",
-    "spotify_artist_id": "3Mvc8kRgr8LRYYgvFmlZqn",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -19637,6 +19531,212 @@
     "description": "花＊花の代表曲をまとめた公式のプレイリスト「This Is 花＊花」",
     "tags": [
       "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-878",
+    "name": "はなわ",
+    "ruby": "はなわ",
+    "kana": "ハナワ",
+    "romaji": [
+      "hanawa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02KO6p",
+    "spotify_artist_id": "0c0YTTuMg4f2ujid2FY0A6",
+    "official_site": null,
+    "description": "はなわの代表曲をまとめた公式のプレイリスト「This Is はなわ」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-879",
+    "name": "HoneyWorks",
+    "ruby": "はにーわーくす",
+    "kana": "ハニーワークス",
+    "romaji": [
+      "honeyworks"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kZdvO",
+    "spotify_artist_id": "40oxjbVm3kdeyJEiGsKrmd",
+    "official_site": null,
+    "description": "HoneyWorksの代表曲をまとめた公式のプレイリスト「This Is HoneyWorks」",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-880",
+    "name": "馬場俊英",
+    "ruby": "ばばとしひで",
+    "kana": "ババトシヒデ",
+    "romaji": [
+      "babatoshihide",
+      "babatosihide"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3byngm",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0voDWN"
+    ],
+    "spotify_artist_id": "5pL8awp89gekz07SMoWpqb",
+    "official_site": null,
+    "description": "馬場俊英の代表曲をまとめた公式のプレイリスト「This Is 馬場俊英」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-881",
+    "name": "Happiness",
+    "ruby": "はぴねす",
+    "kana": "ハピネス",
+    "romaji": [
+      "happiness"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2e22Pg",
+    "spotify_artist_id": "3OQcKLF8yVlfDAG0uz0xLy",
+    "official_site": null,
+    "description": "Happinessの代表曲をまとめた公式のプレイリスト「This Is Happiness」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-882",
+    "name": "BARBEE BOYS",
+    "ruby": "ばーびーぼーいず",
+    "kana": "バービーボーイズ",
+    "romaji": [
+      "barbeeboys"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urc87",
+    "spotify_artist_id": "0W1m3MMY33283949YlU2bD",
+    "official_site": null,
+    "description": "BARBEE BOYSの代表曲をまとめた公式のプレイリスト「This Is BARBEE BOYS」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-883",
+    "name": "PUFFY",
+    "ruby": "ぱふぃー",
+    "kana": "パフィー",
+    "romaji": [
+      "puffy"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rT9a8",
+    "spotify_artist_id": "2wPaW7JIZGyM16donpyBmW",
+    "official_site": null,
+    "description": "PUFFYの代表曲をまとめた公式のプレイリスト「This Is PUFFY」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-884",
+    "name": "Perfume",
+    "ruby": "ぱふゅーむ",
+    "kana": "パフューム",
+    "romaji": [
+      "perfume"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1I6Ja6",
+    "spotify_artist_id": "2XMxWKPKCxoLkSdpCViCnr",
+    "official_site": null,
+    "description": "Perfumeの代表曲をまとめた公式のプレイリスト「This Is Perfume」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-885",
+    "name": "バブルガム・ブラザーズ",
+    "ruby": "ばぶるがむぶらざーず",
+    "kana": "バブルガムブラザーズ",
+    "romaji": [
+      "baburugamuburazaazu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kEMKI",
+    "spotify_artist_id": "0FLOzca1Pwv8ULvdtkcrZD",
+    "official_site": null,
+    "description": "バブルガム・ブラザーズの代表曲をまとめた公式のプレイリスト「This Is バブルガム・ブラザーズ」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-18",
+    "updated_date": "2026-11-18",
+    "color": ""
+  },
+  {
+    "id": "artist-886",
+    "name": "浜崎あゆみ",
+    "ruby": "はまさきあゆみ",
+    "kana": "ハマサキアユミ",
+    "romaji": [
+      "hamasakiayumi"
+    ],
+    "aliases": [
+      "ayu",
+      "あゆ",
+      "濱崎あゆみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2cCSF5",
+    "spotify_artist_id": "3Mvc8kRgr8LRYYgvFmlZqn",
+    "official_site": null,
+    "description": "浜崎あゆみの代表曲をまとめた公式のプレイリスト「This Is 浜崎あゆみ」",
+    "tags": [
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
