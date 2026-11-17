@@ -1,5 +1,107 @@
 [
   {
+    "name": "爆風スランプ",
+    "ruby": "ばくふうすらんぷ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1OMxHQ",
+    "spotify_artist_id": "38S2jSY9Fr0AcZZWMrKuqC",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ハジ→",
+    "ruby": "はじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00pLQ4",
+    "spotify_artist_id": "087QaLOI8MKeT9yHgjPu7P",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "元ちとせ",
+    "ruby": "はじめちとせ",
+    "aliases": [
+      "もとちとせ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06wVwS",
+    "spotify_artist_id": "0ii3SuIwfRs4pRH2sQ1J0U",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "橋幸夫",
+    "ruby": "はしゆきお",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NmQNi",
+    "spotify_artist_id": "36wvjX9XvzL5ABnfiaNant",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "演歌"
+    ]
+  },
+{
+    "name": "PASSPO☆",
+    "ruby": "ぱすぽ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vlbrX",
+    "spotify_artist_id": "5WDBccAjrNXefFQgCNtDcf",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "PERSONZ",
+    "ruby": "ぱーそんず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3LiwrZ",
+    "spotify_artist_id": "6n9RT2nh15EFHJk1grNlBO",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "畑中葉子",
+    "ruby": "はたなかようこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UsQmY",
+    "spotify_artist_id": "1Dhw0Yx6XuEeR1Wrc9ejXF",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "秦基博",
+    "ruby": "はたもとひろ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO48JplN",
+    "spotify_artist_id": "706WzkJEacBrtkHKRpBU2q",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "back number",
+    "ruby": "ばっくなんばー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NSzPI",
+    "spotify_artist_id": "6rs1KAoQnFalSqSU4LTh8g",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -19269,30 +19371,6 @@
     "status": "published",
     "added_date": "2026-10-18",
     "updated_date": "2026-10-18",
-    "color": ""
-  },
-  {
-    "id": "artist-851",
-    "name": "Yokoyama Ken",
-    "ruby": "よこやまけん",
-    "kana": "ヨコヤマケン",
-    "romaji": [
-      "yokoyamaken"
-    ],
-    "aliases": [
-      "横山健"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2AihEQ",
-    "spotify_artist_id": "4pPZ7nNH108ax8A1sjxfpX",
-    "official_site": null,
-    "description": "Yokoyama Kenの代表曲をまとめた公式のプレイリスト「This Is Yokoyama Ken」",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ],
-    "status": "published",
-    "added_date": "2026-11-18",
-    "updated_date": "2026-11-18",
     "color": ""
   },
   {
