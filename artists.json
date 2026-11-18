@@ -20231,7 +20231,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-908",
@@ -20256,7 +20256,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-909",
@@ -20280,7 +20280,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-910",
@@ -20302,7 +20302,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-911",
@@ -20327,7 +20327,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-912",
@@ -20350,7 +20350,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-913",
@@ -20372,7 +20372,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-914",
@@ -20388,6 +20388,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1R5hMs"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1R5hMs": "#ffc863"
+    },
     "spotify_artist_id": "7nzSoJISlVJsn7O0yTeMOB",
     "official_site": null,
     "description": "久石譲の代表曲をまとめた公式のプレイリスト「This Is 久石譲」",
@@ -20398,7 +20401,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-915",
@@ -20421,7 +20424,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-916",
@@ -20443,7 +20446,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-917",
@@ -20465,7 +20468,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-918",
@@ -20487,7 +20490,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-919",
@@ -20512,7 +20515,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-920",
@@ -20537,7 +20540,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-921",
@@ -20559,7 +20562,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-922",
@@ -20582,7 +20585,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-923",
@@ -20604,7 +20607,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-924",
@@ -20626,7 +20629,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-925",
@@ -20652,7 +20655,7 @@
     "status": "published",
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
-    "color": ""
+    "color": "#dd3749"
   },
   {
     "id": "artist-597",
