@@ -1,5 +1,120 @@
 [
   {
+    "name": "PEOPLE 1",
+    "ruby": "ぴーぷるわん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kYXMT",
+    "spotify_artist_id": "2llRPLPOCvnAiUozItvPsU",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "氷室京介",
+    "ruby": "ひむろきょうすけ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wKMUw",
+    "spotify_artist_id": "0ZSqL5iXTuBWy7ur7vT2lP",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "ヒャダイン",
+    "ruby": "ひゃだいん",
+    "aliases": [
+      "前山田健一",
+      "まえやまだけんいち"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ej5Re",
+    "spotify_artist_id": "3PiHi4Zeg1UCZuXCxLOEm2",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "BEYOOOOONDS",
+    "ruby": "びよーんず",
+    "aliases": [
+"BEYOONDS"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yknX2",
+    "spotify_artist_id": "2Hxb1aGp1z04ynyk3TjMPm",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "平井堅",
+    "ruby": "ひらいけん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JdSb3",
+    "spotify_artist_id": "6jIhEiXcCAyBsuEI7qZ9vc",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "平井大",
+    "ruby": "ひらいだい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4A1Ei4",
+    "spotify_artist_id": "7JthQ6zwNzfxRfIEjp6wUs",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "平尾昌晃",
+    "ruby": "ひらおまさあき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0FH9vy",
+    "spotify_artist_id": "1eJOakGgexZ6bMgHjhPSG2",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "平川地一丁目",
+    "ruby": "ひらかわちいっちょうめ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiGlQ",
+    "spotify_artist_id": "3oHjO44hwg4BgwpqrwHE2r",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "平野綾",
+    "ruby": "ひらのあや",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Ui68F",
+    "spotify_artist_id": "3i2cfgYBlN8krGOtCqEYHj",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "平原綾香",
+    "ruby": "ひらはらあやか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hx4Jq",
+    "spotify_artist_id": "0AzJGufY9eXWy5wHZWQ71H",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
