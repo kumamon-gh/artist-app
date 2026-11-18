@@ -1,120 +1,5 @@
 [
   {
-    "name": "PEOPLE 1",
-    "ruby": "ぴーぷるわん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kYXMT",
-    "spotify_artist_id": "2llRPLPOCvnAiUozItvPsU",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "氷室京介",
-    "ruby": "ひむろきょうすけ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wKMUw",
-    "spotify_artist_id": "0ZSqL5iXTuBWy7ur7vT2lP",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "ヒャダイン",
-    "ruby": "ひゃだいん",
-    "aliases": [
-      "前山田健一",
-      "まえやまだけんいち"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ej5Re",
-    "spotify_artist_id": "3PiHi4Zeg1UCZuXCxLOEm2",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "BEYOOOOONDS",
-    "ruby": "びよーんず",
-    "aliases": [
-"BEYOONDS"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yknX2",
-    "spotify_artist_id": "2Hxb1aGp1z04ynyk3TjMPm",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "平井堅",
-    "ruby": "ひらいけん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JdSb3",
-    "spotify_artist_id": "6jIhEiXcCAyBsuEI7qZ9vc",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "平井大",
-    "ruby": "ひらいだい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4A1Ei4",
-    "spotify_artist_id": "7JthQ6zwNzfxRfIEjp6wUs",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "平尾昌晃",
-    "ruby": "ひらおまさあき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0FH9vy",
-    "spotify_artist_id": "1eJOakGgexZ6bMgHjhPSG2",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "平川地一丁目",
-    "ruby": "ひらかわちいっちょうめ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiGlQ",
-    "spotify_artist_id": "3oHjO44hwg4BgwpqrwHE2r",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "平野綾",
-    "ruby": "ひらのあや",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Ui68F",
-    "spotify_artist_id": "3i2cfgYBlN8krGOtCqEYHj",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "平原綾香",
-    "ruby": "ひらはらあやか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hx4Jq",
-    "spotify_artist_id": "0AzJGufY9eXWy5wHZWQ71H",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -20996,6 +20881,232 @@
     "description": "BE:FIRSTの代表曲をまとめた公式のプレイリスト「This Is BE:FIRST」",
     "tags": [
       "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-936",
+    "name": "PEOPLE 1",
+    "ruby": "ぴーぷるわん",
+    "kana": "ピープルワン",
+    "romaji": [
+      "people1"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kYXMT",
+    "spotify_artist_id": "2llRPLPOCvnAiUozItvPsU",
+    "official_site": null,
+    "description": "PEOPLE 1の代表曲をまとめた公式のプレイリスト「This Is PEOPLE 1」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-937",
+    "name": "氷室京介",
+    "ruby": "ひむろきょうすけ",
+    "kana": "ヒムロキョウスケ",
+    "romaji": [
+      "himurokyousuke"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wKMUw",
+    "spotify_artist_id": "0ZSqL5iXTuBWy7ur7vT2lP",
+    "official_site": null,
+    "description": "氷室京介の代表曲をまとめた公式のプレイリスト「This Is 氷室京介」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-938",
+    "name": "ヒャダイン",
+    "ruby": "ひゃだいん",
+    "kana": "ヒャダイン",
+    "romaji": [
+      "hyadain"
+    ],
+    "aliases": [
+      "前山田健一",
+      "まえやまだけんいち"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ej5Re",
+    "spotify_artist_id": "3PiHi4Zeg1UCZuXCxLOEm2",
+    "official_site": null,
+    "description": "ヒャダインの代表曲をまとめた公式のプレイリスト「This Is ヒャダイン」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-939",
+    "name": "BEYOOOOONDS",
+    "ruby": "びよーんず",
+    "kana": "ビヨーンズ",
+    "romaji": [
+      "beyooooonds"
+    ],
+    "aliases": [
+      "BEYOONDS"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yknX2",
+    "spotify_artist_id": "2Hxb1aGp1z04ynyk3TjMPm",
+    "official_site": null,
+    "description": "BEYOOOOONDSの代表曲をまとめた公式のプレイリスト「This Is BEYOOOOONDS」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-940",
+    "name": "平井堅",
+    "ruby": "ひらいけん",
+    "kana": "ヒライケン",
+    "romaji": [
+      "hiraiken"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JdSb3",
+    "spotify_artist_id": "6jIhEiXcCAyBsuEI7qZ9vc",
+    "official_site": null,
+    "description": "平井堅の代表曲をまとめた公式のプレイリスト「This Is 平井堅」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-941",
+    "name": "平井大",
+    "ruby": "ひらいだい",
+    "kana": "ヒライダイ",
+    "romaji": [
+      "hiraidai"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4A1Ei4",
+    "spotify_artist_id": "7JthQ6zwNzfxRfIEjp6wUs",
+    "official_site": null,
+    "description": "平井大の代表曲をまとめた公式のプレイリスト「This Is 平井大」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-942",
+    "name": "平尾昌晃",
+    "ruby": "ひらおまさあき",
+    "kana": "ヒラオマサアキ",
+    "romaji": [
+      "hiraomasaaki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0FH9vy",
+    "spotify_artist_id": "1eJOakGgexZ6bMgHjhPSG2",
+    "official_site": null,
+    "description": "平尾昌晃の代表曲をまとめた公式のプレイリスト「This Is 平尾昌晃」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-943",
+    "name": "平川地一丁目",
+    "ruby": "ひらかわちいっちょうめ",
+    "kana": "ヒラカワチイッチョウメ",
+    "romaji": [
+      "hirakawachiitchoume",
+      "hirakawatiittyoume"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiGlQ",
+    "spotify_artist_id": "3oHjO44hwg4BgwpqrwHE2r",
+    "official_site": null,
+    "description": "平川地一丁目の代表曲をまとめた公式のプレイリスト「This Is 平川地一丁目」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-944",
+    "name": "平野綾",
+    "ruby": "ひらのあや",
+    "kana": "ヒラノアヤ",
+    "romaji": [
+      "hiranoaya"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Ui68F",
+    "spotify_artist_id": "3i2cfgYBlN8krGOtCqEYHj",
+    "official_site": null,
+    "description": "平野綾の代表曲をまとめた公式のプレイリスト「This Is 平野綾」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-945",
+    "name": "平原綾香",
+    "ruby": "ひらはらあやか",
+    "kana": "ヒラハラアヤカ",
+    "romaji": [
+      "hiraharaayaka"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hx4Jq",
+    "spotify_artist_id": "0AzJGufY9eXWy5wHZWQ71H",
+    "official_site": null,
+    "description": "平原綾香の代表曲をまとめた公式のプレイリスト「This Is 平原綾香」",
+    "tags": [
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
