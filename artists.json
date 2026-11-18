@@ -1,5 +1,124 @@
 [
   {
+    "name": "BiS",
+    "ruby": "びす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CeUnU",
+    "spotify_artist_id": "686Q2yJDYA5wjFy1PJXjGX",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "B'z",
+    "ruby": "びーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4jAhpu",
+    "spotify_artist_id": "7i9bNUSGORP5MIgrii3cJc",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "B-DASH",
+    "ruby": "びーだっしゅ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO184LsY",
+    "spotify_artist_id": "1ZUagrWzR2kve94ptFLdSz",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ピチカート・ファイヴ",
+    "ruby": "ぴちかーとふぁいゔ",
+    "aliases": [
+"ピチカートファイブ"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mvzso",
+    "spotify_artist_id": "0IQalWuw5NBk1xXG5GK0Bv",
+    "tags": [
+"男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BIGBANG",
+    "ruby": "びっぐばん",
+    "aliases": [
+      "ビッベン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MKBFK",
+    "spotify_artist_id": "4Kxlr1PRlDKEB0ekOCyHgX",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "ビッケブランカ",
+    "ruby": "びっけぶらんか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0qNLhe",
+    "spotify_artist_id": "0PYPjvZaOa7bsCq26JOX8d",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "羊文学",
+    "ruby": "ひつじぶんがく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO43VROF",
+    "spotify_artist_id": "6S8w5rLsEwjN21jQeRES0n",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BiSH",
+    "ruby": "びっしゅ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO043Tqq",
+    "spotify_artist_id": "0ebinq3ZTOQAJNag4sBTJj",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "HIPPY",
+    "ruby": "ひっぴー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GsrV9",
+    "spotify_artist_id": "1g08NwHZ1vSMsUhS2IQNL2",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BTS",
+    "ruby": "びーてぃーえす",
+    "aliases": [
+      "防弾少年団",
+      "ぼうだんしょうねんだん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b",
+    "spotify_artist_id": "3Nrfpe0tUJi4K4DXYWgMUX",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
