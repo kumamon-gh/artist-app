@@ -1,5 +1,112 @@
 [
   {
+    "name": "BNK48",
+    "ruby": "びーえぬけーふぉーてぃーえいと",
+    "aliases": [
+      "ビーエヌケーよんじゅうはち",
+"バンコク48",
+"ばんこくフォーティーエイト"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hg01P",
+    "spotify_artist_id": "0A7q0U0IEdNOHWnQpMRQdD",
+    "tags": [
+      "女性グループ",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "光GENJI",
+    "ruby": "ひかるげんじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TiKUz",
+    "spotify_artist_id": "4VqJ9xIlKKCaeTQezLiQvK",
+    "tags": [
+      "男性グループ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "氷川きよし",
+    "ruby": "ひかわきよし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2utp7P",
+    "spotify_artist_id": "4ga8lGWWzgmXpWf9wRFmRR",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BEGIN",
+    "ruby": "びぎん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3At97q",
+    "spotify_artist_id": "659Qn4ZTVZjnSBm6a6IniX",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ヒグチアイ",
+    "ruby": "ひぐちあい",
+    "aliases": [
+      "樋口愛"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Klzah",
+    "spotify_artist_id": "4GxWcui9BlMJH9VOOK5wav",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "樋口了一",
+    "ruby": "ひぐちりょういち",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JaZzP",
+    "spotify_artist_id": "2ZyBE5rq3zn4n4YG4Ew4cn",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ピコ太郎",
+    "ruby": "ぴこたろう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1O41tn",
+    "spotify_artist_id": "37GBT1Lhfc2sgq4jZIt6n2",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "久石譲",
+    "ruby": "ひさいしじょう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mQXlS",
+    "spotify_artist_id": "7nzSoJISlVJsn7O0yTeMOB",
+    "tags": [
+      "その他",
+      "邦楽"
+    ]
+  },
+{
+    "name": "久松史奈",
+    "ruby": "ひさまつふみな",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gBPz3",
+    "spotify_artist_id": "2e5rBW29pwN70wzPzD5Spx",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
