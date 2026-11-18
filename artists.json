@@ -1,5 +1,123 @@
 [
   {
+    "name": "hide",
+    "ruby": "ひで",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0kFtYE",
+    "spotify_artist_id": "0FN9uqveLW33mz8hlDLiFU",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "hide with Spread Beaver",
+    "ruby": "ひでうぃずすぷれっどびーばー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0W8eLb",
+    "spotify_artist_id": "1G3dHtEgFegk2kjWA8gzFu",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "ヒデとロザンナ",
+    "ruby": "ひでとろざんな",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hWBhK",
+    "spotify_artist_id": "2giK8VBKM5AL3H4VbHcWDJ",
+    "tags": [
+      "男女混成グループ",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "ビートたけし",
+    "ruby": "びーとたけし",
+    "aliases": [
+      "北野武",
+      "きたのたけし"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aukKs",
+    "spotify_artist_id": "3IWRwqjyLYZBNSqar0liFk",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "一青窈",
+    "ruby": "ひととよう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3d76Jf",
+    "spotify_artist_id": "5sm4rWbXSE6K8MdyTIZg7q",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "hitomi",
+    "ruby": "ひとみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cqvzo",
+    "spotify_artist_id": "5rdloWitZKhrtedmOBdhG8",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "日向坂46",
+    "ruby": "ひなたざかふぉーてぃーしっくす",
+    "aliases": [
+      "H46",
+      "ひなたざかよんじゅーろく",
+      "おひさま"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04sFVK",
+    "spotify_artist_id": "0eQSoTI7sQENREQM8Klp2j",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ピノキオピー",
+    "ruby": "ぴのきおぴー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Q8cgg",
+    "spotify_artist_id": "3b7jPCedJ2VH4l4rcOTvNC",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ]
+  },
+{
+    "name": "日野美歌",
+    "ruby": "ひのみか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RtbI4",
+    "spotify_artist_id": "4SnVzUk8sP61RFT8czNxjj",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "BE:FIRST",
+    "ruby": "びーふぁーすと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWW134Fcht13F",
+    "spotify_artist_id": "4wCW8kZ8LL7QIdcE8EOKPP",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
