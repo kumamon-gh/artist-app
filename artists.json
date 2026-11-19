@@ -1,5 +1,117 @@
 [
   {
+    "name": "平山みき",
+    "ruby": "ひらやまみき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rXeFy",
+    "spotify_artist_id": "2wW1j6pXi3HCiUhdZgFLBb",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "ビリー・バンバン",
+    "ruby": "びりーばんばん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TUnWd",
+    "spotify_artist_id": "3hoe4fPtz7MtwwPWypVO7n",
+    "tags": [
+      "男性グループ",
+      "歌謡曲",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "ヒルクライム",
+    "ruby": "ひるくらいむ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3d2y9M",
+    "spotify_artist_id": "5sefnd4yMQNYe9fuLi2XYw",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "hiro",
+    "ruby": "ひろ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3g3GQU",
+    "spotify_artist_id": "5xfCVu7wHgGWCplTPwaYJW",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "広末涼子",
+    "ruby": "ひろすえりょうこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2cA2xZ",
+    "spotify_artist_id": "3Mq2pWAg9g0MGi7Hv50B0f",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "広瀬香美",
+    "ruby": "ひろせこうみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07qFBm",
+    "spotify_artist_id": "0jMZY406RfgjK6PFKIRfAv",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "弘田三枝子",
+    "ruby": "ひろたみえこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3AmPNE",
+    "spotify_artist_id": "64ZNJ2IfzzX0GBNrvqPbDr",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "ピンキーとキラーズ",
+    "ruby": "ぴんきーときらーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TTBsL",
+    "spotify_artist_id": "4WpLNpXbphONe6cA9DQyOz",
+    "tags": [
+      "男女混成グループ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "PINK SAPPHIRE",
+    "ruby": "ぴんくさふぁいあ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ffFh8",
+    "spotify_artist_id": "3QRTAnPp40nrKYgrDO0lxT",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ピンク・レディー",
+    "ruby": "ぴんくれでぃー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Nq7Jc",
+    "spotify_artist_id": "4LE86GiUcfzELNnJrkmiGV",
+    "tags": [
+      "女性グループ",
+      "歌謡曲",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
