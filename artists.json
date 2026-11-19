@@ -21134,7 +21134,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#fca62a"
   },
   {
     "id": "artist-947",
@@ -21157,7 +21157,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-948",
@@ -21179,7 +21179,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-949",
@@ -21201,7 +21201,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-950",
@@ -21223,7 +21223,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#e4ac8a"
   },
   {
     "id": "artist-951",
@@ -21245,7 +21245,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-952",
@@ -21267,7 +21267,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-953",
@@ -21289,7 +21289,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#fde64f"
   },
   {
     "id": "artist-954",
@@ -21311,7 +21311,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-955",
@@ -21334,7 +21334,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-956",
@@ -21357,7 +21357,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-957",
@@ -21375,6 +21375,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rr3WS"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rr3WS": "#e4ac89"
+    },
     "spotify_artist_id": "6ecCVdF55fHdbVlAu1lJXU",
     "official_site": null,
     "description": "FUNKY MONKEY BABYSの代表曲をまとめた公式のプレイリスト「This Is FUNKY MONKEY BABYS」",
@@ -21385,7 +21388,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-958",
@@ -21407,7 +21410,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-959",
@@ -21429,7 +21432,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-960",
@@ -21454,7 +21457,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-961",
@@ -21477,7 +21480,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-962",
@@ -21499,7 +21502,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-963",
@@ -21521,7 +21524,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-964",
@@ -21543,7 +21546,7 @@
     "status": "published",
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-597",
