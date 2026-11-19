@@ -1,112 +1,5 @@
 [
   {
-    "name": "ファンキー加藤",
-    "ruby": "ふぁんきーかとう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ScA6t",
-    "spotify_artist_id": "3eyArt4atpqbHFYnHPMLvY",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "FUNKY MONKEY BABYS",
-    "ruby": "ふぁんきーもんきーべいびーず",
-    "aliases": [
-      "ファンモン",
-      "ファンキーモンキーベービーズ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3FUu9b",
-    "extra_urls": [
-      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rr3WS"
-    ],
-  "spotify_artist_id": "6ecCVdF55fHdbVlAu1lJXU",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "FANTASTICS",
-    "ruby": "ふぁんたすてぃっくす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AsWQw",
-    "spotify_artist_id": "162Ols90jU4CctXQz15NxS",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "V6",
-    "ruby": "ぶいしっくす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO35tRd4",
-    "spotify_artist_id": "5fFuLHZyw9d28AIVa3pG6h",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "フィロソフィーのダンス",
-    "ruby": "ふぃろそふぃーのだんす",
-    "aliases": [
-      "フィロのス"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1w9f9L",
-    "spotify_artist_id": "2DUhXuCbn5RWAkRaKh8qaA",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "フィンガー5",
-    "ruby": "ふぃんがーふぁいぶ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gfiSs",
-    "spotify_artist_id": "0yr7xw7vy6CHfrb7FqesC5",
-    "tags": [
-      "男性グループ",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "FAKY",
-    "ruby": "ふぇいきー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3aXbyM",
-    "spotify_artist_id": "5oLb41tSEDtY357HGJCIK9",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Fayray",
-    "ruby": "ふぇいれい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0paiem",
-    "spotify_artist_id": "0Ngv8nvDu7OSeqgA3Vb1fy",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "FENCE OF DEFENSE",
-    "ruby": "ふぇんすおぶでぃふぇんす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3IBKFB",
-    "spotify_artist_id": "6iGUDrvbELISEYrhDxSLGr",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -21436,6 +21329,215 @@
     "tags": [
       "女性グループ",
       "歌謡曲",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-956",
+    "name": "ファンキー加藤",
+    "ruby": "ふぁんきーかとう",
+    "kana": "ファンキーカトウ",
+    "romaji": [
+      "fankiikatou",
+      "hankiikatou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ScA6t",
+    "spotify_artist_id": "3eyArt4atpqbHFYnHPMLvY",
+    "official_site": null,
+    "description": "ファンキー加藤の代表曲をまとめた公式のプレイリスト「This Is ファンキー加藤」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-957",
+    "name": "FUNKY MONKEY BABYS",
+    "ruby": "ふぁんきーもんきーべいびーず",
+    "kana": "ファンキーモンキーベイビーズ",
+    "romaji": [
+      "funkymonkeybabys"
+    ],
+    "aliases": [
+      "ファンモン",
+      "ファンキーモンキーベービーズ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3FUu9b",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rr3WS"
+    ],
+    "spotify_artist_id": "6ecCVdF55fHdbVlAu1lJXU",
+    "official_site": null,
+    "description": "FUNKY MONKEY BABYSの代表曲をまとめた公式のプレイリスト「This Is FUNKY MONKEY BABYS」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-958",
+    "name": "FANTASTICS",
+    "ruby": "ふぁんたすてぃっくす",
+    "kana": "ファンタスティックス",
+    "romaji": [
+      "fantastics"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AsWQw",
+    "spotify_artist_id": "162Ols90jU4CctXQz15NxS",
+    "official_site": null,
+    "description": "FANTASTICSの代表曲をまとめた公式のプレイリスト「This Is FANTASTICS」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-959",
+    "name": "V6",
+    "ruby": "ぶいしっくす",
+    "kana": "ブイシックス",
+    "romaji": [
+      "v6"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO35tRd4",
+    "spotify_artist_id": "5fFuLHZyw9d28AIVa3pG6h",
+    "official_site": null,
+    "description": "V6の代表曲をまとめた公式のプレイリスト「This Is V6」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-960",
+    "name": "フィロソフィーのダンス",
+    "ruby": "ふぃろそふぃーのだんす",
+    "kana": "フィロソフィーノダンス",
+    "romaji": [
+      "firosofiinodansu",
+      "hirosohiinodansu"
+    ],
+    "aliases": [
+      "フィロのス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1w9f9L",
+    "spotify_artist_id": "2DUhXuCbn5RWAkRaKh8qaA",
+    "official_site": null,
+    "description": "フィロソフィーのダンスの代表曲をまとめた公式のプレイリスト「This Is フィロソフィーのダンス」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-961",
+    "name": "フィンガー5",
+    "ruby": "ふぃんがーふぁいぶ",
+    "kana": "フィンガーファイブ",
+    "romaji": [
+      "fingaafaibu",
+      "hingaahaibu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gfiSs",
+    "spotify_artist_id": "0yr7xw7vy6CHfrb7FqesC5",
+    "official_site": null,
+    "description": "フィンガー5の代表曲をまとめた公式のプレイリスト「This Is フィンガー5」",
+    "tags": [
+      "男性グループ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-962",
+    "name": "FAKY",
+    "ruby": "ふぇいきー",
+    "kana": "フェイキー",
+    "romaji": [
+      "faky"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3aXbyM",
+    "spotify_artist_id": "5oLb41tSEDtY357HGJCIK9",
+    "official_site": null,
+    "description": "FAKYの代表曲をまとめた公式のプレイリスト「This Is FAKY」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-963",
+    "name": "Fayray",
+    "ruby": "ふぇいれい",
+    "kana": "フェイレイ",
+    "romaji": [
+      "fayray"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0paiem",
+    "spotify_artist_id": "0Ngv8nvDu7OSeqgA3Vb1fy",
+    "official_site": null,
+    "description": "Fayrayの代表曲をまとめた公式のプレイリスト「This Is Fayray」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-19",
+    "updated_date": "2026-11-19",
+    "color": ""
+  },
+  {
+    "id": "artist-964",
+    "name": "FENCE OF DEFENSE",
+    "ruby": "ふぇんすおぶでぃふぇんす",
+    "kana": "フェンスオブディフェンス",
+    "romaji": [
+      "fenceofdefense"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3IBKFB",
+    "spotify_artist_id": "6iGUDrvbELISEYrhDxSLGr",
+    "official_site": null,
+    "description": "FENCE OF DEFENSEの代表曲をまとめた公式のプレイリスト「This Is FENCE OF DEFENSE」",
+    "tags": [
+      "バンド",
       "J-POP"
     ],
     "status": "published",
