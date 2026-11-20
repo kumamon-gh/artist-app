@@ -1,118 +1,5 @@
 [
   {
-    "name": "藤井風",
-    "ruby": "ふじいかぜ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWSgrQDsmAXok",
-    "spotify_artist_id": "6bDWAcdtVR3WHz2xtiIPUi",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "藤井隆",
-    "ruby": "ふじいたかし",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WqCo9",
-    "spotify_artist_id": "50CvRcUXhLkVVN6jGH9X12",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "藤井フミヤ",
-    "ruby": "ふじいふみや",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3eun90",
-    "spotify_artist_id": "5uDMiTt5fxXmUyPS5HPwvS",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "藤木直人",
-    "ruby": "ふじきなおひと",
-    "aliases": [
-      "ふじきなおと"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L0Y0w",
-    "spotify_artist_id": "32C6qbd4GMDJMq6g1RaqaI",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "藤田麻衣子",
-    "ruby": "ふじたまいこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dMg0n",
-    "spotify_artist_id": "78umxbPFlNNgIpEztuClkP",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "フジファブリック",
-    "ruby": "ふじふぁぶりっく",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DzZ4S",
-    "spotify_artist_id": "2QgdUzpKFNxey5IuwvsGBL",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "藤本美貴",
-    "ruby": "ふじもとみき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3psnum",
-    "spotify_artist_id": "5MRHSIbO684xuumGJytD4t",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "藤山一郎",
-    "ruby": "ふじやまいちろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rQRTG",
-    "spotify_artist_id": "5QQGJ2ktBYVW73DN5qiwhG",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "藤原さくら",
-    "ruby": "ふじわらさくら",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dO00w",
-    "spotify_artist_id": "5tvnQkP9zNAqYW2YKYk1Et",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "布施明",
-    "ruby": "ふせあきら",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Icf5O",
-    "spotify_artist_id": "1iTpAEJmzv9JFgo4iJey8U",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -21895,6 +21782,239 @@
     "status": "published",
     "added_date": "2026-11-20",
     "updated_date": "2026-11-20",
+    "color": ""
+  },
+  {
+    "id": "artist-975",
+    "name": "藤井風",
+    "ruby": "ふじいかぜ",
+    "kana": "フジイカゼ",
+    "romaji": [
+      "fujiikaze",
+      "huziikaze"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWSgrQDsmAXok",
+    "spotify_artist_id": "6bDWAcdtVR3WHz2xtiIPUi",
+    "official_site": null,
+    "description": "藤井風の代表曲をまとめた公式のプレイリスト「This Is 藤井風」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-976",
+    "name": "藤井隆",
+    "ruby": "ふじいたかし",
+    "kana": "フジイタカシ",
+    "romaji": [
+      "fujiitakashi",
+      "huziitakasi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WqCo9",
+    "spotify_artist_id": "50CvRcUXhLkVVN6jGH9X12",
+    "official_site": null,
+    "description": "藤井隆の代表曲をまとめた公式のプレイリスト「This Is 藤井隆」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-977",
+    "name": "藤井フミヤ",
+    "ruby": "ふじいふみや",
+    "kana": "フジイフミヤ",
+    "romaji": [
+      "fujiifumiya",
+      "huziihumiya"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3eun90",
+    "spotify_artist_id": "5uDMiTt5fxXmUyPS5HPwvS",
+    "official_site": null,
+    "description": "藤井フミヤの代表曲をまとめた公式のプレイリスト「This Is 藤井フミヤ」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-978",
+    "name": "藤木直人",
+    "ruby": "ふじきなおひと",
+    "kana": "フジキナオヒト",
+    "romaji": [
+      "fujikinaohito",
+      "huzikinaohito"
+    ],
+    "aliases": [
+      "ふじきなおと"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L0Y0w",
+    "spotify_artist_id": "32C6qbd4GMDJMq6g1RaqaI",
+    "official_site": null,
+    "description": "藤木直人の代表曲をまとめた公式のプレイリスト「This Is 藤木直人」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-979",
+    "name": "藤田麻衣子",
+    "ruby": "ふじたまいこ",
+    "kana": "フジタマイコ",
+    "romaji": [
+      "fujitamaiko",
+      "huzitamaiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dMg0n",
+    "spotify_artist_id": "78umxbPFlNNgIpEztuClkP",
+    "official_site": null,
+    "description": "藤田麻衣子の代表曲をまとめた公式のプレイリスト「This Is 藤田麻衣子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-980",
+    "name": "フジファブリック",
+    "ruby": "ふじふぁぶりっく",
+    "kana": "フジファブリック",
+    "romaji": [
+      "fujifaburikku",
+      "huzihaburikku"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DzZ4S",
+    "spotify_artist_id": "2QgdUzpKFNxey5IuwvsGBL",
+    "official_site": null,
+    "description": "フジファブリックの代表曲をまとめた公式のプレイリスト「This Is フジファブリック」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-981",
+    "name": "藤本美貴",
+    "ruby": "ふじもとみき",
+    "kana": "フジモトミキ",
+    "romaji": [
+      "fujimotomiki",
+      "huzimotomiki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3psnum",
+    "spotify_artist_id": "5MRHSIbO684xuumGJytD4t",
+    "official_site": null,
+    "description": "藤本美貴の代表曲をまとめた公式のプレイリスト「This Is 藤本美貴」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-982",
+    "name": "藤山一郎",
+    "ruby": "ふじやまいちろう",
+    "kana": "フジヤマイチロウ",
+    "romaji": [
+      "fujiyamaichirou",
+      "huziyamaitirou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rQRTG",
+    "spotify_artist_id": "5QQGJ2ktBYVW73DN5qiwhG",
+    "official_site": null,
+    "description": "藤山一郎の代表曲をまとめた公式のプレイリスト「This Is 藤山一郎」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-983",
+    "name": "藤原さくら",
+    "ruby": "ふじわらさくら",
+    "kana": "フジワラサクラ",
+    "romaji": [
+      "fujiwarasakura",
+      "huziwarasakura"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dO00w",
+    "spotify_artist_id": "5tvnQkP9zNAqYW2YKYk1Et",
+    "official_site": null,
+    "description": "藤原さくらの代表曲をまとめた公式のプレイリスト「This Is 藤原さくら」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-984",
+    "name": "布施明",
+    "ruby": "ふせあきら",
+    "kana": "フセアキラ",
+    "romaji": [
+      "fuseakira",
+      "huseakira"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Icf5O",
+    "spotify_artist_id": "1iTpAEJmzv9JFgo4iJey8U",
+    "official_site": null,
+    "description": "布施明の代表曲をまとめた公式のプレイリスト「This Is 布施明」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
     "color": ""
   },
   {
