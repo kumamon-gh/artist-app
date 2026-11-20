@@ -1,5 +1,112 @@
 [
   {
+    "name": "ブリーフ&トランクス",
+    "ruby": "ぶりーふあんどとらんくす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO26ISe4",
+    "spotify_artist_id": "3CGWY0ekd3f1YbzWi2ACdY",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "PRINCESS PRINCESS",
+    "ruby": "ぷりんせすぷりんせす",
+    "aliases": [
+      "プリプリ"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hp55Q",
+    "spotify_artist_id": "2fpbR8VQWHUivTaeLTR5MJ",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "古内東子",
+    "ruby": "ふるうちとうこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0NvJqF",
+    "spotify_artist_id": "1rIVRqMT3NboIWjG2JN5hZ",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BLUE ENCOUNT",
+    "ruby": "ぶるーえんかうんと",
+    "aliases": [
+      "ブルエン"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UgoLe",
+    "spotify_artist_id": "1CWmF1EcrKoWIbZt9Ivfg2",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "FRUITS ZIPPER",
+    "ruby": "ふるーつじっぱー",
+    "aliases": [
+      "ふるっぱー"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Dsfad",
+    "spotify_artist_id": "4v5IVXt3oH0iNuxW9O36BV",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "Bluem of Youth",
+    "ruby": "ぶるーむおぶゆーす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04bCTO",
+    "spotify_artist_id": "0eoPGl8OE8U7lGsRmsihEd",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BREAKERZ",
+    "ruby": "ぶれいかーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14xBpU",
+    "spotify_artist_id": "1U1oKFcjwl8Tb3b3APG9lE",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "フレデリック",
+    "ruby": "ふれでりっく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO20yEff",
+    "spotify_artist_id": "3srPc1Mytv5GmTWqsQuoXW",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "FLOW",
+    "ruby": "ふろう",
+    "aliases": [
+"ふろー"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22IRjV",
+    "spotify_artist_id": "3w2HqkKa6upwuXEULtGvnY",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
