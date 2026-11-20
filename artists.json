@@ -1,112 +1,5 @@
 [
   {
-    "name": "ブリーフ&トランクス",
-    "ruby": "ぶりーふあんどとらんくす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO26ISe4",
-    "spotify_artist_id": "3CGWY0ekd3f1YbzWi2ACdY",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "PRINCESS PRINCESS",
-    "ruby": "ぷりんせすぷりんせす",
-    "aliases": [
-      "プリプリ"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hp55Q",
-    "spotify_artist_id": "2fpbR8VQWHUivTaeLTR5MJ",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "古内東子",
-    "ruby": "ふるうちとうこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0NvJqF",
-    "spotify_artist_id": "1rIVRqMT3NboIWjG2JN5hZ",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "BLUE ENCOUNT",
-    "ruby": "ぶるーえんかうんと",
-    "aliases": [
-      "ブルエン"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UgoLe",
-    "spotify_artist_id": "1CWmF1EcrKoWIbZt9Ivfg2",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "FRUITS ZIPPER",
-    "ruby": "ふるーつじっぱー",
-    "aliases": [
-      "ふるっぱー"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Dsfad",
-    "spotify_artist_id": "4v5IVXt3oH0iNuxW9O36BV",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "Bluem of Youth",
-    "ruby": "ぶるーむおぶゆーす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04bCTO",
-    "spotify_artist_id": "0eoPGl8OE8U7lGsRmsihEd",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "BREAKERZ",
-    "ruby": "ぶれいかーず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14xBpU",
-    "spotify_artist_id": "1U1oKFcjwl8Tb3b3APG9lE",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "フレデリック",
-    "ruby": "ふれでりっく",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO20yEff",
-    "spotify_artist_id": "3srPc1Mytv5GmTWqsQuoXW",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "FLOW",
-    "ruby": "ふろう",
-    "aliases": [
-"ふろー"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22IRjV",
-    "spotify_artist_id": "3w2HqkKa6upwuXEULtGvnY",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -22349,6 +22242,216 @@
     "spotify_artist_id": "5fkHPXDNaqz3GrYYhO8APB",
     "official_site": null,
     "description": "Flipper's Guitarの代表曲をまとめた公式のプレイリスト「This Is Flipper's Guitar」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-995",
+    "name": "ブリーフ&トランクス",
+    "ruby": "ぶりーふあんどとらんくす",
+    "kana": "ブリーフアンドトランクス",
+    "romaji": [
+      "buriifuandotorankusu",
+      "buriihuandotorankusu",
+      "and"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO26ISe4",
+    "spotify_artist_id": "3CGWY0ekd3f1YbzWi2ACdY",
+    "official_site": null,
+    "description": "ブリーフ&トランクスの代表曲をまとめた公式のプレイリスト「This Is ブリーフ&トランクス」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-996",
+    "name": "PRINCESS PRINCESS",
+    "ruby": "ぷりんせすぷりんせす",
+    "kana": "プリンセスプリンセス",
+    "romaji": [
+      "princessprincess"
+    ],
+    "aliases": [
+      "プリプリ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hp55Q",
+    "spotify_artist_id": "2fpbR8VQWHUivTaeLTR5MJ",
+    "official_site": null,
+    "description": "PRINCESS PRINCESSの代表曲をまとめた公式のプレイリスト「This Is PRINCESS PRINCESS」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-997",
+    "name": "古内東子",
+    "ruby": "ふるうちとうこ",
+    "kana": "フルウチトウコ",
+    "romaji": [
+      "furuuchitouko",
+      "huruutitouko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0NvJqF",
+    "spotify_artist_id": "1rIVRqMT3NboIWjG2JN5hZ",
+    "official_site": null,
+    "description": "古内東子の代表曲をまとめた公式のプレイリスト「This Is 古内東子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-998",
+    "name": "BLUE ENCOUNT",
+    "ruby": "ぶるーえんかうんと",
+    "kana": "ブルーエンカウント",
+    "romaji": [
+      "blueencount"
+    ],
+    "aliases": [
+      "ブルエン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UgoLe",
+    "spotify_artist_id": "1CWmF1EcrKoWIbZt9Ivfg2",
+    "official_site": null,
+    "description": "BLUE ENCOUNTの代表曲をまとめた公式のプレイリスト「This Is BLUE ENCOUNT」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-999",
+    "name": "FRUITS ZIPPER",
+    "ruby": "ふるーつじっぱー",
+    "kana": "フルーツジッパー",
+    "romaji": [
+      "fruitszipper"
+    ],
+    "aliases": [
+      "ふるっぱー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Dsfad",
+    "spotify_artist_id": "4v5IVXt3oH0iNuxW9O36BV",
+    "official_site": null,
+    "description": "FRUITS ZIPPERの代表曲をまとめた公式のプレイリスト「This Is FRUITS ZIPPER」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-1000",
+    "name": "Bluem of Youth",
+    "ruby": "ぶるーむおぶゆーす",
+    "kana": "ブルームオブユース",
+    "romaji": [
+      "bluemofyouth"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04bCTO",
+    "spotify_artist_id": "0eoPGl8OE8U7lGsRmsihEd",
+    "official_site": null,
+    "description": "Bluem of Youthの代表曲をまとめた公式のプレイリスト「This Is Bluem of Youth」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-1001",
+    "name": "BREAKERZ",
+    "ruby": "ぶれいかーず",
+    "kana": "ブレイカーズ",
+    "romaji": [
+      "breakerz"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14xBpU",
+    "spotify_artist_id": "1U1oKFcjwl8Tb3b3APG9lE",
+    "official_site": null,
+    "description": "BREAKERZの代表曲をまとめた公式のプレイリスト「This Is BREAKERZ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-1002",
+    "name": "フレデリック",
+    "ruby": "ふれでりっく",
+    "kana": "フレデリック",
+    "romaji": [
+      "furederikku",
+      "hurederikku"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO20yEff",
+    "spotify_artist_id": "3srPc1Mytv5GmTWqsQuoXW",
+    "official_site": null,
+    "description": "フレデリックの代表曲をまとめた公式のプレイリスト「This Is フレデリック」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-21",
+    "updated_date": "2026-11-21",
+    "color": ""
+  },
+  {
+    "id": "artist-1003",
+    "name": "FLOW",
+    "ruby": "ふろう",
+    "kana": "フロウ",
+    "romaji": [
+      "flow"
+    ],
+    "aliases": [
+      "ふろー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22IRjV",
+    "spotify_artist_id": "3w2HqkKa6upwuXEULtGvnY",
+    "official_site": null,
+    "description": "FLOWの代表曲をまとめた公式のプレイリスト「This Is FLOW」",
     "tags": [
       "バンド",
       "J-POP"
