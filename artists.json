@@ -1,5 +1,118 @@
 [
   {
+    "name": "藤井風",
+    "ruby": "ふじいかぜ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWSgrQDsmAXok",
+    "spotify_artist_id": "6bDWAcdtVR3WHz2xtiIPUi",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "藤井隆",
+    "ruby": "ふじいたかし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WqCo9",
+    "spotify_artist_id": "50CvRcUXhLkVVN6jGH9X12",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "藤井フミヤ",
+    "ruby": "ふじいふみや",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3eun90",
+    "spotify_artist_id": "5uDMiTt5fxXmUyPS5HPwvS",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "藤木直人",
+    "ruby": "ふじきなおひと",
+    "aliases": [
+      "ふじきなおと"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L0Y0w",
+    "spotify_artist_id": "32C6qbd4GMDJMq6g1RaqaI",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "藤田麻衣子",
+    "ruby": "ふじたまいこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dMg0n",
+    "spotify_artist_id": "78umxbPFlNNgIpEztuClkP",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "フジファブリック",
+    "ruby": "ふじふぁぶりっく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DzZ4S",
+    "spotify_artist_id": "2QgdUzpKFNxey5IuwvsGBL",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "藤本美貴",
+    "ruby": "ふじもとみき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3psnum",
+    "spotify_artist_id": "5MRHSIbO684xuumGJytD4t",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "藤山一郎",
+    "ruby": "ふじやまいちろう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rQRTG",
+    "spotify_artist_id": "5QQGJ2ktBYVW73DN5qiwhG",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "藤原さくら",
+    "ruby": "ふじわらさくら",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dO00w",
+    "spotify_artist_id": "5tvnQkP9zNAqYW2YKYk1Et",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "布施明",
+    "ruby": "ふせあきら",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Icf5O",
+    "spotify_artist_id": "1iTpAEJmzv9JFgo4iJey8U",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
