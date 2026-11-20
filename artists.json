@@ -1,5 +1,124 @@
 [
   {
+    "name": "舟木一夫",
+    "ruby": "ふなきかずお",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YKXgG",
+    "spotify_artist_id": "3prKZA2b0KXiibTxhXIuIu",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "舟津真翔",
+    "ruby": "ふなつまなと",
+    "aliases": [
+      "ふなつまさと"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWBXmK",
+    "spotify_artist_id": "01O1K2of8wkNZJhWRlRFcT",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "Who-ya Extended",
+    "ruby": "ふーやえくすてんでっど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO20G4z6",
+    "spotify_artist_id": "3sE3971KYAw7t9ENx8Eqwk",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ブラック・ビスケッツ",
+    "ruby": "ぶらっくびすけっつ",
+    "aliases": [
+      "ブラビ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0i6fk7",
+    "spotify_artist_id": "0BwamWEHmgdWwM3AoGxyay",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BLACKPINK",
+    "ruby": "ぶらっくぴんく",
+    "aliases": [
+      "ブルピン"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA",
+    "spotify_artist_id": "41MozSoPIsD1dJM0CLPjZF",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "Flower",
+    "ruby": "ふらわー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uk66Q",
+    "spotify_artist_id": "0VPLGnexd8K6BGbpLiPPVj",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "フラワーカンパニーズ",
+    "ruby": "ふらわーかんぱにーず",
+    "aliases": [
+      "フラカン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GJxqp",
+    "spotify_artist_id": "2VuMHYb1igsjfw1AXUFV7D",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "フランク永井",
+    "ruby": "ふらんくながい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Xrmh9",
+    "spotify_artist_id": "52iZ2jixzBNKDNhmflpexF",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "flumpool",
+    "ruby": "ふらんぷーる",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nYP08",
+    "spotify_artist_id": "5Kpt1mryjiwHa9goYPQG1o",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Flipper's Guitar",
+    "ruby": "ふりっぱーずぎたー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO35hu0w",
+    "spotify_artist_id": "5fkHPXDNaqz3GrYYhO8APB",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
