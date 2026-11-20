@@ -1,122 +1,5 @@
 [
   {
-    "name": "Folder5",
-    "ruby": "ふぉるだーふぁいぶ",
-    "aliases": [
-      "フォルダー5"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1utm9M",
-    "spotify_artist_id": "2B7camiqgR0ErfveavlNIG",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "深田恭子",
-    "ruby": "ふかだきょうこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2A5O5M",
-    "spotify_artist_id": "4pv6zDPNcjtQI5T9oPaIbE",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ふきのとう",
-    "ruby": "ふきのとう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0E3GsE",
-    "spotify_artist_id": "1c0MlpWxemhlmVbaX6vkeb",
-    "tags": [
-      "男性グループ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "ふくい舞",
-    "ruby": "ふくいまい",
-    "aliases": [
-      "福井舞"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mgmX4",
-    "spotify_artist_id": "7mB1z8iJADcLrJlYrcoH9d",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "福田こうへい",
-    "ruby": "ふくだこうへい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rDnGh",
-    "spotify_artist_id": "4brjw0l4cVmE18qeIQ5a7f",
-    "tags": [
-      "男性ソロ",
-      "演歌"
-    ]
-  },
-{
-    "name": "福田沙紀",
-    "ruby": "ふくださき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13dnRI",
-    "spotify_artist_id": "1ROUxXnTX3Dt47s7bPJ30C",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "福原遥",
-    "ruby": "ふくはらはるか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0XrDeL",
-    "spotify_artist_id": "1Iemsg3wz7BPY2ZEQ9lKRc",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "福耳",
-    "ruby": "ふくみみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3M53XR",
-    "spotify_artist_id": "6osRZLH5Uvi5Yc6oZM4JLJ",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "福山雅治",
-    "ruby": "ふくやままさはる",
-    "aliases": [
-      "ましゃ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3l8hoL",
-    "spotify_artist_id": "5FGlhIQqewJRV8fx24toG0",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "藤あや子",
-    "ruby": "ふじあやこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RzPwY",
-    "spotify_artist_id": "1yu33NjTtQQWm3yS6ghftl",
-    "tags": [
-      "女性ソロ",
-      "演歌"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -21664,6 +21547,242 @@
     "added_date": "2026-11-19",
     "updated_date": "2026-11-19",
     "color": "#e4ac89"
+  },
+  {
+    "id": "artist-965",
+    "name": "Folder5",
+    "ruby": "ふぉるだーふぁいぶ",
+    "kana": "フォルダーファイブ",
+    "romaji": [
+      "folder5"
+    ],
+    "aliases": [
+      "フォルダー5"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1utm9M",
+    "spotify_artist_id": "2B7camiqgR0ErfveavlNIG",
+    "official_site": null,
+    "description": "Folder5の代表曲をまとめた公式のプレイリスト「This Is Folder5」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-20",
+    "updated_date": "2026-11-20",
+    "color": ""
+  },
+  {
+    "id": "artist-966",
+    "name": "深田恭子",
+    "ruby": "ふかだきょうこ",
+    "kana": "フカダキョウコ",
+    "romaji": [
+      "fukadakyouko",
+      "hukadakyouko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2A5O5M",
+    "spotify_artist_id": "4pv6zDPNcjtQI5T9oPaIbE",
+    "official_site": null,
+    "description": "深田恭子の代表曲をまとめた公式のプレイリスト「This Is 深田恭子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-20",
+    "updated_date": "2026-11-20",
+    "color": ""
+  },
+  {
+    "id": "artist-967",
+    "name": "ふきのとう",
+    "ruby": "ふきのとう",
+    "kana": "フキノトウ",
+    "romaji": [
+      "fukinotou",
+      "hukinotou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0E3GsE",
+    "spotify_artist_id": "1c0MlpWxemhlmVbaX6vkeb",
+    "official_site": null,
+    "description": "ふきのとうの代表曲をまとめた公式のプレイリスト「This Is ふきのとう」",
+    "tags": [
+      "男性グループ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-20",
+    "updated_date": "2026-11-20",
+    "color": ""
+  },
+  {
+    "id": "artist-968",
+    "name": "ふくい舞",
+    "ruby": "ふくいまい",
+    "kana": "フクイマイ",
+    "romaji": [
+      "fukuimai",
+      "hukuimai"
+    ],
+    "aliases": [
+      "福井舞"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mgmX4",
+    "spotify_artist_id": "7mB1z8iJADcLrJlYrcoH9d",
+    "official_site": null,
+    "description": "ふくい舞の代表曲をまとめた公式のプレイリスト「This Is ふくい舞」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-20",
+    "updated_date": "2026-11-20",
+    "color": ""
+  },
+  {
+    "id": "artist-969",
+    "name": "福田こうへい",
+    "ruby": "ふくだこうへい",
+    "kana": "フクダコウヘイ",
+    "romaji": [
+      "fukudakouhei",
+      "hukudakouhei"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rDnGh",
+    "spotify_artist_id": "4brjw0l4cVmE18qeIQ5a7f",
+    "official_site": null,
+    "description": "福田こうへいの代表曲をまとめた公式のプレイリスト「This Is 福田こうへい」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-20",
+    "updated_date": "2026-11-20",
+    "color": ""
+  },
+  {
+    "id": "artist-970",
+    "name": "福田沙紀",
+    "ruby": "ふくださき",
+    "kana": "フクダサキ",
+    "romaji": [
+      "fukudasaki",
+      "hukudasaki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13dnRI",
+    "spotify_artist_id": "1ROUxXnTX3Dt47s7bPJ30C",
+    "official_site": null,
+    "description": "福田沙紀の代表曲をまとめた公式のプレイリスト「This Is 福田沙紀」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-20",
+    "updated_date": "2026-11-20",
+    "color": ""
+  },
+  {
+    "id": "artist-971",
+    "name": "福原遥",
+    "ruby": "ふくはらはるか",
+    "kana": "フクハラハルカ",
+    "romaji": [
+      "fukuharaharuka",
+      "hukuharaharuka"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0XrDeL",
+    "spotify_artist_id": "1Iemsg3wz7BPY2ZEQ9lKRc",
+    "official_site": null,
+    "description": "福原遥の代表曲をまとめた公式のプレイリスト「This Is 福原遥」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-20",
+    "updated_date": "2026-11-20",
+    "color": ""
+  },
+  {
+    "id": "artist-972",
+    "name": "福耳",
+    "ruby": "ふくみみ",
+    "kana": "フクミミ",
+    "romaji": [
+      "fukumimi",
+      "hukumimi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3M53XR",
+    "spotify_artist_id": "6osRZLH5Uvi5Yc6oZM4JLJ",
+    "official_site": null,
+    "description": "福耳の代表曲をまとめた公式のプレイリスト「This Is 福耳」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-20",
+    "updated_date": "2026-11-20",
+    "color": ""
+  },
+  {
+    "id": "artist-973",
+    "name": "福山雅治",
+    "ruby": "ふくやままさはる",
+    "kana": "フクヤママサハル",
+    "romaji": [
+      "fukuyamamasaharu",
+      "hukuyamamasaharu"
+    ],
+    "aliases": [
+      "ましゃ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3l8hoL",
+    "spotify_artist_id": "5FGlhIQqewJRV8fx24toG0",
+    "official_site": null,
+    "description": "福山雅治の代表曲をまとめた公式のプレイリスト「This Is 福山雅治」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-20",
+    "updated_date": "2026-11-20",
+    "color": ""
+  },
+  {
+    "id": "artist-974",
+    "name": "藤あや子",
+    "ruby": "ふじあやこ",
+    "kana": "フジアヤコ",
+    "romaji": [
+      "fujiayako",
+      "huziayako"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RzPwY",
+    "spotify_artist_id": "1yu33NjTtQQWm3yS6ghftl",
+    "official_site": null,
+    "description": "藤あや子の代表曲をまとめた公式のプレイリスト「This Is 藤あや子」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-20",
+    "updated_date": "2026-11-20",
+    "color": ""
   },
   {
     "id": "artist-597",
