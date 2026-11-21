@@ -1,126 +1,5 @@
 [
   {
-    "name": "Berryz工房",
-    "ruby": "べりーずこうぼう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Ale9C",
-    "spotify_artist_id": "2KSp7awSXNzHB7FlXQQT9f",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Belle",
-    "ruby": "べる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ka3L8",
-    "spotify_artist_id": "1m9ZvxLFfX9avls54a0y40",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "変態紳士クラブ",
-    "ruby": "へんたいしんしくらぶ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2DSmOc",
-    "spotify_artist_id": "4vN78fN1iEh83Pgaesw2jU",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Penthouse",
-    "ruby": "ぺんとはうす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WyAO5",
-    "spotify_artist_id": "50QaWH5OLY3Pkt1XNCGk6L",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "BoA",
-    "ruby": "ぼあ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2yhCIy",
-    "spotify_artist_id": "4muJrGMndyYWqZtfk8OWy4",
-    "tags": [
-      "女性ソロ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "BOYSTYLE",
-    "ruby": "ぼーいすたいる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3k4013",
-    "spotify_artist_id": "5DTWsxuQv9Sb9QszMjUQZT",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "BOYNEXTDOOR",
-    "ruby": "ぼーいねくすとどあ",
-    "aliases": [
-      "ボネクド",
-      "ボイネク"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vcMcc",
-    "spotify_artist_id": "4hnHLgMSOiqERWBL4jINP1",
-    "tags": [
-      "男性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "BOØWY",
-    "ruby": "ぼうい",
-    "aliases": [
-      "BOOWY",
-      "ボーイ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aPic8",
-    "spotify_artist_id": "0pr3ep0knQaPHEZ2X8niA0",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "放課後ティータイム",
-    "ruby": "ほうかごてぃーたいむ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ED2cn",
-    "spotify_artist_id": "1cXxia1Q2VDTjWe8X2Jydm",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "宝鐘マリン",
-    "ruby": "ほうしょうまりん",
-    "aliases": [
-      "まりんちゃん",
-      "船長"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vENRp",
-    "spotify_artist_id": "5XaBNKQo65yYcjNA8wQPOk",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -22812,6 +22691,240 @@
     "description": "BABYMETALの代表曲をまとめた公式のプレイリスト「This Is BABYMETAL」",
     "tags": [
       "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-22",
+    "updated_date": "2026-11-22",
+    "color": ""
+  },
+  {
+    "id": "artist-1014",
+    "name": "Berryz工房",
+    "ruby": "べりーずこうぼう",
+    "kana": "ベリーズコウボウ",
+    "romaji": [
+      "beriizukoubou",
+      "berryz"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Ale9C",
+    "spotify_artist_id": "2KSp7awSXNzHB7FlXQQT9f",
+    "official_site": null,
+    "description": "Berryz工房の代表曲をまとめた公式のプレイリスト「This Is Berryz工房」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-22",
+    "updated_date": "2026-11-22",
+    "color": ""
+  },
+  {
+    "id": "artist-1015",
+    "name": "Belle",
+    "ruby": "べる",
+    "kana": "ベル",
+    "romaji": [
+      "belle"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ka3L8",
+    "spotify_artist_id": "1m9ZvxLFfX9avls54a0y40",
+    "official_site": null,
+    "description": "Belleの代表曲をまとめた公式のプレイリスト「This Is Belle」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-22",
+    "updated_date": "2026-11-22",
+    "color": ""
+  },
+  {
+    "id": "artist-1016",
+    "name": "変態紳士クラブ",
+    "ruby": "へんたいしんしくらぶ",
+    "kana": "ヘンタイシンシクラブ",
+    "romaji": [
+      "hentaishinshikurabu",
+      "hentaisinsikurabu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2DSmOc",
+    "spotify_artist_id": "4vN78fN1iEh83Pgaesw2jU",
+    "official_site": null,
+    "description": "変態紳士クラブの代表曲をまとめた公式のプレイリスト「This Is 変態紳士クラブ」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-22",
+    "updated_date": "2026-11-22",
+    "color": ""
+  },
+  {
+    "id": "artist-1017",
+    "name": "Penthouse",
+    "ruby": "ぺんとはうす",
+    "kana": "ペントハウス",
+    "romaji": [
+      "penthouse"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WyAO5",
+    "spotify_artist_id": "50QaWH5OLY3Pkt1XNCGk6L",
+    "official_site": null,
+    "description": "Penthouseの代表曲をまとめた公式のプレイリスト「This Is Penthouse」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-22",
+    "updated_date": "2026-11-22",
+    "color": ""
+  },
+  {
+    "id": "artist-1018",
+    "name": "BoA",
+    "ruby": "ぼあ",
+    "kana": "ボア",
+    "romaji": [
+      "boa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2yhCIy",
+    "spotify_artist_id": "4muJrGMndyYWqZtfk8OWy4",
+    "official_site": null,
+    "description": "BoAの代表曲をまとめた公式のプレイリスト「This Is BoA」",
+    "tags": [
+      "女性ソロ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-22",
+    "updated_date": "2026-11-22",
+    "color": ""
+  },
+  {
+    "id": "artist-1019",
+    "name": "BOYSTYLE",
+    "ruby": "ぼーいすたいる",
+    "kana": "ボーイスタイル",
+    "romaji": [
+      "boystyle"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3k4013",
+    "spotify_artist_id": "5DTWsxuQv9Sb9QszMjUQZT",
+    "official_site": null,
+    "description": "BOYSTYLEの代表曲をまとめた公式のプレイリスト「This Is BOYSTYLE」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-22",
+    "updated_date": "2026-11-22",
+    "color": ""
+  },
+  {
+    "id": "artist-1020",
+    "name": "BOYNEXTDOOR",
+    "ruby": "ぼーいねくすとどあ",
+    "kana": "ボーイネクストドア",
+    "romaji": [
+      "boynextdoor"
+    ],
+    "aliases": [
+      "ボネクド",
+      "ボイネク"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vcMcc",
+    "spotify_artist_id": "4hnHLgMSOiqERWBL4jINP1",
+    "official_site": null,
+    "description": "BOYNEXTDOORの代表曲をまとめた公式のプレイリスト「This Is BOYNEXTDOOR」",
+    "tags": [
+      "男性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-22",
+    "updated_date": "2026-11-22",
+    "color": ""
+  },
+  {
+    "id": "artist-1021",
+    "name": "BOØWY",
+    "ruby": "ぼうい",
+    "kana": "ボウイ",
+    "romaji": [
+      "bowy"
+    ],
+    "aliases": [
+      "BOOWY",
+      "ボーイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aPic8",
+    "spotify_artist_id": "0pr3ep0knQaPHEZ2X8niA0",
+    "official_site": null,
+    "description": "BOØWYの代表曲をまとめた公式のプレイリスト「This Is BOØWY」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-22",
+    "updated_date": "2026-11-22",
+    "color": ""
+  },
+  {
+    "id": "artist-1022",
+    "name": "放課後ティータイム",
+    "ruby": "ほうかごてぃーたいむ",
+    "kana": "ホウカゴティータイム",
+    "romaji": [
+      "houkagotiitaimu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ED2cn",
+    "spotify_artist_id": "1cXxia1Q2VDTjWe8X2Jydm",
+    "official_site": null,
+    "description": "放課後ティータイムの代表曲をまとめた公式のプレイリスト「This Is 放課後ティータイム」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-22",
+    "updated_date": "2026-11-22",
+    "color": ""
+  },
+  {
+    "id": "artist-1023",
+    "name": "宝鐘マリン",
+    "ruby": "ほうしょうまりん",
+    "kana": "ホウショウマリン",
+    "romaji": [
+      "houshoumarin",
+      "housyoumarin"
+    ],
+    "aliases": [
+      "まりんちゃん",
+      "船長"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vENRp",
+    "spotify_artist_id": "5XaBNKQo65yYcjNA8wQPOk",
+    "official_site": null,
+    "description": "宝鐘マリンの代表曲をまとめた公式のプレイリスト「This Is 宝鐘マリン」",
+    "tags": [
+      "女性ソロ",
       "J-POP"
     ],
     "status": "published",
