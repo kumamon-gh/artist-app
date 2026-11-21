@@ -1,5 +1,130 @@
 [
   {
+    "name": "fromis_9",
+    "ruby": "ふろみすないん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aLXcB",
+    "spotify_artist_id": "24nUVBIlCGi4twz4nYxJum",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+  {
+    "name": "BaBe",
+    "ruby": "べいぶ",
+    "aliases": [
+      "ベイヴ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0b79i8",
+    "spotify_artist_id": "0pUCAi6fO8nx6PJ54MDa5X",
+    "tags": [
+      "女性グループ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "Hey! Say! JUMP",
+    "ruby": "へいせいじゃんぷ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX3GEz67Ygonf",
+    "spotify_artist_id": "64BB3FFJokfd3owfpnwxb0",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "BABYMONSTER",
+    "ruby": "べいびーもんすたー",
+    "aliases": [
+      "ベビモン",
+      "ベモン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13KEMB",
+    "spotify_artist_id": "1SIocsqdEefUTE6XKGUiVS",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "ペギー葉山",
+    "ruby": "ぺぎーはやま",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sBXeq",
+    "spotify_artist_id": "0SZAB6UQLQCgoFqXWoIdtn",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "ペドロ&カプリシャス",
+    "ruby": "ぺどろあんどかぷりしゃす",
+    "aliases": [
+      "ペドロカプリシャス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1X4eKS",
+    "spotify_artist_id": "3mE9lduvuIBonSOoGRF9AT",
+    "tags": [
+      "男女混成グループ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "BENI",
+    "ruby": "べに",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02aeUn",
+    "spotify_artist_id": "0b2fntUmu7kE2EYjX31tZI",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BENNIE K",
+    "ruby": "べにーけー",
+    "aliases": [
+"ベニーK"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ckal3",
+    "spotify_artist_id": "198kwzJsDRvjEEroTJKzKu",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "PENICILLIN",
+    "ruby": "ぺにしりん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4AdAb6",
+    "spotify_artist_id": "7JMKZglYmjZYT9hi7K6weT",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BABYMETAL",
+    "ruby": "べびーめたる",
+    "aliases": [
+      "ベビメタ",
+      "BM",
+"ベイビーメタル"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zaLjb",
+    "spotify_artist_id": "630wzNP2OL7fl4Xl0GnMWq",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
