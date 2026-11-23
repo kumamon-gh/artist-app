@@ -1,5 +1,129 @@
 [
   {
+    "name": "松浦亜弥",
+    "ruby": "まつうらあや",
+    "aliases": [
+      "あやや"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO05cS9d",
+    "spotify_artist_id": "0g60HHRfC4zC5PGumCdarL",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "松尾和子",
+    "ruby": "まつおかずこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0QlEZ5",
+    "spotify_artist_id": "1wrp6o666RQznIpcfb3n0w",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "MAX",
+    "ruby": "まっくす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ISPSk",
+    "spotify_artist_id": "1k1PGWbco3gP4GGTLYXHLU",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "松崎しげる",
+    "ruby": "まつざきしげる",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02Vsiy",
+    "spotify_artist_id": "0ciE5qbNDshbartb5qgybu",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "J-POP"
+    ]
+  },
+{
+    "name": "真っ白なキャンバス",
+    "ruby": "ましろなきゃんばす",
+    "aliases": [
+      "白キャン",
+      "しろきゃん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3j2KLD",
+    "spotify_artist_id": "5CcRUNwPAzyW7HIKePYFUM",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "松平健",
+    "ruby": "まつだいらけん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO34nW82",
+    "spotify_artist_id": "5dQEL2DSm82YsiI3GnD8t6",
+    "tags": [
+      "男性ソロ",
+"J-POP",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "松たか子",
+    "ruby": "まつたかこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14UsmU",
+    "spotify_artist_id": "1UDGHCGnWyikwidtaymNpz",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "松田樹利亜",
+    "ruby": "まつだじゅりあ",
+    "aliases": [
+"松田じゅりあ"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yfI7p",
+    "spotify_artist_id": "2HpmDniUFK02c4bIgZabNs",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "松田聖子",
+    "ruby": "まつだせいこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO27z8kb",
+    "spotify_artist_id": "3E5NLQpQbd0eJ18XO9zC0h",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "松谷祐子",
+    "ruby": "まつたにゆうこ",
+    "aliases": [
+      "松谷ゆうこ",
+      "松谷裕子"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nNg9j",
+    "spotify_artist_id": "5K6jTQAlFUUBYyCh5Cfs4Y",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
