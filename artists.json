@@ -1,125 +1,5 @@
 [
   {
-    "name": "僕が見たかった青空",
-    "ruby": "ぼくがみたかったあおぞら",
-    "aliases": [
-      "僕青",
-      "ぼくあお"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wFhW0",
-    "spotify_artist_id": "0ZJdQMcIGWJn4Oh1O5Gku5",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ポケットビスケッツ",
-    "ruby": "ぽけっとびすけっつ",
-    "aliases": [
-      "ポケビ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2n9GqD",
-    "spotify_artist_id": "440bRdM7PVWhSoOtDiIWPL",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "星屑スキャット",
-    "ruby": "ほしくずすきゃっと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2U8b3s",
-    "spotify_artist_id": "4WNOFdq7GKy3y3CWfiNuon",
-    "tags": [
-      "その他",
-      "J-POP"
-    ]
-  },
-{
-    "name": "星野源",
-    "ruby": "ほしのげん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13lSLu",
-    "spotify_artist_id": "1S2S00lgLYLGHWA44qGEUs",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "星街すいせい",
-    "ruby": "ほしまちすいせい",
-    "aliases": [
-      "星街彗星",
-      "すいちゃん"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49Wc2k",
-    "spotify_artist_id": "726WiFmWkohzodUxK3XjHX",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "細川たかし",
-    "ruby": "ほそかわたかし",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hqrT3",
-    "spotify_artist_id": "0Ap43v8UntUyEB5kLb7vac",
-    "tags": [
-      "男性ソロ",
-      "演歌"
-    ]
-  },
-{
-    "name": "布袋寅泰",
-    "ruby": "ほていともやす",
-    "aliases": [
-      "ほていとらやす"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2suNd5",
-    "spotify_artist_id": "4cShXyYZpvnVZYeE3Oukns",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ボニージャックス",
-    "ruby": "ぼにーじゃっくす",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aI5c4",
-    "spotify_artist_id": "3JjKFO9SLShHsIvTNos5Ag",
-    "tags": [
-      "男性グループ",
-      "邦楽"
-    ]
-  },
-{
-    "name": "BONNIE PINK",
-    "ruby": "ぼにーぴんく",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0a7RAH",
-    "spotify_artist_id": "0ogtEa0KT8kmWr6n0UoAqu",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "ホフディラン",
-    "ruby": "ほふでぃらん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2p8DZF",
-    "spotify_artist_id": "47ircJ7HYosHqScopxYS4S",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -23051,6 +22931,243 @@
     "added_date": "2026-11-22",
     "updated_date": "2026-11-22",
     "color": "#e4ac89"
+  },
+  {
+    "id": "artist-1024",
+    "name": "僕が見たかった青空",
+    "ruby": "ぼくがみたかったあおぞら",
+    "kana": "ボクガミタカッタアオゾラ",
+    "romaji": [
+      "bokugamitakattaaozora"
+    ],
+    "aliases": [
+      "僕青",
+      "ぼくあお"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wFhW0",
+    "spotify_artist_id": "0ZJdQMcIGWJn4Oh1O5Gku5",
+    "official_site": null,
+    "description": "僕が見たかった青空の代表曲をまとめた公式のプレイリスト「This Is 僕が見たかった青空」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1025",
+    "name": "ポケットビスケッツ",
+    "ruby": "ぽけっとびすけっつ",
+    "kana": "ポケットビスケッツ",
+    "romaji": [
+      "pokettobisukettsu",
+      "pokettobisukettu"
+    ],
+    "aliases": [
+      "ポケビ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2n9GqD",
+    "spotify_artist_id": "440bRdM7PVWhSoOtDiIWPL",
+    "official_site": null,
+    "description": "ポケットビスケッツの代表曲をまとめた公式のプレイリスト「This Is ポケットビスケッツ」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1026",
+    "name": "星屑スキャット",
+    "ruby": "ほしくずすきゃっと",
+    "kana": "ホシクズスキャット",
+    "romaji": [
+      "hoshikuzusukyatto",
+      "hosikuzusukyatto"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2U8b3s",
+    "spotify_artist_id": "4WNOFdq7GKy3y3CWfiNuon",
+    "official_site": null,
+    "description": "星屑スキャットの代表曲をまとめた公式のプレイリスト「This Is 星屑スキャット」",
+    "tags": [
+      "その他",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1027",
+    "name": "星野源",
+    "ruby": "ほしのげん",
+    "kana": "ホシノゲン",
+    "romaji": [
+      "hoshinogen",
+      "hosinogen"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13lSLu",
+    "spotify_artist_id": "1S2S00lgLYLGHWA44qGEUs",
+    "official_site": null,
+    "description": "星野源の代表曲をまとめた公式のプレイリスト「This Is 星野源」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1028",
+    "name": "星街すいせい",
+    "ruby": "ほしまちすいせい",
+    "kana": "ホシマチスイセイ",
+    "romaji": [
+      "hoshimachisuisei",
+      "hosimatisuisei"
+    ],
+    "aliases": [
+      "星街彗星",
+      "すいちゃん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49Wc2k",
+    "spotify_artist_id": "726WiFmWkohzodUxK3XjHX",
+    "official_site": null,
+    "description": "星街すいせいの代表曲をまとめた公式のプレイリスト「This Is 星街すいせい」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1029",
+    "name": "細川たかし",
+    "ruby": "ほそかわたかし",
+    "kana": "ホソカワタカシ",
+    "romaji": [
+      "hosokawatakashi",
+      "hosokawatakasi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hqrT3",
+    "spotify_artist_id": "0Ap43v8UntUyEB5kLb7vac",
+    "official_site": null,
+    "description": "細川たかしの代表曲をまとめた公式のプレイリスト「This Is 細川たかし」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1030",
+    "name": "布袋寅泰",
+    "ruby": "ほていともやす",
+    "kana": "ホテイトモヤス",
+    "romaji": [
+      "hoteitomoyasu"
+    ],
+    "aliases": [
+      "ほていとらやす"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2suNd5",
+    "spotify_artist_id": "4cShXyYZpvnVZYeE3Oukns",
+    "official_site": null,
+    "description": "布袋寅泰の代表曲をまとめた公式のプレイリスト「This Is 布袋寅泰」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1031",
+    "name": "ボニージャックス",
+    "ruby": "ぼにーじゃっくす",
+    "kana": "ボニージャックス",
+    "romaji": [
+      "boniijakkusu",
+      "boniizyakkusu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aI5c4",
+    "spotify_artist_id": "3JjKFO9SLShHsIvTNos5Ag",
+    "official_site": null,
+    "description": "ボニージャックスの代表曲をまとめた公式のプレイリスト「This Is ボニージャックス」",
+    "tags": [
+      "男性グループ",
+      "邦楽"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1032",
+    "name": "BONNIE PINK",
+    "ruby": "ぼにーぴんく",
+    "kana": "ボニーピンク",
+    "romaji": [
+      "bonniepink"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0a7RAH",
+    "spotify_artist_id": "0ogtEa0KT8kmWr6n0UoAqu",
+    "official_site": null,
+    "description": "BONNIE PINKの代表曲をまとめた公式のプレイリスト「This Is BONNIE PINK」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1033",
+    "name": "ホフディラン",
+    "ruby": "ほふでぃらん",
+    "kana": "ホフディラン",
+    "romaji": [
+      "hofudiran",
+      "hohudiran"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2p8DZF",
+    "spotify_artist_id": "47ircJ7HYosHqScopxYS4S",
+    "official_site": null,
+    "description": "ホフディランの代表曲をまとめた公式のプレイリスト「This Is ホフディラン」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
   },
   {
     "id": "artist-597",
