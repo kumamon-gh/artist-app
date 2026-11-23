@@ -1,111 +1,5 @@
 [
   {
-    "name": "HOME MADE 家族",
-    "ruby": "ほーむめいどかぞく",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1A2Q4y",
-    "spotify_artist_id": "2KnTQRef7hcVlK7vO9wPzI",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "堀内孝雄",
-    "ruby": "ほりうちたかお",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bsMRr",
-    "spotify_artist_id": "74EqlJg3OfXSbotSJh5qT4",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "堀江美都子",
-    "ruby": "ほりえみつこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nO3Yd",
-    "spotify_artist_id": "7pacWk2FN7ZpJ7XwRk5vTZ",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "堀ちえみ",
-    "ruby": "ほりちえみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3BHBwk",
-    "spotify_artist_id": "67dv51fxuwHqUQKr9hyQVO",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "ポルノグラフィティ",
-    "ruby": "ぽるのぐらふぃてぃ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO37Zxtr",
-    "spotify_artist_id": "5jQa0f5MIMPEK7udL7UpI6",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "BORO",
-    "ruby": "ぼろ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00UpL0",
-    "spotify_artist_id": "08WZbsWklzgAKRMV4yxuXy",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "Whiteberry",
-    "ruby": "ほわいとべりー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cwev8",
-    "spotify_artist_id": "76oZZyUq2OsR4uvuZVYdPn",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "HONG JIN YOUNG",
-    "ruby": "ほんじにょん",
-    "aliases": [
-      "洪真英"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oE3xm",
-    "spotify_artist_id": "5LwiBgLTllBUiqQGNiQ7jY",
-    "tags": [
-      "女性ソロ",
-      "演歌",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "本田美奈子",
-    "ruby": "ほんだみなこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO44HdBc",
-    "spotify_artist_id": "6ToPfbLRY3UhRHWu1ZBgbi",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -23272,6 +23166,216 @@
     "tags": [
       "男性グループ",
       "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1034",
+    "name": "HOME MADE 家族",
+    "ruby": "ほーむめいどかぞく",
+    "kana": "ホームメイドカゾク",
+    "romaji": [
+      "hoomumeidokazoku",
+      "homemade"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1A2Q4y",
+    "spotify_artist_id": "2KnTQRef7hcVlK7vO9wPzI",
+    "official_site": null,
+    "description": "HOME MADE 家族の代表曲をまとめた公式のプレイリスト「This Is HOME MADE 家族」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1035",
+    "name": "堀内孝雄",
+    "ruby": "ほりうちたかお",
+    "kana": "ホリウチタカオ",
+    "romaji": [
+      "horiuchitakao",
+      "horiutitakao"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bsMRr",
+    "spotify_artist_id": "74EqlJg3OfXSbotSJh5qT4",
+    "official_site": null,
+    "description": "堀内孝雄の代表曲をまとめた公式のプレイリスト「This Is 堀内孝雄」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1036",
+    "name": "堀江美都子",
+    "ruby": "ほりえみつこ",
+    "kana": "ホリエミツコ",
+    "romaji": [
+      "horiemitsuko",
+      "horiemituko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nO3Yd",
+    "spotify_artist_id": "7pacWk2FN7ZpJ7XwRk5vTZ",
+    "official_site": null,
+    "description": "堀江美都子の代表曲をまとめた公式のプレイリスト「This Is 堀江美都子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1037",
+    "name": "堀ちえみ",
+    "ruby": "ほりちえみ",
+    "kana": "ホリチエミ",
+    "romaji": [
+      "horichiemi",
+      "horitiemi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3BHBwk",
+    "spotify_artist_id": "67dv51fxuwHqUQKr9hyQVO",
+    "official_site": null,
+    "description": "堀ちえみの代表曲をまとめた公式のプレイリスト「This Is 堀ちえみ」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1038",
+    "name": "ポルノグラフィティ",
+    "ruby": "ぽるのぐらふぃてぃ",
+    "kana": "ポルノグラフィティ",
+    "romaji": [
+      "porunogurafiti",
+      "porunogurahiti"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO37Zxtr",
+    "spotify_artist_id": "5jQa0f5MIMPEK7udL7UpI6",
+    "official_site": null,
+    "description": "ポルノグラフィティの代表曲をまとめた公式のプレイリスト「This Is ポルノグラフィティ」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1039",
+    "name": "BORO",
+    "ruby": "ぼろ",
+    "kana": "ボロ",
+    "romaji": [
+      "boro"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00UpL0",
+    "spotify_artist_id": "08WZbsWklzgAKRMV4yxuXy",
+    "official_site": null,
+    "description": "BOROの代表曲をまとめた公式のプレイリスト「This Is BORO」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1040",
+    "name": "Whiteberry",
+    "ruby": "ほわいとべりー",
+    "kana": "ホワイトベリー",
+    "romaji": [
+      "whiteberry"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cwev8",
+    "spotify_artist_id": "76oZZyUq2OsR4uvuZVYdPn",
+    "official_site": null,
+    "description": "Whiteberryの代表曲をまとめた公式のプレイリスト「This Is Whiteberry」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1041",
+    "name": "HONG JIN YOUNG",
+    "ruby": "ほんじにょん",
+    "kana": "ホンジニョン",
+    "romaji": [
+      "hongjinyoung"
+    ],
+    "aliases": [
+      "洪真英"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oE3xm",
+    "spotify_artist_id": "5LwiBgLTllBUiqQGNiQ7jY",
+    "official_site": null,
+    "description": "HONG JIN YOUNGの代表曲をまとめた公式のプレイリスト「This Is HONG JIN YOUNG」",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1042",
+    "name": "本田美奈子",
+    "ruby": "ほんだみなこ",
+    "kana": "ホンダミナコ",
+    "romaji": [
+      "hondaminako"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO44HdBc",
+    "spotify_artist_id": "6ToPfbLRY3UhRHWu1ZBgbi",
+    "official_site": null,
+    "description": "本田美奈子の代表曲をまとめた公式のプレイリスト「This Is 本田美奈子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
     ],
     "status": "published",
     "added_date": "2026-11-23",
