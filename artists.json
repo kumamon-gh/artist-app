@@ -1,5 +1,111 @@
 [
   {
+    "name": "HOME MADE 家族",
+    "ruby": "ほーむめいどかぞく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1A2Q4y",
+    "spotify_artist_id": "2KnTQRef7hcVlK7vO9wPzI",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "堀内孝雄",
+    "ruby": "ほりうちたかお",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bsMRr",
+    "spotify_artist_id": "74EqlJg3OfXSbotSJh5qT4",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "堀江美都子",
+    "ruby": "ほりえみつこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nO3Yd",
+    "spotify_artist_id": "7pacWk2FN7ZpJ7XwRk5vTZ",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "堀ちえみ",
+    "ruby": "ほりちえみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3BHBwk",
+    "spotify_artist_id": "67dv51fxuwHqUQKr9hyQVO",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "ポルノグラフィティ",
+    "ruby": "ぽるのぐらふぃてぃ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO37Zxtr",
+    "spotify_artist_id": "5jQa0f5MIMPEK7udL7UpI6",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "BORO",
+    "ruby": "ぼろ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00UpL0",
+    "spotify_artist_id": "08WZbsWklzgAKRMV4yxuXy",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "Whiteberry",
+    "ruby": "ほわいとべりー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cwev8",
+    "spotify_artist_id": "76oZZyUq2OsR4uvuZVYdPn",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "HONG JIN YOUNG",
+    "ruby": "ほんじにょん",
+    "aliases": [
+      "洪真英"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oE3xm",
+    "spotify_artist_id": "5LwiBgLTllBUiqQGNiQ7jY",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "本田美奈子",
+    "ruby": "ほんだみなこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO44HdBc",
+    "spotify_artist_id": "6ToPfbLRY3UhRHWu1ZBgbi",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -23112,6 +23218,9 @@
     ],
     "aliases": [],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aI5c4",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19Tvwc"
+    ],
     "spotify_artist_id": "3JjKFO9SLShHsIvTNos5Ag",
     "official_site": null,
     "description": "ボニージャックスの代表曲をまとめた公式のプレイリスト「This Is ボニージャックス」",
