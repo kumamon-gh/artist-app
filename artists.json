@@ -1,5 +1,123 @@
 [
   {
+    "name": "松任谷由実",
+    "ruby": "まつとうやゆみ",
+    "aliases": [
+      "ユーミン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ZCGRG",
+    "spotify_artist_id": "1LQQtqc1vQ1neUgZrjYlEU",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "松原のぶえ",
+    "ruby": "まつばらのぶえ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ZTHhw",
+    "spotify_artist_id": "1Mj8m97Dobw60RLxQtLbDZ",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ]
+  },
+  {
+    "name": "松本伊代",
+    "ruby": "まつもといよ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1h1scb",
+    "spotify_artist_id": "2eLUjnfBPufpag8ME0p1Zk",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "松本英子",
+    "ruby": "まつもとえいこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0QTL35",
+    "spotify_artist_id": "1xlZb7d5glUaM8VXG1zjwa",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "松本梨香",
+    "ruby": "まつもとりか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ahDQR",
+    "spotify_artist_id": "72GURBGvhqtUrJctxI6tE9",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "松山恵子",
+    "ruby": "まつやまけいこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2dTNmh",
+    "spotify_artist_id": "3OCtY2aDH7sEcDbR6sAOt3",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "松山千春",
+    "ruby": "まつやまちはる",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YaPh7",
+    "spotify_artist_id": "6IyRW1yZPSZtdH7uYOeqOq",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "円広志",
+    "ruby": "まどかひろし",
+    "aliases": [
+      "まるひろし"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0a7PnX",
+    "spotify_artist_id": "0ogyuK8Y9UqJ8NTMM1TFpU",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "まねきケチャ",
+    "ruby": "まねきけちゃ",
+    "aliases": [
+      "まねケチャ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0o9B4Y",
+    "spotify_artist_id": "0LA2C0Cbh1jk7lDtQiTehi",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "まふまふ",
+    "ruby": "まふまふ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ORKG4",
+    "spotify_artist_id": "6t6aXZlmnAF1VuiG8BVjQZ",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
