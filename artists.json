@@ -22955,7 +22955,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-1025",
@@ -22980,7 +22980,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-1026",
@@ -23003,7 +23003,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-1027",
@@ -23026,7 +23026,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-1028",
@@ -23052,7 +23052,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-1029",
@@ -23075,7 +23075,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#e5ad89"
   },
   {
     "id": "artist-1030",
@@ -23099,7 +23099,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1031",
@@ -23115,6 +23115,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19Tvwc"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19Tvwc": "#ffc964"
+    },
     "spotify_artist_id": "3JjKFO9SLShHsIvTNos5Ag",
     "official_site": null,
     "description": "ボニージャックスの代表曲をまとめた公式のプレイリスト「This Is ボニージャックス」",
@@ -23125,7 +23128,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-1032",
@@ -23147,7 +23150,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-1033",
@@ -23170,7 +23173,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-1034",
@@ -23193,7 +23196,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-1035",
@@ -23217,7 +23220,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-1036",
@@ -23240,7 +23243,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#e4ac8a"
   },
   {
     "id": "artist-1037",
@@ -23264,7 +23267,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-1038",
@@ -23287,7 +23290,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-1039",
@@ -23309,7 +23312,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-1040",
@@ -23331,7 +23334,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1041",
@@ -23357,7 +23360,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-1042",
@@ -23380,7 +23383,7 @@
     "status": "published",
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
-    "color": ""
+    "color": "#f37e00"
   },
   {
     "id": "artist-597",
