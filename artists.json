@@ -1,5 +1,132 @@
 [
   {
+    "name": "MAHO堂",
+    "ruby": "まほうどう",
+    "aliases": [
+      "マホーどう"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vGttC",
+    "spotify_artist_id": "4iaXf3pKcpKpWrIaPDg2li",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "MAMAMOO",
+    "ruby": "ままむ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vnONy",
+    "spotify_artist_id": "0XATRDCYuuGhk0oE7C0o5G",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+  {
+    "name": "黛ジュン",
+    "ruby": "まゆずみじゅん",
+    "aliases": [
+      "まゆみじゅん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zdl5f",
+    "spotify_artist_id": "6354M4nd7CU1dSHwyxLzSf",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "マルシア",
+    "ruby": "まるしあ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2r2idP",
+    "spotify_artist_id": "4as88NLWqAIUGzORyyYIXD",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "マルシィ",
+    "ruby": "まるしぃ",
+    "aliases": [
+      "マルシー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nBXOM",
+    "spotify_artist_id": "7oQ6zxSp4eQjvVkk9rGIDV",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "丸山圭子",
+    "ruby": "まるやまけいこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2J61nb",
+    "spotify_artist_id": "4EsSNrxF7kdKRsq5bH0esd",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "馬渡松子",
+    "ruby": "まわたりまつこ",
+    "aliases": [
+      "うまわたりまつこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2DnLTP",
+    "spotify_artist_id": "4uXVncHzrGNwBaQHOWLGG5",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "MAN WITH A MISSION",
+    "ruby": "まんうぃずあみっしょん",
+    "aliases": [
+      "マンウィズ",
+      "MWAM"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2dsNpi",
+    "spotify_artist_id": "3NTbOmzlj2cL86XFuDVFvZ",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "ME:I",
+    "ruby": "みーあい",
+    "aliases": [
+"ME:1",
+"MII",
+"ミイアイ"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0f3BLQ",
+    "spotify_artist_id": "0wsE3L0l083t6bxC8jJefC",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "三浦大知",
+    "ruby": "みうらだいち",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2SYXM4",
+    "spotify_artist_id": "4UTEZqrPqLDOhBfraPNciJ",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
