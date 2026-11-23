@@ -1,5 +1,125 @@
 [
   {
+    "name": "僕が見たかった青空",
+    "ruby": "ぼくがみたかったあおぞら",
+    "aliases": [
+      "僕青",
+      "ぼくあお"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wFhW0",
+    "spotify_artist_id": "0ZJdQMcIGWJn4Oh1O5Gku5",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ポケットビスケッツ",
+    "ruby": "ぽけっとびすけっつ",
+    "aliases": [
+      "ポケビ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2n9GqD",
+    "spotify_artist_id": "440bRdM7PVWhSoOtDiIWPL",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "星屑スキャット",
+    "ruby": "ほしくずすきゃっと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2U8b3s",
+    "spotify_artist_id": "4WNOFdq7GKy3y3CWfiNuon",
+    "tags": [
+      "その他",
+      "J-POP"
+    ]
+  },
+{
+    "name": "星野源",
+    "ruby": "ほしのげん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO13lSLu",
+    "spotify_artist_id": "1S2S00lgLYLGHWA44qGEUs",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "星街すいせい",
+    "ruby": "ほしまちすいせい",
+    "aliases": [
+      "星街彗星",
+      "すいちゃん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49Wc2k",
+    "spotify_artist_id": "726WiFmWkohzodUxK3XjHX",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "細川たかし",
+    "ruby": "ほそかわたかし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hqrT3",
+    "spotify_artist_id": "0Ap43v8UntUyEB5kLb7vac",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "布袋寅泰",
+    "ruby": "ほていともやす",
+    "aliases": [
+      "ほていとらやす"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2suNd5",
+    "spotify_artist_id": "4cShXyYZpvnVZYeE3Oukns",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ボニージャックス",
+    "ruby": "ぼにーじゃっくす",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aI5c4",
+    "spotify_artist_id": "3JjKFO9SLShHsIvTNos5Ag",
+    "tags": [
+      "男性グループ",
+      "邦楽"
+    ]
+  },
+{
+    "name": "BONNIE PINK",
+    "ruby": "ぼにーぴんく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0a7RAH",
+    "spotify_artist_id": "0ogtEa0KT8kmWr6n0UoAqu",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "ホフディラン",
+    "ruby": "ほふでぃらん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2p8DZF",
+    "spotify_artist_id": "47ircJ7HYosHqScopxYS4S",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
