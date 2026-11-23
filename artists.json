@@ -1,123 +1,5 @@
 [
   {
-    "name": "松任谷由実",
-    "ruby": "まつとうやゆみ",
-    "aliases": [
-      "ユーミン"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ZCGRG",
-    "spotify_artist_id": "1LQQtqc1vQ1neUgZrjYlEU",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "松原のぶえ",
-    "ruby": "まつばらのぶえ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ZTHhw",
-    "spotify_artist_id": "1Mj8m97Dobw60RLxQtLbDZ",
-    "tags": [
-      "女性ソロ",
-      "演歌"
-    ]
-  },
-  {
-    "name": "松本伊代",
-    "ruby": "まつもといよ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1h1scb",
-    "spotify_artist_id": "2eLUjnfBPufpag8ME0p1Zk",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "松本英子",
-    "ruby": "まつもとえいこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0QTL35",
-    "spotify_artist_id": "1xlZb7d5glUaM8VXG1zjwa",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "松本梨香",
-    "ruby": "まつもとりか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ahDQR",
-    "spotify_artist_id": "72GURBGvhqtUrJctxI6tE9",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "松山恵子",
-    "ruby": "まつやまけいこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2dTNmh",
-    "spotify_artist_id": "3OCtY2aDH7sEcDbR6sAOt3",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "松山千春",
-    "ruby": "まつやまちはる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YaPh7",
-    "spotify_artist_id": "6IyRW1yZPSZtdH7uYOeqOq",
-    "tags": [
-      "男性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "円広志",
-    "ruby": "まどかひろし",
-    "aliases": [
-      "まるひろし"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0a7PnX",
-    "spotify_artist_id": "0ogyuK8Y9UqJ8NTMM1TFpU",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "まねきケチャ",
-    "ruby": "まねきけちゃ",
-    "aliases": [
-      "まねケチャ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0o9B4Y",
-    "spotify_artist_id": "0LA2C0Cbh1jk7lDtQiTehi",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "まふまふ",
-    "ruby": "まふまふ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ORKG4",
-    "spotify_artist_id": "6t6aXZlmnAF1VuiG8BVjQZ",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -23982,6 +23864,54 @@
     "color": "#e4ac89"
   },
   {
+    "id": "artist-1063",
+    "name": "松任谷由実",
+    "ruby": "まつとうやゆみ",
+    "kana": "マツトウヤユミ",
+    "romaji": [
+      "matsutouyayumi",
+      "matutouyayumi"
+    ],
+    "aliases": [
+      "ユーミン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ZCGRG",
+    "spotify_artist_id": "1LQQtqc1vQ1neUgZrjYlEU",
+    "official_site": null,
+    "description": "松任谷由実の代表曲をまとめた公式のプレイリスト「This Is 松任谷由実」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1064",
+    "name": "松原のぶえ",
+    "ruby": "まつばらのぶえ",
+    "kana": "マツバラノブエ",
+    "romaji": [
+      "matsubaranobue",
+      "matubaranobue"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ZTHhw",
+    "spotify_artist_id": "1Mj8m97Dobw60RLxQtLbDZ",
+    "official_site": null,
+    "description": "松原のぶえの代表曲をまとめた公式のプレイリスト「This Is 松原のぶえ」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
     "id": "artist-597",
     "name": "松原みき",
     "ruby": "まつばらみき",
@@ -24003,6 +23933,196 @@
     "added_date": "2026-11-07",
     "updated_date": "2026-11-07",
     "color": "#ffc863"
+  },
+  {
+    "id": "artist-1065",
+    "name": "松本伊代",
+    "ruby": "まつもといよ",
+    "kana": "マツモトイヨ",
+    "romaji": [
+      "matsumotoiyo",
+      "matumotoiyo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1h1scb",
+    "spotify_artist_id": "2eLUjnfBPufpag8ME0p1Zk",
+    "official_site": null,
+    "description": "松本伊代の代表曲をまとめた公式のプレイリスト「This Is 松本伊代」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1066",
+    "name": "松本英子",
+    "ruby": "まつもとえいこ",
+    "kana": "マツモトエイコ",
+    "romaji": [
+      "matsumotoeiko",
+      "matumotoeiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0QTL35",
+    "spotify_artist_id": "1xlZb7d5glUaM8VXG1zjwa",
+    "official_site": null,
+    "description": "松本英子の代表曲をまとめた公式のプレイリスト「This Is 松本英子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1067",
+    "name": "松本梨香",
+    "ruby": "まつもとりか",
+    "kana": "マツモトリカ",
+    "romaji": [
+      "matsumotorika",
+      "matumotorika"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ahDQR",
+    "spotify_artist_id": "72GURBGvhqtUrJctxI6tE9",
+    "official_site": null,
+    "description": "松本梨香の代表曲をまとめた公式のプレイリスト「This Is 松本梨香」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1068",
+    "name": "松山恵子",
+    "ruby": "まつやまけいこ",
+    "kana": "マツヤマケイコ",
+    "romaji": [
+      "matsuyamakeiko",
+      "matuyamakeiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2dTNmh",
+    "spotify_artist_id": "3OCtY2aDH7sEcDbR6sAOt3",
+    "official_site": null,
+    "description": "松山恵子の代表曲をまとめた公式のプレイリスト「This Is 松山恵子」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1069",
+    "name": "松山千春",
+    "ruby": "まつやまちはる",
+    "kana": "マツヤマチハル",
+    "romaji": [
+      "matsuyamachiharu",
+      "matuyamatiharu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YaPh7",
+    "spotify_artist_id": "6IyRW1yZPSZtdH7uYOeqOq",
+    "official_site": null,
+    "description": "松山千春の代表曲をまとめた公式のプレイリスト「This Is 松山千春」",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1070",
+    "name": "円広志",
+    "ruby": "まどかひろし",
+    "kana": "マドカヒロシ",
+    "romaji": [
+      "madokahiroshi",
+      "madokahirosi"
+    ],
+    "aliases": [
+      "まるひろし"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0a7PnX",
+    "spotify_artist_id": "0ogyuK8Y9UqJ8NTMM1TFpU",
+    "official_site": null,
+    "description": "円広志の代表曲をまとめた公式のプレイリスト「This Is 円広志」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1071",
+    "name": "まねきケチャ",
+    "ruby": "まねきけちゃ",
+    "kana": "マネキケチャ",
+    "romaji": [
+      "manekikecha",
+      "manekiketya"
+    ],
+    "aliases": [
+      "まねケチャ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0o9B4Y",
+    "spotify_artist_id": "0LA2C0Cbh1jk7lDtQiTehi",
+    "official_site": null,
+    "description": "まねきケチャの代表曲をまとめた公式のプレイリスト「This Is まねきケチャ」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1072",
+    "name": "まふまふ",
+    "ruby": "まふまふ",
+    "kana": "マフマフ",
+    "romaji": [
+      "mafumafu",
+      "mahumahu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ORKG4",
+    "spotify_artist_id": "6t6aXZlmnAF1VuiG8BVjQZ",
+    "official_site": null,
+    "description": "まふまふの代表曲をまとめた公式のプレイリスト「This Is まふまふ」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
   },
   {
     "id": "artist-189",
