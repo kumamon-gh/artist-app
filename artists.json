@@ -1,5 +1,126 @@
 [
   {
+    "name": "MY FIRST STORY",
+    "ruby": "まいふぁーすとすとーりー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ESr3h",
+    "spotify_artist_id": "6cutt8thPFUICMfxaYerWd",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "My Little Lover",
+    "ruby": "まいりとるらばー",
+    "aliases": [
+      "マイラバ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22b2kO",
+    "spotify_artist_id": "3v8Gnj6Kvl1fShyGgacgu1",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "前川清",
+    "ruby": "まえかわきよし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO39R872",
+    "spotify_artist_id": "5mW0UUGC0yZ1VrQ6dhlaVh",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "マカロニえんぴつ",
+    "ruby": "まかろにえんぴつ",
+    "aliases": [
+      "マカえん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Oi4i5",
+    "spotify_artist_id": "1t17z3vfuc82cxSDMrvryJ",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "マキシマム ザ ホルモン",
+    "ruby": "まきしまむざほるもん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25zEyJ",
+    "spotify_artist_id": "3AMut7lAb1JjINkn8Fmkhu",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "槇原敬之",
+    "ruby": "まきはらのりゆき",
+    "aliases": [
+      "槙原敬之"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22Es2j",
+    "spotify_artist_id": "3vVDusnDA0LcPH3NvZpoyM",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "真心ブラザーズ",
+    "ruby": "まごころぶらざーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rHwqo",
+    "spotify_artist_id": "7vDBc24PdLxDQEF6tGHnzM",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "増位山太志郎",
+    "ruby": "ますいやまたいしろう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WSokq",
+    "spotify_artist_id": "51mFdM3FbeUvOk4RpiTAV0",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "増田恵子",
+    "ruby": "ますだけいこ",
+    "aliases": [
+      "ケイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0anvaQ",
+    "spotify_artist_id": "0oGQeYIyApsnjPVEA4iBKh",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "MAZZEL",
+    "ruby": "まーぜる",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3x5lBN",
+    "spotify_artist_id": "5Zy2tdfVQKbDwpqWcjXg42",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
