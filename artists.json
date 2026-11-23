@@ -1,126 +1,5 @@
 [
   {
-    "name": "MY FIRST STORY",
-    "ruby": "まいふぁーすとすとーりー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ESr3h",
-    "spotify_artist_id": "6cutt8thPFUICMfxaYerWd",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "My Little Lover",
-    "ruby": "まいりとるらばー",
-    "aliases": [
-      "マイラバ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22b2kO",
-    "spotify_artist_id": "3v8Gnj6Kvl1fShyGgacgu1",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "前川清",
-    "ruby": "まえかわきよし",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO39R872",
-    "spotify_artist_id": "5mW0UUGC0yZ1VrQ6dhlaVh",
-    "tags": [
-      "男性ソロ",
-      "演歌",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "マカロニえんぴつ",
-    "ruby": "まかろにえんぴつ",
-    "aliases": [
-      "マカえん"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Oi4i5",
-    "spotify_artist_id": "1t17z3vfuc82cxSDMrvryJ",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "マキシマム ザ ホルモン",
-    "ruby": "まきしまむざほるもん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25zEyJ",
-    "spotify_artist_id": "3AMut7lAb1JjINkn8Fmkhu",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "槇原敬之",
-    "ruby": "まきはらのりゆき",
-    "aliases": [
-      "槙原敬之"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22Es2j",
-    "spotify_artist_id": "3vVDusnDA0LcPH3NvZpoyM",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "真心ブラザーズ",
-    "ruby": "まごころぶらざーず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rHwqo",
-    "spotify_artist_id": "7vDBc24PdLxDQEF6tGHnzM",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "増位山太志郎",
-    "ruby": "ますいやまたいしろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WSokq",
-    "spotify_artist_id": "51mFdM3FbeUvOk4RpiTAV0",
-    "tags": [
-      "男性ソロ",
-      "演歌",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "増田恵子",
-    "ruby": "ますだけいこ",
-    "aliases": [
-      "ケイ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0anvaQ",
-    "spotify_artist_id": "0oGQeYIyApsnjPVEA4iBKh",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "MAZZEL",
-    "ruby": "まーぜる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3x5lBN",
-    "spotify_artist_id": "5Zy2tdfVQKbDwpqWcjXg42",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -23505,6 +23384,241 @@
     "added_date": "2026-11-23",
     "updated_date": "2026-11-23",
     "color": "#f37e00"
+  },
+  {
+    "id": "artist-1043",
+    "name": "MY FIRST STORY",
+    "ruby": "まいふぁーすとすとーりー",
+    "kana": "マイファーストストーリー",
+    "romaji": [
+      "myfirststory"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ESr3h",
+    "spotify_artist_id": "6cutt8thPFUICMfxaYerWd",
+    "official_site": null,
+    "description": "MY FIRST STORYの代表曲をまとめた公式のプレイリスト「This Is MY FIRST STORY」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1044",
+    "name": "My Little Lover",
+    "ruby": "まいりとるらばー",
+    "kana": "マイリトルラバー",
+    "romaji": [
+      "mylittlelover"
+    ],
+    "aliases": [
+      "マイラバ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22b2kO",
+    "spotify_artist_id": "3v8Gnj6Kvl1fShyGgacgu1",
+    "official_site": null,
+    "description": "My Little Loverの代表曲をまとめた公式のプレイリスト「This Is My Little Lover」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1045",
+    "name": "前川清",
+    "ruby": "まえかわきよし",
+    "kana": "マエカワキヨシ",
+    "romaji": [
+      "maekawakiyoshi",
+      "maekawakiyosi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO39R872",
+    "spotify_artist_id": "5mW0UUGC0yZ1VrQ6dhlaVh",
+    "official_site": null,
+    "description": "前川清の代表曲をまとめた公式のプレイリスト「This Is 前川清」",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1046",
+    "name": "マカロニえんぴつ",
+    "ruby": "まかろにえんぴつ",
+    "kana": "マカロニエンピツ",
+    "romaji": [
+      "makaronienpitsu",
+      "makaronienpitu"
+    ],
+    "aliases": [
+      "マカえん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Oi4i5",
+    "spotify_artist_id": "1t17z3vfuc82cxSDMrvryJ",
+    "official_site": null,
+    "description": "マカロニえんぴつの代表曲をまとめた公式のプレイリスト「This Is マカロニえんぴつ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1047",
+    "name": "マキシマム ザ ホルモン",
+    "ruby": "まきしまむざほるもん",
+    "kana": "マキシマムザホルモン",
+    "romaji": [
+      "makishimamuzahorumon",
+      "makisimamuzahorumon"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25zEyJ",
+    "spotify_artist_id": "3AMut7lAb1JjINkn8Fmkhu",
+    "official_site": null,
+    "description": "マキシマム ザ ホルモンの代表曲をまとめた公式のプレイリスト「This Is マキシマム ザ ホルモン」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1048",
+    "name": "槇原敬之",
+    "ruby": "まきはらのりゆき",
+    "kana": "マキハラノリユキ",
+    "romaji": [
+      "makiharanoriyuki"
+    ],
+    "aliases": [
+      "槙原敬之"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22Es2j",
+    "spotify_artist_id": "3vVDusnDA0LcPH3NvZpoyM",
+    "official_site": null,
+    "description": "槇原敬之の代表曲をまとめた公式のプレイリスト「This Is 槇原敬之」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1049",
+    "name": "真心ブラザーズ",
+    "ruby": "まごころぶらざーず",
+    "kana": "マゴコロブラザーズ",
+    "romaji": [
+      "magokoroburazaazu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rHwqo",
+    "spotify_artist_id": "7vDBc24PdLxDQEF6tGHnzM",
+    "official_site": null,
+    "description": "真心ブラザーズの代表曲をまとめた公式のプレイリスト「This Is 真心ブラザーズ」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1050",
+    "name": "増位山太志郎",
+    "ruby": "ますいやまたいしろう",
+    "kana": "マスイヤマタイシロウ",
+    "romaji": [
+      "masuiyamataishirou",
+      "masuiyamataisirou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WSokq",
+    "spotify_artist_id": "51mFdM3FbeUvOk4RpiTAV0",
+    "official_site": null,
+    "description": "増位山太志郎の代表曲をまとめた公式のプレイリスト「This Is 増位山太志郎」",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1051",
+    "name": "増田恵子",
+    "ruby": "ますだけいこ",
+    "kana": "マスダケイコ",
+    "romaji": [
+      "masudakeiko"
+    ],
+    "aliases": [
+      "ケイ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0anvaQ",
+    "spotify_artist_id": "0oGQeYIyApsnjPVEA4iBKh",
+    "official_site": null,
+    "description": "増田恵子の代表曲をまとめた公式のプレイリスト「This Is 増田恵子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
+  },
+  {
+    "id": "artist-1052",
+    "name": "MAZZEL",
+    "ruby": "まーぜる",
+    "kana": "マーゼル",
+    "romaji": [
+      "mazzel"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3x5lBN",
+    "spotify_artist_id": "5Zy2tdfVQKbDwpqWcjXg42",
+    "official_site": null,
+    "description": "MAZZELの代表曲をまとめた公式のプレイリスト「This Is MAZZEL」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-23",
+    "updated_date": "2026-11-23",
+    "color": ""
   },
   {
     "id": "artist-597",
