@@ -1,5 +1,126 @@
 [
   {
+    "name": "水木一郎",
+    "ruby": "みずきいちろう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wUsPw",
+    "spotify_artist_id": "7EhMQ6pNrTq7r9IlIxqG24",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "水樹奈々",
+    "ruby": "みずきなな",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk",
+    "spotify_artist_id": "0W2x7650Lt2CEIIcLHXmsE",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "Mr.Children",
+    "ruby": "みすたーちるどれん",
+    "aliases": [
+      "ミスチル"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MGNSK",
+    "spotify_artist_id": "1qma7XhwZotCAucL7NHVLY",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "水谷千重子",
+    "ruby": "みずたにちえこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tpDN0",
+    "spotify_artist_id": "7ytUzQGnqC2cu06K8fScJO",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "水谷豊",
+    "ruby": "みずたにゆたか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cxU7t",
+    "spotify_artist_id": "5rpF8qIdXpLZzjK4oNkYEM",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "水森かおり",
+    "ruby": "みずもりかおり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dwIzH",
+    "spotify_artist_id": "28XDtBDDNlqwaaRquCRmMN",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "Mrs. GREEN APPLE",
+    "ruby": "みせすぐりーんあっぷる",
+    "aliases": [
+      "ミセス",
+      "MGA",
+      "ミセグリ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX5B7iHF4KS02",
+    "spotify_artist_id": "4QvgGvpgzgyUOo8Yp8LDm9",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "美空ひばり",
+    "ruby": "みそらひばり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0K7lx1",
+    "spotify_artist_id": "1m5pMY5blqJwdxJ7vqQtuN",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲",
+      "演歌"
+    ]
+  },
+  {
+    "name": "三田寛子",
+    "ruby": "みたひろこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1OcP2s",
+    "spotify_artist_id": "37UNk9ptesUDPx7Nfoa3c9",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "観月ありさ",
+    "ruby": "みづきありさ",
+    "aliases": [
+      "みずきありさ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO28cIyS",
+    "spotify_artist_id": "3F9qxTNNdfUkuxCFBHFCHg",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
