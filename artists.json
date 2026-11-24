@@ -1,5 +1,106 @@
 [
   {
+    "name": "三浦祐太朗",
+    "ruby": "みうらゆうたろう",
+    "aliases": [
+"三浦祐太郎"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OMP7z",
+    "spotify_artist_id": "4NV9z38H7a9yNJCzu5Pnp3",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "美川憲一",
+    "ruby": "みかわけんいち",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1oXTHP",
+    "spotify_artist_id": "2rYoZUzfSJHh7YTx4TpxL3",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "演歌"
+    ]
+  },
+{
+    "name": "三木道三",
+    "ruby": "みきどうざん",
+    "aliases": [
+      "DOZAN11"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mc0OE",
+    "spotify_artist_id": "42oPyMDh3Fk3k2uINNKUxU",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "DOZAN11",
+    "ruby": "どーざんいれぶん",
+    "aliases": [
+"どうざんいれぶん
+      "三木道三"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mc0OE",
+    "spotify_artist_id": "42oPyMDh3Fk3k2uINNKUxU",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "みきとP",
+    "ruby": "みきとぴー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Ecyr",
+    "spotify_artist_id": "0iu8aSfeRUY5aUTLpEDo52",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "MISAMO",
+    "ruby": "みさも",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mjKPC",
+    "spotify_artist_id": "0IwZVmMMGE7nNXS7vN9SIo",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "MISIA",
+    "ruby": "みーしゃ",
+    "aliases": [
+      "ミシア"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO21PjiD",
+    "spotify_artist_id": "3uyDATzOGjbGCts7v2eszk",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Ms.OOJA",
+    "ruby": "みすおおじゃ",
+    "aliases": [
+      "ミスオージャ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2yuPfD",
+    "spotify_artist_id": "4mQxvrtY2MbDuUXAhMg5pp",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
