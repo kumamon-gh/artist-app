@@ -16894,6 +16894,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mc0OE"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mc0OE": "#ffc863"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mc0OE": "旧：三木道三"
     },
@@ -16907,7 +16910,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-758",
@@ -24420,7 +24423,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1084",
@@ -24444,7 +24447,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-1085",
@@ -24461,6 +24464,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PCgAK"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PCgAK": "#fea42a"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PCgAK": "現：Dozan11"
     },
@@ -24474,7 +24480,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-1087",
@@ -24496,7 +24502,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-1088",
@@ -24519,7 +24525,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-1089",
@@ -24543,7 +24549,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1090",
@@ -24567,7 +24573,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-1091",
@@ -24590,7 +24596,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-1092",
@@ -24612,7 +24618,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-1093",
@@ -24636,7 +24642,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-1094",
@@ -24659,7 +24665,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-1095",
@@ -24682,7 +24688,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-1096",
@@ -24704,7 +24710,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-1097",
@@ -24730,7 +24736,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-1098",
@@ -24753,7 +24759,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#16d1a6"
   },
   {
     "id": "artist-1099",
@@ -24776,7 +24782,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#f47e01"
   },
   {
     "id": "artist-1100",
@@ -24800,7 +24806,7 @@
     "status": "published",
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-189",
