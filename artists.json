@@ -1,126 +1,5 @@
 [
   {
-    "name": "水木一郎",
-    "ruby": "みずきいちろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wUsPw",
-    "spotify_artist_id": "7EhMQ6pNrTq7r9IlIxqG24",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "水樹奈々",
-    "ruby": "みずきなな",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk",
-    "spotify_artist_id": "0W2x7650Lt2CEIIcLHXmsE",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "Mr.Children",
-    "ruby": "みすたーちるどれん",
-    "aliases": [
-      "ミスチル"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MGNSK",
-    "spotify_artist_id": "1qma7XhwZotCAucL7NHVLY",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "水谷千重子",
-    "ruby": "みずたにちえこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tpDN0",
-    "spotify_artist_id": "7ytUzQGnqC2cu06K8fScJO",
-    "tags": [
-      "女性ソロ",
-      "演歌"
-    ]
-  },
-{
-    "name": "水谷豊",
-    "ruby": "みずたにゆたか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cxU7t",
-    "spotify_artist_id": "5rpF8qIdXpLZzjK4oNkYEM",
-    "tags": [
-      "男性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "水森かおり",
-    "ruby": "みずもりかおり",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dwIzH",
-    "spotify_artist_id": "28XDtBDDNlqwaaRquCRmMN",
-    "tags": [
-      "女性ソロ",
-      "演歌"
-    ]
-  },
-{
-    "name": "Mrs. GREEN APPLE",
-    "ruby": "みせすぐりーんあっぷる",
-    "aliases": [
-      "ミセス",
-      "MGA",
-      "ミセグリ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX5B7iHF4KS02",
-    "spotify_artist_id": "4QvgGvpgzgyUOo8Yp8LDm9",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "美空ひばり",
-    "ruby": "みそらひばり",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0K7lx1",
-    "spotify_artist_id": "1m5pMY5blqJwdxJ7vqQtuN",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲",
-      "演歌"
-    ]
-  },
-  {
-    "name": "三田寛子",
-    "ruby": "みたひろこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1OcP2s",
-    "spotify_artist_id": "37UNk9ptesUDPx7Nfoa3c9",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "観月ありさ",
-    "ruby": "みづきありさ",
-    "aliases": [
-      "みずきありさ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO28cIyS",
-    "spotify_artist_id": "3F9qxTNNdfUkuxCFBHFCHg",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -24681,6 +24560,239 @@
     "spotify_artist_id": "4mQxvrtY2MbDuUXAhMg5pp",
     "official_site": null,
     "description": "Ms.OOJAの代表曲をまとめた公式のプレイリスト「This Is Ms.OOJA」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1091",
+    "name": "水木一郎",
+    "ruby": "みずきいちろう",
+    "kana": "ミズキイチロウ",
+    "romaji": [
+      "mizukiichirou",
+      "mizukiitirou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wUsPw",
+    "spotify_artist_id": "7EhMQ6pNrTq7r9IlIxqG24",
+    "official_site": null,
+    "description": "水木一郎の代表曲をまとめた公式のプレイリスト「This Is 水木一郎」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1092",
+    "name": "水樹奈々",
+    "ruby": "みずきなな",
+    "kana": "ミズキナナ",
+    "romaji": [
+      "mizukinana"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk",
+    "spotify_artist_id": "0W2x7650Lt2CEIIcLHXmsE",
+    "official_site": null,
+    "description": "水樹奈々の代表曲をまとめた公式のプレイリスト「This Is 水樹奈々」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1093",
+    "name": "Mr.Children",
+    "ruby": "みすたーちるどれん",
+    "kana": "ミスターチルドレン",
+    "romaji": [
+      "mrchildren"
+    ],
+    "aliases": [
+      "ミスチル"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MGNSK",
+    "spotify_artist_id": "1qma7XhwZotCAucL7NHVLY",
+    "official_site": null,
+    "description": "Mr.Childrenの代表曲をまとめた公式のプレイリスト「This Is Mr.Children」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1094",
+    "name": "水谷千重子",
+    "ruby": "みずたにちえこ",
+    "kana": "ミズタニチエコ",
+    "romaji": [
+      "mizutanichieko",
+      "mizutanitieko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tpDN0",
+    "spotify_artist_id": "7ytUzQGnqC2cu06K8fScJO",
+    "official_site": null,
+    "description": "水谷千重子の代表曲をまとめた公式のプレイリスト「This Is 水谷千重子」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1095",
+    "name": "水谷豊",
+    "ruby": "みずたにゆたか",
+    "kana": "ミズタニユタカ",
+    "romaji": [
+      "mizutaniyutaka"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cxU7t",
+    "spotify_artist_id": "5rpF8qIdXpLZzjK4oNkYEM",
+    "official_site": null,
+    "description": "水谷豊の代表曲をまとめた公式のプレイリスト「This Is 水谷豊」",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1096",
+    "name": "水森かおり",
+    "ruby": "みずもりかおり",
+    "kana": "ミズモリカオリ",
+    "romaji": [
+      "mizumorikaori"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dwIzH",
+    "spotify_artist_id": "28XDtBDDNlqwaaRquCRmMN",
+    "official_site": null,
+    "description": "水森かおりの代表曲をまとめた公式のプレイリスト「This Is 水森かおり」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1097",
+    "name": "Mrs. GREEN APPLE",
+    "ruby": "みせすぐりーんあっぷる",
+    "kana": "ミセスグリーンアップル",
+    "romaji": [
+      "mrsgreenapple"
+    ],
+    "aliases": [
+      "ミセス",
+      "MGA",
+      "ミセグリ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX5B7iHF4KS02",
+    "spotify_artist_id": "4QvgGvpgzgyUOo8Yp8LDm9",
+    "official_site": null,
+    "description": "Mrs. GREEN APPLEの代表曲をまとめた公式のプレイリスト「This Is Mrs. GREEN APPLE」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1098",
+    "name": "美空ひばり",
+    "ruby": "みそらひばり",
+    "kana": "ミソラヒバリ",
+    "romaji": [
+      "misorahibari"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0K7lx1",
+    "spotify_artist_id": "1m5pMY5blqJwdxJ7vqQtuN",
+    "official_site": null,
+    "description": "美空ひばりの代表曲をまとめた公式のプレイリスト「This Is 美空ひばり」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1099",
+    "name": "三田寛子",
+    "ruby": "みたひろこ",
+    "kana": "ミタヒロコ",
+    "romaji": [
+      "mitahiroko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1OcP2s",
+    "spotify_artist_id": "37UNk9ptesUDPx7Nfoa3c9",
+    "official_site": null,
+    "description": "三田寛子の代表曲をまとめた公式のプレイリスト「This Is 三田寛子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1100",
+    "name": "観月ありさ",
+    "ruby": "みづきありさ",
+    "kana": "ミヅキアリサ",
+    "romaji": [
+      "mizukiarisa"
+    ],
+    "aliases": [
+      "みずきありさ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO28cIyS",
+    "spotify_artist_id": "3F9qxTNNdfUkuxCFBHFCHg",
+    "official_site": null,
+    "description": "観月ありさの代表曲をまとめた公式のプレイリスト「This Is 観月ありさ」",
     "tags": [
       "女性ソロ",
       "J-POP"
