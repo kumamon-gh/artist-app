@@ -16880,7 +16880,7 @@
   },
   {
     "id": "artist-1086",
-    "name": "DOZAN11",
+    "name": "Dozan11",
     "ruby": "どーざんいれぶん",
     "kana": "ドーザンイレブン",
     "romaji": [
@@ -16891,9 +16891,15 @@
       "三木道三"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PCgAK",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mc0OE"
+    ],
+"extra_labels": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mc0OE": "旧：三木道三"
+    },
     "spotify_artist_id": "3aglRurNU9EduFw1mZivzE",
     "official_site": null,
-    "description": "DOZAN11の代表曲をまとめた公式のプレイリスト「This Is DOZAN11」",
+    "description": "Dozan11の代表曲をまとめた公式のプレイリスト「This Is Dozan11」",
     "tags": [
       "男性ソロ",
       "J-POP"
@@ -24449,9 +24455,15 @@
       "mikidouzan"
     ],
     "aliases": [
-      "DOZAN11"
+      "Dozan11"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mc0OE",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PCgAK"
+    ],
+"extra_labels": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PCgAK": "現：Dozan11"
+    },
     "spotify_artist_id": "42oPyMDh3Fk3k2uINNKUxU",
     "official_site": null,
     "description": "三木道三の代表曲をまとめた公式のプレイリスト「This Is 三木道三」",
