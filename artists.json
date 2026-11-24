@@ -1,106 +1,5 @@
 [
   {
-    "name": "三浦祐太朗",
-    "ruby": "みうらゆうたろう",
-    "aliases": [
-"三浦祐太郎"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OMP7z",
-    "spotify_artist_id": "4NV9z38H7a9yNJCzu5Pnp3",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "美川憲一",
-    "ruby": "みかわけんいち",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1oXTHP",
-    "spotify_artist_id": "2rYoZUzfSJHh7YTx4TpxL3",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲",
-      "演歌"
-    ]
-  },
-{
-    "name": "三木道三",
-    "ruby": "みきどうざん",
-    "aliases": [
-      "DOZAN11"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mc0OE",
-    "spotify_artist_id": "42oPyMDh3Fk3k2uINNKUxU",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "DOZAN11",
-    "ruby": "どーざんいれぶん",
-    "aliases": [
-"どうざんいれぶん",
-      "三木道三"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PCgAK",
-    "spotify_artist_id": "3aglRurNU9EduFw1mZivzE",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "みきとP",
-    "ruby": "みきとぴー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Ecyr",
-    "spotify_artist_id": "0iu8aSfeRUY5aUTLpEDo52",
-    "tags": [
-      "ボカロP",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "MISAMO",
-    "ruby": "みさも",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mjKPC",
-    "spotify_artist_id": "0IwZVmMMGE7nNXS7vN9SIo",
-    "tags": [
-      "女性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "MISIA",
-    "ruby": "みーしゃ",
-    "aliases": [
-      "ミシア"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO21PjiD",
-    "spotify_artist_id": "3uyDATzOGjbGCts7v2eszk",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Ms.OOJA",
-    "ruby": "みすおおじゃ",
-    "aliases": [
-      "ミスオージャ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2yuPfD",
-    "spotify_artist_id": "4mQxvrtY2MbDuUXAhMg5pp",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -16980,6 +16879,31 @@
     "color": "#f47e01"
   },
   {
+    "id": "artist-1086",
+    "name": "DOZAN11",
+    "ruby": "どーざんいれぶん",
+    "kana": "ドーザンイレブン",
+    "romaji": [
+      "dozan11"
+    ],
+    "aliases": [
+      "どうざんいれぶん",
+      "三木道三"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PCgAK",
+    "spotify_artist_id": "3aglRurNU9EduFw1mZivzE",
+    "official_site": null,
+    "description": "DOZAN11の代表曲をまとめた公式のプレイリスト「This Is DOZAN11」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
     "id": "artist-758",
     "name": "DOES",
     "ruby": "どーず",
@@ -24467,6 +24391,171 @@
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-1083",
+    "name": "三浦祐太朗",
+    "ruby": "みうらゆうたろう",
+    "kana": "ミウラユウタロウ",
+    "romaji": [
+      "miurayuutarou"
+    ],
+    "aliases": [
+      "三浦祐太郎"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OMP7z",
+    "spotify_artist_id": "4NV9z38H7a9yNJCzu5Pnp3",
+    "official_site": null,
+    "description": "三浦祐太朗の代表曲をまとめた公式のプレイリスト「This Is 三浦祐太朗」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1084",
+    "name": "美川憲一",
+    "ruby": "みかわけんいち",
+    "kana": "ミカワケンイチ",
+    "romaji": [
+      "mikawakenichi",
+      "mikawakeniti"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1oXTHP",
+    "spotify_artist_id": "2rYoZUzfSJHh7YTx4TpxL3",
+    "official_site": null,
+    "description": "美川憲一の代表曲をまとめた公式のプレイリスト「This Is 美川憲一」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1085",
+    "name": "三木道三",
+    "ruby": "みきどうざん",
+    "kana": "ミキドウザン",
+    "romaji": [
+      "mikidouzan"
+    ],
+    "aliases": [
+      "DOZAN11"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mc0OE",
+    "spotify_artist_id": "42oPyMDh3Fk3k2uINNKUxU",
+    "official_site": null,
+    "description": "三木道三の代表曲をまとめた公式のプレイリスト「This Is 三木道三」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1087",
+    "name": "みきとP",
+    "ruby": "みきとぴー",
+    "kana": "ミキトピー",
+    "romaji": [
+      "mikitopii"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Ecyr",
+    "spotify_artist_id": "0iu8aSfeRUY5aUTLpEDo52",
+    "official_site": null,
+    "description": "みきとPの代表曲をまとめた公式のプレイリスト「This Is みきとP」",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1088",
+    "name": "MISAMO",
+    "ruby": "みさも",
+    "kana": "ミサモ",
+    "romaji": [
+      "misamo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mjKPC",
+    "spotify_artist_id": "0IwZVmMMGE7nNXS7vN9SIo",
+    "official_site": null,
+    "description": "MISAMOの代表曲をまとめた公式のプレイリスト「This Is MISAMO」",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1089",
+    "name": "MISIA",
+    "ruby": "みーしゃ",
+    "kana": "ミーシャ",
+    "romaji": [
+      "misia"
+    ],
+    "aliases": [
+      "ミシア"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO21PjiD",
+    "spotify_artist_id": "3uyDATzOGjbGCts7v2eszk",
+    "official_site": null,
+    "description": "MISIAの代表曲をまとめた公式のプレイリスト「This Is MISIA」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
+  },
+  {
+    "id": "artist-1090",
+    "name": "Ms.OOJA",
+    "ruby": "みすおおじゃ",
+    "kana": "ミスオオジャ",
+    "romaji": [
+      "msooja"
+    ],
+    "aliases": [
+      "ミスオージャ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2yuPfD",
+    "spotify_artist_id": "4mQxvrtY2MbDuUXAhMg5pp",
+    "official_site": null,
+    "description": "Ms.OOJAの代表曲をまとめた公式のプレイリスト「This Is Ms.OOJA」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-24",
+    "updated_date": "2026-11-24",
+    "color": ""
   },
   {
     "id": "artist-189",
