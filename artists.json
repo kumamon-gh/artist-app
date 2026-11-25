@@ -1,126 +1,5 @@
 [
   {
-    "name": "Thee Michelle Gun Elephant",
-    "ruby": "みっしぇるがんえれふぁんと",
-    "aliases": [
-      "TMGE"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vXQA6",
-    "spotify_artist_id": "2DBcgbvakjiv4Yi9bRyjVX",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "満島ひかり",
-    "ruby": "みつしまひかり",
-    "aliases": [
-      "満島光",
-    "まんしまひかり"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2W1AWf",
-    "spotify_artist_id": "4ZX8Wr8KHHrW7radu6IwYG",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "光永亮太",
-    "ruby": "みつながりょうた",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bm9HS",
-    "spotify_artist_id": "66DVBjbeBnQKYh75Is7jQw",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "湊あくあ",
-    "ruby": "みなとあくあ",
-    "aliases": [
-      "あくたん"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3X3mXD",
-    "spotify_artist_id": "6GHr4rGFHGRUuzuCuxJA0f",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "美波",
-    "ruby": "みなみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Z5nkF",
-    "spotify_artist_id": "1KXJUpTiNeMv93LrJbbm7G",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "南沙織",
-    "ruby": "みなみさおり",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Q3gfW",
-    "spotify_artist_id": "4Q1uC5VlYJw6cnl37BkGS3",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "南野陽子",
-    "ruby": "みなみのようこ",
-    "aliases": [
-      "ナンノ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3sJZf2",
-    "spotify_artist_id": "5Sk84Oai88Tdool4QpbHa5",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "三波春夫",
-    "ruby": "みなみはるお",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4q03jr",
-    "spotify_artist_id": "7sNPjkkxGTUvMWqrlgztni",
-    "tags": [
-      "男性ソロ",
-      "演歌",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "南佳孝",
-    "ruby": "みなみよしたか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO34oPmN",
-    "spotify_artist_id": "5dS698oTdel4MldPvYoj7p",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ミニモニ。",
-    "ruby": "みにもに",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jxPin",
-    "spotify_artist_id": "5D2ptJBfU9qF7EkRwBebkk",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -24928,6 +24807,240 @@
     "added_date": "2026-11-24",
     "updated_date": "2026-11-24",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-1101",
+    "name": "Thee Michelle Gun Elephant",
+    "ruby": "みっしぇるがんえれふぁんと",
+    "kana": "ミッシェルガンエレファント",
+    "romaji": [
+      "theemichellegunelephant"
+    ],
+    "aliases": [
+      "TMGE"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vXQA6",
+    "spotify_artist_id": "2DBcgbvakjiv4Yi9bRyjVX",
+    "official_site": null,
+    "description": "Thee Michelle Gun Elephantの代表曲をまとめた公式のプレイリスト「This Is Thee Michelle Gun Elephant」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-25",
+    "updated_date": "2026-11-25",
+    "color": ""
+  },
+  {
+    "id": "artist-1102",
+    "name": "満島ひかり",
+    "ruby": "みつしまひかり",
+    "kana": "ミツシマヒカリ",
+    "romaji": [
+      "mitsushimahikari",
+      "mitusimahikari"
+    ],
+    "aliases": [
+      "満島光",
+      "まんしまひかり"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2W1AWf",
+    "spotify_artist_id": "4ZX8Wr8KHHrW7radu6IwYG",
+    "official_site": null,
+    "description": "満島ひかりの代表曲をまとめた公式のプレイリスト「This Is 満島ひかり」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-25",
+    "updated_date": "2026-11-25",
+    "color": ""
+  },
+  {
+    "id": "artist-1103",
+    "name": "光永亮太",
+    "ruby": "みつながりょうた",
+    "kana": "ミツナガリョウタ",
+    "romaji": [
+      "mitsunagaryouta",
+      "mitunagaryouta"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bm9HS",
+    "spotify_artist_id": "66DVBjbeBnQKYh75Is7jQw",
+    "official_site": null,
+    "description": "光永亮太の代表曲をまとめた公式のプレイリスト「This Is 光永亮太」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-25",
+    "updated_date": "2026-11-25",
+    "color": ""
+  },
+  {
+    "id": "artist-1104",
+    "name": "湊あくあ",
+    "ruby": "みなとあくあ",
+    "kana": "ミナトアクア",
+    "romaji": [
+      "minatoakua"
+    ],
+    "aliases": [
+      "あくたん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3X3mXD",
+    "spotify_artist_id": "6GHr4rGFHGRUuzuCuxJA0f",
+    "official_site": null,
+    "description": "湊あくあの代表曲をまとめた公式のプレイリスト「This Is 湊あくあ」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-25",
+    "updated_date": "2026-11-25",
+    "color": ""
+  },
+  {
+    "id": "artist-1105",
+    "name": "美波",
+    "ruby": "みなみ",
+    "kana": "ミナミ",
+    "romaji": [
+      "minami"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Z5nkF",
+    "spotify_artist_id": "1KXJUpTiNeMv93LrJbbm7G",
+    "official_site": null,
+    "description": "美波の代表曲をまとめた公式のプレイリスト「This Is 美波」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-25",
+    "updated_date": "2026-11-25",
+    "color": ""
+  },
+  {
+    "id": "artist-1106",
+    "name": "南沙織",
+    "ruby": "みなみさおり",
+    "kana": "ミナミサオリ",
+    "romaji": [
+      "minamisaori"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Q3gfW",
+    "spotify_artist_id": "4Q1uC5VlYJw6cnl37BkGS3",
+    "official_site": null,
+    "description": "南沙織の代表曲をまとめた公式のプレイリスト「This Is 南沙織」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-25",
+    "updated_date": "2026-11-25",
+    "color": ""
+  },
+  {
+    "id": "artist-1107",
+    "name": "南野陽子",
+    "ruby": "みなみのようこ",
+    "kana": "ミナミノヨウコ",
+    "romaji": [
+      "minaminoyouko"
+    ],
+    "aliases": [
+      "ナンノ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3sJZf2",
+    "spotify_artist_id": "5Sk84Oai88Tdool4QpbHa5",
+    "official_site": null,
+    "description": "南野陽子の代表曲をまとめた公式のプレイリスト「This Is 南野陽子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-25",
+    "updated_date": "2026-11-25",
+    "color": ""
+  },
+  {
+    "id": "artist-1108",
+    "name": "三波春夫",
+    "ruby": "みなみはるお",
+    "kana": "ミナミハルオ",
+    "romaji": [
+      "minamiharuo"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4q03jr",
+    "spotify_artist_id": "7sNPjkkxGTUvMWqrlgztni",
+    "official_site": null,
+    "description": "三波春夫の代表曲をまとめた公式のプレイリスト「This Is 三波春夫」",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-25",
+    "updated_date": "2026-11-25",
+    "color": ""
+  },
+  {
+    "id": "artist-1109",
+    "name": "南佳孝",
+    "ruby": "みなみよしたか",
+    "kana": "ミナミヨシタカ",
+    "romaji": [
+      "minamiyoshitaka",
+      "minamiyositaka"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO34oPmN",
+    "spotify_artist_id": "5dS698oTdel4MldPvYoj7p",
+    "official_site": null,
+    "description": "南佳孝の代表曲をまとめた公式のプレイリスト「This Is 南佳孝」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-25",
+    "updated_date": "2026-11-25",
+    "color": ""
+  },
+  {
+    "id": "artist-1110",
+    "name": "ミニモニ。",
+    "ruby": "みにもに",
+    "kana": "ミニモニ",
+    "romaji": [
+      "minimoni"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jxPin",
+    "spotify_artist_id": "5D2ptJBfU9qF7EkRwBebkk",
+    "official_site": null,
+    "description": "ミニモニ。の代表曲をまとめた公式のプレイリスト「This Is ミニモニ。」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-25",
+    "updated_date": "2026-11-25",
+    "color": ""
   },
   {
     "id": "artist-189",
