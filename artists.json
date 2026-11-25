@@ -1,5 +1,127 @@
 [
   {
+    "name": "三橋美智也",
+    "ruby": "みはしみちや",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO09Mnzq",
+    "spotify_artist_id": "0nGOkT5AWIenLpeKbanltU",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "mihimaru GT",
+    "ruby": "みひまるじーてぃー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1e2VtU",
+    "spotify_artist_id": "29PeG6G6C986jnRPBECm4D",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "宮内タカユキ",
+    "ruby": "みやうちたかゆき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0yjj4U",
+    "spotify_artist_id": "12sIh1TmRrY9dX59XA4D71",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "MEOVV",
+    "ruby": "みやお",
+    "aliases": [
+"MEOW",
+"メオブ",
+"メオヴ"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00vFm1",
+    "spotify_artist_id": "08hHTBHlv0WRXWlyrsb6Kv",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "都はるみ",
+    "ruby": "みやこはるみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tAixu",
+    "spotify_artist_id": "5TIK7wdMeoU5BGFP1mi8vC",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "宮野真守",
+    "ruby": "みやのまもる",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IaZ6m",
+    "spotify_artist_id": "1iR65pQAV4ssTTf9JRNr9X",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "MIYAVI",
+    "ruby": "みやび",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pSuLI",
+    "spotify_artist_id": "7sBtBCNVRujQhaHDODkfTN",
+    "tags": [
+      "その他",
+      "J-POP"
+    ]
+  },
+{
+    "name": "三山ひろし",
+    "ruby": "みやまひろし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q8JGx",
+    "spotify_artist_id": "1w61Z4Tm20rD2lYIxw0f8K",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "宮本笑里",
+    "ruby": "みやもとえみり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dEMnt",
+    "spotify_artist_id": "29aWsI0zQQ53hKuM2V19ti",
+    "tags": [
+      "その他",
+      "邦楽"
+    ]
+  },
+{
+    "name": "宮本浩次",
+    "ruby": "みやもとひろじ",
+    "aliases": [
+"ミヤジ",
+      "宮本浩二",
+      "みやもとひろつぐ",
+"みやもとこうじ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NZlDP",
+    "spotify_artist_id": "37yA8FvkJWnXZXbRg4IQaT",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
