@@ -1,5 +1,126 @@
 [
   {
+    "name": "Thee Michelle Gun Elephant",
+    "ruby": "みっしぇるがんえれふぁんと",
+    "aliases": [
+      "TMGE"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vXQA6",
+    "spotify_artist_id": "2DBcgbvakjiv4Yi9bRyjVX",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "満島ひかり",
+    "ruby": "みつしまひかり",
+    "aliases": [
+      "満島光",
+    "まんしまひかり"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2W1AWf",
+    "spotify_artist_id": "4ZX8Wr8KHHrW7radu6IwYG",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "光永亮太",
+    "ruby": "みつながりょうた",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bm9HS",
+    "spotify_artist_id": "66DVBjbeBnQKYh75Is7jQw",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "湊あくあ",
+    "ruby": "みなとあくあ",
+    "aliases": [
+      "あくたん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3X3mXD",
+    "spotify_artist_id": "6GHr4rGFHGRUuzuCuxJA0f",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "美波",
+    "ruby": "みなみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Z5nkF",
+    "spotify_artist_id": "1KXJUpTiNeMv93LrJbbm7G",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "南沙織",
+    "ruby": "みなみさおり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Q3gfW",
+    "spotify_artist_id": "4Q1uC5VlYJw6cnl37BkGS3",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "南野陽子",
+    "ruby": "みなみのようこ",
+    "aliases": [
+      "ナンノ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3sJZf2",
+    "spotify_artist_id": "5Sk84Oai88Tdool4QpbHa5",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "三波春夫",
+    "ruby": "みなみはるお",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4q03jr",
+    "spotify_artist_id": "7sNPjkkxGTUvMWqrlgztni",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "南佳孝",
+    "ruby": "みなみよしたか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO34oPmN",
+    "spotify_artist_id": "5dS698oTdel4MldPvYoj7p",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ミニモニ。",
+    "ruby": "みにもに",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jxPin",
+    "spotify_artist_id": "5D2ptJBfU9qF7EkRwBebkk",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
