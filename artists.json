@@ -1,119 +1,5 @@
 [
   {
-    "name": "森高千里",
-    "ruby": "もりたかちさと",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3t7P4O",
-    "spotify_artist_id": "5SXR1ytzVrYGLv4EpMQERT",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "森田公一",
-    "ruby": "もりたこういち",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1saZ7c",
-    "spotify_artist_id": "2xiYaNf1kP2Hw9KSQnTEYj",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "森七菜",
-    "ruby": "もりなな",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0XGtSq",
-    "spotify_artist_id": "1IDjyCsCk5Xjy7RA7AQ8vy",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "森昌子",
-    "ruby": "もりまさこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YnBUk",
-    "spotify_artist_id": "53RMsFNPnlEQQhDUD2UqlZ",
-    "tags": [
-      "女性ソロ",
-      "演歌",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "森恵",
-    "ruby": "もりめぐみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FeXcJ",
-    "spotify_artist_id": "4y3oz6YHGqPjDg2PmAMj9E",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "森山直太朗",
-    "ruby": "もりやまなおたろう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBzvu",
-    "spotify_artist_id": "31VPfrPEa86aKpD2LT3Ued",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "森山良子",
-    "ruby": "もりやまりょうこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0KYJpj",
-    "spotify_artist_id": "1nw3JzV7O0FpOLcwmZ2IMP",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "MOROHA",
-    "ruby": "もろは",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ml4LS",
-    "spotify_artist_id": "1pMaZSxaThVebPEWM3QXlY",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "MONKEY MAJIK",
-    "ruby": "もんきーまじっく",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO454PVg",
-    "spotify_artist_id": "6U2dgcU46Iy9pF3RQBj5hG",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "MONGOL800",
-    "ruby": "もんごるはっぴゃく",
-    "aliases": [
-      "モンパチ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tKBoC",
-    "spotify_artist_id": "2zUQjYvy0TevSi4d3PjqQO",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -26258,6 +26144,232 @@
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
     "color": "#fde54f"
+  },
+  {
+    "id": "artist-1157",
+    "name": "森高千里",
+    "ruby": "もりたかちさと",
+    "kana": "モリタカチサト",
+    "romaji": [
+      "moritakachisato",
+      "moritakatisato"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3t7P4O",
+    "spotify_artist_id": "5SXR1ytzVrYGLv4EpMQERT",
+    "official_site": null,
+    "description": "森高千里の代表曲をまとめた公式のプレイリスト「This Is 森高千里」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1158",
+    "name": "森田公一",
+    "ruby": "もりたこういち",
+    "kana": "モリタコウイチ",
+    "romaji": [
+      "moritakouichi",
+      "moritakouiti"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1saZ7c",
+    "spotify_artist_id": "2xiYaNf1kP2Hw9KSQnTEYj",
+    "official_site": null,
+    "description": "森田公一の代表曲をまとめた公式のプレイリスト「This Is 森田公一」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1159",
+    "name": "森七菜",
+    "ruby": "もりなな",
+    "kana": "モリナナ",
+    "romaji": [
+      "morinana"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0XGtSq",
+    "spotify_artist_id": "1IDjyCsCk5Xjy7RA7AQ8vy",
+    "official_site": null,
+    "description": "森七菜の代表曲をまとめた公式のプレイリスト「This Is 森七菜」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1160",
+    "name": "森昌子",
+    "ruby": "もりまさこ",
+    "kana": "モリマサコ",
+    "romaji": [
+      "morimasako"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YnBUk",
+    "spotify_artist_id": "53RMsFNPnlEQQhDUD2UqlZ",
+    "official_site": null,
+    "description": "森昌子の代表曲をまとめた公式のプレイリスト「This Is 森昌子」",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1161",
+    "name": "森恵",
+    "ruby": "もりめぐみ",
+    "kana": "モリメグミ",
+    "romaji": [
+      "morimegumi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FeXcJ",
+    "spotify_artist_id": "4y3oz6YHGqPjDg2PmAMj9E",
+    "official_site": null,
+    "description": "森恵の代表曲をまとめた公式のプレイリスト「This Is 森恵」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1162",
+    "name": "森山直太朗",
+    "ruby": "もりやまなおたろう",
+    "kana": "モリヤマナオタロウ",
+    "romaji": [
+      "moriyamanaotarou"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBzvu",
+    "spotify_artist_id": "31VPfrPEa86aKpD2LT3Ued",
+    "official_site": null,
+    "description": "森山直太朗の代表曲をまとめた公式のプレイリスト「This Is 森山直太朗」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1163",
+    "name": "森山良子",
+    "ruby": "もりやまりょうこ",
+    "kana": "モリヤマリョウコ",
+    "romaji": [
+      "moriyamaryouko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0KYJpj",
+    "spotify_artist_id": "1nw3JzV7O0FpOLcwmZ2IMP",
+    "official_site": null,
+    "description": "森山良子の代表曲をまとめた公式のプレイリスト「This Is 森山良子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1164",
+    "name": "MOROHA",
+    "ruby": "もろは",
+    "kana": "モロハ",
+    "romaji": [
+      "moroha"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ml4LS",
+    "spotify_artist_id": "1pMaZSxaThVebPEWM3QXlY",
+    "official_site": null,
+    "description": "MOROHAの代表曲をまとめた公式のプレイリスト「This Is MOROHA」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1165",
+    "name": "MONKEY MAJIK",
+    "ruby": "もんきーまじっく",
+    "kana": "モンキーマジック",
+    "romaji": [
+      "monkeymajik"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO454PVg",
+    "spotify_artist_id": "6U2dgcU46Iy9pF3RQBj5hG",
+    "official_site": null,
+    "description": "MONKEY MAJIKの代表曲をまとめた公式のプレイリスト「This Is MONKEY MAJIK」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1166",
+    "name": "MONGOL800",
+    "ruby": "もんごるはっぴゃく",
+    "kana": "モンゴルハッピャク",
+    "romaji": [
+      "mongol800"
+    ],
+    "aliases": [
+      "モンパチ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tKBoC",
+    "spotify_artist_id": "2zUQjYvy0TevSi4d3PjqQO",
+    "official_site": null,
+    "description": "MONGOL800の代表曲をまとめた公式のプレイリスト「This Is MONGOL800」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
   },
   {
     "id": "artist-189",
