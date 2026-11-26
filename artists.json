@@ -25975,6 +25975,12 @@
       "’23"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2slXKw",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BHn7v"
+    ],
+"extra_labels": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BHn7v": "モーニング娘。'23"
+    },
     "spotify_artist_id": "4cDFYGC0CtsN86zvpCXsi4",
     "official_site": null,
     "description": "モーニング娘。の代表曲をまとめた公式のプレイリスト「This Is モーニング娘。」",
