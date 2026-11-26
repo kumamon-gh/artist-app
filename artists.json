@@ -1,100 +1,5 @@
 [
   {
-    "name": "モーニング娘。",
-    "ruby": "もーにんぐむすめ",
-    "aliases": [
-      "モー娘",
-      "もーむす",
-"モーニング娘。'23",
-"モーニング娘。’23",
-"'23",
-"’23"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2slXKw",
-    "spotify_artist_id": "4cDFYGC0CtsN86zvpCXsi4",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ももいろクローバーZ",
-    "ruby": "ももいろくろーばーぜっと",
-    "aliases": [
-      "ももクロ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2klEFu",
-    "spotify_artist_id": "3Zl0EsuYV23OgNw6WqGelN",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ももくろちゃんZ",
-    "ruby": "ももくろちゃんぜっと",
-    "aliases": [
-      "ももクロ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0n9DF5",
-    "spotify_artist_id": "0JUZrcVvxhJaCzc4mloocZ",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "MOMOLAND",
-    "ruby": "ももらんど",
-    "aliases": [
-"モモレン"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ssxNn",
-    "spotify_artist_id": "5RR0MLwcjc87wjSw2JYdwx",
-    "tags": [
-      "女性グループ",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-  {
-    "name": "森口博子",
-    "ruby": "もりぐちひろこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Vwi0F",
-    "spotify_artist_id": "1F26f2fTqYBhCtp6sXAsQV",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "杜このみ",
-    "ruby": "もりこのみ",
-    "aliases": [
-      "森このみ",
-"社このみ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49HloB",
-    "spotify_artist_id": "71ImI3NG6Fl71RwetOQWwG",
-    "tags": [
-      "女性ソロ",
-      "演歌"
-    ]
-  },
-{
-    "name": "森進一",
-    "ruby": "もりしんいち",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tnZzh",
-    "spotify_artist_id": "2zjeuORkYXpNotyaevXC8D",
-    "tags": [
-      "男性ソロ",
-      "演歌",
-      "歌謡曲"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -26047,6 +25952,181 @@
     "tags": [
       "男性ソロ",
       "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1150",
+    "name": "モーニング娘。",
+    "ruby": "もーにんぐむすめ",
+    "kana": "モーニングムスメ",
+    "romaji": [
+      "mooningumusume"
+    ],
+    "aliases": [
+      "モー娘",
+      "もーむす",
+      "モーニング娘。'23",
+      "モーニング娘。’23",
+      "'23",
+      "’23"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2slXKw",
+    "spotify_artist_id": "4cDFYGC0CtsN86zvpCXsi4",
+    "official_site": null,
+    "description": "モーニング娘。の代表曲をまとめた公式のプレイリスト「This Is モーニング娘。」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1151",
+    "name": "ももいろクローバーZ",
+    "ruby": "ももいろくろーばーぜっと",
+    "kana": "モモイロクローバーゼット",
+    "romaji": [
+      "momoirokuroobaazetto"
+    ],
+    "aliases": [
+      "ももクロ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2klEFu",
+    "spotify_artist_id": "3Zl0EsuYV23OgNw6WqGelN",
+    "official_site": null,
+    "description": "ももいろクローバーZの代表曲をまとめた公式のプレイリスト「This Is ももいろクローバーZ」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1152",
+    "name": "ももくろちゃんZ",
+    "ruby": "ももくろちゃんぜっと",
+    "kana": "モモクロチャンゼット",
+    "romaji": [
+      "momokurochanzetto",
+      "momokurotyanzetto"
+    ],
+    "aliases": [
+      "ももクロ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0n9DF5",
+    "spotify_artist_id": "0JUZrcVvxhJaCzc4mloocZ",
+    "official_site": null,
+    "description": "ももくろちゃんZの代表曲をまとめた公式のプレイリスト「This Is ももくろちゃんZ」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1153",
+    "name": "MOMOLAND",
+    "ruby": "ももらんど",
+    "kana": "モモランド",
+    "romaji": [
+      "momoland"
+    ],
+    "aliases": [
+      "モモレン"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ssxNn",
+    "spotify_artist_id": "5RR0MLwcjc87wjSw2JYdwx",
+    "official_site": null,
+    "description": "MOMOLANDの代表曲をまとめた公式のプレイリスト「This Is MOMOLAND」",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1154",
+    "name": "森口博子",
+    "ruby": "もりぐちひろこ",
+    "kana": "モリグチヒロコ",
+    "romaji": [
+      "moriguchihiroko",
+      "morigutihiroko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Vwi0F",
+    "spotify_artist_id": "1F26f2fTqYBhCtp6sXAsQV",
+    "official_site": null,
+    "description": "森口博子の代表曲をまとめた公式のプレイリスト「This Is 森口博子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1155",
+    "name": "杜このみ",
+    "ruby": "もりこのみ",
+    "kana": "モリコノミ",
+    "romaji": [
+      "morikonomi"
+    ],
+    "aliases": [
+      "森このみ",
+      "社このみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49HloB",
+    "spotify_artist_id": "71ImI3NG6Fl71RwetOQWwG",
+    "official_site": null,
+    "description": "杜このみの代表曲をまとめた公式のプレイリスト「This Is 杜このみ」",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1156",
+    "name": "森進一",
+    "ruby": "もりしんいち",
+    "kana": "モリシンイチ",
+    "romaji": [
+      "morishinichi",
+      "morisiniti"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tnZzh",
+    "spotify_artist_id": "2zjeuORkYXpNotyaevXC8D",
+    "official_site": null,
+    "description": "森進一の代表曲をまとめた公式のプレイリスト「This Is 森進一」",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
     ],
     "status": "published",
     "added_date": "2026-11-27",
