@@ -1,5 +1,123 @@
 [
   {
+    "name": "muque",
+    "ruby": "むく",
+    "aliases": [
+      "ミュク",
+"muqe"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2g5mte",
+    "spotify_artist_id": "3SfOqz3ae0KRhTQzeR4m3t",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "MUCC",
+    "ruby": "むっく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1CncWJ",
+    "spotify_artist_id": "2OfxY8WbbZZu7GiRJLb0P5",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "moumoon",
+    "ruby": "むーむーん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1llxj6",
+    "spotify_artist_id": "2lXdBKdqczUqxZlQxqTaFF",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ののちゃん(村方乃々佳)",
+    "ruby": "ののちゃんむらかたののか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0i3dMD",
+    "spotify_artist_id": "0BrwNfE1F5grSe7ZDtwOQ1",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Murakami Keisuke",
+    "ruby": "むらかみけいすけ",
+    "aliases": [
+      "村上佳佑"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0u8h0v",
+    "spotify_artist_id": "0Vw8tOe5RjKNfs8fksBGXu",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "紫 今",
+    "ruby": "むらさきいま",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Vi4J",
+    "spotify_artist_id": "0iWST9kIo1KHBRQ5mYAqmY",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "村下孝蔵",
+    "ruby": "むらしたこうぞう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Zgphq",
+    "spotify_artist_id": "1LfONXXt0ekrr4FoA93CPz",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "村田英雄",
+    "ruby": "むらたひでお",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4loKpG",
+    "spotify_artist_id": "7la84E8rPM99KniqlXHSDO",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "MOON CHILD",
+    "ruby": "むーんちゃいるど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38v7vX",
+    "spotify_artist_id": "5kGxwGD4ctaJ4rYiTatHI7",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "May J.",
+    "ruby": "めいじぇい",
+    "aliases": [
+"メイジェー"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pXaze",
+    "spotify_artist_id": "7sJzR6n8Buyv45FKrLvZIS",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
