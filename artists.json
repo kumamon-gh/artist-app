@@ -1,5 +1,100 @@
 [
   {
+    "name": "モーニング娘。",
+    "ruby": "もーにんぐむすめ",
+    "aliases": [
+      "モー娘",
+      "もーむす",
+"モーニング娘。'23",
+"モーニング娘。’23",
+"'23",
+"’23"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2slXKw",
+    "spotify_artist_id": "4cDFYGC0CtsN86zvpCXsi4",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ももいろクローバーZ",
+    "ruby": "ももいろくろーばーぜっと",
+    "aliases": [
+      "ももクロ",
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2klEFu",
+    "spotify_artist_id": "3Zl0EsuYV23OgNw6WqGelN",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ももくろちゃんZ",
+    "ruby": "ももくろちゃんぜっと",
+    "aliases": [
+      "ももクロ",
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0n9DF5",
+    "spotify_artist_id": "0JUZrcVvxhJaCzc4mloocZ",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "MOMOLAND",
+    "ruby": "ももらんど",
+    "aliases": [
+"モモレン"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ssxNn",
+    "spotify_artist_id": "5RR0MLwcjc87wjSw2JYdwx",
+    "tags": [
+      "女性グループ",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+  {
+    "name": "森口博子",
+    "ruby": "もりぐちひろこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Vwi0F",
+    "spotify_artist_id": "1F26f2fTqYBhCtp6sXAsQV",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "杜このみ",
+    "ruby": "もりこのみ",
+    "aliases": [
+      "森このみ",
+"社このみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49HloB",
+    "spotify_artist_id": "71ImI3NG6Fl71RwetOQWwG",
+    "tags": [
+      "女性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "森進一",
+    "ruby": "もりしんいち",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tnZzh",
+    "spotify_artist_id": "2zjeuORkYXpNotyaevXC8D",
+    "tags": [
+      "男性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
