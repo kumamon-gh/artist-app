@@ -1,113 +1,5 @@
 [
   {
-    "name": "MAY'S",
-    "ruby": "めいず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1RMRJt",
-    "spotify_artist_id": "3dS0cGKSFthAFYPCTG82Fl",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "めいちゃん",
-    "ruby": "めいちゃん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mroek",
-    "spotify_artist_id": "5HQYtQ84Zs3hQD5ZcC7WUX",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "May'n",
-    "ruby": "めいん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0n7f1Y",
-    "spotify_artist_id": "0JQH8OHvGdooprROP18Wg6",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "MAISONdes",
-    "ruby": "めぞんで",
-    "aliases": [
-      "メゾンデス",
-      "マイソンデス"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BtPKH",
-    "spotify_artist_id": "7LTiBdByoaUd329wCpmMcM",
-    "tags": [
-      "その他",
-      "J-POP"
-    ]
-  },
-{
-    "name": "Metis",
-    "ruby": "めてぃす",
-    "aliases": [
-      "メチス"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0XrDeH",
-    "spotify_artist_id": "1IelQTNxFioKjilHoQgnFU",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "米良美一",
-    "ruby": "めらよしかず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GVB6A",
-    "spotify_artist_id": "1gMSjp1uxOKC3VWRTWKaJ2",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "メロン記念日",
-    "ruby": "めろんきねんび",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07TeJM",
-    "spotify_artist_id": "0kybz1H3ucWCsm20nIJHxp",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "MEN'S5",
-    "ruby": "めんずふぁいぶ",
-    "aliases": [
-"メンズ5"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4uiDzu",
-    "spotify_artist_id": "7zX3pNEpgMuj58LLxMXy5U",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "もさを。",
-    "ruby": "もさを",
-    "aliases": [
-      "もさお"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49IIDO",
-    "spotify_artist_id": "71KI7v1YqVU8cIFzBl47dh",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -25853,6 +25745,215 @@
     "added_date": "2026-11-26",
     "updated_date": "2026-11-26",
     "color": "#f89bd2"
+  },
+  {
+    "id": "artist-1141",
+    "name": "MAY'S",
+    "ruby": "めいず",
+    "kana": "メイズ",
+    "romaji": [
+      "mays"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1RMRJt",
+    "spotify_artist_id": "3dS0cGKSFthAFYPCTG82Fl",
+    "official_site": null,
+    "description": "MAY'Sの代表曲をまとめた公式のプレイリスト「This Is MAY'S」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1142",
+    "name": "めいちゃん",
+    "ruby": "めいちゃん",
+    "kana": "メイチャン",
+    "romaji": [
+      "meichan",
+      "meityan"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mroek",
+    "spotify_artist_id": "5HQYtQ84Zs3hQD5ZcC7WUX",
+    "official_site": null,
+    "description": "めいちゃんの代表曲をまとめた公式のプレイリスト「This Is めいちゃん」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1143",
+    "name": "May'n",
+    "ruby": "めいん",
+    "kana": "メイン",
+    "romaji": [
+      "mayn"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0n7f1Y",
+    "spotify_artist_id": "0JQH8OHvGdooprROP18Wg6",
+    "official_site": null,
+    "description": "May'nの代表曲をまとめた公式のプレイリスト「This Is May'n」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1144",
+    "name": "MAISONdes",
+    "ruby": "めぞんで",
+    "kana": "メゾンデ",
+    "romaji": [
+      "maisondes"
+    ],
+    "aliases": [
+      "メゾンデス",
+      "マイソンデス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BtPKH",
+    "spotify_artist_id": "7LTiBdByoaUd329wCpmMcM",
+    "official_site": null,
+    "description": "MAISONdesの代表曲をまとめた公式のプレイリスト「This Is MAISONdes」",
+    "tags": [
+      "その他",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1145",
+    "name": "Metis",
+    "ruby": "めてぃす",
+    "kana": "メティス",
+    "romaji": [
+      "metis"
+    ],
+    "aliases": [
+      "メチス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0XrDeH",
+    "spotify_artist_id": "1IelQTNxFioKjilHoQgnFU",
+    "official_site": null,
+    "description": "Metisの代表曲をまとめた公式のプレイリスト「This Is Metis」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1146",
+    "name": "米良美一",
+    "ruby": "めらよしかず",
+    "kana": "メラヨシカズ",
+    "romaji": [
+      "merayoshikazu",
+      "merayosikazu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GVB6A",
+    "spotify_artist_id": "1gMSjp1uxOKC3VWRTWKaJ2",
+    "official_site": null,
+    "description": "米良美一の代表曲をまとめた公式のプレイリスト「This Is 米良美一」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1147",
+    "name": "メロン記念日",
+    "ruby": "めろんきねんび",
+    "kana": "メロンキネンビ",
+    "romaji": [
+      "meronkinenbi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07TeJM",
+    "spotify_artist_id": "0kybz1H3ucWCsm20nIJHxp",
+    "official_site": null,
+    "description": "メロン記念日の代表曲をまとめた公式のプレイリスト「This Is メロン記念日」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1148",
+    "name": "MEN'S5",
+    "ruby": "めんずふぁいぶ",
+    "kana": "メンズファイブ",
+    "romaji": [
+      "mens5"
+    ],
+    "aliases": [
+      "メンズ5"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4uiDzu",
+    "spotify_artist_id": "7zX3pNEpgMuj58LLxMXy5U",
+    "official_site": null,
+    "description": "MEN'S5の代表曲をまとめた公式のプレイリスト「This Is MEN'S5」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1149",
+    "name": "もさを。",
+    "ruby": "もさを",
+    "kana": "モサヲ",
+    "romaji": [
+      "mosao"
+    ],
+    "aliases": [
+      "もさお"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49IIDO",
+    "spotify_artist_id": "71KI7v1YqVU8cIFzBl47dh",
+    "official_site": null,
+    "description": "もさを。の代表曲をまとめた公式のプレイリスト「This Is もさを。」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
   },
   {
     "id": "artist-189",
