@@ -1,132 +1,5 @@
 [
   {
-    "name": "Miyuu",
-    "ruby": "みゆう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NEXni",
-    "spotify_artist_id": "6r5DBRzP1cJGTHrnptDrSR",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "μ's",
-    "ruby": "みゅーず",
-    "aliases": [
-      "U's"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iX1o4",
-    "spotify_artist_id": "2hYjPkmTry3LYVVSymws5i",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "三善英史",
-    "ruby": "みよしえいじ",
-    "aliases": [
-      "みよしひでふみ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0J2LqW",
-    "spotify_artist_id": "1kiu1bf0RaSmEEMECHbwcz",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲",
-      "演歌"
-    ]
-  },
-{
-    "name": "M!LK",
-    "ruby": "みるく",
-    "aliases": [
-      "MILK"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DX8aHYBd4oXIu",
-    "spotify_artist_id": "4jhJ8cnJ9vYKyCh289nuwQ",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "milet",
-    "ruby": "みれい",
-    "aliases": [
-      "milei",
-"miret",
-"mirei",
-"ミレット",
-"millet"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nU9H2",
-    "spotify_artist_id": "45ft4DyTCEJfQwTBHXpdhM",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "miwa",
-    "ruby": "みわ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fn8db",
-    "spotify_artist_id": "3R3WEsfL1WC1zLiz3XG9K5",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "美輪明宏",
-    "ruby": "みわあきひろ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oegUB",
-    "spotify_artist_id": "0LIa0QPT7fSZu0AlLRyMVY",
-    "tags": [
-      "男性ソロ",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "MINMI",
-    "ruby": "みんみ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zR2d3",
-    "spotify_artist_id": "151w10AZKmL4a6iPwgxap3",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "m.o.v.e",
-    "ruby": "むーゔ",
-    "aliases": [
-      "ムーブ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zdrD1",
-    "spotify_artist_id": "13Y7h239f3l2knkpG5O7Uo",
-    "tags": [
-      "男女混成グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "百足",
-    "ruby": "むかで",
-    "aliases": [
-"ひゃくそく"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TO6u6",
-    "spotify_artist_id": "4WgGn0neagCUyjQExpUBX7",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -25404,6 +25277,244 @@
     "added_date": "2026-11-25",
     "updated_date": "2026-11-25",
     "color": "#e4ac89"
+  },
+  {
+    "id": "artist-1121",
+    "name": "Miyuu",
+    "ruby": "みゆう",
+    "kana": "ミユウ",
+    "romaji": [
+      "miyuu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NEXni",
+    "spotify_artist_id": "6r5DBRzP1cJGTHrnptDrSR",
+    "official_site": null,
+    "description": "Miyuuの代表曲をまとめた公式のプレイリスト「This Is Miyuu」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-26",
+    "updated_date": "2026-11-26",
+    "color": ""
+  },
+  {
+    "id": "artist-1122",
+    "name": "μ's",
+    "ruby": "みゅーず",
+    "kana": "ミューズ",
+    "romaji": [
+      "s"
+    ],
+    "aliases": [
+      "U's"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iX1o4",
+    "spotify_artist_id": "2hYjPkmTry3LYVVSymws5i",
+    "official_site": null,
+    "description": "μ'sの代表曲をまとめた公式のプレイリスト「This Is μ's」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-26",
+    "updated_date": "2026-11-26",
+    "color": ""
+  },
+  {
+    "id": "artist-1123",
+    "name": "三善英史",
+    "ruby": "みよしえいじ",
+    "kana": "ミヨシエイジ",
+    "romaji": [
+      "miyoshieiji",
+      "miyosieizi"
+    ],
+    "aliases": [
+      "みよしひでふみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0J2LqW",
+    "spotify_artist_id": "1kiu1bf0RaSmEEMECHbwcz",
+    "official_site": null,
+    "description": "三善英史の代表曲をまとめた公式のプレイリスト「This Is 三善英史」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-26",
+    "updated_date": "2026-11-26",
+    "color": ""
+  },
+  {
+    "id": "artist-1124",
+    "name": "M!LK",
+    "ruby": "みるく",
+    "kana": "ミルク",
+    "romaji": [
+      "mlk"
+    ],
+    "aliases": [
+      "MILK"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX8aHYBd4oXIu",
+    "spotify_artist_id": "4jhJ8cnJ9vYKyCh289nuwQ",
+    "official_site": null,
+    "description": "M!LKの代表曲をまとめた公式のプレイリスト「This Is M!LK」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-26",
+    "updated_date": "2026-11-26",
+    "color": ""
+  },
+  {
+    "id": "artist-1125",
+    "name": "milet",
+    "ruby": "みれい",
+    "kana": "ミレイ",
+    "romaji": [
+      "milet"
+    ],
+    "aliases": [
+      "milei",
+      "miret",
+      "mirei",
+      "ミレット",
+      "millet"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nU9H2",
+    "spotify_artist_id": "45ft4DyTCEJfQwTBHXpdhM",
+    "official_site": null,
+    "description": "miletの代表曲をまとめた公式のプレイリスト「This Is milet」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-26",
+    "updated_date": "2026-11-26",
+    "color": ""
+  },
+  {
+    "id": "artist-1126",
+    "name": "miwa",
+    "ruby": "みわ",
+    "kana": "ミワ",
+    "romaji": [
+      "miwa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fn8db",
+    "spotify_artist_id": "3R3WEsfL1WC1zLiz3XG9K5",
+    "official_site": null,
+    "description": "miwaの代表曲をまとめた公式のプレイリスト「This Is miwa」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-26",
+    "updated_date": "2026-11-26",
+    "color": ""
+  },
+  {
+    "id": "artist-1127",
+    "name": "美輪明宏",
+    "ruby": "みわあきひろ",
+    "kana": "ミワアキヒロ",
+    "romaji": [
+      "miwaakihiro"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oegUB",
+    "spotify_artist_id": "0LIa0QPT7fSZu0AlLRyMVY",
+    "official_site": null,
+    "description": "美輪明宏の代表曲をまとめた公式のプレイリスト「This Is 美輪明宏」",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-26",
+    "updated_date": "2026-11-26",
+    "color": ""
+  },
+  {
+    "id": "artist-1128",
+    "name": "MINMI",
+    "ruby": "みんみ",
+    "kana": "ミンミ",
+    "romaji": [
+      "minmi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zR2d3",
+    "spotify_artist_id": "151w10AZKmL4a6iPwgxap3",
+    "official_site": null,
+    "description": "MINMIの代表曲をまとめた公式のプレイリスト「This Is MINMI」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-26",
+    "updated_date": "2026-11-26",
+    "color": ""
+  },
+  {
+    "id": "artist-1129",
+    "name": "m.o.v.e",
+    "ruby": "むーゔ",
+    "kana": "ムーヴ",
+    "romaji": [
+      "move"
+    ],
+    "aliases": [
+      "ムーブ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zdrD1",
+    "spotify_artist_id": "13Y7h239f3l2knkpG5O7Uo",
+    "official_site": null,
+    "description": "m.o.v.eの代表曲をまとめた公式のプレイリスト「This Is m.o.v.e」",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-26",
+    "updated_date": "2026-11-26",
+    "color": ""
+  },
+  {
+    "id": "artist-1130",
+    "name": "百足",
+    "ruby": "むかで",
+    "kana": "ムカデ",
+    "romaji": [
+      "mukade"
+    ],
+    "aliases": [
+      "ひゃくそく"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TO6u6",
+    "spotify_artist_id": "4WgGn0neagCUyjQExpUBX7",
+    "official_site": null,
+    "description": "百足の代表曲をまとめた公式のプレイリスト「This Is 百足」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-26",
+    "updated_date": "2026-11-26",
+    "color": ""
   },
   {
     "id": "artist-189",
