@@ -1,5 +1,119 @@
 [
   {
+    "name": "森高千里",
+    "ruby": "もりたかちさと",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3t7P4O",
+    "spotify_artist_id": "5SXR1ytzVrYGLv4EpMQERT",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "森田公一",
+    "ruby": "もりたこういち",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1saZ7c",
+    "spotify_artist_id": "2xiYaNf1kP2Hw9KSQnTEYj",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "森七菜",
+    "ruby": "もりなな",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0XGtSq",
+    "spotify_artist_id": "1IDjyCsCk5Xjy7RA7AQ8vy",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "森昌子",
+    "ruby": "もりまさこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YnBUk",
+    "spotify_artist_id": "53RMsFNPnlEQQhDUD2UqlZ",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "森恵",
+    "ruby": "もりめぐみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FeXcJ",
+    "spotify_artist_id": "4y3oz6YHGqPjDg2PmAMj9E",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "森山直太朗",
+    "ruby": "もりやまなおたろう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBzvu",
+    "spotify_artist_id": "31VPfrPEa86aKpD2LT3Ued",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "森山良子",
+    "ruby": "もりやまりょうこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0KYJpj",
+    "spotify_artist_id": "1nw3JzV7O0FpOLcwmZ2IMP",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "MOROHA",
+    "ruby": "もろは",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ml4LS",
+    "spotify_artist_id": "1pMaZSxaThVebPEWM3QXlY",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "MONKEY MAJIK",
+    "ruby": "もんきーまじっく",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO454PVg",
+    "spotify_artist_id": "6U2dgcU46Iy9pF3RQBj5hG",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "MONGOL800",
+    "ruby": "もんごるはっぴゃく",
+    "aliases": [
+      "モンパチ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tKBoC",
+    "spotify_artist_id": "2zUQjYvy0TevSi4d3PjqQO",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
