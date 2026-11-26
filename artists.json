@@ -25766,7 +25766,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-1142",
@@ -25789,7 +25789,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-1143",
@@ -25811,7 +25811,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1144",
@@ -25836,7 +25836,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-1145",
@@ -25853,6 +25853,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4koBmp"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4koBmp": "#f89bd2"
+    },
     "spotify_artist_id": "1IelQTNxFioKjilHoQgnFU",
     "official_site": null,
     "description": "Metisの代表曲をまとめた公式のプレイリスト「This Is Metis」",
@@ -25863,7 +25866,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-1146",
@@ -25886,7 +25889,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-1147",
@@ -25908,7 +25911,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-1148",
@@ -25932,7 +25935,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1149",
@@ -25956,7 +25959,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-1150",
@@ -25978,6 +25981,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BHn7v"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BHn7v": "#fe7163"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BHn7v": "モーニング娘。'23"
     },
@@ -25991,7 +25997,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-1151",
@@ -26015,7 +26021,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-1152",
@@ -26040,7 +26046,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1153",
@@ -26065,7 +26071,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1154",
@@ -26088,7 +26094,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-1155",
@@ -26113,7 +26119,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-1156",
@@ -26137,7 +26143,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-189",
