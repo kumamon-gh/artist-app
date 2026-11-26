@@ -1,5 +1,132 @@
 [
   {
+    "name": "Miyuu",
+    "ruby": "みゆう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NEXni",
+    "spotify_artist_id": "6r5DBRzP1cJGTHrnptDrSR",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "μ's",
+    "ruby": "みゅーず",
+    "aliases": [
+      "U's"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iX1o4",
+    "spotify_artist_id": "2hYjPkmTry3LYVVSymws5i",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "三善英史",
+    "ruby": "みよしえいじ",
+    "aliases": [
+      "みよしひでふみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0J2LqW",
+    "spotify_artist_id": "1kiu1bf0RaSmEEMECHbwcz",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲",
+      "演歌"
+    ]
+  },
+{
+    "name": "M!LK",
+    "ruby": "みるく",
+    "aliases": [
+      "MILK"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DX8aHYBd4oXIu",
+    "spotify_artist_id": "4jhJ8cnJ9vYKyCh289nuwQ",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "milet",
+    "ruby": "みれい",
+    "aliases": [
+      "milei",
+"miret",
+"mirei",
+"ミレット",
+"millet"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nU9H2",
+    "spotify_artist_id": "45ft4DyTCEJfQwTBHXpdhM",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "miwa",
+    "ruby": "みわ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fn8db",
+    "spotify_artist_id": "3R3WEsfL1WC1zLiz3XG9K5",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "美輪明宏",
+    "ruby": "みわあきひろ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oegUB",
+    "spotify_artist_id": "0LIa0QPT7fSZu0AlLRyMVY",
+    "tags": [
+      "男性ソロ",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "MINMI",
+    "ruby": "みんみ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zR2d3",
+    "spotify_artist_id": "151w10AZKmL4a6iPwgxap3",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "m.o.v.e",
+    "ruby": "むーゔ",
+    "aliases": [
+      "ムーブ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zdrD1",
+    "spotify_artist_id": "13Y7h239f3l2knkpG5O7Uo",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "百足",
+    "ruby": "むかで",
+    "aliases": [
+"ひゃくそく"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TO6u6",
+    "spotify_artist_id": "4WgGn0neagCUyjQExpUBX7",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
