@@ -1,5 +1,113 @@
 [
   {
+    "name": "MAY'S",
+    "ruby": "めいず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1RMRJt",
+    "spotify_artist_id": "3dS0cGKSFthAFYPCTG82Fl",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "めいちゃん",
+    "ruby": "めいちゃん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mroek",
+    "spotify_artist_id": "5HQYtQ84Zs3hQD5ZcC7WUX",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "May'n",
+    "ruby": "めいん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0n7f1Y",
+    "spotify_artist_id": "0JQH8OHvGdooprROP18Wg6",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "MAISONdes",
+    "ruby": "めぞんで",
+    "aliases": [
+      "メゾンデス",
+      "マイソンデス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BtPKH",
+    "spotify_artist_id": "7LTiBdByoaUd329wCpmMcM",
+    "tags": [
+      "その他",
+      "J-POP"
+    ]
+  },
+{
+    "name": "Metis",
+    "ruby": "めてぃす",
+    "aliases": [
+      "メチス"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0XrDeH",
+    "spotify_artist_id": "1IelQTNxFioKjilHoQgnFU",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "米良美一",
+    "ruby": "めらよしかず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GVB6A",
+    "spotify_artist_id": "1gMSjp1uxOKC3VWRTWKaJ2",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "メロン記念日",
+    "ruby": "めろんきねんび",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07TeJM",
+    "spotify_artist_id": "0kybz1H3ucWCsm20nIJHxp",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "MEN'S5",
+    "ruby": "めんずふぁいぶ",
+    "aliases": [
+"メンズ5"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4uiDzu",
+    "spotify_artist_id": "7zX3pNEpgMuj58LLxMXy5U",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "もさを。",
+    "ruby": "もさを",
+    "aliases": [
+      "もさお"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49IIDO",
+    "spotify_artist_id": "71KI7v1YqVU8cIFzBl47dh",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
