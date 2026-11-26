@@ -1,5 +1,28 @@
 [
   {
+    "name": "もんた&ブラザーズ",
+    "ruby": "もんたあんどぶらざーず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wAl3k",
+    "spotify_artist_id": "0ZB0ohfKwDJBZL8XdQbfw6",
+    "tags": [
+      "バンド",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "Mondo Grosso",
+    "ruby": "もんどぐろっそ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2sAPAk",
+    "spotify_artist_id": "4d2zOuYJHBPJTpVblHEKJb",
+    "tags": [
+      "ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -26356,6 +26379,7 @@
       "mongol800"
     ],
     "aliases": [
+      "モンゴル800",
       "モンパチ"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1tKBoC",
