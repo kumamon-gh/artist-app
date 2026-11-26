@@ -1,28 +1,5 @@
 [
   {
-    "name": "もんた&ブラザーズ",
-    "ruby": "もんたあんどぶらざーず",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wAl3k",
-    "spotify_artist_id": "0ZB0ohfKwDJBZL8XdQbfw6",
-    "tags": [
-      "バンド",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "Mondo Grosso",
-    "ruby": "もんどぐろっそ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2sAPAk",
-    "spotify_artist_id": "4d2zOuYJHBPJTpVblHEKJb",
-    "tags": [
-      "ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -26388,6 +26365,52 @@
     "description": "MONGOL800の代表曲をまとめた公式のプレイリスト「This Is MONGOL800」",
     "tags": [
       "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1167",
+    "name": "もんた&ブラザーズ",
+    "ruby": "もんたあんどぶらざーず",
+    "kana": "モンタアンドブラザーズ",
+    "romaji": [
+      "montaandoburazaazu",
+      "and"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wAl3k",
+    "spotify_artist_id": "0ZB0ohfKwDJBZL8XdQbfw6",
+    "official_site": null,
+    "description": "もんた&ブラザーズの代表曲をまとめた公式のプレイリスト「This Is もんた&ブラザーズ」",
+    "tags": [
+      "バンド",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1168",
+    "name": "Mondo Grosso",
+    "ruby": "もんどぐろっそ",
+    "kana": "モンドグロッソ",
+    "romaji": [
+      "mondogrosso"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2sAPAk",
+    "spotify_artist_id": "4d2zOuYJHBPJTpVblHEKJb",
+    "official_site": null,
+    "description": "Mondo Grossoの代表曲をまとめた公式のプレイリスト「This Is Mondo Grosso」",
+    "tags": [
+      "ソロ",
       "J-POP"
     ],
     "status": "published",
