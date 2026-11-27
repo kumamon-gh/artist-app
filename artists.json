@@ -26441,7 +26441,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1170",
@@ -26465,7 +26465,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1171",
@@ -26489,7 +26489,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-1172",
@@ -26513,7 +26513,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-1173",
@@ -26537,7 +26537,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-1174",
@@ -26561,7 +26561,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-1175",
@@ -26577,6 +26577,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SaTad"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SaTad": "#ffc863"
+    },
     "spotify_artist_id": "5sTHmuw3Y849jP69itJe8D",
     "official_site": null,
     "description": "八代亜紀の代表曲をまとめた公式のプレイリスト「This Is 八代亜紀」",
@@ -26588,7 +26591,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-1176",
@@ -26610,7 +26613,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-1177",
@@ -26632,7 +26635,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-1178",
@@ -26655,7 +26658,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-1179",
@@ -26679,7 +26682,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#f37e00"
   },
   {
     "id": "artist-1180",
@@ -26701,7 +26704,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-1181",
@@ -26723,7 +26726,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#ffc863"
   },
   {
     "id": "artist-1182",
@@ -26749,7 +26752,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-1183",
@@ -26771,7 +26774,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1184",
@@ -26796,7 +26799,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#f89bd2"
   },
   {
     "id": "artist-1185",
@@ -26818,7 +26821,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fec863"
   },
   {
     "id": "artist-1186",
@@ -26841,7 +26844,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-1187",
@@ -26866,7 +26869,7 @@
     "status": "published",
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-192",
