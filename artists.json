@@ -1,5 +1,125 @@
 [
   {
+    "name": "山崎育三郎",
+    "ruby": "やまざきいくさぶろう",
+    "aliases": [
+      "山崎育三朗"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WJQuk",
+    "spotify_artist_id": "6Gb2Ypn3fY7iNn9aHQDu85",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "山崎まさよし",
+    "ruby": "やまざきまさよし",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Hi7bN",
+    "spotify_artist_id": "6gvedX0HcRQYMD5IhY8KKt",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "山猿",
+    "ruby": "やまざる",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO45XdAu",
+    "spotify_artist_id": "6VuxycWaTHHrz5ZP5sNSsd",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "山下久美子",
+    "ruby": "やましたくみこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49xwI8",
+    "spotify_artist_id": "71seUToXIp7TazEx9MijWt",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "山下智久",
+    "ruby": "やましたともひさ",
+    "aliases": [
+      "山P",
+      "やまぴー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TmTXY",
+    "spotify_artist_id": "3guYSm9Rp77d1f2ZKt2ZZF",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "山根康広",
+    "ruby": "やまねやすひろ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vkbbX",
+    "spotify_artist_id": "5WCpsGhCTUrvKcoZupCVX4",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "山本コウタロー",
+    "ruby": "やまもとこうたろー",
+    "aliases": [
+"やまもとこうたろう"
+   ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4AipH6",
+    "spotify_artist_id": "7JVasNaZJwBV4wX962egvD",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "山本彩",
+    "ruby": "やまもとさやか",
+    "aliases": [
+      "さや姉"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oBn1e",
+    "spotify_artist_id": "0MkmM5Vy3gj9QX1JHiYCiK",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "山本潤子",
+    "ruby": "やまもとじゅんこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TqJkm",
+    "spotify_artist_id": "4VDIKCSNaayoLuJoU2Bucn",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "山本譲二",
+    "ruby": "やまもとじょうじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d5uJu",
+    "spotify_artist_id": "28ews4HQeVcvsBmMZzjnGx",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
