@@ -1,5 +1,122 @@
 [
   {
+    "name": "柳ジョージ",
+    "ruby": "やなぎじょーじ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33Nrn6",
+    "spotify_artist_id": "5cRWBbkURZ0L2dgRBTqNov",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "柳ジョージ&レイニーウッド",
+    "ruby": "やなぎじょーじあんどれいにーうっど",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01lDB8",
+    "spotify_artist_id": "09GqOqO3ZSDW8fQcuhSioI",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "やなわらばー",
+    "ruby": "やなわらばー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bTKgN",
+    "spotify_artist_id": "26fgUj6cT6YrmPCc4Ey3e3",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "矢野顕子",
+    "ruby": "やのあきこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tiNRW",
+    "spotify_artist_id": "4edePQHgbrc5h00ChgnQns",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ヤバイTシャツ屋さん",
+    "ruby": "やばいてぃーしゃつやさん",
+    "aliases": [
+      "ヤバT",
+      "ヤバティー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO29d6S9",
+    "spotify_artist_id": "3GP0RQRnBvpYVgdVYfcaGS",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "yama",
+    "ruby": "やま",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lbP7a",
+    "spotify_artist_id": "7kOrrFIBIBc8uCu2zbxbLv",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "山内惠介",
+    "ruby": "やまうちけいすけ",
+    "aliases": [
+      "山内恵介"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2KHDj8",
+    "spotify_artist_id": "4H8buAWHHeaK1J8cMWlrxf",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "山川豊",
+    "ruby": "やまかわゆたか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K5nSi",
+    "spotify_artist_id": "6l94OyaiWbL0yn0qmrdDr8",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ]
+  },
+{
+    "name": "山口百恵",
+    "ruby": "やまぐちももえ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f4ogM",
+    "spotify_artist_id": "3QyXESPMLvue8SWNSnBwPp",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "山口由子",
+    "ruby": "やまぐちゆうこ",
+    "aliases": [
+      "やまぐちよしこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO442K2z",
+    "spotify_artist_id": "6SjSGCbDlMvDM298tp6onI",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
