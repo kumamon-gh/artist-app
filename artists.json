@@ -1,5 +1,131 @@
 [
   {
+    "name": "山本リンダ",
+    "ruby": "やまもとりんだ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KS2gb",
+    "spotify_artist_id": "32nyjVMCElK7RNCzaT57tG",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "ヤングスキニー",
+    "ruby": "やんぐすきにー",
+    "aliases": [
+      "ヤンスキ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iizSh",
+    "spotify_artist_id": "3VVMRDGpbQR2SK9nHX3DW5",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ヤン・スギョン",
+    "ruby": "やんすぎょん",
+    "aliases": [
+      "梁秀敬"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2C3IHC",
+    "spotify_artist_id": "4sLwF7pgFQDyXwiahxUWEl",
+    "tags": [
+      "女性ソロ",
+"J-POP",
+      "K-POP",
+      "海外アーティスト"
+    ]
+  },
+{
+    "name": "YUI",
+    "ruby": "ゆい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vk2TP",
+    "spotify_artist_id": "5WBO8UyOuJ1l7ZBqqBimpO",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "『ユイカ』",
+    "ruby": "ゆいか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1wsljs",
+    "spotify_artist_id": "2EqaSEa0WkE59Aca9iXSYj",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "由薫",
+    "ruby": "ゆうか",
+    "aliases": [
+      "由董",
+"ゆか",
+"由かおる",
+"由くん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Kije3",
+    "spotify_artist_id": "1mnAFQLFTaUbccNqvK5pqX",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "遊助",
+    "ruby": "ゆうすけ",
+    "aliases": [
+      "遊すけ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06V2Fp",
+    "spotify_artist_id": "0iWpuF3h43ZtZJxcUp8eti",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "優里",
+    "ruby": "ゆうり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06GanS",
+    "spotify_artist_id": "0ixzjrK1wkN2zWBXt3VW3W",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "有華",
+    "ruby": "ゆうか",
+    "aliases": [
+      "優香",
+"有か"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ciL6w",
+    "spotify_artist_id": "762RAUTV6WKHmrHR7fsFbj",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "YUKI",
+    "ruby": "ゆき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Og7CM",
+    "spotify_artist_id": "380DW51qbu5pSP8crFRIII",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
