@@ -1,131 +1,5 @@
 [
   {
-    "name": "山本リンダ",
-    "ruby": "やまもとりんだ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KS2gb",
-    "spotify_artist_id": "32nyjVMCElK7RNCzaT57tG",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "ヤングスキニー",
-    "ruby": "やんぐすきにー",
-    "aliases": [
-      "ヤンスキ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iizSh",
-    "spotify_artist_id": "3VVMRDGpbQR2SK9nHX3DW5",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ヤン・スギョン",
-    "ruby": "やんすぎょん",
-    "aliases": [
-      "梁秀敬"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2C3IHC",
-    "spotify_artist_id": "4sLwF7pgFQDyXwiahxUWEl",
-    "tags": [
-      "女性ソロ",
-"J-POP",
-      "K-POP",
-      "海外アーティスト"
-    ]
-  },
-{
-    "name": "YUI",
-    "ruby": "ゆい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vk2TP",
-    "spotify_artist_id": "5WBO8UyOuJ1l7ZBqqBimpO",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "『ユイカ』",
-    "ruby": "ゆいか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1wsljs",
-    "spotify_artist_id": "2EqaSEa0WkE59Aca9iXSYj",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "由薫",
-    "ruby": "ゆうか",
-    "aliases": [
-      "由董",
-"ゆか",
-"由かおる",
-"由くん"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Kije3",
-    "spotify_artist_id": "1mnAFQLFTaUbccNqvK5pqX",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "遊助",
-    "ruby": "ゆうすけ",
-    "aliases": [
-      "遊すけ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06V2Fp",
-    "spotify_artist_id": "0iWpuF3h43ZtZJxcUp8eti",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "優里",
-    "ruby": "ゆうり",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06GanS",
-    "spotify_artist_id": "0ixzjrK1wkN2zWBXt3VW3W",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "有華",
-    "ruby": "ゆうか",
-    "aliases": [
-      "優香",
-"有か"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ciL6w",
-    "spotify_artist_id": "762RAUTV6WKHmrHR7fsFbj",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "YUKI",
-    "ruby": "ゆき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Og7CM",
-    "spotify_artist_id": "380DW51qbu5pSP8crFRIII",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -27226,6 +27100,242 @@
     "tags": [
       "男性ソロ",
       "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1198",
+    "name": "山本リンダ",
+    "ruby": "やまもとりんだ",
+    "kana": "ヤマモトリンダ",
+    "romaji": [
+      "yamamotorinda"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KS2gb",
+    "spotify_artist_id": "32nyjVMCElK7RNCzaT57tG",
+    "official_site": null,
+    "description": "山本リンダの代表曲をまとめた公式のプレイリスト「This Is 山本リンダ」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1199",
+    "name": "ヤングスキニー",
+    "ruby": "やんぐすきにー",
+    "kana": "ヤングスキニー",
+    "romaji": [
+      "yangusukinii"
+    ],
+    "aliases": [
+      "ヤンスキ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iizSh",
+    "spotify_artist_id": "3VVMRDGpbQR2SK9nHX3DW5",
+    "official_site": null,
+    "description": "ヤングスキニーの代表曲をまとめた公式のプレイリスト「This Is ヤングスキニー」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1200",
+    "name": "ヤン・スギョン",
+    "ruby": "やんすぎょん",
+    "kana": "ヤンスギョン",
+    "romaji": [
+      "yansugyon"
+    ],
+    "aliases": [
+      "梁秀敬"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2C3IHC",
+    "spotify_artist_id": "4sLwF7pgFQDyXwiahxUWEl",
+    "official_site": null,
+    "description": "ヤン・スギョンの代表曲をまとめた公式のプレイリスト「This Is ヤン・スギョン」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "K-POP",
+      "海外アーティスト"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1201",
+    "name": "YUI",
+    "ruby": "ゆい",
+    "kana": "ユイ",
+    "romaji": [
+      "yui"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vk2TP",
+    "spotify_artist_id": "5WBO8UyOuJ1l7ZBqqBimpO",
+    "official_site": null,
+    "description": "YUIの代表曲をまとめた公式のプレイリスト「This Is YUI」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1202",
+    "name": "『ユイカ』",
+    "ruby": "ゆいか",
+    "kana": "ユイカ",
+    "romaji": [
+      "yuika"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1wsljs",
+    "spotify_artist_id": "2EqaSEa0WkE59Aca9iXSYj",
+    "official_site": null,
+    "description": "『ユイカ』の代表曲をまとめた公式のプレイリスト「This Is 『ユイカ』」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1206",
+    "name": "有華",
+    "ruby": "ゆうか",
+    "kana": "ユウカ",
+    "romaji": [
+      "yuuka"
+    ],
+    "aliases": [
+      "優香",
+      "有か"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ciL6w",
+    "spotify_artist_id": "762RAUTV6WKHmrHR7fsFbj",
+    "official_site": null,
+    "description": "有華の代表曲をまとめた公式のプレイリスト「This Is 有華」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1203",
+    "name": "由薫",
+    "ruby": "ゆうか",
+    "kana": "ユウカ",
+    "romaji": [
+      "yuuka"
+    ],
+    "aliases": [
+      "由董",
+      "ゆか",
+      "由かおる",
+      "由くん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Kije3",
+    "spotify_artist_id": "1mnAFQLFTaUbccNqvK5pqX",
+    "official_site": null,
+    "description": "由薫の代表曲をまとめた公式のプレイリスト「This Is 由薫」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1204",
+    "name": "遊助",
+    "ruby": "ゆうすけ",
+    "kana": "ユウスケ",
+    "romaji": [
+      "yuusuke"
+    ],
+    "aliases": [
+      "遊すけ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06V2Fp",
+    "spotify_artist_id": "0iWpuF3h43ZtZJxcUp8eti",
+    "official_site": null,
+    "description": "遊助の代表曲をまとめた公式のプレイリスト「This Is 遊助」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1205",
+    "name": "優里",
+    "ruby": "ゆうり",
+    "kana": "ユウリ",
+    "romaji": [
+      "yuuri"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06GanS",
+    "spotify_artist_id": "0ixzjrK1wkN2zWBXt3VW3W",
+    "official_site": null,
+    "description": "優里の代表曲をまとめた公式のプレイリスト「This Is 優里」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1207",
+    "name": "YUKI",
+    "ruby": "ゆき",
+    "kana": "ユキ",
+    "romaji": [
+      "yuki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Og7CM",
+    "spotify_artist_id": "380DW51qbu5pSP8crFRIII",
+    "official_site": null,
+    "description": "YUKIの代表曲をまとめた公式のプレイリスト「This Is YUKI」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
     ],
     "status": "published",
     "added_date": "2026-11-27",
