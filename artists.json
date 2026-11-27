@@ -1,125 +1,5 @@
 [
   {
-    "name": "山崎育三郎",
-    "ruby": "やまざきいくさぶろう",
-    "aliases": [
-      "山崎育三朗"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WJQuk",
-    "spotify_artist_id": "6Gb2Ypn3fY7iNn9aHQDu85",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "山崎まさよし",
-    "ruby": "やまざきまさよし",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Hi7bN",
-    "spotify_artist_id": "6gvedX0HcRQYMD5IhY8KKt",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "山猿",
-    "ruby": "やまざる",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO45XdAu",
-    "spotify_artist_id": "6VuxycWaTHHrz5ZP5sNSsd",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "山下久美子",
-    "ruby": "やましたくみこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49xwI8",
-    "spotify_artist_id": "71seUToXIp7TazEx9MijWt",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "山下智久",
-    "ruby": "やましたともひさ",
-    "aliases": [
-      "山P",
-      "やまぴー"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TmTXY",
-    "spotify_artist_id": "3guYSm9Rp77d1f2ZKt2ZZF",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "山根康広",
-    "ruby": "やまねやすひろ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vkbbX",
-    "spotify_artist_id": "5WCpsGhCTUrvKcoZupCVX4",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "山本コウタロー",
-    "ruby": "やまもとこうたろー",
-    "aliases": [
-"やまもとこうたろう"
-   ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4AipH6",
-    "spotify_artist_id": "7JVasNaZJwBV4wX962egvD",
-    "tags": [
-      "男性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "山本彩",
-    "ruby": "やまもとさやか",
-    "aliases": [
-      "さや姉"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oBn1e",
-    "spotify_artist_id": "0MkmM5Vy3gj9QX1JHiYCiK",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "山本潤子",
-    "ruby": "やまもとじゅんこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TqJkm",
-    "spotify_artist_id": "4VDIKCSNaayoLuJoU2Bucn",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "山本譲二",
-    "ruby": "やまもとじょうじ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d5uJu",
-    "spotify_artist_id": "28ews4HQeVcvsBmMZzjnGx",
-    "tags": [
-      "男性ソロ",
-      "演歌"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -26990,6 +26870,241 @@
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
     "color": "#fea42a"
+  },
+  {
+    "id": "artist-1188",
+    "name": "山崎育三郎",
+    "ruby": "やまざきいくさぶろう",
+    "kana": "ヤマザキイクサブロウ",
+    "romaji": [
+      "yamazakiikusaburou"
+    ],
+    "aliases": [
+      "山崎育三朗"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WJQuk",
+    "spotify_artist_id": "6Gb2Ypn3fY7iNn9aHQDu85",
+    "official_site": null,
+    "description": "山崎育三郎の代表曲をまとめた公式のプレイリスト「This Is 山崎育三郎」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1189",
+    "name": "山崎まさよし",
+    "ruby": "やまざきまさよし",
+    "kana": "ヤマザキマサヨシ",
+    "romaji": [
+      "yamazakimasayoshi",
+      "yamazakimasayosi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Hi7bN",
+    "spotify_artist_id": "6gvedX0HcRQYMD5IhY8KKt",
+    "official_site": null,
+    "description": "山崎まさよしの代表曲をまとめた公式のプレイリスト「This Is 山崎まさよし」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1190",
+    "name": "山猿",
+    "ruby": "やまざる",
+    "kana": "ヤマザル",
+    "romaji": [
+      "yamazaru"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO45XdAu",
+    "spotify_artist_id": "6VuxycWaTHHrz5ZP5sNSsd",
+    "official_site": null,
+    "description": "山猿の代表曲をまとめた公式のプレイリスト「This Is 山猿」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1191",
+    "name": "山下久美子",
+    "ruby": "やましたくみこ",
+    "kana": "ヤマシタクミコ",
+    "romaji": [
+      "yamashitakumiko",
+      "yamasitakumiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49xwI8",
+    "spotify_artist_id": "71seUToXIp7TazEx9MijWt",
+    "official_site": null,
+    "description": "山下久美子の代表曲をまとめた公式のプレイリスト「This Is 山下久美子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1192",
+    "name": "山下智久",
+    "ruby": "やましたともひさ",
+    "kana": "ヤマシタトモヒサ",
+    "romaji": [
+      "yamashitatomohisa",
+      "yamasitatomohisa"
+    ],
+    "aliases": [
+      "山P",
+      "やまぴー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TmTXY",
+    "spotify_artist_id": "3guYSm9Rp77d1f2ZKt2ZZF",
+    "official_site": null,
+    "description": "山下智久の代表曲をまとめた公式のプレイリスト「This Is 山下智久」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1193",
+    "name": "山根康広",
+    "ruby": "やまねやすひろ",
+    "kana": "ヤマネヤスヒロ",
+    "romaji": [
+      "yamaneyasuhiro"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vkbbX",
+    "spotify_artist_id": "5WCpsGhCTUrvKcoZupCVX4",
+    "official_site": null,
+    "description": "山根康広の代表曲をまとめた公式のプレイリスト「This Is 山根康広」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1194",
+    "name": "山本コウタロー",
+    "ruby": "やまもとこうたろー",
+    "kana": "ヤマモトコウタロー",
+    "romaji": [
+      "yamamotokoutaroo"
+    ],
+    "aliases": [
+      "やまもとこうたろう"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4AipH6",
+    "spotify_artist_id": "7JVasNaZJwBV4wX962egvD",
+    "official_site": null,
+    "description": "山本コウタローの代表曲をまとめた公式のプレイリスト「This Is 山本コウタロー」",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1195",
+    "name": "山本彩",
+    "ruby": "やまもとさやか",
+    "kana": "ヤマモトサヤカ",
+    "romaji": [
+      "yamamotosayaka"
+    ],
+    "aliases": [
+      "さや姉"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oBn1e",
+    "spotify_artist_id": "0MkmM5Vy3gj9QX1JHiYCiK",
+    "official_site": null,
+    "description": "山本彩の代表曲をまとめた公式のプレイリスト「This Is 山本彩」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1196",
+    "name": "山本潤子",
+    "ruby": "やまもとじゅんこ",
+    "kana": "ヤマモトジュンコ",
+    "romaji": [
+      "yamamotojunko",
+      "yamamotozyunko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TqJkm",
+    "spotify_artist_id": "4VDIKCSNaayoLuJoU2Bucn",
+    "official_site": null,
+    "description": "山本潤子の代表曲をまとめた公式のプレイリスト「This Is 山本潤子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1197",
+    "name": "山本譲二",
+    "ruby": "やまもとじょうじ",
+    "kana": "ヤマモトジョウジ",
+    "romaji": [
+      "yamamotojouji",
+      "yamamotozyouzi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d5uJu",
+    "spotify_artist_id": "28ews4HQeVcvsBmMZzjnGx",
+    "official_site": null,
+    "description": "山本譲二の代表曲をまとめた公式のプレイリスト「This Is 山本譲二」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
   },
   {
     "id": "artist-192",
