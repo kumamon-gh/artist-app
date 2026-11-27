@@ -1,122 +1,5 @@
 [
   {
-    "name": "柳ジョージ",
-    "ruby": "やなぎじょーじ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33Nrn6",
-    "spotify_artist_id": "5cRWBbkURZ0L2dgRBTqNov",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "柳ジョージ&レイニーウッド",
-    "ruby": "やなぎじょーじあんどれいにーうっど",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01lDB8",
-    "spotify_artist_id": "09GqOqO3ZSDW8fQcuhSioI",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-{
-    "name": "やなわらばー",
-    "ruby": "やなわらばー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bTKgN",
-    "spotify_artist_id": "26fgUj6cT6YrmPCc4Ey3e3",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "矢野顕子",
-    "ruby": "やのあきこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tiNRW",
-    "spotify_artist_id": "4edePQHgbrc5h00ChgnQns",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ヤバイTシャツ屋さん",
-    "ruby": "やばいてぃーしゃつやさん",
-    "aliases": [
-      "ヤバT",
-      "ヤバティー"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO29d6S9",
-    "spotify_artist_id": "3GP0RQRnBvpYVgdVYfcaGS",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "yama",
-    "ruby": "やま",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lbP7a",
-    "spotify_artist_id": "7kOrrFIBIBc8uCu2zbxbLv",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "山内惠介",
-    "ruby": "やまうちけいすけ",
-    "aliases": [
-      "山内恵介"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2KHDj8",
-    "spotify_artist_id": "4H8buAWHHeaK1J8cMWlrxf",
-    "tags": [
-      "男性ソロ",
-      "演歌"
-    ]
-  },
-{
-    "name": "山川豊",
-    "ruby": "やまかわゆたか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K5nSi",
-    "spotify_artist_id": "6l94OyaiWbL0yn0qmrdDr8",
-    "tags": [
-      "男性ソロ",
-      "演歌"
-    ]
-  },
-{
-    "name": "山口百恵",
-    "ruby": "やまぐちももえ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f4ogM",
-    "spotify_artist_id": "3QyXESPMLvue8SWNSnBwPp",
-    "tags": [
-      "女性ソロ",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "山口由子",
-    "ruby": "やまぐちゆうこ",
-    "aliases": [
-      "やまぐちよしこ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO442K2z",
-    "spotify_artist_id": "6SjSGCbDlMvDM298tp6onI",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -26742,6 +26625,240 @@
     "spotify_artist_id": "0W2BSNBblzlWTk4bD2A9uR",
     "official_site": null,
     "description": "泰葉の代表曲をまとめた公式のプレイリスト「This Is 泰葉」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1178",
+    "name": "柳ジョージ",
+    "ruby": "やなぎじょーじ",
+    "kana": "ヤナギジョージ",
+    "romaji": [
+      "yanagijooji",
+      "yanagizyoozi"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33Nrn6",
+    "spotify_artist_id": "5cRWBbkURZ0L2dgRBTqNov",
+    "official_site": null,
+    "description": "柳ジョージの代表曲をまとめた公式のプレイリスト「This Is 柳ジョージ」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1179",
+    "name": "柳ジョージ&レイニーウッド",
+    "ruby": "やなぎじょーじあんどれいにーうっど",
+    "kana": "ヤナギジョージアンドレイニーウッド",
+    "romaji": [
+      "yanagijoojiandoreiniiuddo",
+      "yanagizyooziandoreiniiuddo",
+      "and"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO01lDB8",
+    "spotify_artist_id": "09GqOqO3ZSDW8fQcuhSioI",
+    "official_site": null,
+    "description": "柳ジョージ&レイニーウッドの代表曲をまとめた公式のプレイリスト「This Is 柳ジョージ&レイニーウッド」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1180",
+    "name": "やなわらばー",
+    "ruby": "やなわらばー",
+    "kana": "ヤナワラバー",
+    "romaji": [
+      "yanawarabaa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bTKgN",
+    "spotify_artist_id": "26fgUj6cT6YrmPCc4Ey3e3",
+    "official_site": null,
+    "description": "やなわらばーの代表曲をまとめた公式のプレイリスト「This Is やなわらばー」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1181",
+    "name": "矢野顕子",
+    "ruby": "やのあきこ",
+    "kana": "ヤノアキコ",
+    "romaji": [
+      "yanoakiko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tiNRW",
+    "spotify_artist_id": "4edePQHgbrc5h00ChgnQns",
+    "official_site": null,
+    "description": "矢野顕子の代表曲をまとめた公式のプレイリスト「This Is 矢野顕子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1182",
+    "name": "ヤバイTシャツ屋さん",
+    "ruby": "やばいてぃーしゃつやさん",
+    "kana": "ヤバイティーシャツヤサン",
+    "romaji": [
+      "yabaitiishatsuyasan",
+      "yabaitiisyatuyasan"
+    ],
+    "aliases": [
+      "ヤバT",
+      "ヤバティー"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO29d6S9",
+    "spotify_artist_id": "3GP0RQRnBvpYVgdVYfcaGS",
+    "official_site": null,
+    "description": "ヤバイTシャツ屋さんの代表曲をまとめた公式のプレイリスト「This Is ヤバイTシャツ屋さん」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1183",
+    "name": "yama",
+    "ruby": "やま",
+    "kana": "ヤマ",
+    "romaji": [
+      "yama"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lbP7a",
+    "spotify_artist_id": "7kOrrFIBIBc8uCu2zbxbLv",
+    "official_site": null,
+    "description": "yamaの代表曲をまとめた公式のプレイリスト「This Is yama」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1184",
+    "name": "山内惠介",
+    "ruby": "やまうちけいすけ",
+    "kana": "ヤマウチケイスケ",
+    "romaji": [
+      "yamauchikeisuke",
+      "yamautikeisuke"
+    ],
+    "aliases": [
+      "山内恵介"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2KHDj8",
+    "spotify_artist_id": "4H8buAWHHeaK1J8cMWlrxf",
+    "official_site": null,
+    "description": "山内惠介の代表曲をまとめた公式のプレイリスト「This Is 山内惠介」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1185",
+    "name": "山川豊",
+    "ruby": "やまかわゆたか",
+    "kana": "ヤマカワユタカ",
+    "romaji": [
+      "yamakawayutaka"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K5nSi",
+    "spotify_artist_id": "6l94OyaiWbL0yn0qmrdDr8",
+    "official_site": null,
+    "description": "山川豊の代表曲をまとめた公式のプレイリスト「This Is 山川豊」",
+    "tags": [
+      "男性ソロ",
+      "演歌"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1186",
+    "name": "山口百恵",
+    "ruby": "やまぐちももえ",
+    "kana": "ヤマグチモモエ",
+    "romaji": [
+      "yamaguchimomoe",
+      "yamagutimomoe"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f4ogM",
+    "spotify_artist_id": "3QyXESPMLvue8SWNSnBwPp",
+    "official_site": null,
+    "description": "山口百恵の代表曲をまとめた公式のプレイリスト「This Is 山口百恵」",
+    "tags": [
+      "女性ソロ",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1187",
+    "name": "山口由子",
+    "ruby": "やまぐちゆうこ",
+    "kana": "ヤマグチユウコ",
+    "romaji": [
+      "yamaguchiyuuko",
+      "yamagutiyuuko"
+    ],
+    "aliases": [
+      "やまぐちよしこ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO442K2z",
+    "spotify_artist_id": "6SjSGCbDlMvDM298tp6onI",
+    "official_site": null,
+    "description": "山口由子の代表曲をまとめた公式のプレイリスト「This Is 山口由子」",
     "tags": [
       "女性ソロ",
       "J-POP"
