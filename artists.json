@@ -1,5 +1,115 @@
 [
   {
+    "name": "矢井田瞳",
+    "ruby": "やいだひとみ",
+    "aliases": [
+      "ヤイコ",
+      "yaiko"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UpT3H",
+    "spotify_artist_id": "4Xho9HlopbIH2VpxfDkVXn",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "野猿",
+    "ruby": "やえん",
+    "aliases": [
+      "のざる"
+       ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PnpWU",
+    "spotify_artist_id": "39RDuZkEsOJBhWag2sfh6B",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "八神純子",
+    "ruby": "やがみじゅんこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3M2Aww",
+    "spotify_artist_id": "6ooFYQBSq3sFEipwHfw5gr",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "薬師丸ひろ子",
+    "ruby": "やくしまるひろこ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO12HeSq",
+    "spotify_artist_id": "1QXFMGfCga8qSyUtVmjXrE",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "夜光性アミューズ",
+    "ruby": "やこうせいあみゅーず",
+    "aliases": [
+      "よるあみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Sgxk",
+    "spotify_artist_id": "0iRD2CU2dIFxQSuNsayWj4",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "やしきたかじん",
+    "ruby": "やしきたかじん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Bk2MQ",
+    "spotify_artist_id": "4rxFpYyTzH7n7GHIEgsbrd",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "八代亜紀",
+    "ruby": "やしろあき",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3drxei",
+    "spotify_artist_id": "5sTHmuw3Y849jP69itJe8D",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "歌謡曲"
+    ]
+  },
+  {
+    "name": "安田レイ",
+    "ruby": "やすだれい",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EPO1i",
+    "spotify_artist_id": "1diX6i4LgUKR9qMRrAeGLi",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "泰葉",
+    "ruby": "やすは",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urNtL",
+    "spotify_artist_id": "0W2BSNBblzlWTk4bD2A9uR",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -26417,51 +26527,6 @@
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
     "color": "#16d1a6"
-  },
-  {
-    "id": "artist-189",
-    "name": "やテスト",
-    "ruby": "やテスト",
-    "aliases": [],
-    "url": "",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "やテストの代表曲をまとめた公式のプレイリスト「This Is やテスト」",
-    "tags": [],
-    "status": "published",
-    "added_date": "2026-10-18",
-    "updated_date": "2026-10-18",
-    "color": ""
-  },
-  {
-    "id": "artist-190",
-    "name": "ゆテスト",
-    "ruby": "ゆテスト",
-    "aliases": [],
-    "url": "",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "ゆテストの代表曲をまとめた公式のプレイリスト「This Is ゆテスト」",
-    "tags": [],
-    "status": "published",
-    "added_date": "2026-10-18",
-    "updated_date": "2026-10-18",
-    "color": ""
-  },
-  {
-    "id": "artist-191",
-    "name": "よテスト",
-    "ruby": "よテスト",
-    "aliases": [],
-    "url": "",
-    "spotify_artist_id": null,
-    "official_site": null,
-    "description": "よテストの代表曲をまとめた公式のプレイリスト「This Is よテスト」",
-    "tags": [],
-    "status": "published",
-    "added_date": "2026-10-18",
-    "updated_date": "2026-10-18",
-    "color": ""
   },
   {
     "id": "artist-192",
