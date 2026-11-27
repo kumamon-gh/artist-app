@@ -1,115 +1,5 @@
 [
   {
-    "name": "矢井田瞳",
-    "ruby": "やいだひとみ",
-    "aliases": [
-      "ヤイコ",
-      "yaiko"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UpT3H",
-    "spotify_artist_id": "4Xho9HlopbIH2VpxfDkVXn",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "野猿",
-    "ruby": "やえん",
-    "aliases": [
-      "のざる"
-       ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PnpWU",
-    "spotify_artist_id": "39RDuZkEsOJBhWag2sfh6B",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "八神純子",
-    "ruby": "やがみじゅんこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3M2Aww",
-    "spotify_artist_id": "6ooFYQBSq3sFEipwHfw5gr",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-{
-    "name": "薬師丸ひろ子",
-    "ruby": "やくしまるひろこ",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO12HeSq",
-    "spotify_artist_id": "1QXFMGfCga8qSyUtVmjXrE",
-    "tags": [
-      "女性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "夜光性アミューズ",
-    "ruby": "やこうせいあみゅーず",
-    "aliases": [
-      "よるあみ"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Sgxk",
-    "spotify_artist_id": "0iRD2CU2dIFxQSuNsayWj4",
-    "tags": [
-      "女性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "やしきたかじん",
-    "ruby": "やしきたかじん",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Bk2MQ",
-    "spotify_artist_id": "4rxFpYyTzH7n7GHIEgsbrd",
-    "tags": [
-      "男性ソロ",
-      "J-POP",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "八代亜紀",
-    "ruby": "やしろあき",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3drxei",
-    "spotify_artist_id": "5sTHmuw3Y849jP69itJe8D",
-    "tags": [
-      "女性ソロ",
-      "演歌",
-      "歌謡曲"
-    ]
-  },
-  {
-    "name": "安田レイ",
-    "ruby": "やすだれい",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EPO1i",
-    "spotify_artist_id": "1diX6i4LgUKR9qMRrAeGLi",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "泰葉",
-    "ruby": "やすは",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urNtL",
-    "spotify_artist_id": "0W2BSNBblzlWTk4bD2A9uR",
-    "tags": [
-      "女性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -26527,6 +26417,219 @@
     "added_date": "2026-11-27",
     "updated_date": "2026-11-27",
     "color": "#16d1a6"
+  },
+  {
+    "id": "artist-1169",
+    "name": "矢井田瞳",
+    "ruby": "やいだひとみ",
+    "kana": "ヤイダヒトミ",
+    "romaji": [
+      "yaidahitomi"
+    ],
+    "aliases": [
+      "ヤイコ",
+      "yaiko"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UpT3H",
+    "spotify_artist_id": "4Xho9HlopbIH2VpxfDkVXn",
+    "official_site": null,
+    "description": "矢井田瞳の代表曲をまとめた公式のプレイリスト「This Is 矢井田瞳」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1170",
+    "name": "野猿",
+    "ruby": "やえん",
+    "kana": "ヤエン",
+    "romaji": [
+      "yaen"
+    ],
+    "aliases": [
+      "のざる"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PnpWU",
+    "spotify_artist_id": "39RDuZkEsOJBhWag2sfh6B",
+    "official_site": null,
+    "description": "野猿の代表曲をまとめた公式のプレイリスト「This Is 野猿」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1171",
+    "name": "八神純子",
+    "ruby": "やがみじゅんこ",
+    "kana": "ヤガミジュンコ",
+    "romaji": [
+      "yagamijunko",
+      "yagamizyunko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3M2Aww",
+    "spotify_artist_id": "6ooFYQBSq3sFEipwHfw5gr",
+    "official_site": null,
+    "description": "八神純子の代表曲をまとめた公式のプレイリスト「This Is 八神純子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1172",
+    "name": "薬師丸ひろ子",
+    "ruby": "やくしまるひろこ",
+    "kana": "ヤクシマルヒロコ",
+    "romaji": [
+      "yakushimaruhiroko",
+      "yakusimaruhiroko"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO12HeSq",
+    "spotify_artist_id": "1QXFMGfCga8qSyUtVmjXrE",
+    "official_site": null,
+    "description": "薬師丸ひろ子の代表曲をまとめた公式のプレイリスト「This Is 薬師丸ひろ子」",
+    "tags": [
+      "女性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1173",
+    "name": "夜光性アミューズ",
+    "ruby": "やこうせいあみゅーず",
+    "kana": "ヤコウセイアミューズ",
+    "romaji": [
+      "yakouseiamyuuzu"
+    ],
+    "aliases": [
+      "よるあみ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Sgxk",
+    "spotify_artist_id": "0iRD2CU2dIFxQSuNsayWj4",
+    "official_site": null,
+    "description": "夜光性アミューズの代表曲をまとめた公式のプレイリスト「This Is 夜光性アミューズ」",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1174",
+    "name": "やしきたかじん",
+    "ruby": "やしきたかじん",
+    "kana": "ヤシキタカジン",
+    "romaji": [
+      "yashikitakajin",
+      "yasikitakazin"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Bk2MQ",
+    "spotify_artist_id": "4rxFpYyTzH7n7GHIEgsbrd",
+    "official_site": null,
+    "description": "やしきたかじんの代表曲をまとめた公式のプレイリスト「This Is やしきたかじん」",
+    "tags": [
+      "男性ソロ",
+      "J-POP",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1175",
+    "name": "八代亜紀",
+    "ruby": "やしろあき",
+    "kana": "ヤシロアキ",
+    "romaji": [
+      "yashiroaki",
+      "yasiroaki"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3drxei",
+    "spotify_artist_id": "5sTHmuw3Y849jP69itJe8D",
+    "official_site": null,
+    "description": "八代亜紀の代表曲をまとめた公式のプレイリスト「This Is 八代亜紀」",
+    "tags": [
+      "女性ソロ",
+      "演歌",
+      "歌謡曲"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1176",
+    "name": "安田レイ",
+    "ruby": "やすだれい",
+    "kana": "ヤスダレイ",
+    "romaji": [
+      "yasudarei"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EPO1i",
+    "spotify_artist_id": "1diX6i4LgUKR9qMRrAeGLi",
+    "official_site": null,
+    "description": "安田レイの代表曲をまとめた公式のプレイリスト「This Is 安田レイ」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
+  },
+  {
+    "id": "artist-1177",
+    "name": "泰葉",
+    "ruby": "やすは",
+    "kana": "ヤスハ",
+    "romaji": [
+      "yasuha"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urNtL",
+    "spotify_artist_id": "0W2BSNBblzlWTk4bD2A9uR",
+    "official_site": null,
+    "description": "泰葉の代表曲をまとめた公式のプレイリスト「This Is 泰葉」",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-27",
+    "updated_date": "2026-11-27",
+    "color": ""
   },
   {
     "id": "artist-192",
