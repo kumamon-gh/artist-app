@@ -12812,7 +12812,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-582",
@@ -13444,7 +13444,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-609",
@@ -19490,6 +19490,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI": "#8abbf8"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI": "米津玄師"
     },
@@ -19503,7 +19506,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#ff7163"
   },
   {
     "id": "artist-867",
@@ -26679,7 +26682,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1174",
@@ -27861,6 +27864,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MGsCc"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MGsCc": "#ff7163"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MGsCc": "ボカロP：ハチ"
     },
@@ -27874,7 +27880,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#8abbf8"
   },
   {
     "id": "artist-1226",
@@ -27897,7 +27903,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-192",
