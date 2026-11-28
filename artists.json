@@ -10559,6 +10559,12 @@
       "横浜銀はえ"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fUAUN",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pf99T"
+    ],
+"extra_labels": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pf99T": "横浜銀蝿40th"
+    },
     "spotify_artist_id": "7c2STLKbGX3XANvXzCwgRG",
     "official_site": null,
     "description": "T.C.R横浜銀蝿R.S.の代表曲をまとめた公式のプレイリスト「This Is T.C.R横浜銀蝿R.S.」",
@@ -27566,6 +27572,12 @@
       "横浜銀はえ"
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pf99T",
+    "extra_urls": [
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fUAUN"
+    ],
+"extra_labels": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fUAUN": "T.C.R横浜銀蝿R.S."
+    },
     "spotify_artist_id": "4OGxj2FyUA22gOr36Zwz67",
     "official_site": null,
     "description": "横浜銀蝿40thの代表曲をまとめた公式のプレイリスト「This Is 横浜銀蝿40th」",
