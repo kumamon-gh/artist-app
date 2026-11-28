@@ -19490,7 +19490,7 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI"
     ],
-"extra_labels": {
+    "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI": "米津玄師"
     },
     "spotify_artist_id": "6ptdMFoqgQZRoccAYK9Opd",
@@ -27861,9 +27861,6 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MGsCc"
     ],
-"extra_labels": {
-      "37i9dQZF1DZ06evO3MGsCc": "ボカロP：ハチ"
-    },
     "spotify_artist_id": "1snhtMLeb2DYoMOcVbb8iB",
     "official_site": null,
     "description": "米津玄師の代表曲をまとめた公式のプレイリスト「This Is 米津玄師」",
