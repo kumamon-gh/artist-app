@@ -1,5 +1,81 @@
 [
   {
+    "name": "米津玄師",
+    "ruby": "よねづけんし",
+    "aliases": [
+      "ハチ",
+      "よねずけんし"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI",
+    "spotify_artist_id": "1snhtMLeb2DYoMOcVbb8iB",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ハチ",
+    "ruby": "はち",
+    "aliases": [
+      "米津玄師",
+"よねづけんし"
+      "よねずけんし"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MGsCc",
+    "spotify_artist_id": "6ptdMFoqgQZRoccAYK9Opd",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ヨルシカ",
+    "ruby": "よるしか",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2STqX0",
+    "spotify_artist_id": "4UK2Lzi6fBfUi9rpDt6cik",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "城田優",
+    "ruby": "しろたゆう",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03753Z",
+    "spotify_artist_id": "0cC7uvRTE97iSy255EgJLf",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "スチャダラパー",
+    "ruby": "すちゃだらぱー",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mJ29A",
+    "spotify_artist_id": "43hK0a9mmIS2ROhc0ukG7X",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "矢沢永吉",
+    "ruby": "やざわえいきち",
+    "aliases": [
+"永ちゃん",
+"えいちゃん"
+],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NEr9F",
+    "spotify_artist_id": "6r4KqrquvtAy0fcJUU2VGB",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
