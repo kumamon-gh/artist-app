@@ -1,81 +1,5 @@
 [
   {
-    "name": "米津玄師",
-    "ruby": "よねづけんし",
-    "aliases": [
-      "ハチ",
-      "よねずけんし"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI",
-    "spotify_artist_id": "1snhtMLeb2DYoMOcVbb8iB",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ハチ",
-    "ruby": "はち",
-    "aliases": [
-      "米津玄師",
-"よねづけんし",
-      "よねずけんし"
-    ],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MGsCc",
-    "spotify_artist_id": "6ptdMFoqgQZRoccAYK9Opd",
-    "tags": [
-      "ボカロP",
-      "J-POP"
-    ]
-  },
-{
-    "name": "ヨルシカ",
-    "ruby": "よるしか",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2STqX0",
-    "spotify_artist_id": "4UK2Lzi6fBfUi9rpDt6cik",
-    "tags": [
-      "バンド",
-      "J-POP"
-    ]
-  },
-  {
-    "name": "城田優",
-    "ruby": "しろたゆう",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03753Z",
-    "spotify_artist_id": "0cC7uvRTE97iSy255EgJLf",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "スチャダラパー",
-    "ruby": "すちゃだらぱー",
-    "aliases": [],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mJ29A",
-    "spotify_artist_id": "43hK0a9mmIS2ROhc0ukG7X",
-    "tags": [
-      "男性グループ",
-      "J-POP"
-    ]
-  },
-{
-    "name": "矢沢永吉",
-    "ruby": "やざわえいきち",
-    "aliases": [
-"永ちゃん",
-"えいちゃん"
-],
-    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NEr9F",
-    "spotify_artist_id": "6r4KqrquvtAy0fcJUU2VGB",
-    "tags": [
-      "男性ソロ",
-      "J-POP"
-    ]
-  },
-  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
@@ -12868,6 +12792,29 @@
     "color": "#fda42a"
   },
   {
+    "id": "artist-1227",
+    "name": "城田優",
+    "ruby": "しろたゆう",
+    "kana": "シロタユウ",
+    "romaji": [
+      "shirotayuu",
+      "sirotayuu"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO03753Z",
+    "spotify_artist_id": "0cC7uvRTE97iSy255EgJLf",
+    "official_site": null,
+    "description": "城田優の代表曲をまとめた公式のプレイリスト「This Is 城田優」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-28",
+    "updated_date": "2026-11-28",
+    "color": ""
+  },
+  {
     "id": "artist-582",
     "name": "じん",
     "ruby": "じん",
@@ -13475,6 +13422,29 @@
     "added_date": "2026-11-08",
     "updated_date": "2026-11-08",
     "color": "#ffc863"
+  },
+  {
+    "id": "artist-1228",
+    "name": "スチャダラパー",
+    "ruby": "すちゃだらぱー",
+    "kana": "スチャダラパー",
+    "romaji": [
+      "suchadarapaa",
+      "sutyadarapaa"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mJ29A",
+    "spotify_artist_id": "43hK0a9mmIS2ROhc0ukG7X",
+    "official_site": null,
+    "description": "スチャダラパーの代表曲をまとめた公式のプレイリスト「This Is スチャダラパー」",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-28",
+    "updated_date": "2026-11-28",
+    "color": ""
   },
   {
     "id": "artist-609",
@@ -19501,6 +19471,33 @@
     "added_date": "2026-11-18",
     "updated_date": "2026-11-18",
     "color": "#fea42a"
+  },
+  {
+    "id": "artist-1225",
+    "name": "ハチ",
+    "ruby": "はち",
+    "kana": "ハチ",
+    "romaji": [
+      "hachi",
+      "hati"
+    ],
+    "aliases": [
+      "米津玄師",
+      "よねづけんし",
+      "よねずけんし"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MGsCc",
+    "spotify_artist_id": "6ptdMFoqgQZRoccAYK9Opd",
+    "official_site": null,
+    "description": "ハチの代表曲をまとめた公式のプレイリスト「This Is ハチ」",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-28",
+    "updated_date": "2026-11-28",
+    "color": ""
   },
   {
     "id": "artist-867",
@@ -26653,6 +26650,32 @@
     "color": "#fec863"
   },
   {
+    "id": "artist-1229",
+    "name": "矢沢永吉",
+    "ruby": "やざわえいきち",
+    "kana": "ヤザワエイキチ",
+    "romaji": [
+      "yazawaeikichi",
+      "yazawaeikiti"
+    ],
+    "aliases": [
+      "永ちゃん",
+      "えいちゃん"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NEr9F",
+    "spotify_artist_id": "6r4KqrquvtAy0fcJUU2VGB",
+    "official_site": null,
+    "description": "矢沢永吉の代表曲をまとめた公式のプレイリスト「This Is 矢沢永吉」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-28",
+    "updated_date": "2026-11-28",
+    "color": ""
+  },
+  {
     "id": "artist-1174",
     "name": "やしきたかじん",
     "ruby": "やしきたかじん",
@@ -27814,6 +27837,55 @@
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
     "color": "#fea42a"
+  },
+  {
+    "id": "artist-1224",
+    "name": "米津玄師",
+    "ruby": "よねづけんし",
+    "kana": "ヨネヅケンシ",
+    "romaji": [
+      "yonezukenshi",
+      "yonezukensi"
+    ],
+    "aliases": [
+      "ハチ",
+      "よねずけんし"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI",
+    "spotify_artist_id": "1snhtMLeb2DYoMOcVbb8iB",
+    "official_site": null,
+    "description": "米津玄師の代表曲をまとめた公式のプレイリスト「This Is 米津玄師」",
+    "tags": [
+      "男性ソロ",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-28",
+    "updated_date": "2026-11-28",
+    "color": ""
+  },
+  {
+    "id": "artist-1226",
+    "name": "ヨルシカ",
+    "ruby": "よるしか",
+    "kana": "ヨルシカ",
+    "romaji": [
+      "yorushika",
+      "yorusika"
+    ],
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2STqX0",
+    "spotify_artist_id": "4UK2Lzi6fBfUi9rpDt6cik",
+    "official_site": null,
+    "description": "ヨルシカの代表曲をまとめた公式のプレイリスト「This Is ヨルシカ」",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ],
+    "status": "published",
+    "added_date": "2026-11-28",
+    "updated_date": "2026-11-28",
+    "color": ""
   },
   {
     "id": "artist-192",
