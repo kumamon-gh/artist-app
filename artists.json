@@ -1,5 +1,128 @@
 [
   {
+    "name": "ゆこぴ",
+    "ruby": "ゆこぴ",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GPNKP",
+    "spotify_artist_id": "2VFuqA3nVl2UqhhthXNF3K",
+    "tags": [
+      "ボカロP",
+      "J-POP"
+    ]
+  },
+{
+    "name": "遊佐未森",
+    "ruby": "ゆさみもり",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tsdIM",
+    "spotify_artist_id": "4etjqr2lWcFxDU3NVFBn9c",
+    "tags": [
+      "女性ソロ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ゆず",
+    "ruby": "ゆず",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lMFVh",
+    "spotify_artist_id": "7lNFzeAXmSIKexINNgO6bu",
+    "tags": [
+      "男性グループ",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "ユニコーン",
+    "ruby": "ゆにこーん",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gD4GV",
+    "spotify_artist_id": "0z4FY376uhecutd5Adph8s",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+{
+    "name": "UNISON SQUARE GARDEN",
+    "ruby": "ゆにぞんすくえあがーでん",
+    "aliases": [
+      "USG"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nfssg",
+    "spotify_artist_id": "449AEgfeOxqAuRn0uX6l3u",
+    "tags": [
+      "バンド",
+      "J-POP"
+    ]
+  },
+  {
+    "name": "夢みるアドレセンス",
+    "ruby": "ゆめみるあどれせんす",
+    "aliases": [
+      "夢アド",
+      "ゆめアド"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bXOdi",
+    "spotify_artist_id": "75tFVzJkjQFglSQCCIZgQD",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "ゆるめるモ!",
+    "ruby": "ゆるめるも",
+    "aliases": [
+      "モ!"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1EBUlK",
+    "spotify_artist_id": "2RYhvVLCIStmQSNVcQ987i",
+    "tags": [
+      "女性グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "YOASOBI",
+    "ruby": "よあそび",
+    "aliases": [],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3A3jkk",
+    "spotify_artist_id": "64tJ2EAv1R6UaZqc4iOCyj",
+    "tags": [
+      "男女混成グループ",
+      "J-POP"
+    ]
+  },
+{
+    "name": "T.C.R横浜銀蝿R.S.",
+    "ruby": "ざくれいじーらいだーよこはまぎんばえろーりんぐすぺしゃる",
+    "aliases": [
+      "横浜銀はえ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fUAUN",
+    "spotify_artist_id": "7c2STLKbGX3XANvXzCwgRG",
+    "tags": [
+      "バンド",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+{
+    "name": "横浜銀蝿40th",
+    "ruby": "よこはまぎんばえふぉーてぃーす",
+    "aliases": [
+      "横浜銀はえ"
+    ],
+    "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pf99T",
+    "spotify_artist_id": "4OGxj2FyUA22gOr36Zwz67",
+    "tags": [
+      "バンド",
+      "J-POP",
+      "歌謡曲"
+    ]
+  },
+  {
     "id": "artist-1",
     "name": "AI",
     "ruby": "あい",
