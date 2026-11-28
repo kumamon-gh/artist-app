@@ -10563,6 +10563,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pf99T"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pf99T": "#fde64f"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pf99T": "横浜銀蝿40th"
     },
@@ -10577,7 +10580,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-488",
@@ -27396,7 +27399,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-1209",
@@ -27418,7 +27421,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1210",
@@ -27440,7 +27443,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#f036a5"
   },
   {
     "id": "artist-1211",
@@ -27462,7 +27465,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#95c90d"
   },
   {
     "id": "artist-1212",
@@ -27486,7 +27489,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-1213",
@@ -27511,7 +27514,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#fde54f"
   },
   {
     "id": "artist-1214",
@@ -27535,7 +27538,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#e5ac89"
   },
   {
     "id": "artist-1215",
@@ -27557,7 +27560,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#f79bd1"
   },
   {
     "id": "artist-1217",
@@ -27577,6 +27580,9 @@
     "extra_urls": [
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fUAUN"
     ],
+    "extra_colors": {
+      "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fUAUN": "#f036a5"
+    },
     "extra_labels": {
       "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fUAUN": "T.C.R横浜銀蝿R.S."
     },
@@ -27591,7 +27597,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#fde64f"
   },
   {
     "id": "artist-1218",
@@ -27615,7 +27621,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#fe7163"
   },
   {
     "id": "artist-1219",
@@ -27638,7 +27644,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1220",
@@ -27661,7 +27667,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-1221",
@@ -27685,7 +27691,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#f47e00"
   },
   {
     "id": "artist-1222",
@@ -27708,7 +27714,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#e4ac89"
   },
   {
     "id": "artist-1223",
@@ -27731,7 +27737,7 @@
     "status": "published",
     "added_date": "2026-11-28",
     "updated_date": "2026-11-28",
-    "color": ""
+    "color": "#fea42a"
   },
   {
     "id": "artist-192",
